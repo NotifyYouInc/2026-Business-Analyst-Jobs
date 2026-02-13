@@ -1,16 +1,16 @@
-# Business Intelligence (BI) Analyst at Delivery Hero
+# Product Analyst, Fraud at Persona
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Athens, Attica, Greece |
+| Company | [Persona](https://scoutify.ai/companies/persona?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Business Analyst |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000107479830-business-intelligence-bi-analyst) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/persona/b8f61185-b945-4307-807b-7f42617c5963) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-02-05.
+This business analyst position at Persona was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

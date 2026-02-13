@@ -1,16 +1,16 @@
-# Business Intelligence (BI) Analyst at Delivery Hero
+# Business Intelligence Analyst III at Guardian Life
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Athens, Attica, Greece |
+| Company | [Guardian Life](https://scoutify.ai/companies/guardianlife?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 2 locations |
 | Category | Business Analyst |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000107479830-business-intelligence-bi-analyst) |
+| Apply | [View on company site](https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/Bethlehem/Business-Intelligence-Analyst-III_R000108482) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-02-05.
+This business analyst position at Guardian Life was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

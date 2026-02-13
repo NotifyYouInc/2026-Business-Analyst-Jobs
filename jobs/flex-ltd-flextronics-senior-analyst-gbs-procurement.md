@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Senior-Analyst---GBS-Procurement_WD214618) |
+| Posted | 2026-02-04 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Pune/Senior-Analyst---GBS-Procurement_WD214623) |
 
 ## About This Role
 
-This operations position at FLEX LTD. Flextronics was posted on 2026-02-03.
+This operations position at FLEX LTD. Flextronics was posted on 2026-02-04.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business System Analyst (SCM System) at Woongjin
+# Senior Analyst - Business Insights & Analytics at Zscaler
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Jersey, US |
+| Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | India |
 | Category | Business Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000107112255-business-system-analyst-scm-system) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/4964552007) |
 
 ## About This Role
 
-This business analyst position at Woongjin was posted on 2026-02-03.
+This business analyst position at Zscaler was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business System Analyst (SCM System) at Woongjin
+# Senior Data Analyst at Equifax
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Jersey, US |
+| Company | [Equifax](https://scoutify.ai/companies/equifax?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Business Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000107112255-business-system-analyst-scm-system) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://equifax.wd5.myworkdayjobs.com/External/job/AUS---Melbourne/Senior-Data-Analyst_J00174014) |
 
 ## About This Role
 
-This business analyst position at Woongjin was posted on 2026-02-03.
+This business analyst position at Equifax was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

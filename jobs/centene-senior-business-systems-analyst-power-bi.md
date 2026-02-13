@@ -1,16 +1,16 @@
-# Business Intelligence (BI) Analyst at Delivery Hero
+# Senior Business Systems Analyst - Power BI at Centene
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Athens, Attica, Greece |
+| Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Florida, US |
 | Category | Business Analyst |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000107479830-business-intelligence-bi-analyst) |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MI/Senior-Business-Systems-Analyst---Power-BI_1629945) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-02-05.
+This business analyst position at Centene was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

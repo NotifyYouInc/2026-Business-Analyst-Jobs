@@ -1,16 +1,16 @@
-# Business Intelligence (BI) Analyst at Delivery Hero
+# Early Careers - Associate Business Analyst Intern at HCSC
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Athens, Attica, Greece |
+| Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000107479830-business-intelligence-bi-analyst) |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Associate-Business-Analyst-Intern_R0053225) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-02-05.
+This business analyst position at HCSC was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

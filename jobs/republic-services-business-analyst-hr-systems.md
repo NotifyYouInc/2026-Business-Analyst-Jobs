@@ -1,16 +1,16 @@
-# Business Intelligence (BI) Analyst at Delivery Hero
+# Business Analyst - HR Systems at Republic Services
 
 | Field | Details |
 |-------|---------|
-| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Athens, Attica, Greece |
+| Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | United States |
 | Category | Business Analyst |
 | Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000107479830-business-intelligence-bi-analyst) |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/USA---Remote/Business-Analyst---HR-Systems_R-168526-1) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-02-05.
+This business analyst position at Republic Services was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

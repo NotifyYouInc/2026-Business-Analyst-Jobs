@@ -1,16 +1,16 @@
-# Business System Analyst (SCM System) at Woongjin
+# Technology Business Analyst at NatWest Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Jersey, US |
+| Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000107112255-business-system-analyst-scm-system) |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Chennai/Technology-Business-Analyst_R-00272655-1) |
 
 ## About This Role
 
-This business analyst position at Woongjin was posted on 2026-02-03.
+This business analyst position at NatWest Group was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
