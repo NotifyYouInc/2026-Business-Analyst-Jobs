@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000107314597-business-analyst-front-office-taux-non-lineaires-hf) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000107473770-business-analyst-front-office-taux-non-lineaires-hf) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-02-04.
+This business analyst position at Talan was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Prague, Prague, Czechia |
 | Category | Business Analyst |
 | Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011509776-business-data-analyst-czechslovakia) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011514176-business-data-analyst-czechslovakia) |
 
 ## About This Role
 

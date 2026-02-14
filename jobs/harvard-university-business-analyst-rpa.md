@@ -6,7 +6,7 @@
 | Location | Cambridge, Massachusetts, United States |
 | Category | Business Analyst |
 | Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990011508186-business-analyst-rpa) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990011524236-business-analyst-rpa) |
 
 ## About This Role
 

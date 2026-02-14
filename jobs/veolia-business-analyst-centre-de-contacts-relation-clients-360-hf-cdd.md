@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Aubervilliers, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000107115395-business-analyst-centre-de-contacts-relation-clients-360-hf-cdd) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000107585797-business-analyst-centre-de-contacts-relation-clients-360-hf-cdd) |
 
 ## About This Role
 
-This business analyst position at Veolia was posted on 2026-02-03.
+This business analyst position at Veolia was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

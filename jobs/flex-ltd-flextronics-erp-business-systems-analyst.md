@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Austin, Texas, United States |
 | Category | Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/ERP-Business-Systems-Analyst_WD214670) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/ERP-Business-Systems-Analyst_WD214979-1) |
 
 ## About This Role
 
-This operations position at FLEX LTD. Flextronics was posted on 2026-02-03.
+This operations position at FLEX LTD. Flextronics was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 

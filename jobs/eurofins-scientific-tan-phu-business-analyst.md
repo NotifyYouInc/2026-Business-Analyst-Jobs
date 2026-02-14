@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Business Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000107248256-tan-phu-business-analyst) |
+| Posted | 2026-02-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000107442875-tan-phu-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Eurofins Scientific was posted on 2026-02-04.
+This business analyst position at Eurofins Scientific was posted on 2026-02-05.
 
 ## Get Real-Time Alerts
 
