@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Project Manager |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000107349213-business-analyst-risque-de-credit-hf) |
+| Category | Business Analyst |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000108156455-business-analyst-risque-de-credit-hf) |
 
 ## About This Role
 
-This project manager position at Talan was posted on 2026-02-04.
+This business analyst position at Talan was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

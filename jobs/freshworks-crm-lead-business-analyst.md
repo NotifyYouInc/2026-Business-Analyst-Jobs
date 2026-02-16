@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freshworks CRM](https://scoutify.ai/companies/freshworkscrm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Operations |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000107266088-lead-business-analyst) |
+| Category | Business Analyst |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Freshworks/744000108198331-lead-business-analyst) |
 
 ## About This Role
 
-This operations position at Freshworks CRM was posted on 2026-02-04.
+This business analyst position at Freshworks CRM was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000107456395-mesot-business-analyst) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000108129726-mesot-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Avery Dennison Corporation was posted on 2026-02-05.
+This business analyst position at Avery Dennison Corporation was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 
