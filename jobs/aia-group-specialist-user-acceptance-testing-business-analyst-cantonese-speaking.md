@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Cyberjaya-MY-AIA-Shared-Services-Malaysia/Specialist---User-Acceptance-Testing---Business-Analyst--Cantonese-Speaking-_JR-64050) |
 

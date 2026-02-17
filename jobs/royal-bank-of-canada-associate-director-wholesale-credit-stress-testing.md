@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Associate-Director---Wholesale-Credit-Stress-Testing_R-0000157944-1) |
 

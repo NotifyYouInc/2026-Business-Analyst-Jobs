@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [CME Group](https://scoutify.ai/companies/cme-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | India |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-02-08 |
 | Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Product-Business-Analyst---India_33825-1) |
 

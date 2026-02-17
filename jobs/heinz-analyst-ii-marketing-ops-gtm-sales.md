@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ahmedabad, Gujarat, India |
-| Category | Product Marketing Management |
+| Category | Operations |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Ahmedabad---Venus-Stratum-GCC/Analyst-II--Marketing-Ops-GTM-Sales_R-99834-1) |
 
 ## About This Role
 
-This product marketing management position at Heinz was posted on 2026-02-09.
+This operations position at Heinz was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

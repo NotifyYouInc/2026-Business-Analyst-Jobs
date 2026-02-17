@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New Jersey, US |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000107571926-business-system-analyst-bilingual-englishkorean) |
+| Category | Business Analyst |
+| Posted | 2026-02-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000107629286-business-system-analyst-bilingual-englishkorean) |
 
 ## About This Role
 
-This operations position at Woongjin was posted on 2026-02-05.
+This business analyst position at Woongjin was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

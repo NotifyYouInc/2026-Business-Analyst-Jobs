@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Lonza Group](https://scoutify.ai/companies/lonza-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Portsmouth, Virginia, United States |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-02-09 |
 | Apply | [View on company site](https://lonza.wd3.myworkdayjobs.com/lonza_careers/job/US---Portsmouth-NH/Manufacturing-Execution-Systems--MES--Engineer-I_R73595) |
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bogota-Colombia/Strategy-and-Transformation-Analyst_JR1122787) |
 
 ## About This Role
 
-This strategy and operations position at Diageo was posted on 2026-02-06.
+This strategy & operations position at Diageo was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

@@ -4,7 +4,7 @@
 |-------|---------|
 | Company | [Reserve Bank of Australia](https://scoutify.ai/companies/reserve-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Qa Engineer |
+| Category | QA Engineer |
 | Posted | 2026-02-05 |
 | Apply | [View on company site](https://rba.wd105.myworkdayjobs.com/rba_careers/job/Sydney/Senior-Test-Analyst--Non-Functional-Testing-_JR3955) |
 

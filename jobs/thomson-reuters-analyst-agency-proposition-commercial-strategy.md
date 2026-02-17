@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Analyst--Agency-Proposition---Commercial-strategy_JREQ197920) |
 
 ## About This Role
 
-This strategy and operations position at Thomson Reuters was posted on 2026-02-06.
+This strategy & operations position at Thomson Reuters was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

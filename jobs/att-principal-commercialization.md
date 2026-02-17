@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AT&T](https://scoutify.ai/companies/at-t?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Product Marketing Management |
+| Category | Product Marketing |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Dallas-Texas/Principal-Commercialization_R-93748) |
 
 ## About This Role
 
-This product marketing management position at AT&T was posted on 2026-02-06.
+This product marketing position at AT&T was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 

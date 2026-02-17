@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Strategy And Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-02-06 |
 | Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-AIA-Digital-Malaysia/Lead-Analyst--Cloud-Application-Transformation_JR-64047-1) |
 
 ## About This Role
 
-This strategy and operations position at AIA Group was posted on 2026-02-06.
+This strategy & operations position at AIA Group was posted on 2026-02-06.
 
 ## Get Real-Time Alerts
 
