@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | New Jersey, US |
 | Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000107629430-business-system-analyst-scm-system) |
+| Posted | 2026-02-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000107857755-business-system-analyst-scm-system) |
 
 ## About This Role
 
-This operations position at Woongjin was posted on 2026-02-06.
+This operations position at Woongjin was posted on 2026-02-07.
 
 ## Get Real-Time Alerts
 

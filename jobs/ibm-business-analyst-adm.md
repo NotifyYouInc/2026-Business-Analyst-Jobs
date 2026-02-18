@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=83903) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=73020) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-02-03.
+This business analyst position at IBM was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 

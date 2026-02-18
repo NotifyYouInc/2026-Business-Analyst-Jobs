@@ -5,12 +5,12 @@
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | China |
 | Category | Technical & Solutions Architect |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000107676758-senior-staff-engineererp-dynamics-functional) |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000108037460-senior-staff-engineererp-dynamics-functional) |
 
 ## About This Role
 
-This technical & solutions architect position at Nagarro was posted on 2026-02-06.
+This technical & solutions architect position at Nagarro was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000107742875-business-analyst-cross-stream-integration-lead) |
+| Category | Business Analyst |
+| Posted | 2026-02-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000108204925-business-analyst-cross-stream-integration-lead) |
 
 ## About This Role
 
-This operations position at SGS was posted on 2026-02-06.
+This business analyst position at SGS was posted on 2026-02-09.
 
 ## Get Real-Time Alerts
 

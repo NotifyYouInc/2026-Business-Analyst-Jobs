@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Newark, New Jersey, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Newark-NJ/IT-Business-Analyst_R2502673-1) |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Atlanta-GA/IT-Business-Analyst_R2503315) |
 
 ## About This Role
 
-This business analyst position at ICF was posted on 2026-02-03.
+This business analyst position at ICF was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 
