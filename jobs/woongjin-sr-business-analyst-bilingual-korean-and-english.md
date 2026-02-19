@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Jersey, US |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-02-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000107858145-sr-business-analyst-bilingual-korean-and-english) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000108576192-sr-business-analyst-bilingual-korean-and-english) |
 
 ## About This Role
 
-This business analyst position at Woongjin was posted on 2026-02-07.
+This business analyst position at Woongjin was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

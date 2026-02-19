@@ -5,12 +5,12 @@
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011569967-idv-business-analyst) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011611406-idv-business-analyst) |
 
 ## About This Role
 
-This business analyst position at HelloKindred was posted on 2026-02-06.
+This business analyst position at HelloKindred was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 

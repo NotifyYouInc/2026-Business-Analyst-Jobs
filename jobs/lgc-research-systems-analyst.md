@@ -5,12 +5,12 @@
 | Company | [LGC](https://scoutify.ai/companies/lgc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000108238890-research-systems-analyst) |
+| Posted | 2026-02-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000108539005-research-systems-analyst) |
 
 ## About This Role
 
-This business analyst position at LGC was posted on 2026-02-09.
+This business analyst position at LGC was posted on 2026-02-10.
 
 ## Get Real-Time Alerts
 
