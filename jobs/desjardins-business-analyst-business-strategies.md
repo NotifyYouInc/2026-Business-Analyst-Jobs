@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Business Analyst |
 | Posted | 2026-02-10 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-d-affaires--Donnes-et-analytique_R2602012) |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-d-affaires--Services-bancaires-aux-particuliers_R2601335) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Fastmarkets](https://scoutify.ai/companies/fastmarkets?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000107541555-business-analyst-6-months-ftc) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Fastmarkets/744000108987076-business-analyst-6-months-ftc) |
 
 ## About This Role
 
-This business analyst position at Fastmarkets was posted on 2026-02-05.
+This business analyst position at Fastmarkets was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

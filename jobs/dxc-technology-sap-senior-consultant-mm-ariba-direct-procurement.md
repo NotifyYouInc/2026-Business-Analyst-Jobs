@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 4 locations |
 | Category | Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/POL---MZ---WARSAW/SAP-Senior-Consultant--MM---Ariba---Direct-Procurement-_51572419) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/POL---MZ---WARSAW/SAP-Senior-Consultant--MM---Ariba---Direct-Procurement-_51572742) |
 
 ## About This Role
 
-This operations position at DXC Technology was posted on 2026-02-10.
+This operations position at DXC Technology was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

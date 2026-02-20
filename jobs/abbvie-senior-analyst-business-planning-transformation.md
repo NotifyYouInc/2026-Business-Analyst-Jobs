@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | North Chicago, Illinois, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011615551-senior-analyst-business-planning-transformation) |
+| Category | Operations |
+| Posted | 2026-02-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011633291-senior-analyst-business-planning-transformation) |
 
 ## About This Role
 
-This strategy & operations position at AbbVie was posted on 2026-02-10.
+This operations position at AbbVie was posted on 2026-02-11.
 
 ## Get Real-Time Alerts
 
