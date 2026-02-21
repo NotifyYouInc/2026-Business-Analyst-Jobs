@@ -6,7 +6,7 @@
 | Location | Buena Park, California, United States |
 | Category | Business Analyst |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000108649755-business-analyst-bilingual-english-korean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000108816078-business-analyst-bilingual-english-korean) |
 
 ## About This Role
 

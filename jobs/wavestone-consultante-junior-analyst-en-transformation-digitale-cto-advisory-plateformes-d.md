@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000108207585-consultante-junior-analyst-en-transformation-digitale-cto-advisory-plateformes-digitales-cdi) |
+| Category | Strategy & Operations |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000109176706-consultante-junior-analyst-en-transformation-digitale-cto-advisory-plateformes-digitales-cdi) |
 
 ## About This Role
 
-This technical & solutions architect position at Wavestone was posted on 2026-02-09.
+This strategy & operations position at Wavestone was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

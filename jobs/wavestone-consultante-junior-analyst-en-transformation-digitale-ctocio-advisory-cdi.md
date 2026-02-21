@@ -5,12 +5,12 @@
 | Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Program Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000108207355-consultante-junior-analyst-en-transformation-digitale-ctocio-advisory-cdi) |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000109175816-consultante-junior-analyst-en-transformation-digitale-ctocio-advisory-cdi) |
 
 ## About This Role
 
-This program manager position at Wavestone was posted on 2026-02-09.
+This program manager position at Wavestone was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

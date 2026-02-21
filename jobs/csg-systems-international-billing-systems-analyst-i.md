@@ -5,12 +5,12 @@
 | Company | [CSG Systems International](https://scoutify.ai/companies/csg-systems-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | India |
 | Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/India-Remote/Billing-Systems-Analyst-I_31183) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://csgi.wd5.myworkdayjobs.com/csgcareers/job/India-Remote/Billing-Systems-Analyst-I_31343) |
 
 ## About This Role
 
-This operations position at CSG Systems International was posted on 2026-02-11.
+This operations position at CSG Systems International was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | San Jose, California, United States |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000107729696-sr-business-analyst-hr-technology) |
+| Category | Business Analyst |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000109321125-sr-business-analyst-hr-technology) |
 
 ## About This Role
 
-This operations position at Western Digital was posted on 2026-02-06.
+This business analyst position at Western Digital was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 

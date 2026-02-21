@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000108648996-logistic-transportation-pricing-analyst-bilingual-englishkorean) |
+| Category | Business Analyst |
+| Posted | 2026-02-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000109324905-logistic-transportation-pricing-analyst-bilingual-englishkorean) |
 
 ## About This Role
 
-This operations position at Woongjin was posted on 2026-02-11.
+This business analyst position at Woongjin was posted on 2026-02-14.
 
 ## Get Real-Time Alerts
 

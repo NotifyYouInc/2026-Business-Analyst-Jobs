@@ -1,0 +1,22 @@
+# Stage de fin d'études/ Alternance - Sujet de stage : Accompagner la transformation digitale et durable des Supply Chains industrielles at Wavestone
+
+| Field | Details |
+|-------|---------|
+| Company | [Wavestone](https://scoutify.ai/companies/wavestone?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Paris, Île-de-France, France |
+| Category | Operations |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wavestone1/744000109269744-stage-de-fin-detudes-alternance-sujet-de-stage-accompagner-la-transformation-digitale-et-durable-des-supply-chains-industrielles) |
+
+## About This Role
+
+This operations position at Wavestone was posted on 2026-02-13.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

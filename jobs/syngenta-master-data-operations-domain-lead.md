@@ -6,7 +6,7 @@
 | Location | Pune, Maharashtra, India |
 | Category | Operations |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000108685456-master-data-operations-domain-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000108831840-master-data-operations-domain-lead) |
 
 ## About This Role
 

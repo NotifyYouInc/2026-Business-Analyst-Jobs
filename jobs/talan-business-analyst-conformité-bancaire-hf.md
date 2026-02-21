@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Project Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000108157585-business-analyst-conformite-bancaire-hf) |
+| Category | Business Analyst |
+| Posted | 2026-02-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000109281565-business-analyst-conformite-bancaire-hf) |
 
 ## About This Role
 
-This project manager position at Talan was posted on 2026-02-09.
+This business analyst position at Talan was posted on 2026-02-13.
 
 ## Get Real-Time Alerts
 
