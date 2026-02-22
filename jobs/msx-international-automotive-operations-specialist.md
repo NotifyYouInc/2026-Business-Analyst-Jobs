@@ -1,12 +1,12 @@
-# Automotive Operations Specialist  at MSX International
+# Automotive Operations Specialist at MSX International
 
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Harrisburg, Pennsylvania, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Operations |
 | Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990011630796-automotive-operations-specialist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990011630871-automotive-operations-specialist) |
 
 ## About This Role
 
