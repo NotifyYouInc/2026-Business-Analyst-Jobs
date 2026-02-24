@@ -1,16 +1,16 @@
-# Business Analyst at Barclays
+# Senior Business Analyst, AVP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Business-Analyst_JR-0000088470-1) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Senior-Business-Analyst--AVP_R0424403) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-02-16.
+This business analyst position at Deutsche Bank was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

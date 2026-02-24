@@ -1,16 +1,16 @@
-# Business System Analyst (SCM System) at Woongjin
+# Founding Business Generalist at Clad
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Jersey, US |
+| Company | [Clad](https://scoutify.ai/companies/clad?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000108880126-business-system-analyst-scm-system) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/clad/jobs/IUciDtC-founding-business-generalist) |
 
 ## About This Role
 
-This business analyst position at Woongjin was posted on 2026-02-12.
+This business analyst position at Clad was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

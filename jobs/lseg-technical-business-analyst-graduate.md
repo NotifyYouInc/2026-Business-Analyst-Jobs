@@ -1,16 +1,16 @@
-# Business Analyst at Barclays
+# Technical Business Analyst Graduate at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Bucharest, București, Romania |
 | Category | Business Analyst |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Business-Analyst_JR-0000088470-1) |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/Bucharest-Romania/Technical-Business-Analyst-Graduate_R0116942-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-02-16.
+This business analyst position at LSEG was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

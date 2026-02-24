@@ -1,16 +1,16 @@
-# Business Analyst at Barclays
+# Consultant(e) Senior Data Analyst at SIA
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Business-Analyst_JR-0000088470-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000109581865-consultante-senior-data-analyst) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-02-16.
+This business analyst position at SIA was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

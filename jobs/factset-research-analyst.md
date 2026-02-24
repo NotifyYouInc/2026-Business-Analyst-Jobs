@@ -1,16 +1,16 @@
-# Business System Analyst (SCM System) at Woongjin
+# Research Analyst at FactSet
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Jersey, US |
+| Company | [FactSet](https://scoutify.ai/companies/factset?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000108880126-business-system-analyst-scm-system) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Hyderabad-IND/Research-Analyst_R30432) |
 
 ## About This Role
 
-This business analyst position at Woongjin was posted on 2026-02-12.
+This business analyst position at FactSet was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

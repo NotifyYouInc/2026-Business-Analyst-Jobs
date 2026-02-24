@@ -1,16 +1,16 @@
-# Business Analyst Réglementaire H/F at Meritis
+# Infield Team Excellence Manager at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000109037230-business-analyst-reglementaire-hf) |
+| Category | Project Manager |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011703656-infield-team-excellence-manager) |
 
 ## About This Role
 
-This business analyst position at Meritis was posted on 2026-02-12.
+This project manager position at AbbVie was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

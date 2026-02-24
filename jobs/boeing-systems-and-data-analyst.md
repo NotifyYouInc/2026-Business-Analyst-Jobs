@@ -1,16 +1,16 @@
-# Business Analyst at Barclays
+# Systems and Data Analyst at Boeing
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 8 locations |
 | Category | Business Analyst |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Business-Analyst_JR-0000088470-1) |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Systems-and-Data-Analyst_JR2026495449-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-02-16.
+This business analyst position at Boeing was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

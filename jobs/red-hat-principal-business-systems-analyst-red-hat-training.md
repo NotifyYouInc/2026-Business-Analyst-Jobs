@@ -1,16 +1,16 @@
-# Business Analyst at Barclays
+# Principal Business Systems Analyst - Red Hat Training at Red Hat
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
+| Category | Venture Capital |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Business-Analyst_JR-0000088470-1) |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Pune/Principal-Business-Systems-Analyst---Red-Hat-Training_R-054322-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-02-16.
+This venture capital position at Red Hat was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

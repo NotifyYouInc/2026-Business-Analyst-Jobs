@@ -1,16 +1,16 @@
-# Business Analyst at Barclays
+# ETIC, Business Analyst- Senior Associate at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Business Analyst |
 | Posted | 2026-02-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Business-Analyst_JR-0000088470-1) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Business-Analyst--Senior-Associate_527327WD-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-02-16.
+This business analyst position at PwC was posted on 2026-02-16.
 
 ## Get Real-Time Alerts
 

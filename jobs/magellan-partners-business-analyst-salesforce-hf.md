@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000108790036-business-analyst-salesforce-hf) |
+| Posted | 2026-02-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000108963586-business-analyst-salesforce-hf) |
 
 ## About This Role
 
-This business analyst position at Magellan Partners was posted on 2026-02-11.
+This business analyst position at Magellan Partners was posted on 2026-02-12.
 
 ## Get Real-Time Alerts
 

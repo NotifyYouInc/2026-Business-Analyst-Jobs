@@ -1,16 +1,16 @@
-# Business System Analyst (SCM System) at Woongjin
+# Operations Analyst at Careers at Tide
 
 | Field | Details |
 |-------|---------|
-| Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Jersey, US |
+| Company | [Careers at Tide](https://scoutify.ai/companies/careers-at-tide?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | India |
 | Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000108880126-business-system-analyst-scm-system) |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/tide/jobs/7632851003) |
 
 ## About This Role
 
-This business analyst position at Woongjin was posted on 2026-02-12.
+This business analyst position at Careers at Tide was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 
