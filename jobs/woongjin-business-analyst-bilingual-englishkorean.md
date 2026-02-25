@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000109309380-business-analyst-bilingual-englishkorean) |
+| Category | Business Analyst |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000109760181-business-analyst-bilingual-englishkorean) |
 
 ## About This Role
 
-This operations position at Woongjin was posted on 2026-02-13.
+This business analyst position at Woongjin was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Massachusetts, US |
-| Category | Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Tyngsboro-MA-USA/Logistics-Analyst_R-168497) |
+| Location | Fairmont, West Virginia, United States |
+| Category | Business Analyst |
+| Posted | 2026-02-17 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Fairmont-WV-USA/Logistics-Analyst_R-169249) |
 
 ## About This Role
 
-This operations position at Republic Services was posted on 2026-02-03.
+This business analyst position at Republic Services was posted on 2026-02-17.
 
 ## Get Real-Time Alerts
 

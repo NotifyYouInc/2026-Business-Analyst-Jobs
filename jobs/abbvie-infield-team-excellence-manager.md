@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Project Manager |
 | Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011703656-infield-team-excellence-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011707640-infield-team-excellence-manager) |
 
 ## About This Role
 

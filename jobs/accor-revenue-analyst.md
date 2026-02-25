@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000108878992-revenue-analyst) |
+| Location | Australia |
+| Category | Financial Analyst |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000109863655-revenue-analyst) |
 
 ## About This Role
 
-This business analyst position at ACCOR was posted on 2026-02-12.
+This financial analyst position at ACCOR was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
