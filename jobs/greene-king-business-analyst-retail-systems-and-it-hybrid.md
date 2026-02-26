@@ -5,12 +5,12 @@
 | Company | [Greene King](https://scoutify.ai/companies/greeneking?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000107443655-business-analyst-retail-systems-and-it-hybrid) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000109988235-business-analyst-retail-systems-and-it-hybrid) |
 
 ## About This Role
 
-This business analyst position at Greene King was posted on 2026-02-05.
+This business analyst position at Greene King was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Santa Ana, California, United States |
 | Category | Business Analyst |
 | Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000109830415-logistic-business-operation-staff-chassis-mgmt-bilingual-englishkorean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000109987515-logistic-business-operation-staff-chassis-mgmt-bilingual-englishkorean) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BeOne](https://scoutify.ai/companies/beigene?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Remote-US/Senior-Manager--Digital-Quality-Management-Systems--Business-Analyst_R33226) |
+| Location | Germany |
+| Category | Project Manager |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://beigene.wd5.myworkdayjobs.com/beigene/job/Netherlands-Remote/Senior-Manager--Digital-Quality-Management-Systems--Business-Analyst_R33362) |
 
 ## About This Role
 
-This operations position at BeOne was posted on 2026-02-06.
+This project manager position at BeOne was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

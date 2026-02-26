@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/CFIN-SAP4HANA-Key-User_JR00025625-1) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/CFIN-SAP4HANA-Key-User_JR00025626) |
 
 ## About This Role
 
-This business analyst position at ABB was posted on 2026-02-17.
+This business analyst position at ABB was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

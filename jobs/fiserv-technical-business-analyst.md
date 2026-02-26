@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ireland |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Nenagh-Ireland/Technical-Business-Analyst_R-10386858) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Omaha-Nebraska/Technical-Business-Analysis-Advisor_R-10374411) |
 
 ## About This Role
 
-This business analyst position at Fiserv was posted on 2026-02-05.
+This business analyst position at Fiserv was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 

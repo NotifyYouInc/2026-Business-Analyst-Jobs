@@ -1,16 +1,16 @@
-# Business Analyst H/F at Scalian
+# Business Analyst (H/F) at Scalian
 
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bordeaux, Nouvelle-Aquitaine, France |
+| Location | Saint-Étienne, Rhône-Alpes, France |
 | Category | Business Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000107020781-business-analyst-hf) |
+| Posted | 2026-02-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000109986866-business-analyst-hf) |
 
 ## About This Role
 
-This business analyst position at Scalian was posted on 2026-02-03.
+This business analyst position at Scalian was posted on 2026-02-18.
 
 ## Get Real-Time Alerts
 
