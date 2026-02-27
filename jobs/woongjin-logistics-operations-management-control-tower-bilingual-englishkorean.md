@@ -6,7 +6,7 @@
 | Location | Santa Ana, California, United States |
 | Category | Business Analyst |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000110053454-logistics-operations-management-control-tower-bilingual-englishkorean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000110203127-logistics-operations-management-control-tower-bilingual-englishkorean) |
 
 ## About This Role
 

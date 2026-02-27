@@ -6,7 +6,7 @@
 | Location | Manisa, Manisa, Turkey |
 | Category | Business Analyst |
 | Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000110086285-business-process-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000110160717-business-process-manager) |
 
 ## About This Role
 

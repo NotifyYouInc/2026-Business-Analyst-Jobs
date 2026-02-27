@@ -5,12 +5,12 @@
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Senior-Analyst_JR114253) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Associate-Vice-President_JR113536) |
 
 ## About This Role
 
-This business analyst position at National Australia Bank (NAB) was posted on 2026-02-17.
+This business analyst position at National Australia Bank (NAB) was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

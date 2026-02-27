@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
-| Category | Business Analyst |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000109281685-business-analyst-product-information-management-pim-luxury-retail) |
+| Location | Italy |
+| Category | Technology / IT Consulting |
+| Posted | 2026-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000110191838-business-analyst-product-information-management-pim-luxury-retail) |
 
 ## About This Role
 
-This business analyst position at Magellan Partners was posted on 2026-02-13.
+This technology / it consulting position at Magellan Partners was posted on 2026-02-19.
 
 ## Get Real-Time Alerts
 
