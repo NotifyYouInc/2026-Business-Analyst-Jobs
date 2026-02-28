@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pennsylvania, US |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Business-Analyst_R7142) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Business-Analyst_R7195) |
 
 ## About This Role
 
-This business analyst position at CAI was posted on 2026-02-11.
+This business analyst position at CAI was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

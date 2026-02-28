@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Curaleaf](https://scoutify.ai/companies/curaleaf?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 4 locations |
+| Location | Stamford, Connecticut, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/curaleaf/jobs/8402992002) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/curaleaf/jobs/8341160002) |
 
 ## About This Role
 
-This business analyst position at Curaleaf was posted on 2026-02-03.
+This business analyst position at Curaleaf was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

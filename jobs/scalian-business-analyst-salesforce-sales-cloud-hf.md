@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Marseille, Provence-Alpes-Côte d'Azur, France |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000110172575-business-analyst-salesforce-sales-cloud-hf) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000110419622-business-analyst-salesforce-sales-cloud-hf) |
 
 ## About This Role
 
-This business analyst position at Scalian was posted on 2026-02-19.
+This business analyst position at Scalian was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SJS Executives](https://scoutify.ai/companies/sjs-executives?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Long Beach, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=27ed468a-cd1b-44c2-bdaa-45dde014af03&jobId=9201235639873_1) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=27ed468a-cd1b-44c2-bdaa-45dde014af03&jobId=9201236602225_1) |
 
 ## About This Role
 
-This business analyst position at SJS Executives was posted on 2026-02-17.
+This business analyst position at SJS Executives was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

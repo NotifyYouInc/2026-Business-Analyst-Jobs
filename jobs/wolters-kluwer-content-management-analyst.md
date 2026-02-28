@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Tampa, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Riverwoods-IL/Content-Management-Analyst_R0055079) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Tampa-FL/Content-Management-Analyst_R0054778) |
 
 ## About This Role
 
-This business analyst position at Wolters Kluwer was posted on 2026-02-17.
+This business analyst position at Wolters Kluwer was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

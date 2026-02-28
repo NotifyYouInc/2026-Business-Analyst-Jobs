@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Le Mans, Pays de la Loire, France |
+| Location | Rennes, Brittany, France |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000109973235-charge-daffaires-electricite-photovoltaique-hf) |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000110361326-charge-daffaires-electricite-photovoltaique-hf) |
 
 ## About This Role
 
-This business analyst position at SOCOTEC was posted on 2026-02-18.
+This business analyst position at SOCOTEC was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 

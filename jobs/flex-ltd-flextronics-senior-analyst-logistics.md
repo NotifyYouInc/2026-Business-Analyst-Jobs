@@ -1,16 +1,16 @@
-# Senior Analyst – Logistics at FLEX LTD. Flextronics
+# Senior Analyst - Logistics at FLEX LTD. Flextronics
 
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Pune/Senior-Analyst---Logistics_WD214403) |
+| Category | Business Analyst |
+| Posted | 2026-02-20 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Pune/Senior-Analyst---Master-Data-Management_WD213867) |
 
 ## About This Role
 
-This operations position at FLEX LTD. Flextronics was posted on 2026-02-05.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-02-20.
 
 ## Get Real-Time Alerts
 
