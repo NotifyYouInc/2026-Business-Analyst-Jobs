@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Visakhapatnam, Andhra Pradesh, India |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110340215-revenue-manager-cluster) |
+| Posted | 2026-02-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000110513075-revenue-manager-cluster) |
 
 ## About This Role
 
-This business analyst position at ACCOR was posted on 2026-02-20.
+This business analyst position at ACCOR was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 

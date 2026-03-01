@@ -1,16 +1,16 @@
-# Business Analyst at Version 1
+# Senior Functional Analyst at DXC Technology
 
 | Field | Details |
 |-------|---------|
-| Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Mechelen, Flanders, Belgium |
 | Category | Business Analyst |
 | Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000110523595-business-analyst) |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BEL---VAN---MECHELEN/Senior-Functional-Analyst_51508710) |
 
 ## About This Role
 
-This business analyst position at Version 1 was posted on 2026-02-21.
+This business analyst position at DXC Technology was posted on 2026-02-21.
 
 ## Get Real-Time Alerts
 
