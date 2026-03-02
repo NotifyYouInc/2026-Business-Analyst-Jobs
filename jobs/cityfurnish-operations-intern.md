@@ -1,16 +1,16 @@
-# Manager, COC at UOB Group
+# Operations Intern at Cityfurnish
 
 | Field | Details |
 |-------|---------|
-| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Cityfurnish](https://scoutify.ai/companies/cityfurnish?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 2 locations |
 | Category | Business Analyst |
 | Posted | 2026-02-22 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/The-Gardens-North-Tower/Manager--COC_JR74670) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/cityfurnish/jobs/xdQOfpV-operations-intern) |
 
 ## About This Role
 
-This business analyst position at UOB Group was posted on 2026-02-22.
+This business analyst position at Cityfurnish was posted on 2026-02-22.
 
 ## Get Real-Time Alerts
 

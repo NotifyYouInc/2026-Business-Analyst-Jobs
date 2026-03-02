@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Rennes, Brittany, France |
+| Location | France |
 | Category | Business Analyst |
 | Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000110361326-charge-daffaires-electricite-photovoltaique-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000110368649-charge-daffaires-electricite-photovoltaique-hf) |
 
 ## About This Role
 

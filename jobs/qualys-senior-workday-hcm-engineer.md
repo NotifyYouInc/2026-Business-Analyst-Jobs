@@ -1,16 +1,16 @@
-# Manager, COC at UOB Group
+# Senior Workday HCM Engineer at Qualys
 
 | Field | Details |
 |-------|---------|
-| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Qualys](https://scoutify.ai/companies/qualys?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/The-Gardens-North-Tower/Manager--COC_JR74670) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://qualys.wd5.myworkdayjobs.com/careers/job/Pune/Senior-Workday-HCM-Engineer_R0004472) |
 
 ## About This Role
 
-This business analyst position at UOB Group was posted on 2026-02-22.
+This business analyst position at Qualys was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

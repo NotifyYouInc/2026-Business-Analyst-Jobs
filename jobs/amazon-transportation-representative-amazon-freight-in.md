@@ -1,16 +1,16 @@
-# Manager, COC at UOB Group
+# Transportation Representative, Amazon Freight, IN at Amazon
 
 | Field | Details |
 |-------|---------|
-| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Karnataka, IN |
 | Category | Business Analyst |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/The-Gardens-North-Tower/Manager--COC_JR74670) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3186564/transportation-representative-amazon-freight-in) |
 
 ## About This Role
 
-This business analyst position at UOB Group was posted on 2026-02-22.
+This business analyst position at Amazon was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

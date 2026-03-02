@@ -1,16 +1,16 @@
-# Manager, COC at UOB Group
+# Snr Supply Chain Specialist at Ecolab
 
 | Field | Details |
 |-------|---------|
-| Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/The-Gardens-North-Tower/Manager--COC_JR74670) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/SGP---Singapore---Singapore/Snr-Supply-Chain-Specialist_R00281864-1) |
 
 ## About This Role
 
-This business analyst position at UOB Group was posted on 2026-02-22.
+This business analyst position at Ecolab was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
