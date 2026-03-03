@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Hong-Kong/IT-Business-Analyst_JR26020537) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/IT-Business-Analyst_JR26020132-3) |
 
 ## About This Role
 
-This business analyst position at Manulife was posted on 2026-02-13.
+This business analyst position at Manulife was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

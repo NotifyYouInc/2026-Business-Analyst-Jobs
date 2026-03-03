@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
 | Posted | 2026-02-23 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95459) |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=95854) |
 
 ## About This Role
 

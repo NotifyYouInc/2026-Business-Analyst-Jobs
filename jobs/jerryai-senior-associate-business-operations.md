@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Operations |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/2bbff377-82bc-475a-ae45-6a8c73d5b55a) |
+| Location | Palo Alto, California, United States |
+| Category | Business Analyst |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/60fe832d-71b4-4459-810a-c7c0821dcaee) |
 
 ## About This Role
 
-This operations position at Jerry.ai was posted on 2026-02-09.
+This business analyst position at Jerry.ai was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

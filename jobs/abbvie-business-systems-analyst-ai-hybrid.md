@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011787986-business-systems-analyst-ai-hybrid) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011808116-business-systems-analyst-ai-hybrid) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-02-20.
+This business analyst position at AbbVie was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

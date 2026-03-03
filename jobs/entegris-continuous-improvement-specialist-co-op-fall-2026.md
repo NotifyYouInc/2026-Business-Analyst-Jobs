@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Colorado Springs, Colorado, United States |
+| Location | 2 locations |
 | Category | Strategy & Operations |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Colorado-Springs-CO/Continuous-Improvement-Specialist-Co-Op---Fall-2026_REQ-10144) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Chaska-MN/Continuous-Improvement-Specialist-Co-Op---Fall-2026_REQ-10188) |
 
 ## About This Role
 
-This strategy & operations position at Entegris was posted on 2026-02-20.
+This strategy & operations position at Entegris was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 

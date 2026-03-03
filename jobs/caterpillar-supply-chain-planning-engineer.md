@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tamil Nadu, IN |
+| Location | Decatur, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/Supply-Chain-Planning-Engineer_R0000352070) |
+| Posted | 2026-02-23 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Decatur-Illinois/Supply-Chain-Planning-Engineer_R0000351482) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-02-19.
+This business analyst position at Caterpillar was posted on 2026-02-23.
 
 ## Get Real-Time Alerts
 
