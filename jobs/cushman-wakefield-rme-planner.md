@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bessemer, Alabama, United States |
+| Location | California, US |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---AL---Bessemer---975-Powder-Plant-Rd/RME-Planner_R305743-1) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Brisbane---3745--3785-Bayshore-Blvd/RME-Planner_R305209-1) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-02-17.
+This business analyst position at Cushman & Wakefield was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

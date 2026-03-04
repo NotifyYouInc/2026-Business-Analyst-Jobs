@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Production-Coordinator_J2439198) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Production-Coordinator_J2439199) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-02-24.
+This business analyst position at Jabil was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

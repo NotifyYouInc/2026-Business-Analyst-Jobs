@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
+| Location | 2 locations |
 | Category | Business Analyst |
 | Posted | 2026-02-24 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Dubai-United-Arab-Emirates/Rebuilds-Specialist_R0000352036) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Rebuilds-Specialist_R0000353050) |
 
 ## About This Role
 

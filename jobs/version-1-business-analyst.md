@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000110523595-business-analyst) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000111122765-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Version 1 was posted on 2026-02-21.
+This business analyst position at Version 1 was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

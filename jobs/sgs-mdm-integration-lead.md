@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Katowice, Silesia, Poland |
+| Location | Madrid, Madrid, Spain |
 | Category | Program Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000110198176-mdm-integration-lead) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000111130200-mdm-integration-lead) |
 
 ## About This Role
 
-This program manager position at SGS was posted on 2026-02-19.
+This program manager position at SGS was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

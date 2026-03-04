@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Houston-TX/CLM-Senior-Business-Analyst_R0033151) |
+| Location | 6 locations |
+| Category | Legal |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/Overland-Park-KS/CLM-Senior-Business-Analyst_R0033155) |
 
 ## About This Role
 
-This business analyst position at Epiqsystems was posted on 2026-02-10.
+This legal position at Epiqsystems was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

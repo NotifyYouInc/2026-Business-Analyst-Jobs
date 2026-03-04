@@ -5,12 +5,12 @@
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/93187005042565830-engagement-manager-gtech-ads?sort_by=date&page=1) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/jobs/results/75737377552638662-engagement-manager-gtech-ads?sort_by=date&page=1) |
 
 ## About This Role
 
-This strategy / management consulting position at Google was posted on 2026-02-23.
+This strategy / management consulting position at Google was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

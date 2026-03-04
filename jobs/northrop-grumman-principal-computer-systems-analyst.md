@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Roy, Utah, United States |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Principal-Computer-Systems-Analyst_R10221777) |
+| Category | Technical Writer |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Principal-Computer-Systems-Analyst_R10216560) |
 
 ## About This Role
 
-This operations position at Northrop Grumman was posted on 2026-02-06.
+This technical writer position at Northrop Grumman was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 

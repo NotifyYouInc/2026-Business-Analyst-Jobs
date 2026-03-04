@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Diligent Corporation](https://scoutify.ai/companies/diligentcorporation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Galway, Connacht, Ireland |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5807148004) |
+| Posted | 2026-02-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/diligentcorporation/jobs/5811700004) |
 
 ## About This Role
 
-This business analyst position at Diligent Corporation was posted on 2026-02-18.
+This business analyst position at Diligent Corporation was posted on 2026-02-24.
 
 ## Get Real-Time Alerts
 
