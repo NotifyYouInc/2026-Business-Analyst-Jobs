@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Harsco](https://scoutify.ai/companies/harsco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | King of Prussia, Pennsylvania, United States |
-| Category | Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000108586784-procurement-intern) |
+| Category | Business Analyst |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000111392912-procurement-intern) |
 
 ## About This Role
 
-This operations position at Harsco was posted on 2026-02-10.
+This business analyst position at Harsco was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zoetis](https://scoutify.ai/companies/zoetis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lincoln, Nebraska, United States |
+| Location | Iowa, US |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://zoetis.wd5.myworkdayjobs.com/zoetis_intern/job/Lincoln/Supply-Chain-Intern_JR00020199) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://zoetis.wd5.myworkdayjobs.com/zoetis_intern/job/Charles-City/Supply-Chain-Intern_JR00020274) |
 
 ## About This Role
 
-This business analyst position at Zoetis was posted on 2026-02-17.
+This business analyst position at Zoetis was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

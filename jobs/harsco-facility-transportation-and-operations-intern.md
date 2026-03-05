@@ -5,12 +5,12 @@
 | Company | [Harsco](https://scoutify.ai/companies/harsco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Carteret, New Jersey, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000109862155-facility-transportation-and-operations-intern) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EnviriCorporation/744000111394447-facility-transportation-and-operations-intern) |
 
 ## About This Role
 
-This business analyst position at Harsco was posted on 2026-02-18.
+This business analyst position at Harsco was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Quebec, CA |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-architecture-d-affaires--Donnes-analytiques-et-Lutte-aux-crimes-financiers_R2602523) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-stratgique_R2602863) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-02-19.
+This business analyst position at Desjardins was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

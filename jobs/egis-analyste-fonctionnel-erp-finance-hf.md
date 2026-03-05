@@ -5,12 +5,12 @@
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000111116185-analyste-fonctionnel-erp-finance-hf) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000111394326-analyste-fonctionnel-erp-finance-hf) |
 
 ## About This Role
 
-This business analyst position at Egis was posted on 2026-02-24.
+This business analyst position at Egis was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 

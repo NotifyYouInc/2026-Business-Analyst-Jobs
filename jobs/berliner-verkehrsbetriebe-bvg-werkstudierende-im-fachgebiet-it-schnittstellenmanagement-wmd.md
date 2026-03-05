@@ -6,7 +6,7 @@
 | Location | Berlin, State of Berlin, Germany |
 | Category | Business Analyst |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BerlinerVerkehrsbetriebeBVG1/744000111300716-werkstudierende-im-fachgebiet-it-schnittstellenmanagement-wmd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BerlinerVerkehrsbetriebeBVG1/744000111368006-werkstudierende-im-fachgebiet-it-schnittstellenmanagement-wmd) |
 
 ## About This Role
 

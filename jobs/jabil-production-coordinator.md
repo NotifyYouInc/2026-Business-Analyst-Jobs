@@ -6,7 +6,7 @@
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
 | Posted | 2026-02-25 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Production-Coordinator_J2439199) |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Production-Coordinator_J2440615) |
 
 ## About This Role
 

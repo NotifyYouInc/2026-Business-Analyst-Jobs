@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Germany |
+| Location | Wetzlar, Hesse, Germany |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000110391225-working-student-supply-chain-warehouse-systems-fmdiv) |
+| Posted | 2026-02-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111418395-working-student-supply-chain-warehouse-systems-fmdiv) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-02-20.
+This business analyst position at Robert Bosch was posted on 2026-02-25.
 
 ## Get Real-Time Alerts
 
