@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Newton, Massachusetts, United States |
+| Location | New York City, New York, United States |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000110810785-deal-desk-associate) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000111624215-deal-desk-associate) |
 
 ## About This Role
 
-This revenue / sales operations position at Informa was posted on 2026-02-23.
+This revenue / sales operations position at Informa was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Indiana, US |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-IN-Crane/Program-Analyst_R0154866) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-IN-Crane/Program-Analyst_R0152174) |
 
 ## About This Role
 
-This business analyst position at Amentum was posted on 2026-02-25.
+This business analyst position at Amentum was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

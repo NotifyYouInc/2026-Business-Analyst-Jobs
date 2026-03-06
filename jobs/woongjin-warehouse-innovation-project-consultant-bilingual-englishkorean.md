@@ -6,7 +6,7 @@
 | Location | Duluth, Minnesota, United States |
 | Category | Project Manager |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111485245-warehouse-innovation-project-consultant-bilingual-englishkorean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111669085-warehouse-innovation-project-consultant-bilingual-englishkorean) |
 
 ## About This Role
 

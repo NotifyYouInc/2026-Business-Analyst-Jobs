@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Carteret, New Jersey, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Carteret-NJ/RME-Planner_REQ488614-1) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/RME-Planner_REQ489656) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-02-20.
+This business analyst position at JLL was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

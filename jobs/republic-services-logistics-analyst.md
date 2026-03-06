@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fairmont, West Virginia, United States |
+| Location | Fairfax, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Fairmont-WV-USA/Logistics-Analyst_R-169249) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Fairfax-VA-USA/Logistics-Analyst_R-169895) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-02-17.
+This business analyst position at Republic Services was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

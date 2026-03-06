@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Colliers International UK](https://scoutify.ai/companies/colliersinternationaluk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Germany |
 | Category | Product Marketing |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000109952256-werkstudent-wmd-market-intelligence-foresight-research-industrial-logistics) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ColliersInternationalEMEA/744000111623945-werkstudent-wmd-market-intelligence-foresight-research-industrial-logistics) |
 
 ## About This Role
 
-This product marketing position at Colliers International UK was posted on 2026-02-18.
+This product marketing position at Colliers International UK was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

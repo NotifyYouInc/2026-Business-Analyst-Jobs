@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quebec, CA |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-planification-des-effectifs_R2602591) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Pilotage-pargne-retraite-collective_R2602874) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-02-24.
+This business analyst position at Desjardins was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

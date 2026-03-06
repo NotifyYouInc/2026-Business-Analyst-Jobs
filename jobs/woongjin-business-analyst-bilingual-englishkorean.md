@@ -6,7 +6,7 @@
 | Location | Austin, Texas, United States |
 | Category | Business Analyst |
 | Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111485669-business-analyst-bilingual-englishkorean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111670425-business-analyst-bilingual-englishkorean) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Karnataka, IN |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Lead-Business-Process-Analyst_R00285670) |
+| Location | Pune, Maharashtra, India |
+| Category | Business Analyst |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Lead-Business-Process-Analyst_R00287063) |
 
 ## About This Role
 
-This operations position at Ecolab was posted on 2026-02-06.
+This business analyst position at Ecolab was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 

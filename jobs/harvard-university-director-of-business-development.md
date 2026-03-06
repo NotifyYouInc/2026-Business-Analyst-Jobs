@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990011727867-director-of-business-development) |
+| Posted | 2026-02-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990011880736-director-of-business-development) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Harvard University was posted on 2026-02-18.
+This sales development (sdr / bdr) position at Harvard University was posted on 2026-02-26.
 
 ## Get Real-Time Alerts
 
