@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111204391-analyst-industry-insights) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000111941813-analyst-industry-insights) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-02-24.
+This business analyst position at NielsenIQ was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Haryana, IN |
+| Location | Karnataka, IN |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=94426) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96879) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-02-25.
+This business analyst position at IBM was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

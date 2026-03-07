@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | Seattle, Washington, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Detroit-MI/Business-Analyst_REQ488703) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Business-Analyst_REQ490122) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-02-24.
+This business analyst position at JLL was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

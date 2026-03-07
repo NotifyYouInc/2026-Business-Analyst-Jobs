@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bristol, England, United Kingdom |
+| Location | United Kingdom |
 | Category | Legal |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/GBR---UK-Remote-Office/CLM---Business-Analyst_R0033470) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/GBR---UK-Remote-Office/CLM---Business-Analyst_R0033570) |
 
 ## About This Role
 
-This legal position at Epiqsystems was posted on 2026-02-19.
+This legal position at Epiqsystems was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

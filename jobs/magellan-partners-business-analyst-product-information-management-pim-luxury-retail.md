@@ -5,12 +5,12 @@
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Italy |
 | Category | Technology / IT Consulting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000110191838-business-analyst-product-information-management-pim-luxury-retail) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000111832826-business-analyst-product-information-management-pim-luxury-retail) |
 
 ## About This Role
 
-This technology / it consulting position at Magellan Partners was posted on 2026-02-19.
+This technology / it consulting position at Magellan Partners was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

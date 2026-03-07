@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plexus](https://scoutify.ai/companies/plexus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Bangkok-Thailand/Intern---Supply-Chain_R036639-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Guadalajara-Mexico/Intern---Supply-Chain_R036784) |
 
 ## About This Role
 
-This business analyst position at Plexus was posted on 2026-02-20.
+This business analyst position at Plexus was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

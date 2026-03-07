@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Barueri, São Paulo, Brazil |
 | Category | Project Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000110488623-coordenador-de-desenvolvimento-de-negocios-carbono-e-ghg) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000111925680-coordenador-de-desenvolvimento-de-negocios-carbono-e-ghg) |
 
 ## About This Role
 
-This project manager position at SGS was posted on 2026-02-20.
+This project manager position at SGS was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UPM](https://scoutify.ai/companies/upm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Naperville, Illinois, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Product Marketing |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://upm.wd103.myworkdayjobs.com/careers/job/Naperville-IL/Analyst--Strategy-and-Market-Intelligence_NB6025430) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://upm.wd103.myworkdayjobs.com/careers/job/Shanghai--/Analyst--Strategy-and-Market-Intelligence_NB6025428-1) |
 
 ## About This Role
 
-This product marketing position at UPM was posted on 2026-02-26.
+This product marketing position at UPM was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 

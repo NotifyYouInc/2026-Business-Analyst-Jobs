@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000109739546-business-analyst-data-product-luxe-retail) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000111830285-business-analyst-data-product-luxe-retail) |
 
 ## About This Role
 
-This technology / it consulting position at Magellan Partners was posted on 2026-02-17.
+This strategy / management consulting position at Magellan Partners was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

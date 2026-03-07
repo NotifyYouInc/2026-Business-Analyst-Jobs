@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Coppell, Texas, United States |
+| Location | Waltham, Massachusetts, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Coppell-TX-USA/Supply-Chain-Analyst_R0237786-1) |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Waltham-MA-USA/Supply-Chain-Analyst_R0237956-1) |
 
 ## About This Role
 
-This business analyst position at Fresenius Medical Care was posted on 2026-02-24.
+This business analyst position at Fresenius Medical Care was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 

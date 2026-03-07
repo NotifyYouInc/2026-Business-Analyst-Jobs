@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Decatur, Illinois, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Decatur-Illinois/Supply-Chain-Planning-Engineer_R0000351482) |
+| Location | 3 locations |
+| Category | Project Manager |
+| Posted | 2026-02-27 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/Supply-Chain-Planning-Engineer_R0000354297-1) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-02-23.
+This project manager position at Caterpillar was posted on 2026-02-27.
 
 ## Get Real-Time Alerts
 
