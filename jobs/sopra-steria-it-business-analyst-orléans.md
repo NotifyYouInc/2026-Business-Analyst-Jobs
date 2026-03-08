@@ -1,16 +1,16 @@
-# ALTERNANCE - Ingénieur amélioration continue (H/F) at Daher
+# IT Business Analyst - Orléans at Sopra Steria
 
 | Field | Details |
 |-------|---------|
-| Company | [Daher](https://scoutify.ai/companies/daher?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | France |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://daher.wd3.myworkdayjobs.com/daher/job/Mrignac-Dassault/ALTERNANCE---Ingnieur-amlioration-continue--H-F-_R866-2026-1) |
+| Posted | 2026-02-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111985876-it-business-analyst-orleans) |
 
 ## About This Role
 
-This business analyst position at Daher was posted on 2026-02-27.
+This business analyst position at Sopra Steria was posted on 2026-02-28.
 
 ## Get Real-Time Alerts
 
