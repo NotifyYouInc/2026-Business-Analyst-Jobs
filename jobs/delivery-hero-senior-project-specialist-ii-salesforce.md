@@ -6,7 +6,7 @@
 | Location | Barcelona, Catalonia, Spain |
 | Category | Project Manager |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111849545-senior-project-specialist-ii-salesforce) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111861762-senior-project-specialist-ii-salesforce) |
 
 ## About This Role
 

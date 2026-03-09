@@ -1,16 +1,16 @@
-# Business Analyst at Barclays
+# Business Process Mapping - Manager at State Street
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | India |
 | Category | Business Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Business-Analyst_JR-0000083066) |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Business-Process-Mapping---Manager_R-774720-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-03-02.
+This business analyst position at State Street was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

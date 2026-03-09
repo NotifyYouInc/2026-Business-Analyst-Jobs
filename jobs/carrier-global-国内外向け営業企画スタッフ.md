@@ -1,16 +1,16 @@
-# Business Analyst at Barclays
+# 国内外向け営業企画スタッフ at Carrier Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Ōsaki, Miyagi, Japan |
 | Category | Business Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Business-Analyst_JR-0000083066) |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Head-OfficeCJC/_30200307) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-03-02.
+This business analyst position at Carrier Global was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

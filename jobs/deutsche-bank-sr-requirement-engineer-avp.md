@@ -1,16 +1,16 @@
-# Senior Business Analyst at Hub24management
+# Sr. Requirement Engineer, AVP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Senior-Business-Analyst_JR100484) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/Sr-Requirement-Engineer--AVP_R0424419) |
 
 ## About This Role
 
-This business analyst position at Hub24management was posted on 2026-03-01.
+This business analyst position at Deutsche Bank was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

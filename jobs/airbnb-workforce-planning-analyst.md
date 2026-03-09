@@ -1,16 +1,16 @@
-# Supply Chain Planning Analyst at Altera Corporation
+# Workforce Planning Analyst at Airbnb
 
 | Field | Details |
 |-------|---------|
-| Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Penang, MY |
+| Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Manila, National Capital Region, Philippines |
 | Category | FP&A / Strategic Finance |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Supply-Chain-Planning-Analyst_R02128) |
+| Apply | [View on company site](https://careers.airbnb.com/positions/7653015?gh_jid=7653015) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Altera Corporation was posted on 2026-03-02.
+This fp&a / strategic finance position at Airbnb was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business Analyst at Barclays
+# Staff Project Manager at BP
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
+| Category | Project Manager |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Business-Analyst_JR-0000083066) |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Staff-Project-Manager_RQ107189) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-03-02.
+This project manager position at BP was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

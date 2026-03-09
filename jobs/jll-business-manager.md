@@ -1,16 +1,16 @@
-# Senior Business Analyst at Hub24management
+# Business Manager at JLL
 
 | Field | Details |
 |-------|---------|
-| Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Senior-Business-Analyst_JR100484) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sydney-NSW/Business-Manager_REQ490269) |
 
 ## About This Role
 
-This business analyst position at Hub24management was posted on 2026-03-01.
+This business analyst position at JLL was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

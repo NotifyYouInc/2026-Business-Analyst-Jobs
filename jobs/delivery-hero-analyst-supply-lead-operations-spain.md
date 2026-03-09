@@ -6,7 +6,7 @@
 | Location | 3 locations |
 | Category | Business Analyst |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111848505-analyst-supply-lead-operations-spain) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111864970-analyst-supply-lead-operations-spain) |
 
 ## About This Role
 

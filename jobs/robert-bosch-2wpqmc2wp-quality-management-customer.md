@@ -1,16 +1,16 @@
-# Business Analyst at Barclays
+# 【2WP/QMC】2WP Quality Management - Customer at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Japan |
 | Category | Business Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Business-Analyst_JR-0000083066) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000112070088-2wpqmc2wp-quality-management-customer) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-03-02.
+This business analyst position at Robert Bosch was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

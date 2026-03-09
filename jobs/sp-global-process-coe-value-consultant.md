@@ -1,16 +1,16 @@
-# Business Analyst at Barclays
+# Process CoE Value Consultant at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Business-Analyst_JR-0000083066) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Process-CoE-Value-Consultant_325594-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-03-02.
+This business analyst position at S&P Global was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

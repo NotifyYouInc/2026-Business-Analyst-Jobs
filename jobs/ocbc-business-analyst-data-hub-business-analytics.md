@@ -1,16 +1,16 @@
-# Business Analyst at Barclays
+# Business Analyst, Data Hub - Business Analytics at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
 | Posted | 2026-03-02 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Business-Analyst_JR-0000083066) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/BOS-Singapore/Business-Analyst--Data-Hub---Business-Analytics_JR00005902) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-03-02.
+This business analyst position at OCBC was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

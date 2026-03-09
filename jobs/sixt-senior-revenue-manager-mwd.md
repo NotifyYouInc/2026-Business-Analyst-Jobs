@@ -1,16 +1,16 @@
-# Senior Business Analyst at Hub24management
+# Senior Revenue Manager (m/w/d) at Sixt
 
 | Field | Details |
 |-------|---------|
-| Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Munich, Bavaria, Germany |
 | Category | Business Analyst |
 | Posted | 2026-03-01 |
-| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Senior-Business-Analyst_JR100484) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000112048057-senior-revenue-manager-mwd) |
 
 ## About This Role
 
-This business analyst position at Hub24management was posted on 2026-03-01.
+This business analyst position at Sixt was posted on 2026-03-01.
 
 ## Get Real-Time Alerts
 

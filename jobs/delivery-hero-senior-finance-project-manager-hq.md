@@ -6,7 +6,7 @@
 | Location | Barcelona, Catalonia, Spain |
 | Category | Project Manager |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111829576-senior-finance-project-manager-hq) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111864601-senior-finance-project-manager-hq) |
 
 ## About This Role
 

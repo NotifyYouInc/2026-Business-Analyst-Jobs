@@ -1,16 +1,16 @@
-# Operations Specialist On Demand Global HQ at Delivery Hero
+# Specialist, Shops Operations at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111868185-operations-specialist-on-demand-global-hq) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000112083462-specialist-shops-operations) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-02-27.
+This business analyst position at Delivery Hero was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

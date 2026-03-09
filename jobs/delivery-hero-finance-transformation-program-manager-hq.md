@@ -6,7 +6,7 @@
 | Location | Barcelona, Catalonia, Spain |
 | Category | FP&A / Strategic Finance |
 | Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111830615-finance-transformation-program-manager-hq) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000111865435-finance-transformation-program-manager-hq) |
 
 ## About This Role
 
