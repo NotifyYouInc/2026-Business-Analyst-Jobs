@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Lakewood, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CO---Denver-80238/Business-Analyst-Senior_R212351-1) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CO---Lakewood-80215/Business-Analyst-Senior_R211964-1) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-02-19.
+This business analyst position at PNC Financial was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

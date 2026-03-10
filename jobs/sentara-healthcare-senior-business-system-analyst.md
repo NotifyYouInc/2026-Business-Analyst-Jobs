@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Virginia Beach, Virginia, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Sentara-Centre-Pointe/Senior-Business-System-Analyst_JR-84370) |
+| Location | Harrisonburg, Virginia, United States |
+| Category | Project Manager |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Harrisonburg-VA/Senior-Business-System-Analyst_JR-87024) |
 
 ## About This Role
 
-This business analyst position at Sentara Healthcare was posted on 2026-02-06.
+This project manager position at Sentara Healthcare was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

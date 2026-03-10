@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/d282708d-101b-4707-87a6-f8c2e26bccae) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/47b60888-4c66-48c3-bff8-61b4e7ff53e2) |
 
 ## About This Role
 
-This business analyst position at Jerry.ai was posted on 2026-02-23.
+This business analyst position at Jerry.ai was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

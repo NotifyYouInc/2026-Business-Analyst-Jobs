@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Buena Park, California, United States |
 | Category | Engineering Manager |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000111952035-it-manager-bilingual-englishkorean) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000112300803-it-manager-bilingual-englishkorean) |
 
 ## About This Role
 
-This engineering manager position at Woongjin was posted on 2026-02-28.
+This engineering manager position at Woongjin was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

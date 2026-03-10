@@ -1,16 +1,16 @@
-# ​Sourcing Excellence Analyst at Stanley Black & Decker
+# Sourcing Excellence Analyst at Stanley Black & Decker
 
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nogales, Sonora, Mexico |
+| Location | Ciudad Apodaca, Nuevo León, Mexico |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Nogales-Sonora-Mexico/XMLNAME--Sourcing-Excellence-Analyst_REQ-1000043984-1) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Ciudad-Apodaca-Nuevo-Len-Mexico/Sourcing-Excellence-Analyst_REQ-1000044777) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Stanley Black & Decker was posted on 2026-02-25.
+This talent acquisition / recruiting position at Stanley Black & Decker was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

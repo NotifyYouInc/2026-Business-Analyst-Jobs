@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Corewell Health](https://scoutify.ai/companies/spectrumhealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 6 locations |
+| Location | Michigan, US |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Dearborn-MI/Quality-Improvement-Specialist-Senior_R205184) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grosse-Pointe-MI/Quality-Improvement-Specialist-Senior_R205698) |
 
 ## About This Role
 
-This business analyst position at Corewell Health was posted on 2026-02-20.
+This business analyst position at Corewell Health was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

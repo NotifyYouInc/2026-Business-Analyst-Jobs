@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Mexico-City-Paseo-de-las-Palmas-No425-701/Business-Analyst_R000102746) |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/London-Chiswick-Park-Building-2/Business-Analyst_R000102141-2) |
 
 ## About This Role
 
-This business analyst position at Warner Bros Discovery was posted on 2026-02-10.
+This business analyst position at Warner Bros Discovery was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

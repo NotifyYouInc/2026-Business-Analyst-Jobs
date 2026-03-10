@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fairfax, Virginia, United States |
-| Category | Project Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/FP--Coastal-SBProduce/Senior-Business-Analyst_R236606) |
+| Location | Nassau, New Providence, Bahamas |
+| Category | Business Analyst |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Bahamas-Food-Service-----Nassau1/Senior-Business-Analyst_R240781) |
 
 ## About This Role
 
-This project manager position at Sysco was posted on 2026-02-23.
+This business analyst position at Sysco was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 

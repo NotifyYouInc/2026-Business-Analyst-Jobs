@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | O'Fallon, Missouri, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Lead-Business-Analyst_R-270416) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Project Manager |
+| Posted | 2026-03-02 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Warsaw-Poland/Lead-Business-Analyst_R-271947-1) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-02-11.
+This project manager position at Mastercard was posted on 2026-03-02.
 
 ## Get Real-Time Alerts
 
