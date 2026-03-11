@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Minato City, Tokyo, Japan |
 | Category | Strategy & Operations |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011928822-senior-manager-strategy-new-product-introduction-allergan-aesthetics) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011940406-senior-manager-strategy-new-product-introduction-allergan-aesthetics) |
 
 ## About This Role
 
-This strategy & operations position at AbbVie was posted on 2026-03-02.
+This strategy & operations position at AbbVie was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

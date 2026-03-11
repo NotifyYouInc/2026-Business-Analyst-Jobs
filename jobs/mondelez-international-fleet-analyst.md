@@ -5,12 +5,12 @@
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Santa-F-Mexico/Fleet-Analyst_R-160324) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Santa-F-Mexico/Fleet-Analyst_R-160742) |
 
 ## About This Role
 
-This business analyst position at Mondelez International was posted on 2026-02-24.
+This business analyst position at Mondelez International was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

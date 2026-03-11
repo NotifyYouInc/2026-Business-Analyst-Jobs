@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Sao-Paulo-Brazil/Senior-Analyst--Account-Management_R-267222) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Sao-Paulo-Brazil/Senior-Analyst--Account-Management_R-271618-1) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-02-20.
+This business analyst position at Mastercard was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

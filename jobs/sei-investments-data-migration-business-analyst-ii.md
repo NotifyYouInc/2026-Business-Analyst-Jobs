@@ -5,12 +5,12 @@
 | Company | [SEI Investments](https://scoutify.ai/companies/sei-investments?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pennsylvania, US |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Data-Migration-Business-Analyst-II_R0035494) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://seic.wd1.myworkdayjobs.com/sei_global_services/job/USA---PA---Oaks/Data-Migration-Business-Analyst-II_R0035492) |
 
 ## About This Role
 
-This business analyst position at SEI Investments was posted on 2026-03-02.
+This business analyst position at SEI Investments was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

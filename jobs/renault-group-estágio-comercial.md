@@ -1,16 +1,16 @@
-# Estágio - Comercial at Renault Group
+# Estágio Comercial at Renault Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | São José do Rio Preto, São Paulo, Brazil |
+| Location | Brazil |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/BR_REN_BRASIL-Administrativo-SJP-GI020025/Estgio---Comercial_JOBREQ_50249713) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/So-Jos-dos-Pinhais/Estgio-Comercial_JOBREQ_50249974) |
 
 ## About This Role
 
-This business analyst position at Renault Group was posted on 2026-03-02.
+This business analyst position at Renault Group was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

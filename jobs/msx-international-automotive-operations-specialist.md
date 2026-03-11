@@ -1,16 +1,16 @@
-# Automotive Operations Specialist at MSX International
+# Automotive Operations Specialist  at MSX International
 
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990011630871-automotive-operations-specialist) |
+| Location | Wilmington, North Carolina, United States |
+| Category | Business Analyst |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990011948284-automotive-operations-specialist) |
 
 ## About This Role
 
-This operations position at MSX International was posted on 2026-02-11.
+This business analyst position at MSX International was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

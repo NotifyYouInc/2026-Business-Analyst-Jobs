@@ -5,12 +5,12 @@
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Project Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000111624915-administrative-coordinator-nephrology-full-time-days) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000112460655-administrative-coordinator-nephrology-full-time-days) |
 
 ## About This Role
 
-This project manager position at Northwestern Medicine was posted on 2026-02-26.
+This project manager position at Northwestern Medicine was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

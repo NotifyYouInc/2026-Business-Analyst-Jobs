@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Auburndale, Florida, United States |
+| Location | 2 locations |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000111623825-deal-desk-specialist) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000112476482-deal-desk-specialist) |
 
 ## About This Role
 
-This revenue / sales operations position at Informa was posted on 2026-02-26.
+This revenue / sales operations position at Informa was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

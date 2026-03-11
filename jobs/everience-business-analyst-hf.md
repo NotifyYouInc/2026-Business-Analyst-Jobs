@@ -1,16 +1,16 @@
-# Business Analyst H/F at Everience
+# Business Analyst (H/F) at Everience
 
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Location | Nanterre, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000107483420-business-analyst-hf) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000112508782-business-analyst-hf) |
 
 ## About This Role
 
-This business analyst position at Everience was posted on 2026-02-05.
+This business analyst position at Everience was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

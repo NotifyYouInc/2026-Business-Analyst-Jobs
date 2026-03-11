@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000112288798-business-analyst-2-elicitation-documentation-w2-position-must-be-gcusc-candidates-only) |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000112483667-business-analyst-2-elicitation-documentation-w2-position-must-be-gcusc-candidates-only) |
 
 ## About This Role
 
-This business analyst position at VTekis Consulting LLP was posted on 2026-03-02.
+This business analyst position at VTekis Consulting LLP was posted on 2026-03-03.
 
 ## Get Real-Time Alerts
 

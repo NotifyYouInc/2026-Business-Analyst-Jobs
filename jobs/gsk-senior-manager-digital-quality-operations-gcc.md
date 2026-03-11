@@ -1,0 +1,22 @@
+# Senior Manager-Digital Quality Operations-GCC at GSK
+
+| Field | Details |
+|-------|---------|
+| Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Program Manager |
+| Posted | 2026-03-03 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Bengaluru-Luxor-North-Tower/Senior-Manager-Digital-Quality-Operations-GCC_431771) |
+
+## About This Role
+
+This program manager position at GSK was posted on 2026-03-03.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -6,7 +6,7 @@
 | Location | Buena Park, California, United States |
 | Category | Engineering Manager |
 | Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000112300803-it-manager-bilingual-englishkorean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000112491638-it-manager-bilingual-englishkorean) |
 
 ## About This Role
 
