@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New Jersey, US |
-| Category | Scrum Master & Agile Coach |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000112491333-project-manager) |
+| Category | Project Manager |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000112800377-project-manager) |
 
 ## About This Role
 
-This scrum master & agile coach position at Woongjin was posted on 2026-03-03.
+This project manager position at Woongjin was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Colombia |
+| Location | San Isidro, Lima region, Peru |
 | Category | Project Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/01010-SAN-BERNARDINO-Distrito-Capital/PAYMENTS---LOYALTY-ASSOCIATE_JR00077322) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/PAYMENTS---LOYALTY-ASSOCIATE_JR00097663) |
 
 ## About This Role
 
-This project manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-02-20.
+This project manager position at Banco Bilbao Vizcaya Argentaria was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

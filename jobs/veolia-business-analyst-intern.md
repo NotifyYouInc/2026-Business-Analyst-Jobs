@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paramus, New Jersey, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000110459146-business-analyst-intern) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000112719998-business-analyst-intern) |
 
 ## About This Role
 
-This business analyst position at Veolia was posted on 2026-02-20.
+This business analyst position at Veolia was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

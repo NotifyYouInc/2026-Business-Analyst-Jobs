@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Indianapolis, Indiana, United States |
-| Category | Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/IN-CLIENT-STATE/Business-Operations-Analyst_R7117) |
+| Location | Not specified |
+| Category | Strategy & Operations |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/IN-CLIENT-STATE/Business-Operations-Analyst_R7267) |
 
 ## About This Role
 
-This operations position at CAI was posted on 2026-02-06.
+This strategy & operations position at CAI was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

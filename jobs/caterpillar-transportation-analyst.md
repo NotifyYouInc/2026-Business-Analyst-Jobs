@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Morton, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Morton-Illinois/Transportation-Analyst_R0000354549) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Morton-Illinois/Transportation-Analyst_R0000354316-1) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-03-02.
+This business analyst position at Caterpillar was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

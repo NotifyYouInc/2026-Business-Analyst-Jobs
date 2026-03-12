@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=87583) |
+| Location | 3 locations |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=99642) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-02-26.
+This strategy / management consulting position at IBM was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

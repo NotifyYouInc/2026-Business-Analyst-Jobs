@@ -1,0 +1,22 @@
+# Salesforce Functional Analyst & Administrator at Logicalis
+
+| Field | Details |
+|-------|---------|
+| Company | [Logicalis](https://scoutify.ai/companies/logicalis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Category | Business Analyst |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://logicalis.wd3.myworkdayjobs.com/logicaliscareers/job/Kuala-Lumpur-MY/Salesforce-Functional-Analyst---Administrator_JR04947) |
+
+## About This Role
+
+This business analyst position at Logicalis was posted on 2026-03-05.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

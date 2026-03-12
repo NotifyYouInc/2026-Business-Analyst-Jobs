@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Expert-ou-experte-mtier--Octroi-financement-entreprise_R2602783) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Robotisation-de-processus_R2603122-2) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-02.
+This business analyst position at Desjardins was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

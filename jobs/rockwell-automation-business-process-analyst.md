@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-New-Delhi-Noida/Business-Process-Analyst_R26-407) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Business Analyst |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Bogota-Colombia/Business-Process-Analyst_R26-883) |
 
 ## About This Role
 
-This operations position at Rockwell Automation was posted on 2026-02-11.
+This business analyst position at Rockwell Automation was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 

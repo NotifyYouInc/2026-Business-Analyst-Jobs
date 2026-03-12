@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011945056-pricing-market-access-value-proposition-manager) |
+| Posted | 2026-03-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011962596-pricing-market-access-value-proposition-manager) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-03-03.
+This business analyst position at AbbVie was posted on 2026-03-04.
 
 ## Get Real-Time Alerts
 
