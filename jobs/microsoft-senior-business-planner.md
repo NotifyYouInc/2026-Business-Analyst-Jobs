@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556750385) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556802834) |
 
 ## About This Role
 
-This business analyst position at Microsoft was posted on 2026-02-25.
+This business analyst position at Microsoft was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

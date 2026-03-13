@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Morton, Illinois, United States |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Morton-Illinois/Transportation-Analyst_R0000354316-1) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Singapore-Singapore/Transportation-Analyst_R0000355029) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-03-04.
+This business analyst position at Caterpillar was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

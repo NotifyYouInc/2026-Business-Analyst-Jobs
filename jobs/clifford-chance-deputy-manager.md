@@ -5,12 +5,12 @@
 | Company | [Clifford Chance](https://scoutify.ai/companies/cliffordchance?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Delhi, Delhi, India |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000110359526-deputy-manager) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CliffordChance/744000113085278-deputy-manager) |
 
 ## About This Role
 
-This business analyst position at Clifford Chance was posted on 2026-02-20.
+This business analyst position at Clifford Chance was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

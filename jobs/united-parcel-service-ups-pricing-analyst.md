@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-SUPPLY-CHAIN-SOLUTIONS-GAAPR/Pricing-Analyst_R25043871-1) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/TR---ISTANBUL-HQ-TRN37/Pricing-Analyst_R26007419) |
 
 ## About This Role
 
-This business analyst position at United Parcel Service (UPS) was posted on 2026-03-03.
+This business analyst position at United Parcel Service (UPS) was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

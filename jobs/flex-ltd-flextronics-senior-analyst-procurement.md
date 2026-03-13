@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Senior-Analyst---Procurement_WD215326) |
+| Location | Coimbatore, Tamil Nadu, India |
+| Category | Business Analyst |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Coimbatore/Senior-Analyst---Procurement_WD216133) |
 
 ## About This Role
 
-This operations position at FLEX LTD. Flextronics was posted on 2026-02-13.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

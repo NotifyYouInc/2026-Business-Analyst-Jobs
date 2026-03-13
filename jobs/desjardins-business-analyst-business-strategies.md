@@ -1,16 +1,16 @@
-# Business Analyst, Business strategies at Desjardins
+# Business analyst, Business strategies at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Quebec, CA |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-d-affaires--Solutions-transversales_R2603018) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-d-affaires--Assurance-de-dommages_R2603220) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-02-27.
+This business analyst position at Desjardins was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

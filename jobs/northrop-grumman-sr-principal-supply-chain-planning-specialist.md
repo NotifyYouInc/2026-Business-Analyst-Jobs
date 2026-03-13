@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Baltimore, Maryland, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Sr-Principal-Supply-Chain-Planning-Specialist_R10222218) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Sr-Principal-Supply-Chain-Planning-Specialist_R10224207) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-02-17.
+This business analyst position at Northrop Grumman was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 

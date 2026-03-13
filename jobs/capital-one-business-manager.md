@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | New York, US |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Manager_R236688-1) |
+| Posted | 2026-03-05 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Business-Manager_R237452-2) |
 
 ## About This Role
 
-This business analyst position at Capital One was posted on 2026-02-24.
+This business analyst position at Capital One was posted on 2026-03-05.
 
 ## Get Real-Time Alerts
 
