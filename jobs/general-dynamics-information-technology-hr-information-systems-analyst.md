@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Herndon, Virginia, United States |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/HR-Information-Systems-Analyst_RQ213767) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/HR-Information-Systems-Analyst_RQ216153-1) |
 
 ## About This Role
 
-This business analyst position at General Dynamics Information Technology was posted on 2026-02-06.
+This business analyst position at General Dynamics Information Technology was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

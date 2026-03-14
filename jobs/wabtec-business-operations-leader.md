@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012004276-business-operations-leader) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012014719-business-operations-leader) |
 
 ## About This Role
 
-This business analyst position at Wabtec was posted on 2026-03-05.
+This business analyst position at Wabtec was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allegis Global Solutions](https://scoutify.ai/companies/allegisglobalsolutions?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tempe, Arizona, United States |
+| Location | Troy, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000110401805-procurement-specialist-ii-talent-pool) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AllegisGlobalSolutions/744000113184202-procurement-specialist-ii-talent-pool) |
 
 ## About This Role
 
-This business analyst position at Allegis Global Solutions was posted on 2026-02-20.
+This business analyst position at Allegis Global Solutions was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

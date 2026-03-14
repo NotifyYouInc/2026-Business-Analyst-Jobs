@@ -5,12 +5,12 @@
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Customer-Insights-Senior-Associate_R14503) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Customer-Insights-Senior-Associate_R14571) |
 
 ## About This Role
 
-This business analyst position at Athena Health was posted on 2026-03-03.
+This business analyst position at Athena Health was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

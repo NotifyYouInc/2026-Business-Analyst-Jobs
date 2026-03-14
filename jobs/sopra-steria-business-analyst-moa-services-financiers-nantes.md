@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000110416305-business-analyst-moa-services-financiers-nantes) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113244667-business-analyst-moa-services-financiers-nantes) |
 
 ## About This Role
 
-This business analyst position at Sopra Steria was posted on 2026-02-20.
+This business analyst position at Sopra Steria was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

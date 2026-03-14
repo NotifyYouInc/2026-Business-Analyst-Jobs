@@ -5,12 +5,12 @@
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bellevue, Washington, United States |
 | Category | Project Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Technology-Solutions-Manager_REQ344956-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Sr-Technology-Solutions-Manager_REQ346344-1) |
 
 ## About This Role
 
-This project manager position at T-Mobile was posted on 2026-02-25.
+This project manager position at T-Mobile was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

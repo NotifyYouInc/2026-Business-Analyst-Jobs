@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000111424985-senior-business-analyst-nam-program-delivery) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000113239587-senior-business-analyst-nam-program-delivery) |
 
 ## About This Role
 
-This business analyst position at Louis Dreyfus was posted on 2026-02-25.
+This business analyst position at Louis Dreyfus was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

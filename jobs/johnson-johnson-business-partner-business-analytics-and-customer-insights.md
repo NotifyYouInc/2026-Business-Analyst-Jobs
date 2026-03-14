@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Brazil |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Mexico-City-Mexico/Business-Partner-Business-Analytics-and-Customer-Insights_R-059374-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/So-Paulo-Brazil/Business-Partner-Business-Analytics-and-Customer-Insights_R-061620) |
 
 ## About This Role
 
-This business analyst position at Johnson & Johnson was posted on 2026-02-19.
+This business analyst position at Johnson & Johnson was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

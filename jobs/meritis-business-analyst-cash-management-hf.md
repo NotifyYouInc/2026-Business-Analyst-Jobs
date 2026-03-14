@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000109037465-business-analyst-cash-management-hf) |
+| Category | Treasury & Capital Markets |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000113208012-business-analyst-cash-management-hf) |
 
 ## About This Role
 
-This business analyst position at Meritis was posted on 2026-02-12.
+This treasury & capital markets position at Meritis was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

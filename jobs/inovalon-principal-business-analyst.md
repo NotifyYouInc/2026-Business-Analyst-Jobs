@@ -5,12 +5,12 @@
 | Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pennsylvania, US |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7620567003) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7646010003) |
 
 ## About This Role
 
-This business analyst position at Inovalon was posted on 2026-02-18.
+This business analyst position at Inovalon was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

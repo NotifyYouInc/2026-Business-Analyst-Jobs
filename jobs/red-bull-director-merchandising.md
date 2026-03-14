@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000112797587-director-merchandising) |
+| Category | Program Manager |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000113254776-director-merchandising) |
 
 ## About This Role
 
-This business analyst position at Red Bull was posted on 2026-03-05.
+This program manager position at Red Bull was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Everett, Washington, United States |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Staff-Analyst--Staff-Analyst-General-_JR2026490270-1) |
+| Posted | 2026-03-06 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Staff-Analyst--Staff-Analyst-General-_JR2026498901-1) |
 
 ## About This Role
 
-This business analyst position at Boeing was posted on 2026-02-26.
+This business analyst position at Boeing was posted on 2026-03-06.
 
 ## Get Real-Time Alerts
 
