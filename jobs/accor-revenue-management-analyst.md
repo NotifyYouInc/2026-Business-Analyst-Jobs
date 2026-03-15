@@ -1,16 +1,16 @@
-# Business Analyst-ADM at IBM
+# Revenue Management Analyst  at ACCOR
 
 | Field | Details |
 |-------|---------|
-| Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Karnataka, IN |
+| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Saudi Arabia |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=96812) |
+| Posted | 2026-03-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000113324988-revenue-management-analyst) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-03-06.
+This business analyst position at ACCOR was posted on 2026-03-07.
 
 ## Get Real-Time Alerts
 
