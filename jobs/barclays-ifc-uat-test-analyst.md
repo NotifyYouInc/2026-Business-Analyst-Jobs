@@ -1,16 +1,16 @@
-# Advisor, Business strategies at Desjardins
+# IFC-UAT Test Analyst at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quebec, CA |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-dploiement_R2602961) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/IFC-UAT-Test-Analyst_JR-0000100873) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-09.
+This business analyst position at Barclays was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

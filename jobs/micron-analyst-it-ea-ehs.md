@@ -1,16 +1,16 @@
-# Advisor, Business strategies at Desjardins
+# ANALYST, IT EA EHS at Micron
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quebec, CA |
+| Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-dploiement_R2602961) |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/ANALYST--IT-EA-EHS_JR92468) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-09.
+This business analyst position at Micron was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

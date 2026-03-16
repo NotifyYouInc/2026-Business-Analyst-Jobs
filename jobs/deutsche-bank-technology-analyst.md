@@ -1,16 +1,16 @@
-# Advisor, Business strategies at Desjardins
+# Technology Analyst at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quebec, CA |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Business Analyst |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-dploiement_R2602961) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Taipei-Metro-Building/Technology-Analyst_R0422801-2) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-09.
+This business analyst position at Deutsche Bank was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

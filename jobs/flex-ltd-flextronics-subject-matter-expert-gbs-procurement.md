@@ -1,16 +1,16 @@
-# Senior Analyst - Logistics at FLEX LTD. Flextronics
+# Subject Matter Expert - GBS Procurement at FLEX LTD. Flextronics
 
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Senior-Analyst---Logistics_WD214688) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Pune/Subject-Matter-Expert---GBS-Procurement_WD216867) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-03-08.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

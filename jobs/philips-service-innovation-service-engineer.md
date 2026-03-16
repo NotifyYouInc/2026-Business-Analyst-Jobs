@@ -1,16 +1,16 @@
-# Advisor, Business strategies at Desjardins
+# Service Innovation Service Engineer at Philips
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quebec, CA |
+| Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-dploiement_R2602961) |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Service-Innovation-Service-Engineer_575488) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-09.
+This business analyst position at Philips was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Operations Analyst at CLEAResult
+# Program Specialist at CLEAResult
 
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | East Lansing, Michigan, United States |
 | Category | Business Analyst |
 | Posted | 2026-03-08 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Nashville-TN---828-Royal-Parkway/Operations-Analyst_R0016983) |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Michigan/Program-Specialist_R0017090) |
 
 ## About This Role
 

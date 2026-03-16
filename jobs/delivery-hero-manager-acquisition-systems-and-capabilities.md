@@ -1,16 +1,16 @@
-# Advisor, Business strategies at Desjardins
+# Manager Acquisition Systems and Capabilities at Delivery Hero
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quebec, CA |
+| Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-dploiement_R2602961) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000113395297-manager-acquisition-systems-and-capabilities) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-09.
+This business analyst position at Delivery Hero was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

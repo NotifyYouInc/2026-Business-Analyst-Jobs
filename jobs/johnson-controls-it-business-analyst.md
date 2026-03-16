@@ -1,16 +1,16 @@
-# Advisor, Business strategies at Desjardins
+# IT Business Analyst at Johnson Controls
 
 | Field | Details |
 |-------|---------|
-| Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quebec, CA |
+| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Dalian, Liaoning, China |
 | Category | Business Analyst |
 | Posted | 2026-03-09 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-dploiement_R2602961) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Dalian-Liaoning-China/IT-Business-Analyst_WD30263817) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-09.
+This business analyst position at Johnson Controls was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 
