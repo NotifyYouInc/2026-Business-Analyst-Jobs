@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011920976-manager-accounts-i) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012042887-manager-accounts-i) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-03-02.
+This business analyst position at AbbVie was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

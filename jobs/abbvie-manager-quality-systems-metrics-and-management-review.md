@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Project Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011783626-manager-quality-systems-metrics-and-management-review) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012034556-manager-quality-systems-metrics-and-management-review) |
 
 ## About This Role
 
-This project manager position at AbbVie was posted on 2026-02-20.
+This project manager position at AbbVie was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

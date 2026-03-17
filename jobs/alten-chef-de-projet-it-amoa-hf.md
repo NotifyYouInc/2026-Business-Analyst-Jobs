@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
+| Location | Toulouse, Occitanie, France |
 | Category | Project Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000112701897-chef-de-projet-it-amoa-hf) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000113487027-chef-de-projet-it-amoa-hf) |
 
 ## About This Role
 
-This project manager position at ALTEN was posted on 2026-03-04.
+This project manager position at ALTEN was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

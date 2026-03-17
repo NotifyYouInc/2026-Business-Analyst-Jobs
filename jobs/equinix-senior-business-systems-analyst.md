@@ -5,12 +5,12 @@
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | India |
 | Category | Business Analyst |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Senior-Business-Systems-Analyst_JR-157368) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Bangalore-Office-BLS2/Senior-Business-Systems-Analyst_JR-158901) |
 
 ## About This Role
 
-This business analyst position at Equinix was posted on 2026-02-11.
+This business analyst position at Equinix was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

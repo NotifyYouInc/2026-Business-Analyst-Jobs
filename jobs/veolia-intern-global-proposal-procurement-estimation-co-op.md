@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Oakville, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000110244755-intern-global-proposal-procurement-estimation-co-op) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000113512629-intern-global-proposal-procurement-estimation-co-op) |
 
 ## About This Role
 
-This business analyst position at Veolia was posted on 2026-02-19.
+This business analyst position at Veolia was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

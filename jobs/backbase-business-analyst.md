@@ -1,16 +1,16 @@
-#  Business Analyst at Backbase
+# Business Analyst at Backbase
 
 | Field | Details |
 |-------|---------|
 | Company | [Backbase](https://scoutify.ai/companies/backbase?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7543905) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/workatbackbase/jobs/7686575) |
 
 ## About This Role
 
-This business analyst position at Backbase was posted on 2026-02-26.
+This business analyst position at Backbase was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

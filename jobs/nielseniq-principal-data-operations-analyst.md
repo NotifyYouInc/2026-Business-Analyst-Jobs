@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | India |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000109646915-principal-data-operations-analyst) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000113518837-principal-data-operations-analyst) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-02-17.
+This business analyst position at NielsenIQ was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

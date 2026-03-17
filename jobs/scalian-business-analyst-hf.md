@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Toulouse, Occitanie, France |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000111112969-business-analyst-hf) |
+| Posted | 2026-03-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000113548268-business-analyst-hf) |
 
 ## About This Role
 
-This business analyst position at Scalian was posted on 2026-02-24.
+This business analyst position at Scalian was posted on 2026-03-09.
 
 ## Get Real-Time Alerts
 

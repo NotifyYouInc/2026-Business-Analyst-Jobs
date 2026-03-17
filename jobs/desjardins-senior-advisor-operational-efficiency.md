@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Conseiller-principal-ou-conseillre-principale-en-efficacit-oprationnelle--Amlioration-continue_R2602986) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Efficacit-oprationnelle_R2603203) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-03.
+This business analyst position at Desjardins was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
