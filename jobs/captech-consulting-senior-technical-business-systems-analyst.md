@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000111154221-senior-technical-business-systems-analyst) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000113817545-senior-technical-business-systems-analyst) |
 
 ## About This Role
 
-This business analyst position at CapTech Consulting was posted on 2026-02-24.
+This business analyst position at CapTech Consulting was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

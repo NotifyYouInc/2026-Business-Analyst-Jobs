@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Genentech](https://scoutify.ai/companies/roche?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | South San Francisco, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---PTTA---Global-Engineering_202603-105991-1) |
+| Category | Project Manager |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---PTTA---Global-Engineering_202603-106262) |
 
 ## About This Role
 
-This business analyst position at Genentech was posted on 2026-03-06.
+This project manager position at Genentech was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

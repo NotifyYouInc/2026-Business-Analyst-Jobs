@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Location | San Diego, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Charleston-SC/Business-Analyst--Mid_R0233229) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Business-Analyst--Mid_R0235552) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-02-25.
+This business analyst position at Booz Allen was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

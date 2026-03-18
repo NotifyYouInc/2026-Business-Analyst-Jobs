@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000113545326-sr-business-analyst-successfactors) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000113787257-sr-business-analyst-successfactors) |
 
 ## About This Role
 
-This human resources / people ops position at NBCUniversal was posted on 2026-03-09.
+This human resources / people ops position at NBCUniversal was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

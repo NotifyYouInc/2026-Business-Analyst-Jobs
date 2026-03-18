@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000112334057-onboarding-associate) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000113977557-onboarding-associate) |
 
 ## About This Role
 
-This business analyst position at Grab was posted on 2026-03-03.
+This business analyst position at Grab was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

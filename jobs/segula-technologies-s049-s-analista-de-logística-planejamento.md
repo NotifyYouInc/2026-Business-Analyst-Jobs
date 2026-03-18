@@ -5,12 +5,12 @@
 | Company | [SEGULA Technologies](https://scoutify.ai/companies/segulatechnologies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brazil |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000110830770-s049-s-analista-de-logistica-planejamento) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SegulaTechnologies/744000113773983-s049-s-analista-de-logistica-planejamento) |
 
 ## About This Role
 
-This business analyst position at SEGULA Technologies was posted on 2026-02-23.
+This business analyst position at SEGULA Technologies was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

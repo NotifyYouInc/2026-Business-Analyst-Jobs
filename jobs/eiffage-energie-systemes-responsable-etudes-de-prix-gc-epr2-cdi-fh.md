@@ -5,12 +5,12 @@
 | Company | [Eiffage Energie Systemes](https://scoutify.ai/companies/eiffage-energie-systemes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | France |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://eiffage.wd3.myworkdayjobs.com/eiffage_careers/job/Vlizy-Villacoublay/Responsable-Etudes-de-Prix---GC-EPR2---CDI--F-H-_JR2026-881) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://eiffage.wd3.myworkdayjobs.com/eiffage_careers/job/Vlizy-Villacoublay/Responsable-Etudes-de-Prix---GC-EPR2---CDI--F-H-_JR2026-1606) |
 
 ## About This Role
 
-This business analyst position at Eiffage Energie Systemes was posted on 2026-02-17.
+This business analyst position at Eiffage Energie Systemes was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Project Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000111880413-chef-de-projet-fonctionnel-amoa-hf) |
+| Posted | 2026-03-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000113770318-chef-de-projet-fonctionnel-amoa-hf) |
 
 ## About This Role
 
-This project manager position at ALTEN was posted on 2026-02-27.
+This project manager position at ALTEN was posted on 2026-03-10.
 
 ## Get Real-Time Alerts
 
