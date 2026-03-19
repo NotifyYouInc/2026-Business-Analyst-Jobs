@@ -5,12 +5,12 @@
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Business Analyst |
-| Posted | 2026-03-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000113360852-director-of-revenue-management) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000114046943-director-of-revenue-management) |
 
 ## About This Role
 
-This business analyst position at ACCOR was posted on 2026-03-08.
+This business analyst position at ACCOR was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DocPlanner](https://scoutify.ai/companies/docplanner?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 8 locations |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Project Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000112249626-ai-project-manager-for-customer-care-based-in-barcelona) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Docplanner/744000114042208-ai-project-manager-for-customer-care-based-in-barcelona) |
 
 ## About This Role
 
-This project manager position at DocPlanner was posted on 2026-03-02.
+This project manager position at DocPlanner was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000112742877-alternance-e-commerce-consumer-experience-assistant-mw-salomon) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000114020288-alternance-e-commerce-consumer-experience-assistant-mw-salomon) |
 
 ## About This Role
 
-This business analyst position at Salomon was posted on 2026-03-04.
+This business analyst position at Salomon was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

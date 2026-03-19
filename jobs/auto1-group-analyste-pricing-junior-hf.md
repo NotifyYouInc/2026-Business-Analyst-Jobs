@@ -1,16 +1,16 @@
-# Analyste Pricing Junior H/F  at AUTO1 Group
+# Analyste Pricing Junior H/F at AUTO1 Group
 
 | Field | Details |
 |-------|---------|
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | France |
+| Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000111824603-analyste-pricing-junior-hf) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000114025392-analyste-pricing-junior-hf) |
 
 ## About This Role
 
-This business analyst position at AUTO1 Group was posted on 2026-02-27.
+This business analyst position at AUTO1 Group was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

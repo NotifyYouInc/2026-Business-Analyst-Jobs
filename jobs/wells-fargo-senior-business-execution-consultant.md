@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Business-Execution-Consultant_R-523674-1) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LOS-ANGELES-CA/Senior-Business-Execution-Consultant_R-509285) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-03-06.
+This business analyst position at Wells Fargo was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

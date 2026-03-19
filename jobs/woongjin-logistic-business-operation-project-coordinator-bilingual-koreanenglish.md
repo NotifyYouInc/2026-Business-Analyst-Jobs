@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Operations |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000109073275-logistic-business-operation-project-coordinator-bilingual-koreanenglish) |
+| Category | Project Manager |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000114148357-logistic-business-operation-project-coordinator-bilingual-koreanenglish) |
 
 ## About This Role
 
-This operations position at Woongjin was posted on 2026-02-12.
+This project manager position at Woongjin was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

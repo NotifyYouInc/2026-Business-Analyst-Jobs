@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Breuninger](https://scoutify.ai/companies/breuninger?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Hamburg, Hamburg, Germany |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EBreuningerGmbHCo/744000113740077-manager-process-design-excellence-mwd-remote-moglich) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EBreuningerGmbHCo/744000114048037-manager-process-design-excellence-mwd-remote-moglich) |
 
 ## About This Role
 
-This business analyst position at Breuninger was posted on 2026-03-10.
+This business analyst position at Breuninger was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

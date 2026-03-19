@@ -1,16 +1,16 @@
-# Senior Business Analyst – Contract Lifecycle Management (CLM) at Epiqsystems
+# Senior Business Analyst - Contract Lifecycle Management (CLM) at Epiqsystems
 
 | Field | Details |
 |-------|---------|
 | Company | [Epiqsystems](https://scoutify.ai/companies/epiqsystems?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Chicago, Illinois, United States |
 | Category | Legal |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-New-York-NY-777-Third-Avenue/Senior-Business-Analyst---Contract-Lifecycle-Management--CLM-_R0032014) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://epiqsystems.wd503.myworkdayjobs.com/epiq_careers/job/USA-Chicago-IL-311-S-Wacker-Dr-Suite-350/Senior-Business-Analyst---Contract-Lifecycle-Management--CLM-_R0033690) |
 
 ## About This Role
 
-This legal position at Epiqsystems was posted on 2026-02-19.
+This legal position at Epiqsystems was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

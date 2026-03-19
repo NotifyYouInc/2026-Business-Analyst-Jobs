@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000111857995-revenue-manager) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000114028389-revenue-manager) |
 
 ## About This Role
 
-This business analyst position at ACCOR was posted on 2026-02-27.
+This business analyst position at ACCOR was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

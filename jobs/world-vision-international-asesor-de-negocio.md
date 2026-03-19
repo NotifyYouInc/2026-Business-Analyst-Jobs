@@ -1,16 +1,16 @@
-# Asesor de Negocio at World Vision International
+# ASESOR DE NEGOCIO at World Vision International
 
 | Field | Details |
 |-------|---------|
 | Company | [World Vision International](https://scoutify.ai/companies/world-vision-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pinotepa Nacional, Oaxaca, Mexico |
+| Location | Puebla, Puebla, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://worldvision.wd1.myworkdayjobs.com/worldvisioninternational/job/VisionFund-Office-Pinotepa-Nal-Mexico/Asesor-de-Negocio_JR48049) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://worldvision.wd1.myworkdayjobs.com/worldvisioninternational/job/Vision-Fund-Office-Puebla-Sur-Mexico/ASESOR-DE-NEGOCIO_JR48815) |
 
 ## About This Role
 
-This business analyst position at World Vision International was posted on 2026-02-26.
+This business analyst position at World Vision International was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

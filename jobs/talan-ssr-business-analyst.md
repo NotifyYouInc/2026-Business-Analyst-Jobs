@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000112219287-ssr-business-analyst) |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000114019337-ssr-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-03-02.
+This business analyst position at Talan was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

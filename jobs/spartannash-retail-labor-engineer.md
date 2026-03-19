@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SpartanNash](https://scoutify.ai/companies/spartannash?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Michigan, US |
-| Category | Project Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Byron-Center-Michigan/Retail-Labor-Engineer_R76707) |
+| Category | Business Analyst |
+| Posted | 2026-03-11 |
+| Apply | [View on company site](https://spartannash.wd1.myworkdayjobs.com/spartannash_careers/job/Byron-Center-Michigan/Retail-Labor-Engineer_R84005) |
 
 ## About This Role
 
-This project manager position at SpartanNash was posted on 2026-02-18.
+This business analyst position at SpartanNash was posted on 2026-03-11.
 
 ## Get Real-Time Alerts
 

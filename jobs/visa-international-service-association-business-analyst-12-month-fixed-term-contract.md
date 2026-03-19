@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112302651-business-analyst-12-month-fixed-term-contract) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000114163258-business-analyst-12-month-fixed-term-contract) |
 
 ## About This Role
 
-This business analyst position at Visa International Service Association was posted on 2026-03-03.
+This business analyst position at Visa International Service Association was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
