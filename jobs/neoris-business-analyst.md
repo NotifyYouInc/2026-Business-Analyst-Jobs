@@ -5,12 +5,12 @@
 | Company | [Neoris](https://scoutify.ai/companies/neoris?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4784875101) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/neoris/jobs/4806259101) |
 
 ## About This Role
 
-This business analyst position at Neoris was posted on 2026-02-24.
+This business analyst position at Neoris was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

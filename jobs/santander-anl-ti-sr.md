@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brazil |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Getnet-TO-Brasil/ANL-TI-SR_Req1542656) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Getnet-TO-Brasil/ANL-TI-SR_Req1553266) |
 
 ## About This Role
 
-This business analyst position at Santander was posted on 2026-02-18.
+This business analyst position at Santander was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

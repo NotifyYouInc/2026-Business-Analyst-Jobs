@@ -5,12 +5,12 @@
 | Company | [VTekis Consulting LLP](https://scoutify.ai/companies/vtekisconsultingllp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Carlsbad, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000114102472-functional-business-analyst-manhattan-wmos-2010-and-2018-erp-systems-like-oracle-enterprise-e1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VTekisConsultingLLP/744000114416487-functional-business-analyst-manhattan-wmos-2010-and-2018-erp-systems-like-oracle-enterprise-e1) |
 
 ## About This Role
 
-This business analyst position at VTekis Consulting LLP was posted on 2026-03-11.
+This business analyst position at VTekis Consulting LLP was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Italy |
 | Category | Project Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000113215188-business-support-manager) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000114404867-business-support-manager) |
 
 ## About This Role
 
-This project manager position at AUTO1 Group was posted on 2026-03-06.
+This project manager position at AUTO1 Group was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | West Palm Beach, Florida, United States |
 | Category | Product Marketing |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000113597427-senior-manager-gtm-insights) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000114426187-senior-manager-gtm-insights) |
 
 ## About This Role
 
-This product marketing position at ServiceNow was posted on 2026-03-09.
+This product marketing position at ServiceNow was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 

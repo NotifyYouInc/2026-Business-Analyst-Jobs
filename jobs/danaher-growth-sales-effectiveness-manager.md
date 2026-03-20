@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Uppsala, Uppsala, Sweden |
 | Category | Growth Marketing |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Little-Chalfont-England/Growth---Sales-Effectiveness-Manager_R1304663-1) |
+| Posted | 2026-03-12 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Uppsala-Sweden/Growth---Sales-Effectiveness-Manager_R1306788-1) |
 
 ## About This Role
 
-This growth marketing position at Danaher was posted on 2026-03-11.
+This growth marketing position at Danaher was posted on 2026-03-12.
 
 ## Get Real-Time Alerts
 
