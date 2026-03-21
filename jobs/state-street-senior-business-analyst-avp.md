@@ -1,16 +1,16 @@
-# Senior Business Analyst - AVP at State Street
+# Senior Business Analyst, AVP at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Kraków, Lesser Poland, Poland |
 | Category | Business Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/Senior-Business-Analyst---AVP_R-783621-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Krakow-Poland/Senior-Business-Analyst--AVP_R-779233) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-02-06.
+This business analyst position at State Street was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

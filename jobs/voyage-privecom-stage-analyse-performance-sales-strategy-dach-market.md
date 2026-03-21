@@ -5,12 +5,12 @@
 | Company | [voyage prive.com](https://scoutify.ai/companies/voyageprivecom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VoyagePriv/744000112712641-stage-analyse-performance-sales-strategy-dach-market) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VoyagePriv/744000114658832-stage-analyse-performance-sales-strategy-dach-market) |
 
 ## About This Role
 
-This business analyst position at voyage prive.com was posted on 2026-03-04.
+This business analyst position at voyage prive.com was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

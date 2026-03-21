@@ -5,12 +5,12 @@
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Senior-Business-Analyst_JR1079154) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Senior-Business-Analyst_JR1080877) |
 
 ## About This Role
 
-This business analyst position at Broadridge was posted on 2026-02-09.
+This business analyst position at Broadridge was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingredion](https://scoutify.ai/companies/ingredion?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/San-Juan-del-Ro-MX/Intern-Supply-Chain_Req-36898) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Guadalajara-JAL/Intern-Supply-Chain_Req-37242) |
 
 ## About This Role
 
-This business analyst position at Ingredion was posted on 2026-02-25.
+This business analyst position at Ingredion was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

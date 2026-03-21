@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brazil |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000112525466-trading-assistant-product) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000114716826-trading-assistant-product) |
 
 ## About This Role
 
-This business analyst position at bet365 was posted on 2026-03-03.
+This business analyst position at bet365 was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

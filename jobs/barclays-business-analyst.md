@@ -6,7 +6,7 @@
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Business-Analyst_JR-0000101880) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Business-Analyst_JR-0000084751) |
 
 ## About This Role
 

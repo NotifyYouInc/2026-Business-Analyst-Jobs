@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000112481297-total-rewards-analyst-excel-advanced) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000114614520-total-rewards-analyst-excel-advanced) |
 
 ## About This Role
 
-This human resources / people ops position at H&M Group was posted on 2026-03-03.
+This human resources / people ops position at H&M Group was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

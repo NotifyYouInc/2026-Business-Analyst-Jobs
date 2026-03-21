@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Kentucky, US |
+| Location | Oregon, US |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-KY/Pharmacy-Quality-Coordinator_1629735-1) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-OR/Pharmacy-Quality-Coordinator_1629747-1) |
 
 ## About This Role
 
-This business analyst position at Centene was posted on 2026-03-10.
+This business analyst position at Centene was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

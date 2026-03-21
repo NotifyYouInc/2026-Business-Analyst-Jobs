@@ -1,16 +1,16 @@
-# Business Intelligence Senior Manager at Cox
+# Business Intelligence, Senior Manager at Cox
 
 | Field | Details |
 |-------|---------|
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Project Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Business-Intelligence-Senior-Manager_R202673497) |
+| Location | Atlanta, Georgia, United States |
+| Category | Business Analyst |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Business-Intelligence--Senior-Manager_R202674564) |
 
 ## About This Role
 
-This project manager position at Cox was posted on 2026-03-02.
+This business analyst position at Cox was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

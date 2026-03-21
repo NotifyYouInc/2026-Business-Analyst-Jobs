@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TN---Nashville/Sr-Systems-Analyst_R0045407-1) |
+| Category | Software Engineer |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Sr-Systems-Analyst_R0047359) |
 
 ## About This Role
 
-This technical & solutions architect position at HCSC was posted on 2026-02-10.
+This software engineer position at HCSC was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

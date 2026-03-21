@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000113791397-sr-business-analyst-sales-automation) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000114696438-sr-business-analyst-sales-automation) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-03-10.
+This business analyst position at Delivery Hero was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

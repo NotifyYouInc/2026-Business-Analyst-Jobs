@@ -1,16 +1,16 @@
-# Ingénieur Chargé d’Affaires Outillage / Machines H/F  at ALTEN
+# Ingénieur Chargé d’Affaires Outillage / Machines H/F at ALTEN
 
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nantes, Pays de la Loire, France |
+| Location | Saint-Nazaire, Pays de la Loire, France |
 | Category | Project Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000112714323-ingenieur-charge-daffaires-outillage-machines-hf) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000114709872-ingenieur-charge-daffaires-outillage-machines-hf) |
 
 ## About This Role
 
-This project manager position at ALTEN was posted on 2026-03-04.
+This project manager position at ALTEN was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

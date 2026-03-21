@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Walnut Creek, California, United States |
+| Location | Aliso Viejo, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Walnut-Creek---1255-Treat/Benefit-Analyst_R_341818) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Aliso-Viejo---Polaris/Benefit-Analyst_R_344164) |
 
 ## About This Role
 
-This business analyst position at Marsh was posted on 2026-02-26.
+This business analyst position at Marsh was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

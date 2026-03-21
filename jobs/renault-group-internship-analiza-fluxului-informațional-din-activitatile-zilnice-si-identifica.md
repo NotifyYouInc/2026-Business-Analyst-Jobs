@@ -5,12 +5,12 @@
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Piteşti, Arges, Romania |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Pitesti/XMLNAME--Internship--Analiza-fluxului-informa-ional-din-activitatile-zilnice-si-identificarea-ariilor-de-imbunatatire--F-M-_JOBREQ_50248972) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Pitesti/XMLNAME--Internship--Analiza-fluxului-informa-ional-din-activitatile-zilnice-si-identificarea-ariilor-de-imbunatatire--F-M-_JOBREQ_50251331) |
 
 ## About This Role
 
-This business analyst position at Renault Group was posted on 2026-02-25.
+This business analyst position at Renault Group was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

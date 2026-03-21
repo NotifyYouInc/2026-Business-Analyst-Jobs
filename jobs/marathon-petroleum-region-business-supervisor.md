@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marathon Petroleum](https://scoutify.ai/companies/mpc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cary, North Carolina, United States |
+| Location | Duluth, Minnesota, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Cary-North-Carolina/Region-Business-Supervisor_00020533) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://mpc.wd1.myworkdayjobs.com/MPCCareers/job/Duluth-Georgia/Region-Business-Supervisor_00021113-1) |
 
 ## About This Role
 
-This business analyst position at Marathon Petroleum was posted on 2026-02-20.
+This business analyst position at Marathon Petroleum was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

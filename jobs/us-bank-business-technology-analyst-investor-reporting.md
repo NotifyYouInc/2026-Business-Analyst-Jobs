@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Owensboro-KY/Business-Technology-Analyst---Investor-Reporting_2026-0002291) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Owensboro-KY/Business-Technology-Analyst---Investor-Reporting_2026-0006033) |
 
 ## About This Role
 
-This business analyst position at U.S. Bank was posted on 2026-02-04.
+This business analyst position at U.S. Bank was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

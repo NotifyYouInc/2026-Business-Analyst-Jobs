@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Project Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000114117097-sr-project-management) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000114706147-sr-project-management) |
 
 ## About This Role
 
-This project manager position at Delivery Hero was posted on 2026-03-11.
+This project manager position at Delivery Hero was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 
