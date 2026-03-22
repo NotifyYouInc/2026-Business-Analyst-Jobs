@@ -1,16 +1,16 @@
-# Business Analyst at Gartner
+# Brand Operations Expert at Audemars Piguet
 
 | Field | Details |
 |-------|---------|
-| Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Haryana, IN |
+| Company | [Audemars Piguet](https://scoutify.ai/companies/audemarspiguet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Vaud, CH |
 | Category | Business Analyst |
 | Posted | 2026-03-14 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Business-Analyst_108084) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AudemarsPiguet/744000114804297-brand-operations-expert) |
 
 ## About This Role
 
-This business analyst position at Gartner was posted on 2026-03-14.
+This business analyst position at Audemars Piguet was posted on 2026-03-14.
 
 ## Get Real-Time Alerts
 
