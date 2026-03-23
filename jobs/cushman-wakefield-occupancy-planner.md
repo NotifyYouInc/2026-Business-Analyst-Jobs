@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Everett, Washington, United States |
 | Category | Business Analyst |
 | Posted | 2026-03-13 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Occupancy-Planner_R310481) |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---WA---Everett---3003-W-Casino-Rd/Occupancy-Planner_R310189) |
 
 ## About This Role
 

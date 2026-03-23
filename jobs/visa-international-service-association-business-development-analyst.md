@@ -1,16 +1,16 @@
-# Business Development - Analyst at Visa International Service Association
+# Business Development Analyst at Visa International Service Association
 
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
-| Category | Business Development |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000108738599-business-development-analyst) |
+| Location | Bangkok, Bangkok, Thailand |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000114896707-business-development-analyst) |
 
 ## About This Role
 
-This business development position at Visa International Service Association was posted on 2026-02-11.
+This sales development (sdr / bdr) position at Visa International Service Association was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

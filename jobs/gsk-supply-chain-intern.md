@@ -1,16 +1,16 @@
-# Business Execution Consultant at Wells Fargo
+# Supply Chain Intern at GSK
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Business Analyst |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-525377-1) |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Taiwan---Taipei/Supply-Chain-Intern_437248) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-03-16.
+This business analyst position at GSK was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

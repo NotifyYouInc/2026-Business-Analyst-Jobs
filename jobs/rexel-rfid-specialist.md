@@ -1,16 +1,16 @@
-# Senior Technical Business Analyst at Ciandt
+# RFID Specialist  at REXEL
 
 | Field | Details |
 |-------|---------|
-| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Deventer, Overijssel, The Netherlands |
 | Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.lever.co/ciandt/3f2701eb-eb75-493d-b8b6-abae21abd415) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000114849297-rfid-specialist) |
 
 ## About This Role
 
-This business analyst position at Ciandt was posted on 2026-03-16.
+This business analyst position at REXEL was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

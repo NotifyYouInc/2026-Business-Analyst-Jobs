@@ -1,16 +1,16 @@
-# Business Execution Consultant at Wells Fargo
+# Analyst - Requirements Management - TSI at BP
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-525377-1) |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Analyst---Requirements-Management---TSI_RQ107481-1) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-03-16.
+This business analyst position at BP was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

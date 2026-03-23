@@ -1,16 +1,16 @@
-# Business Execution Consultant at Wells Fargo
+# FINREG  Analyst at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-525377-1) |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/FINREG--Analyst_R0421845) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-03-16.
+This business analyst position at Deutsche Bank was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

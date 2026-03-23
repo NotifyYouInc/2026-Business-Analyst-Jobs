@@ -1,16 +1,16 @@
-# Associate Project Specialist – Tiering at Sanofi
+# Commercial Excellence BP at Vantive
 
 | Field | Details |
 |-------|---------|
-| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Company | [Vantive](https://scoutify.ai/companies/vantive?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Project Manager |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Chengdu/Associate-Project-Specialist---Tiering_R2846318-1) |
+| Apply | [View on company site](https://vantive.wd108.myworkdayjobs.com/vantive/job/Shanghai/Commercial-Excellence-BP_JR-193014) |
 
 ## About This Role
 
-This project manager position at Sanofi was posted on 2026-03-16.
+This project manager position at Vantive was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

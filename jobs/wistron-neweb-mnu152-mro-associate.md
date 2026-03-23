@@ -1,16 +1,16 @@
-# Business Execution Consultant at Wells Fargo
+# MNU152 MRO Associate at Wistron NeWeb
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Wistron NeWeb](https://scoutify.ai/companies/wistron-neweb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Vietnam |
 | Category | Business Analyst |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-525377-1) |
+| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/---/MNU152-MRO-Associate_REQ_260310621) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-03-16.
+This business analyst position at Wistron NeWeb was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

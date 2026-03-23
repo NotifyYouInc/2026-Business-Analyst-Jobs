@@ -1,16 +1,16 @@
-# Senior Technical Business Analyst at Ciandt
+# Warehouse and LSP Cooridinator at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Ciandt](https://scoutify.ai/companies/ciandt?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | India |
 | Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.lever.co/ciandt/3f2701eb-eb75-493d-b8b6-abae21abd415) |
+| Posted | 2026-03-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114854037-warehouse-and-lsp-cooridinator) |
 
 ## About This Role
 
-This business analyst position at Ciandt was posted on 2026-03-16.
+This business analyst position at Robert Bosch was posted on 2026-03-15.
 
 ## Get Real-Time Alerts
 

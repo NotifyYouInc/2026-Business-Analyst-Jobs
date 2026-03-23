@@ -1,12 +1,12 @@
-# Associate Project Specialist – Tiering at Sanofi
+# GTMC-FFE Excellence Manager-Shanghai at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Shanghai, Shanghai, China |
 | Category | Project Manager |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Chengdu/Associate-Project-Specialist---Tiering_R2846318-1) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Shanghai/GTMC-FFE-Excellence-Manager-Shanghai_R2848186) |
 
 ## About This Role
 

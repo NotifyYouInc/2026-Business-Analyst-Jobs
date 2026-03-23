@@ -1,16 +1,16 @@
-# Business Execution Consultant at Wells Fargo
+# Revenue Anaylst at ACCOR
 
 | Field | Details |
 |-------|---------|
-| Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [ACCOR](https://scoutify.ai/companies/accor?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-Execution-Consultant_R-525377-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AccorHotel/744000114882887-revenue-anaylst) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-03-16.
+This business analyst position at ACCOR was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

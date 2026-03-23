@@ -1,16 +1,16 @@
-# Associate Project Specialist – Tiering at Sanofi
+# Technology Project Team Lead at Caterpillar
 
 | Field | Details |
 |-------|---------|
-| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 3 locations |
 | Category | Project Manager |
 | Posted | 2026-03-16 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Chengdu/Associate-Project-Specialist---Tiering_R2846318-1) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bibra-Lake-Western-Australia/Technology-Project-Team-Lead_R0000354682-1) |
 
 ## About This Role
 
-This project manager position at Sanofi was posted on 2026-03-16.
+This project manager position at Caterpillar was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
