@@ -5,12 +5,12 @@
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Senior-Consultant--Dealer-Strategic-Initiatives_JR00121257) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterloo-Ontario/Senior-Consultant--Dealer-Strategic-Initiatives_JR00121653) |
 
 ## About This Role
 
-This strategy / management consulting position at Sun Life Financial was posted on 2026-03-06.
+This strategy / management consulting position at Sun Life Financial was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

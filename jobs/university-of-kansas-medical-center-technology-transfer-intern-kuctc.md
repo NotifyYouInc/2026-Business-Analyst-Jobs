@@ -5,12 +5,12 @@
 | Company | [University of Kansas Medical Center](https://scoutify.ai/companies/university-of-kansas-medical-center?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://kumc.wd5.myworkdayjobs.com/kumc-jobs/job/Kansas-City-Metro-Area/Technology-Transfer-Intern---KUCTC_JR009702) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://kumc.wd5.myworkdayjobs.com/kumc-jobs/job/Kansas-City-Metro-Area/Technology-Transfer-Intern---KUCTC_JR009706) |
 
 ## About This Role
 
-This business analyst position at University of Kansas Medical Center was posted on 2026-03-13.
+This business analyst position at University of Kansas Medical Center was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

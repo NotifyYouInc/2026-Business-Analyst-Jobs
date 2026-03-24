@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Shenzhen, Guangdong, China |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000113393267-senior-analyst-ai) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000115126607-senior-analyst-ai) |
 
 ## About This Role
 
-This business analyst position at Informa was posted on 2026-03-09.
+This business analyst position at Informa was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

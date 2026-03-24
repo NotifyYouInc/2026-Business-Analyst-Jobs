@@ -5,12 +5,12 @@
 | Company | [Williams](https://scoutify.ai/companies/williams?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tulsa, Oklahoma, United States |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Business-Process-Analyst-III-Asset-Analytics_R111582) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Business-Process-Analyst-III-Asset-Analytics_R111647) |
 
 ## About This Role
 
-This asset management / portfolio management position at Williams was posted on 2026-03-10.
+This asset management / portfolio management position at Williams was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

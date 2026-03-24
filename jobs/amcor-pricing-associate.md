@@ -5,12 +5,12 @@
 | Company | [Amcor](https://scoutify.ai/companies/amcor?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Oshkosh, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-Division-Head-Office-WI/Pricing-Associate_REQ_85615) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-Division-Head-Office-WI/Pricing-Associate_REQ_87758) |
 
 ## About This Role
 
-This business analyst position at Amcor was posted on 2026-03-03.
+This business analyst position at Amcor was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

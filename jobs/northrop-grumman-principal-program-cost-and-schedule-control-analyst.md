@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Layton, Utah, United States |
-| Category | Venture Capital |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Layton/Principal-Program-Cost-and-Schedule-Control-Analyst_R10222873) |
+| Location | San Diego, California, United States |
+| Category | Business Analyst |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Program-Cost-and-Schedule-Control-Analyst_R10225969) |
 
 ## About This Role
 
-This venture capital position at Northrop Grumman was posted on 2026-02-16.
+This business analyst position at Northrop Grumman was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Program-or-Principal-Program-Cost-and-Schedule-Control-Analyst_R10225213) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Program-or-Principal-Program-Cost-and-Schedule-Control-Analyst_R10225923) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-03-10.
+This business analyst position at Northrop Grumman was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 

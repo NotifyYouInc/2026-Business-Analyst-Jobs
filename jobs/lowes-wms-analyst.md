@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hartford, Connecticut, United States |
+| Location | New Caney, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-E-Hartford-CT-BDC-3512/WMS-Analyst_JR-02418087) |
+| Posted | 2026-03-16 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-New-Caney-TX-BDC-3465/WMS-Analyst_JR-02382315) |
 
 ## About This Role
 
-This business analyst position at Lowe's was posted on 2026-02-27.
+This business analyst position at Lowe's was posted on 2026-03-16.
 
 ## Get Real-Time Alerts
 
