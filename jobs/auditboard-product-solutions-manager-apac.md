@@ -5,12 +5,12 @@
 | Company | [AuditBoard](https://scoutify.ai/companies/auditboard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/auditboard/845d74dd-e625-4166-a74c-eeadfe6c3872) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/auditboard/06c912c6-5f7d-4eb7-9d5e-1bddc5525dd9) |
 
 ## About This Role
 
-This business analyst position at AuditBoard was posted on 2026-03-16.
+This business analyst position at AuditBoard was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

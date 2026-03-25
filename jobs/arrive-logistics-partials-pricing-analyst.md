@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrive Logistics](https://scoutify.ai/companies/arrivelogistics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.lever.co/arrivelogistics/c4e6f385-1391-4665-99b3-4822a0ebcc96) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.lever.co/arrivelogistics/c39ff525-e057-4c96-8c01-4ea80a9cf41f) |
 
 ## About This Role
 
-This business analyst position at Arrive Logistics was posted on 2026-03-16.
+This business analyst position at Arrive Logistics was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

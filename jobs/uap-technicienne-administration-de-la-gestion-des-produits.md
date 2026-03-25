@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Longueuil, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000114381072-technicienne-administration-de-la-gestion-des-produits) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000115247057-technicienne-administration-de-la-gestion-des-produits) |
 
 ## About This Role
 
-This business analyst position at UAP was posted on 2026-03-12.
+This business analyst position at UAP was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

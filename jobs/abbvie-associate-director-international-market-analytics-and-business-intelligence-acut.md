@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Project Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012164687-associate-director-international-market-analytics-and-business-intelligence-acute-and-menstrual-migraine) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012179284-associate-director-international-market-analytics-and-business-intelligence-acute-and-menstrual-migraine) |
 
 ## About This Role
 
-This project manager position at AbbVie was posted on 2026-03-16.
+This project manager position at AbbVie was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

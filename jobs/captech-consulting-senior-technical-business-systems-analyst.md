@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000113817545-senior-technical-business-systems-analyst) |
+| Location | Richmond, Virginia, United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115240447-senior-technical-business-systems-analyst) |
 
 ## About This Role
 
-This business analyst position at CapTech Consulting was posted on 2026-03-10.
+This technology / it consulting position at CapTech Consulting was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

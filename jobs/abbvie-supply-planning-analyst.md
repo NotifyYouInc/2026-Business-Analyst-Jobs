@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Markham, Ontario, Canada |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012145926-supply-planning-analyst) |
+| Posted | 2026-03-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012194436-supply-planning-analyst) |
 
 ## About This Role
 
-This fp&a / strategic finance position at AbbVie was posted on 2026-03-13.
+This fp&a / strategic finance position at AbbVie was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 

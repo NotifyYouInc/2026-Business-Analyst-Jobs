@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
-| Category | Business Analyst |
+| Category | Project Manager |
 | Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012174766-senior-manager-finance) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012179901-senior-manager-finance) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-03-17.
+This project manager position at AbbVie was posted on 2026-03-17.
 
 ## Get Real-Time Alerts
 
