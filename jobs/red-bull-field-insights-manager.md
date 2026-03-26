@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | UX Researcher |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000114075819-field-insights-manager) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000115448447-field-insights-manager) |
 
 ## About This Role
 
-This ux researcher position at Red Bull was posted on 2026-03-11.
+This ux researcher position at Red Bull was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

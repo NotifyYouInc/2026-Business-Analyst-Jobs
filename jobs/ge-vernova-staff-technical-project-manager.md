@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Not specified |
 | Category | Project Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Budapest/Sr-Technical-Project-Manager_R5026810-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Staff-Technical-Project-Manager_R5035062-2) |
 
 ## About This Role
 
-This project manager position at GE Vernova was posted on 2026-02-23.
+This project manager position at GE Vernova was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

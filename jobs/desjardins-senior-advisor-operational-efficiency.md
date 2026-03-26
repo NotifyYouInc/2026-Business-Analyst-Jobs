@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quebec, CA |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale-en-gestion-de-la-capacit-et-planification-de-l-excution_R2603613-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale-en-amlioration-continue--CRC_R2603618) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-12.
+This business analyst position at Desjardins was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

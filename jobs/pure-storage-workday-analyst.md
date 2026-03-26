@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | Prague, Prague, Czechia |
 | Category | Human Resources / People Ops |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7270114) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7716017) |
 
 ## About This Role
 
-This human resources / people ops position at Pure Storage was posted on 2026-02-24.
+This human resources / people ops position at Pure Storage was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

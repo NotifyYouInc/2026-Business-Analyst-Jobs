@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Duluth, Minnesota, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000115009856-warehouse-innovation-project-consultant-bilingual-englishkorean) |
+| Location | Cerritos, California, United States |
+| Category | Project Manager |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000115507377-warehouse-innovation-project-consultant-bilingual-englishkorean) |
 
 ## About This Role
 
-This business analyst position at Woongjin was posted on 2026-03-16.
+This project manager position at Woongjin was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

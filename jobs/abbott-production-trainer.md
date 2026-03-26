@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Minnetonka, Minnesota, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Minnetonka/Production-Trainer_31143135-1) |
+| Location | Plymouth, Minnesota, United States |
+| Category | Project Manager |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Production-Trainer_31144586-1) |
 
 ## About This Role
 
-This business analyst position at Abbott was posted on 2026-03-03.
+This project manager position at Abbott was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Truewerk](https://scoutify.ai/companies/truewerk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Truewerk/744000115305505-demand-planning-coordinator) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Truewerk/744000115487758-demand-planning-coordinator) |
 
 ## About This Role
 
-This business analyst position at Truewerk was posted on 2026-03-17.
+This business analyst position at Truewerk was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | India |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7614945) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7733301) |
 
 ## About This Role
 
-This business analyst position at Stripe was posted on 2026-02-18.
+This business analyst position at Stripe was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

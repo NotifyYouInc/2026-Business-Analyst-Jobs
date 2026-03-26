@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 7 locations |
+| Location | Quezon, Northern Mindanao, Philippines |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tallahassee-FL/Sourcing-Analyst_REQ485598) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Quezon-Philippines/Sourcing-Analyst_REQ493659) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at JLL was posted on 2026-02-19.
+This talent acquisition / recruiting position at JLL was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quebec, CA |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-prinicpal-ou-conseillre-principale-en-architecture-d-entreprise_R2603335-1) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Architecture-de-Domaine_R2603917) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-04.
+This business analyst position at Desjardins was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

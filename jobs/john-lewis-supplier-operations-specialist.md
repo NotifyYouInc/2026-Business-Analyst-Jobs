@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [John Lewis](https://scoutify.ai/companies/john-lewis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jlp.wd3.myworkdayjobs.com/jlpjobs_careers/job/London-Central-Office/Supplier-Operations-Specialist_R-195639) |
+| Category | Business Analyst |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jlp.wd3.myworkdayjobs.com/jlpjobs_careers/job/London-Central-Office/Supplier-Operations-Specialist_R-198265-1) |
 
 ## About This Role
 
-This operations position at John Lewis was posted on 2026-02-05.
+This business analyst position at John Lewis was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

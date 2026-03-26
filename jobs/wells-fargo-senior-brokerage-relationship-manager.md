@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 2 locations |
 | Category | Account Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAINT-LOUIS-MO/Brokerage-Relationship-Manager_R-523212) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/SAINT-LOUIS-MO/Senior-Brokerage-Relationship-Manager_R-528123) |
 
 ## About This Role
 
-This account manager position at Wells Fargo was posted on 2026-02-24.
+This account manager position at Wells Fargo was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

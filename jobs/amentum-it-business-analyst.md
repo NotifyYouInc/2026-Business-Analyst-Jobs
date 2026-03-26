@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Florida, US |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Kennedy-Space-Center/IT-Business-Analyst_R0154121) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-FL-Kennedy-Space-Center/IT-Business-Analyst_R0156735) |
 
 ## About This Role
 
-This business analyst position at Amentum was posted on 2026-02-24.
+This business analyst position at Amentum was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

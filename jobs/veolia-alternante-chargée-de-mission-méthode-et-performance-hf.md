@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Aubervilliers, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000114392364-alternante-chargee-de-mission-methode-et-performance-hf) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000115578547-alternante-chargee-de-mission-methode-et-performance-hf) |
 
 ## About This Role
 
-This business analyst position at Veolia was posted on 2026-03-12.
+This business analyst position at Veolia was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

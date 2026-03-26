@@ -5,12 +5,12 @@
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Belgium |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/BEL-DIEG-6A/Business-Analyst---Payments_JR0304814) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/TUN-ARIA-150/QA-Automation_JR0295214) |
 
 ## About This Role
 
-This business analyst position at Fidelity National Information Services was posted on 2026-02-20.
+This business analyst position at Fidelity National Information Services was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

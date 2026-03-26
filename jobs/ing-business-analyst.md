@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/MILAN/Business-Analyst_REQ-10110087) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Business-Analyst_REQ-10110698) |
 
 ## About This Role
 
-This business analyst position at ING was posted on 2026-03-05.
+This business analyst position at ING was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 

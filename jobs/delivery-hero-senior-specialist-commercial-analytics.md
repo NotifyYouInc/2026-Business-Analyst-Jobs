@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000113739797-senior-specialist-commercial-analytics) |
+| Posted | 2026-03-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000115468758-senior-specialist-commercial-analytics) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-03-10.
+This business analyst position at Delivery Hero was posted on 2026-03-18.
 
 ## Get Real-Time Alerts
 
