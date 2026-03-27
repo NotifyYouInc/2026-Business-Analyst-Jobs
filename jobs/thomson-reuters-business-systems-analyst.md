@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Brazil-So-Paulo-So-Paulo/Business-Systems-Analyst_JREQ198390) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Business-Systems-Analyst_JREQ199003) |
 
 ## About This Role
 
-This business analyst position at Thomson Reuters was posted on 2026-02-27.
+This business analyst position at Thomson Reuters was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

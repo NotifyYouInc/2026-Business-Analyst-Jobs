@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
-| Category | Project Manager |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000113219977-coordinateurtrice-projets-clients) |
+| Location | Gradignan, Nouvelle-Aquitaine, France |
+| Category | Business Analyst |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000115650427-coordinateurtrice-projets-clients) |
 
 ## About This Role
 
-This project manager position at Eurofins Scientific was posted on 2026-03-06.
+This business analyst position at Eurofins Scientific was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

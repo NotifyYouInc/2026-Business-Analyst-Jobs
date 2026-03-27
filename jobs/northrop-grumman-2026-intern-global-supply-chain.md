@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/XMLNAME-2026-Intern-Global-Supply-Chain_R10223864) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Remote/XMLNAME-2026-Intern-Global-Supply-Chain_R10226591) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-02-24.
+This business analyst position at Northrop Grumman was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

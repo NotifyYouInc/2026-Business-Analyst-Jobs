@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Birmingham, Alabama, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Business-Relationship-Support-Specialist_R-521391) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/BIRMINGHAM-AL/Business-Relationship-Support-Specialist_R-527880-1) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-02-25.
+This business analyst position at Wells Fargo was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

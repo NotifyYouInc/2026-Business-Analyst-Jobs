@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7615923009924204853/detail) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7618929258534848821/detail) |
 
 ## About This Role
 
-This business analyst position at TikTok was posted on 2026-03-13.
+This business analyst position at TikTok was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

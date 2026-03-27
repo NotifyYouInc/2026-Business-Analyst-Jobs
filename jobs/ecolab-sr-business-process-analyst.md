@@ -1,16 +1,16 @@
-# Sr Business Process Analyst at Ecolab
+# Sr. Business Process Analyst at Ecolab
 
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Eagan, Minnesota, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Sr-Business-Process-Analyst_R00287061-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---Minnesota---Eagan/Sr-Business-Process-Analyst_R00288152) |
 
 ## About This Role
 
-This business analyst position at Ecolab was posted on 2026-02-26.
+This business analyst position at Ecolab was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Strategy & Operations |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000114424077-business-operations-manager) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000115720057-business-operations-manager) |
 
 ## About This Role
 
-This strategy & operations position at WISE was posted on 2026-03-12.
+This strategy & operations position at WISE was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Jacksonville-Florida/MCPP---Production-Planning-Analyst_R2120297) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Jacksonville-Florida/MCPP---Production-Planning-Analyst_R2120606-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at KBR was posted on 2026-03-11.
+This fp&a / strategic finance position at KBR was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

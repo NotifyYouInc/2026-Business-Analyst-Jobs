@@ -5,12 +5,12 @@
 | Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | France |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000115500572-ingenieur-conduite-changement-si-nucleaire-hf) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000115616371-ingenieur-conduite-changement-si-nucleaire-hf) |
 
 ## About This Role
 
-This business analyst position at Assystem was posted on 2026-03-18.
+This business analyst position at Assystem was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

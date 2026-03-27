@@ -5,12 +5,12 @@
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000112512017-value-analysis-coordinator) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000115668458-value-analysis-coordinator) |
 
 ## About This Role
 
-This business analyst position at Northwestern Medicine was posted on 2026-03-03.
+This business analyst position at Northwestern Medicine was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

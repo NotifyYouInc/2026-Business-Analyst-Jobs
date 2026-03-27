@@ -1,16 +1,16 @@
-# Business Systems Analyst at Sun Life Financial
+# Business & Systems Analyst at Sun Life Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philippines |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Taguig-City-National-Capital-Region-Manila/Business-Systems-Analyst_JR00119865) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Business---Systems-Analyst_JR00121442) |
 
 ## About This Role
 
-This business analyst position at Sun Life Financial was posted on 2026-02-20.
+This business analyst position at Sun Life Financial was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 

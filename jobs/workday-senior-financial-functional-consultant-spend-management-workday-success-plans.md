@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Implementation / Professional Services |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-GA-Atlanta/Senior-Financial-Functional-Consultant---Spend-Management---Workday-Success-Plans_JR-0104880-1) |
+| Posted | 2026-03-19 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Australia-VIC-Melbourne/Senior-Financial-Functional-Consultant---Spend-Management---Workday-Success-Plans_JR-0105279) |
 
 ## About This Role
 
-This implementation / professional services position at Workday was posted on 2026-03-02.
+This implementation / professional services position at Workday was posted on 2026-03-19.
 
 ## Get Real-Time Alerts
 
