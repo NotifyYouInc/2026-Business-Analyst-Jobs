@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Business-Lead-Analyst_25918911-1) |
+| Location | New York, US |
+| Category | Project Manager |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Business-Lead-Analyst_26946810) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-02-20.
+This project manager position at Citigroup was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

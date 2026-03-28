@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000113087767-sharepoint-content-analyst) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000115914422-sharepoint-content-analyst) |
 
 ## About This Role
 
-This business analyst position at IQ-EQ was posted on 2026-03-06.
+This business analyst position at IQ-EQ was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

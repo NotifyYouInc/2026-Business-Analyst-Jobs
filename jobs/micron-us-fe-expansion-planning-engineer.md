@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Boise, Idaho, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/US-FE-Expansion-Planning-Engineer_JR91050) |
+| Posted | 2026-03-21 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---ID1/US-FE-Expansion-Planning-Engineer_JR95856) |
 
 ## About This Role
 
-This business analyst position at Micron was posted on 2026-02-20.
+This business analyst position at Micron was posted on 2026-03-21.
 
 ## Get Real-Time Alerts
 

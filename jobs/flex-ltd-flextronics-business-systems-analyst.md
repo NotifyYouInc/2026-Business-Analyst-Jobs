@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Columbia, South Carolina, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-SC-Columbia/Business-Systems-Analyst_WD215144-1) |
+| Location | Guadalajara, Jalisco, Mexico |
+| Category | Software Engineer |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Business-Systems-Analyst_WD217697) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-02-17.
+This software engineer position at FLEX LTD. Flextronics was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Le Havre, Normandy, France |
 | Category | Project Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115272853-nextstep-charge-daffaires-outillage-hf) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115888747-nextstep-charge-daffaires-outillage-hf) |
 
 ## About This Role
 
-This project manager position at ALTEN was posted on 2026-03-17.
+This project manager position at ALTEN was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

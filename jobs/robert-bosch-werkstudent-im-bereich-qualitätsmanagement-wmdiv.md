@@ -1,16 +1,16 @@
-# Werkstudent im Bereich Qualitätsmanagement (w/m/div.) at Robert Bosch
+# Werkstudent im Bereich Qualitätsmanagement (w/m/div.)  at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Germany |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000111380526-werkstudent-im-bereich-qualitatsmanagement-wmdiv) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115858020-werkstudent-im-bereich-qualitatsmanagement-wmdiv) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-02-25.
+This business analyst position at Robert Bosch was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

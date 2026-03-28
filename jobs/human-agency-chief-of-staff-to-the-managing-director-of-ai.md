@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Human Agency](https://scoutify.ai/companies/human-agency?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Denver, Colorado, United States |
 | Category | Program Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/humanagency/jobs/7645804003) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/humanagency/jobs/7673862003) |
 
 ## About This Role
 
-This program manager position at Human Agency was posted on 2026-02-26.
+This program manager position at Human Agency was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

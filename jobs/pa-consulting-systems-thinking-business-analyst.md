@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PA Consulting](https://scoutify.ai/companies/paconsulting?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 4 locations |
-| Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000109781175-systems-thinking-business-analyst) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PAConsulting/744000115837498-systems-thinking-business-analyst) |
 
 ## About This Role
 
-This business analyst position at PA Consulting was posted on 2026-02-17.
+This strategy / management consulting position at PA Consulting was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

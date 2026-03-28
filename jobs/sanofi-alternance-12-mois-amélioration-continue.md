@@ -5,12 +5,12 @@
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | France |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Val-de-Reuil/alternance-12-mois---amlioration-continue_R2846679) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Neuville-Sur-Sane/alternance-12-mois---amlioration-continue_R2849158) |
 
 ## About This Role
 
-This business analyst position at Sanofi was posted on 2026-03-11.
+This business analyst position at Sanofi was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

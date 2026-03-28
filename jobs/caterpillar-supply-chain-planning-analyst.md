@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Santa Catarina, Nuevo León, Mexico |
+| Location | Piracicaba, São Paulo, Brazil |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Santa-Catarina-Nuevo-Len/Supply-Chain-Planning-Analyst_R0000350333-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Supply-Chain-Planning-Analyst_R0000358167) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Caterpillar was posted on 2026-02-18.
+This fp&a / strategic finance position at Caterpillar was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

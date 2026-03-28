@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Munich, Bavaria, Germany |
 | Category | Project Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5128818008) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5153754008) |
 
 ## About This Role
 
-This project manager position at Anthropic was posted on 2026-02-26.
+This project manager position at Anthropic was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

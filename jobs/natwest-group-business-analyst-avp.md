@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Business-Analyst--AVP_R-00270173) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Business-Analyst--AVP_R-00275317) |
 
 ## About This Role
 
-This business analyst position at NatWest Group was posted on 2026-02-23.
+This business analyst position at NatWest Group was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

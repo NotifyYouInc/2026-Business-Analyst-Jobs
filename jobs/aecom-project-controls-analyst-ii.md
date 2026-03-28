@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philippines |
+| Location | Bucharest, București, Romania |
 | Category | Compliance & Risk Management |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000111828584-project-controls-analyst-ii) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000115926302-project-controls-analyst-ii) |
 
 ## About This Role
 
-This compliance & risk management position at AECOM was posted on 2026-02-27.
+This compliance & risk management position at AECOM was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

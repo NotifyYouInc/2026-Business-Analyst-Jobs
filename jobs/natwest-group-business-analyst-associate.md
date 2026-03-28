@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Business-Analyst--Associate_R-00272647-1) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Gurugram/Business-Analyst--Associate_R-00275330) |
 
 ## About This Role
 
-This business analyst position at NatWest Group was posted on 2026-02-10.
+This business analyst position at NatWest Group was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 

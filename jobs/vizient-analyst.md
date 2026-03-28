@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Irving, Texas, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Analyst_32561R) |
+| Posted | 2026-03-20 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Analyst_32685R) |
 
 ## About This Role
 
-This business analyst position at Vizient was posted on 2026-02-24.
+This business analyst position at Vizient was posted on 2026-03-20.
 
 ## Get Real-Time Alerts
 
