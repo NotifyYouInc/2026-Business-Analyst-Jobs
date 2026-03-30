@@ -1,16 +1,16 @@
-# Transportation Representative, AV at Amazon
+# Bespoke Services Analyst (Manager) at OCBC
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373131/transportation-representative-av) |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/BOS-Singapore/Bespoke-Services-Analyst--Manager-_JR00006488) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-23.
+This business analyst position at OCBC was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

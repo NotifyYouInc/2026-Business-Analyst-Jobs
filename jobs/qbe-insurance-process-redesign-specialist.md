@@ -1,16 +1,16 @@
-# Workday Cross Functional Lead at Ninemsn
+# Process Redesign Specialist at QBE Insurance
 
 | Field | Details |
 |-------|---------|
-| Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Philippines |
 | Category | Business Analyst |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000116072447-workday-cross-functional-lead) |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHI---Manila/Process-Redesign-Specialist_352670-1) |
 
 ## About This Role
 
-This business analyst position at Ninemsn was posted on 2026-03-22.
+This business analyst position at QBE Insurance was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

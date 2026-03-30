@@ -1,16 +1,16 @@
-# Workday Cross Functional Lead at Ninemsn
+# Process Owner Forderungsmanagement at enercity
 
 | Field | Details |
 |-------|---------|
-| Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Company | [enercity](https://scoutify.ai/companies/enercity?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Hannover, Lower Saxony, Germany |
 | Category | Business Analyst |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000116072447-workday-cross-functional-lead) |
+| Apply | [View on company site](https://enercity.wd3.myworkdayjobs.com/enercity_extern/job/Hannover/Process-Owner-Forderungsmanagement_J2026128-1) |
 
 ## About This Role
 
-This business analyst position at Ninemsn was posted on 2026-03-22.
+This business analyst position at enercity was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

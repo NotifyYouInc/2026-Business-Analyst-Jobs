@@ -1,16 +1,16 @@
-# Workday Cross Functional Lead at Ninemsn
+# Senior Business Analyst at GenesisCare
 
 | Field | Details |
 |-------|---------|
-| Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [GenesisCare](https://scoutify.ai/companies/genesiscare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New South Wales, AU |
 | Category | Business Analyst |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000116072447-workday-cross-functional-lead) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://genesiscare.wd1.myworkdayjobs.com/genesiscare_careers/job/Alexandria-Sydney/Senior-Business-Analyst_R0022957) |
 
 ## About This Role
 
-This business analyst position at Ninemsn was posted on 2026-03-22.
+This business analyst position at GenesisCare was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

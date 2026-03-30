@@ -1,16 +1,16 @@
-# Workday Cross Functional Lead at Ninemsn
+# Product Master Business analyst at LSEG
 
 | Field | Details |
 |-------|---------|
-| Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | India |
 | Category | Business Analyst |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000116072447-workday-cross-functional-lead) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Product-Master-Business-analyst_R0116977-1) |
 
 ## About This Role
 
-This business analyst position at Ninemsn was posted on 2026-03-22.
+This business analyst position at LSEG was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

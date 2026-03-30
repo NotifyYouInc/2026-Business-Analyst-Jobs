@@ -1,16 +1,16 @@
-# Workday Cross Functional Lead at Ninemsn
+# Transportation Analyst at Boeing
 
 | Field | Details |
 |-------|---------|
-| Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000116072447-workday-cross-functional-lead) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Transportation-Analyst_JR2026498306-1) |
 
 ## About This Role
 
-This business analyst position at Ninemsn was posted on 2026-03-22.
+This business analyst position at Boeing was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

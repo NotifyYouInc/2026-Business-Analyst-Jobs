@@ -1,4 +1,4 @@
-# Transportation Representative, AV at Amazon
+# Transportation Specialist, AmazonNowCO, RoW APEX at Amazon
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373131/transportation-representative-av) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373141/transportation-specialist-amazonnowco-row-apex) |
 
 ## About This Role
 

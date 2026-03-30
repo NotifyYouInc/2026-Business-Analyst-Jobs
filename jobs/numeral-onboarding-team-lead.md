@@ -1,16 +1,16 @@
-# Workday Cross Functional Lead at Ninemsn
+# Onboarding Team Lead at Numeral
 
 | Field | Details |
 |-------|---------|
-| Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Company | [Numeral](https://scoutify.ai/companies/numeral?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | San Francisco, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000116072447-workday-cross-functional-lead) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/numeral/401e735b-7ae5-4105-9203-4597b810abb8) |
 
 ## About This Role
 
-This business analyst position at Ninemsn was posted on 2026-03-22.
+This business analyst position at Numeral was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

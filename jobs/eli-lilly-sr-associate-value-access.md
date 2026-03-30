@@ -1,16 +1,16 @@
-# Transportation Representative, AV at Amazon
+# Sr. Associate – Value & Access at Eli Lilly
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Eli Lilly](https://scoutify.ai/companies/eli-lilly?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Business Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373131/transportation-representative-av) |
+| Apply | [View on company site](https://lilly.wd5.myworkdayjobs.com/LLY/job/Korea-Seoul/Sr-Associate---Value---Access_R-101509-2) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-23.
+This business analyst position at Eli Lilly was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

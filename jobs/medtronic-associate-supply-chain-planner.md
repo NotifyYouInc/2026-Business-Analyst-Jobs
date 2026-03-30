@@ -1,16 +1,16 @@
-# Transportation Representative, AV at Amazon
+# Associate Supply Chain Planner at Medtronic
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Shanghai, Shanghai, China |
 | Category | Business Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373131/transportation-representative-av) |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Shanghai-Shanghai-China/Associate-Supply-Chain-Planner_R62300) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-23.
+This business analyst position at Medtronic was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

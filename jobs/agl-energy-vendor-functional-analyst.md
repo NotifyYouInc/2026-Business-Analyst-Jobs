@@ -1,16 +1,16 @@
-# Workday Cross Functional Lead at Ninemsn
+# Vendor Functional Analyst at AGL Energy
 
 | Field | Details |
 |-------|---------|
-| Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Company | [AGL Energy](https://scoutify.ai/companies/agl-energy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 2 locations |
 | Category | Business Analyst |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000116072447-workday-cross-functional-lead) |
+| Apply | [View on company site](https://agl.wd3.myworkdayjobs.com/agl_recruitment/job/Melbourne-Corporate/Vendor-Functional-Analyst_R-0022507) |
 
 ## About This Role
 
-This business analyst position at Ninemsn was posted on 2026-03-22.
+This business analyst position at AGL Energy was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

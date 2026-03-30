@@ -1,16 +1,16 @@
-# Workday Cross Functional Lead at Ninemsn
+# Business Operations  at Rilla
 
 | Field | Details |
 |-------|---------|
-| Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Company | [Rilla](https://scoutify.ai/companies/rilla?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000116072447-workday-cross-functional-lead) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/rilla/8ac44792-e79b-49cb-9c6e-18ddd6875fa8) |
 
 ## About This Role
 
-This business analyst position at Ninemsn was posted on 2026-03-22.
+This business analyst position at Rilla was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

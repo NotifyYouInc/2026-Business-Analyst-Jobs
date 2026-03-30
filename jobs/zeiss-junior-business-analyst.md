@@ -1,16 +1,16 @@
-# Workday Cross Functional Lead at Ninemsn
+# Junior Business Analyst at Zeiss
 
 | Field | Details |
 |-------|---------|
-| Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Karnataka, IN |
 | Category | Business Analyst |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000116072447-workday-cross-functional-lead) |
+| Posted | 2026-03-23 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Bangalore/Junior-Business-Analyst_JR_1048245) |
 
 ## About This Role
 
-This business analyst position at Ninemsn was posted on 2026-03-22.
+This business analyst position at Zeiss was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

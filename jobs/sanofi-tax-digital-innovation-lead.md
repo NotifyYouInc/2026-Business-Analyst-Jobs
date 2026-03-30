@@ -1,16 +1,16 @@
-# Workday Cross Functional Lead at Ninemsn
+# Tax Digital Innovation Lead at Sanofi
 
 | Field | Details |
 |-------|---------|
-| Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Morristown, Tennessee, United States |
 | Category | Business Analyst |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000116072447-workday-cross-functional-lead) |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Morristown-NJ/Tax-Digital-Innovation-Lead_R2847248-1) |
 
 ## About This Role
 
-This business analyst position at Ninemsn was posted on 2026-03-22.
+This business analyst position at Sanofi was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

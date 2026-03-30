@@ -1,16 +1,16 @@
-# Workday Cross Functional Lead at Ninemsn
+# Alternant Coordinateur international HF at Marsh
 
 | Field | Details |
 |-------|---------|
-| Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000116072447-workday-cross-functional-lead) |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Paris---Pyramides/Alternant-Coordinateur-international-HF_R_343994) |
 
 ## About This Role
 
-This business analyst position at Ninemsn was posted on 2026-03-22.
+This business analyst position at Marsh was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

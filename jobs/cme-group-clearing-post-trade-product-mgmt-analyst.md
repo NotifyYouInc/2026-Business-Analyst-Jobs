@@ -1,16 +1,16 @@
-# Transportation Representative, AV at Amazon
+# Clearing & Post-Trade Product Mgmt Analyst at CME Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [CME Group](https://scoutify.ai/companies/cme-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Karnataka, IN |
 | Category | Business Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373131/transportation-representative-av) |
+| Apply | [View on company site](https://cmegroup.wd1.myworkdayjobs.com/cme_careers/job/Bangalore---Bagmane-Tridib/Clearing---Post-Trade-Product-Mgmt-Analyst_34134-1) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-23.
+This business analyst position at CME Group was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

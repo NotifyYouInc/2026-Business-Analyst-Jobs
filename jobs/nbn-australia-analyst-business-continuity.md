@@ -1,16 +1,16 @@
-# Transportation Representative, AV at Amazon
+# Analyst, Business Continuity at NBN Australia
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [NBN Australia](https://scoutify.ai/companies/nbn-australia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Business Analyst |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373131/transportation-representative-av) |
+| Apply | [View on company site](https://nbn.wd3.myworkdayjobs.com/nbncareers/job/Melbourne/Analyst--Business-Continuity_240292-1) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-23.
+This business analyst position at NBN Australia was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 

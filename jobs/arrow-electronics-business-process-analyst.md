@@ -1,16 +1,16 @@
-# Workday Cross Functional Lead at Ninemsn
+# Business Process Analyst at Arrow Electronics
 
 | Field | Details |
 |-------|---------|
-| Company | [Ninemsn](https://scoutify.ai/companies/ninemsn?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Shenzhen, Guangdong, China |
 | Category | Business Analyst |
 | Posted | 2026-03-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nine/744000116072447-workday-cross-functional-lead) |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Business-Process-Analyst_R240394) |
 
 ## About This Role
 
-This business analyst position at Ninemsn was posted on 2026-03-22.
+This business analyst position at Arrow Electronics was posted on 2026-03-22.
 
 ## Get Real-Time Alerts
 

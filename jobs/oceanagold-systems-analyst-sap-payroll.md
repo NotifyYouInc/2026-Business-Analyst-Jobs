@@ -1,16 +1,16 @@
-# Transportation Representative, AV at Amazon
+# Systems Analyst – SAP Payroll at OceanaGold
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Business Analyst |
+| Company | [OceanaGold](https://scoutify.ai/companies/oceanagold?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 2 locations |
+| Category | Accounting |
 | Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373131/transportation-representative-av) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/OceanaGold/744000116104557-systems-analyst-sap-payroll) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-23.
+This accounting position at OceanaGold was posted on 2026-03-23.
 
 ## Get Real-Time Alerts
 
