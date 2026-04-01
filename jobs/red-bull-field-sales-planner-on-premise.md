@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000115559017-field-sales-planner-on-premise) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000116505517-field-sales-planner-on-premise) |
 
 ## About This Role
 
-This business analyst position at Red Bull was posted on 2026-03-19.
+This business analyst position at Red Bull was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

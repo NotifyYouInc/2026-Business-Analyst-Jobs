@@ -5,12 +5,12 @@
 | Company | [CrowdStrike](https://scoutify.ai/companies/crowdstrike?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Business-Systems-Analyst--ServiceNow--Remote-_R26451-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Business-Systems-Analyst--ServiceNow--Remote-_R28097) |
 
 ## About This Role
 
-This business analyst position at CrowdStrike was posted on 2026-03-12.
+This business analyst position at CrowdStrike was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Program Manager |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Sr-Business-Consultant_R0048549-2) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Sr-Business-Consultant_R0048981-2) |
 
 ## About This Role
 
-This program manager position at HCSC was posted on 2026-03-05.
+This program manager position at HCSC was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

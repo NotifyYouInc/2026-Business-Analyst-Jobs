@@ -5,12 +5,12 @@
 | Company | [GDIT](https://scoutify.ai/companies/gdit?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Virginia, US |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Business-Analysis-Associate-Intern_RQ215728-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2026-Business-Analysis-Associate-Intern_RQ217167) |
 
 ## About This Role
 
-This business analyst position at GDIT was posted on 2026-02-26.
+This business analyst position at GDIT was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

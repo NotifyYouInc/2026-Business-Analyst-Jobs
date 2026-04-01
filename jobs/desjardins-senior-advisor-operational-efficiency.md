@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quebec, CA |
-| Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Conseiller-principal-ou-conseillre-principale-en-efficacit-oprationnelle_R2604008) |
+| Location | 2 locations |
+| Category | Program Manager |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale-mise-en-uvre-amlioration-des-processus-marketing_R2604166) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-19.
+This program manager position at Desjardins was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

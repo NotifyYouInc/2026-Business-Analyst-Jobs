@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Austria |
 | Category | Project Manager |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000112178807-senior-data-process-developer-finance) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000116405517-senior-data-process-developer-finance) |
 
 ## About This Role
 
-This project manager position at Red Bull was posted on 2026-03-02.
+This project manager position at Red Bull was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

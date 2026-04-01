@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Salesforce-Business-Analyst--Remote-_R2600870-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/New-Jersey-Remote-Office-NJ99/Salesforce-Business-Analyst--Remote-_R2601027-1) |
 
 ## About This Role
 
-This business analyst position at ICF was posted on 2026-03-13.
+This business analyst position at ICF was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

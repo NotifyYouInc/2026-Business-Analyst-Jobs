@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Minato, Wakayama, Japan |
+| Location | India |
 | Category | Business Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Minato-Japan/Business-Analyst_2009162) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Business-Analyst_2011242) |
 
 ## About This Role
 
-This business analyst position at Cisco was posted on 2026-03-23.
+This business analyst position at Cisco was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

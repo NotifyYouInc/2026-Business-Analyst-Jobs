@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Peoria, Arizona, United States |
+| Location | Rayong, Rayong, Thailand |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Value-Chain-Designer_R0000354620) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Rayong-Thailand/Value-Chain-Designer_R0000358875) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-03-05.
+This business analyst position at Caterpillar was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

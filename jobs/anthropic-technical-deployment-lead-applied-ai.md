@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Munich, Bavaria, Germany |
+| Location | Paris, Île-de-France, France |
 | Category | Project Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5153754008) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5153761008) |
 
 ## About This Role
 
-This project manager position at Anthropic was posted on 2026-03-20.
+This project manager position at Anthropic was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

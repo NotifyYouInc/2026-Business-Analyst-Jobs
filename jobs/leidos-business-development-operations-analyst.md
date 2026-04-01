@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Columbia, South Carolina, United States |
-| Category | Business Development |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Columbia-MD/Business-Development-Operations-Analyst_R-00175920) |
+| Location | 2 locations |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Business-Development-Operations-Analyst_R-00178993-1) |
 
 ## About This Role
 
-This business development position at Leidos was posted on 2026-02-12.
+This sales development (sdr / bdr) position at Leidos was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Greenville, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Zaventem-Belgium/PPI-Business-System-Specialist-III_R-01340774) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greenville-North-Carolina-USA/PPI-Business-System-Specialist-III_R-01346125) |
 
 ## About This Role
 
-This business analyst position at Thermo Fisher Scientific was posted on 2026-03-06.
+This business analyst position at Thermo Fisher Scientific was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

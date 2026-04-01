@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Data Engineer |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Data-Business-Analyst_JR-0000083527) |
+| Location | Glasgow, Scotland, United Kingdom |
+| Category | Business Analyst |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Data-Business-Analyst_JR-0000081171) |
 
 ## About This Role
 
-This data engineer position at Barclays was posted on 2026-02-16.
+This business analyst position at Barclays was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

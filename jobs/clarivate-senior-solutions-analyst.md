@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/IND---Bangalore-DRG/Senior-Solutions-Analyst_JREQ134856-2) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R186--Ann-Arbor/Senior-Solutions-Analyst_JREQ135261-1) |
 
 ## About This Role
 
-This business analyst position at Clarivate was posted on 2026-02-24.
+This business analyst position at Clarivate was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 

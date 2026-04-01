@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/APS-Middle-Office---Senior-Associate_R-781520-1) |
+| Posted | 2026-03-24 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/APS-Middle-Office---Senior-Associate_R-786703-1) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-03-03.
+This business analyst position at State Street was posted on 2026-03-24.
 
 ## Get Real-Time Alerts
 
