@@ -1,16 +1,16 @@
-# Sr Business Analyst - at Capital One
+# Sr. Business Analyst at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | McLean, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Business-Analyst--_R236059-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Business-Analyst_R238890-1) |
 
 ## About This Role
 
-This business analyst position at Capital One was posted on 2026-02-17.
+This business analyst position at Capital One was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

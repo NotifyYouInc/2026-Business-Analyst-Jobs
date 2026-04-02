@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000110756297-senior-bid-manager) |
+| Location | Birmingham, England, United Kingdom |
+| Category | Project Manager |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000116641617-senior-bid-manager) |
 
 ## About This Role
 
-This business analyst position at AECOM was posted on 2026-02-23.
+This project manager position at AECOM was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

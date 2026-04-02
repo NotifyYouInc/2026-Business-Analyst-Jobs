@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Boise, Idaho, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Senior-Business-Analyst_JR91490-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Senior-Business-Analyst_JR96384) |
 
 ## About This Role
 
-This business analyst position at Micron was posted on 2026-03-05.
+This business analyst position at Micron was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

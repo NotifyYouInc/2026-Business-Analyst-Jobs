@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000109820125-operations-lead) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000116722062-operations-lead) |
 
 ## About This Role
 
-This business analyst position at SEEK was posted on 2026-02-17.
+This business analyst position at SEEK was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

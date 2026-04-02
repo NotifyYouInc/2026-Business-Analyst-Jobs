@@ -5,12 +5,12 @@
 | Company | [University Health Network](https://scoutify.ai/companies/universityhealthnetwork?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000115528398-salesforce-business-analyst) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000116666263-salesforce-business-analyst) |
 
 ## About This Role
 
-This business analyst position at University Health Network was posted on 2026-03-18.
+This business analyst position at University Health Network was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

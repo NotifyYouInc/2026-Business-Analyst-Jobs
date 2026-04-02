@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Buena Park, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000116440676-it-business-analyst-bilingual-english-korean) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000116722006-it-business-analyst-bilingual-english-korean) |
 
 ## About This Role
 
-This business analyst position at Woongjin was posted on 2026-03-24.
+This business analyst position at Woongjin was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

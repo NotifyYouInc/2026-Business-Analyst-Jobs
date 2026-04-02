@@ -5,12 +5,12 @@
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000110178686-business-analyst-web-and-mobile-banking) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000116636933-business-analyst-web-and-mobile-banking) |
 
 ## About This Role
 
-This business analyst position at Avaloq was posted on 2026-02-19.
+This business analyst position at Avaloq was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

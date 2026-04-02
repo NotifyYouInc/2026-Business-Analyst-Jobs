@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Boulogne-Billancourt, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115463575-business-performance-analyst-hf) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000116620816-business-performance-analyst-hf) |
 
 ## About This Role
 
-This business analyst position at ALTEN was posted on 2026-03-18.
+This business analyst position at ALTEN was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

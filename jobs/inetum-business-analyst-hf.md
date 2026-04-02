@@ -1,16 +1,16 @@
-# Business Analyst - H/F at Inetum
+# BUSINESS ANALYST H/F at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | La Rochelle, Nouvelle-Aquitaine, France |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000113530477-business-analyst-hf) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000116659523-business-analyst-hf) |
 
 ## About This Role
 
-This business analyst position at Inetum was posted on 2026-03-09.
+This business analyst position at Inetum was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000111667587-netsuite-functional-analyst) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000116612621-netsuite-functional-analyst) |
 
 ## About This Role
 
-This business analyst position at Arista Networks was posted on 2026-02-26.
+This business analyst position at Arista Networks was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

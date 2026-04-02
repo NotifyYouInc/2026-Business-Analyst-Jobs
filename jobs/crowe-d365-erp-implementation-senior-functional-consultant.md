@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Implementation / Professional Services |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/D365-ERP-Implementation-Senior-Functional-Consultant_R-50358-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/D365-ERP-Implementation-Senior-Functional-Consultant_R-50792) |
 
 ## About This Role
 
-This implementation / professional services position at Crowe was posted on 2026-02-25.
+This implementation / professional services position at Crowe was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

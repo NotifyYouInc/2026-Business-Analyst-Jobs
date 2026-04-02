@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Illinois, US |
+| Location | Stratford, Connecticut, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Channahon-IL/RME-Planner_REQ491969-1) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Stratford-CT/RME-Planner_REQ495376) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-03-11.
+This business analyst position at JLL was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

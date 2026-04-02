@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Quebec, CA |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Estimateur-ou-estimatrice-en-btiment-route_R2602599) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Estimateur-ou-estimatrice-habitation-route_R2604313) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-02-23.
+This business analyst position at Desjardins was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

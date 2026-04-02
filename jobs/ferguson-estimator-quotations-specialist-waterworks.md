@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sanford, Florida, United States |
+| Location | Meridian, Idaho, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Remote/Estimator---Quotations-Specialist---Waterworks_R-130263) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Meridian-ID/Estimator---Quotations-Specialist---Waterworks_R-134979) |
 
 ## About This Role
 
-This business analyst position at Ferguson was posted on 2026-03-02.
+This business analyst position at Ferguson was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

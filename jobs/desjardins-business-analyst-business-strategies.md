@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Quebec, CA |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-en-dploiement_R2603594) |
+| Posted | 2026-03-25 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-d-affaires_R2604174) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-11.
+This business analyst position at Desjardins was posted on 2026-03-25.
 
 ## Get Real-Time Alerts
 

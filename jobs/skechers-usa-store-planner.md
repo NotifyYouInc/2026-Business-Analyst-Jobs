@@ -5,12 +5,12 @@
 | Company | [Skechers USA](https://scoutify.ai/companies/skechers-usa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Manhattan Beach, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://skechers.wd5.myworkdayjobs.com/one-career-site/job/Manhattan-Beach-CA/Store-Planner_JR125435) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://skechers.wd5.myworkdayjobs.com/one-career-site/job/Manhattan-Beach-CA/Store-Planner_JR126484) |
 
 ## About This Role
 
-This business analyst position at Skechers USA was posted on 2026-02-23.
+This business analyst position at Skechers USA was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
