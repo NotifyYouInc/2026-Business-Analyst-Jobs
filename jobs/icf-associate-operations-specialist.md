@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Baton Rouge, Louisiana, United States |
+| Location | Tulsa, Oklahoma, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Baton-Rouge-LA/Associate-Operations-Specialist_R2600571) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Tulsa-OK/Associate-Operations-Specialist_R2601039) |
 
 ## About This Role
 
-This business analyst position at ICF was posted on 2026-02-19.
+This business analyst position at ICF was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

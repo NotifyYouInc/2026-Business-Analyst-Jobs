@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Amagasaki, Hyōgo, Japan |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3198991/) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10377789/) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-09.
+This business analyst position at Amazon was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

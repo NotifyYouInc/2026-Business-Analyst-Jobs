@@ -5,12 +5,12 @@
 | Company | [Flora Food Group](https://scoutify.ai/companies/flora-food-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hackensack, New Jersey, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://www.florafoodgroup.com/careers/join-flora-food-group/8462592002?gh_jid=8462592002) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://www.florafoodgroup.com/careers/join-flora-food-group/8482038002?gh_jid=8482038002) |
 
 ## About This Role
 
-This business analyst position at Flora Food Group was posted on 2026-03-13.
+This business analyst position at Flora Food Group was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Berlin, State of Berlin, Germany |
+| Location | Madrid, Madrid, Spain |
 | Category | Project Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000110398663-senior-manager-warranty-and-services-expert-fmx) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000116963192-senior-manager-warranty-and-services-expert-fmx) |
 
 ## About This Role
 
-This project manager position at AUTO1 Group was posted on 2026-02-20.
+This project manager position at AUTO1 Group was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

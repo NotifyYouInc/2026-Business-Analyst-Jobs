@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Frontend Engineer |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Technical-Systems-Analyst_R-0000150373-1) |
+| Category | DevOps Engineer |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Technical-Systems-Analyst_R-0000165163) |
 
 ## About This Role
 
-This frontend engineer position at Royal Bank of Canada was posted on 2026-03-02.
+This devops engineer position at Royal Bank of Canada was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

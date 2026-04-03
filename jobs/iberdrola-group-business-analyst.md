@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Liverpool, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-Kingdom-Glasgow/Business-Analyst_R-27528) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-Kingdom-Birkenhead/Business-Analyst_R-28218) |
 
 ## About This Role
 
-This business analyst position at Iberdrola Group was posted on 2026-03-11.
+This business analyst position at Iberdrola Group was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

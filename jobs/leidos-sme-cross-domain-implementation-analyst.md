@@ -5,12 +5,12 @@
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Alexandria, Virginia, United States |
 | Category | Implementation / Professional Services |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/SME-Cross-Domain-Implementation-Analyst_R-00177686) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/SME-Cross-Domain-Implementation-Analyst_R-00179342) |
 
 ## About This Role
 
-This implementation / professional services position at Leidos was posted on 2026-03-11.
+This implementation / professional services position at Leidos was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

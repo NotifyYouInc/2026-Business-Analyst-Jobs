@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Karnataka, IN |
-| Category | Program Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Business-Manager_R238110) |
+| Location | McLean, Virginia, United States |
+| Category | Business Analyst |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Manager_R239151-1) |
 
 ## About This Role
 
-This program manager position at Capital One was posted on 2026-03-20.
+This business analyst position at Capital One was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

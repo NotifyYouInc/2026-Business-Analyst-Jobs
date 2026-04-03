@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Burnaby, British Columbia, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000116699725-project-information-specialist) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000117026137-project-information-specialist) |
 
 ## About This Role
 
-This business analyst position at AECOM was posted on 2026-03-25.
+This business analyst position at AECOM was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

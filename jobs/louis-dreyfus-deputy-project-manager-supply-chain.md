@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Project Manager |
 | Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000116867092-deputy-project-manager-supply-chain) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000116979764-deputy-project-manager-supply-chain) |
 
 ## About This Role
 

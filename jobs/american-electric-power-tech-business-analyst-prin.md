@@ -5,12 +5,12 @@
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Tech-Business-Analyst-Prin_R13487) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Columbus-OH/Tech-Business-Analyst-Prin_R14340) |
 
 ## About This Role
 
-This business analyst position at American Electric Power was posted on 2026-02-04.
+This business analyst position at American Electric Power was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

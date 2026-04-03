@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SC Johnson](https://scoutify.ai/companies/scj?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Arese, Lombardy, Italy |
+| Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Italy---Arese-Milan/Senior-Analyst--Supply-Planning_32235-1) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---IL---Chicago/Senior-Analyst--Supply-Planning_32518) |
 
 ## About This Role
 
-This business analyst position at SC Johnson was posted on 2026-02-18.
+This business analyst position at SC Johnson was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

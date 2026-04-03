@@ -5,12 +5,12 @@
 | Company | [B&S Group](https://scoutify.ai/companies/bsgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Oud-Beijerland, South Holland, The Netherlands |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BSGroup/744000116696527-commercial-data-officer-product-information-specialist) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BSGroup/744000117053036-commercial-data-officer-product-information-specialist) |
 
 ## About This Role
 
-This business analyst position at B&S Group was posted on 2026-03-25.
+This business analyst position at B&S Group was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

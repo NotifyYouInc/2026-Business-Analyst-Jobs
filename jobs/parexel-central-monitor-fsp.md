@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lithuania |
+| Location | Romania |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Lithuania-Remote/Central-Monitor---FSP_R0000040119) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/Romania-Remote/Central-Monitor---FSP_R0000040155) |
 
 ## About This Role
 
-This business analyst position at Parexel was posted on 2026-03-25.
+This business analyst position at Parexel was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

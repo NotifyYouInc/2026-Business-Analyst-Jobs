@@ -5,12 +5,12 @@
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US-IL-CHICAGO-SUITE-600-OFFICE/Senior-Manager--Pricing-Execution--Nutrition_R-137374) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US-IL-CHICAGO-SUITE-600-OFFICE/Senior-Manager--Pricing-Execution--Nutrition_R-133996) |
 
 ## About This Role
 
-This business analyst position at Coca-Cola was posted on 2026-03-10.
+This business analyst position at Coca-Cola was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

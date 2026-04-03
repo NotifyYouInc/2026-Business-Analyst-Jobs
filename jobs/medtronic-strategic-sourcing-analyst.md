@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Talent Acquisition / Recruiting |
 | Posted | 2026-03-26 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Changzhou-Jiangsu-China/Strategic-Sourcing-Analyst_R62692-1) |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Strategic-Sourcing-Analyst_R62435-1) |
 
 ## About This Role
 

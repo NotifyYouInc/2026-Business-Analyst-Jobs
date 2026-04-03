@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Project Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Austin---Lakeline/Business-Analysis--Specialist_R_340611) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Business Analyst |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Bogota---Calle-26/Business-Analysis--Specialist_R_344687) |
 
 ## About This Role
 
-This project manager position at Marsh was posted on 2026-02-25.
+This business analyst position at Marsh was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 

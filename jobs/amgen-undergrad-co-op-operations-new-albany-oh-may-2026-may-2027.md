@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New Albany, Indiana, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Ohio---New-Albany/Undergrad-Co-op---Operations---New-Albany--OH--May-2026---May-2027-_R-240433) |
+| Posted | 2026-03-26 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---Ohio---New-Albany/Undergrad-Co-op---Operations---New-Albany--OH--May-2026---May-2027-_R-240965) |
 
 ## About This Role
 
-This business analyst position at Amgen was posted on 2026-03-20.
+This business analyst position at Amgen was posted on 2026-03-26.
 
 ## Get Real-Time Alerts
 
