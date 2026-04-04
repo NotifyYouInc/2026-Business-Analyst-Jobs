@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Stuttgart, Baden-Wurttemberg, Germany |
-| Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115873270-pflichtpraktikum-in-der-fertigungsplanung-von-magnetventilen) |
+| Category | Project Manager |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000117339812-pflichtpraktikum-in-der-fertigungsplanung-von-magnetventilen) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-03-20.
+This project manager position at Robert Bosch was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

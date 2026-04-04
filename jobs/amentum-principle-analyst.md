@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Virginia, US |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Arlington/Principle-Analyst_R0155785) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Arlington/Principle-Analyst_R0157584) |
 
 ## About This Role
 
-This business analyst position at Amentum was posted on 2026-03-09.
+This business analyst position at Amentum was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

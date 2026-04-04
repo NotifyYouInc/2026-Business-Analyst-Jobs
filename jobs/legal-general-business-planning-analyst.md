@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Cardiff, Wales, United Kingdom |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000116667808-business-planning-analyst) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000117253507-business-planning-analyst) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Legal & General was posted on 2026-03-25.
+This fp&a / strategic finance position at Legal & General was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

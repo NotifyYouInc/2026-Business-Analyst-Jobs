@@ -5,12 +5,12 @@
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000116984541-werkstudentin-im-bereich-transformation-management-b2b) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000117252479-werkstudentin-im-bereich-transformation-management-b2b) |
 
 ## About This Role
 
-This business analyst position at Vattenfall was posted on 2026-03-26.
+This business analyst position at Vattenfall was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

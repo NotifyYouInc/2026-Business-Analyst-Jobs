@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Holly Springs, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---North-Carolina---Holly-Springs/Senior-Associate-Manufacturing---Continuous-Improvement-Lead_R-238580) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---North-Carolina---Holly-Springs/Senior-Associate-Manufacturing---Continuous-Improvement-Lead_R-236307) |
 
 ## About This Role
 
-This business analyst position at Amgen was posted on 2026-03-13.
+This business analyst position at Amgen was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

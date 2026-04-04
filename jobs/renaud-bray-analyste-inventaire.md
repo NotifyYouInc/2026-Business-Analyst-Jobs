@@ -5,12 +5,12 @@
 | Company | [Renaud-Bray](https://scoutify.ai/companies/renaudbray?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Boisbriand, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000116699677-analyste-inventaire) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000117328197-analyste-inventaire) |
 
 ## About This Role
 
-This business analyst position at Renaud-Bray was posted on 2026-03-25.
+This business analyst position at Renaud-Bray was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

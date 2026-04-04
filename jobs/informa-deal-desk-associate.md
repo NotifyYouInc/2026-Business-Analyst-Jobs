@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000116425733-deal-desk-associate) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000117375918-deal-desk-associate) |
 
 ## About This Role
 
-This revenue / sales operations position at Informa was posted on 2026-03-24.
+This revenue / sales operations position at Informa was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000117048398-senior-commercial-manager-mfd) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000117289028-senior-commercial-manager-mfd) |
 
 ## About This Role
 
-This business analyst position at Sixt was posted on 2026-03-26.
+This business analyst position at Sixt was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

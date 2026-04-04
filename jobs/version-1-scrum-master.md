@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Edinburgh, Scotland, United Kingdom |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000111298495-scrum-master) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000117277298-scrum-master) |
 
 ## About This Role
 
-This scrum master & agile coach position at Version 1 was posted on 2026-02-25.
+This scrum master & agile coach position at Version 1 was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

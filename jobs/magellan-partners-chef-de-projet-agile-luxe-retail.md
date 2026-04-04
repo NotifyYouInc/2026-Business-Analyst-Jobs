@@ -5,12 +5,12 @@
 | Company | [Magellan Partners](https://scoutify.ai/companies/magellanpartners?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Project Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000111831895-chef-de-projet-agile-luxe-retail) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MagellanPartners/744000117288687-chef-de-projet-agile-luxe-retail) |
 
 ## About This Role
 
-This project manager position at Magellan Partners was posted on 2026-02-27.
+This project manager position at Magellan Partners was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

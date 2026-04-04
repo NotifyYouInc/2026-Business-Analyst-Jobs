@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/CR-GBS-Heredia-Office/Metadata-Management-Consultant_JR-40107064) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/PH-GBS-Manila/Metadata-Management-Consultant_JR-40107065) |
 
 ## About This Role
 
-This strategy / management consulting position at Goodyear was posted on 2026-03-26.
+This strategy / management consulting position at Goodyear was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

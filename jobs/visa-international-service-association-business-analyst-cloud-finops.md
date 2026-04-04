@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000113588382-business-analyst-cloud-finops) |
+| Category | Corporate Finance |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000117356394-business-analyst-cloud-finops) |
 
 ## About This Role
 
-This business analyst position at Visa International Service Association was posted on 2026-03-09.
+This corporate finance position at Visa International Service Association was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

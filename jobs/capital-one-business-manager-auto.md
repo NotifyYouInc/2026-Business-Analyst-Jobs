@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Program Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Business-Manager---Auto_R234856-1) |
+| Category | Business Analyst |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Business-Manager---Auto_R239319-1) |
 
 ## About This Role
 
-This program manager position at Capital One was posted on 2026-02-27.
+This business analyst position at Capital One was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

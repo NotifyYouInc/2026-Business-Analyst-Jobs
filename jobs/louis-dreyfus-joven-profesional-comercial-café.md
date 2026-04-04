@@ -1,16 +1,16 @@
-# Joven Profesional Comercial Café  at Louis Dreyfus
+# Joven Profesional Comercial Café at Louis Dreyfus
 
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Leadership Development Program |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000115946133-joven-profesional-comercial-cafe) |
+| Posted | 2026-03-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000117443628-joven-profesional-comercial-cafe) |
 
 ## About This Role
 
-This leadership development program position at Louis Dreyfus was posted on 2026-03-20.
+This leadership development program position at Louis Dreyfus was posted on 2026-03-28.
 
 ## Get Real-Time Alerts
 

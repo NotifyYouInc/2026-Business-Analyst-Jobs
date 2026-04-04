@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Aubervilliers, Île-de-France, France |
 | Category | Project Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000111645535-stagiaire-charge-de-missions-hf) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000117339316-stagiaire-charge-de-missions-hf) |
 
 ## About This Role
 
-This project manager position at Veolia was posted on 2026-02-26.
+This project manager position at Veolia was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 

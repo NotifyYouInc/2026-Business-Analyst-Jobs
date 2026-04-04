@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan & Morgan, P.A.](https://scoutify.ai/companies/morgan-morgan-p-a?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Winter Park, Florida, United States |
+| Location | 2 locations |
 | Category | Learning & Development |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5819136004) |
+| Posted | 2026-03-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/morganmorganjobsapplynow/jobs/5839699004) |
 
 ## About This Role
 
-This learning & development position at Morgan & Morgan, P.A. was posted on 2026-03-04.
+This learning & development position at Morgan & Morgan, P.A. was posted on 2026-03-27.
 
 ## Get Real-Time Alerts
 
