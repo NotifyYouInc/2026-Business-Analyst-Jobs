@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hong Kong, Hong Kong |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/HKG-HK8_62F-Hong-Kong/Intern_867051) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Singapore-Singapore/Intern_866983) |
 
 ## About This Role
 
-This business analyst position at QS Investors was posted on 2026-03-27.
+This business analyst position at QS Investors was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Courbevoie, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000113728886-alternance-ingenieure-business-analyst-transport-ile-de-france) |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000117512827-alternance-ingenieure-business-analyst-transport-ile-de-france) |
 
 ## About This Role
 
-This business analyst position at Sopra Steria was posted on 2026-03-10.
+This business analyst position at Sopra Steria was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 

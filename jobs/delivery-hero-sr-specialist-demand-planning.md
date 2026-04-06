@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Kuwait |
-| Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000116393108-sr-specialist-demand-planning) |
+| Location | Dubai, Dubai, United Arab Emirates |
+| Category | Project Manager |
+| Posted | 2026-03-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000117494637-sr-specialist-demand-planning) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-03-24.
+This project manager position at Delivery Hero was posted on 2026-03-29.
 
 ## Get Real-Time Alerts
 
