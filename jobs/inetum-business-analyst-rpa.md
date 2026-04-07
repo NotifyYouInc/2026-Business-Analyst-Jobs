@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Saint-Ouen, Île-de-France, France |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000116634347-business-analyst-rpa) |
+| Category | Business Analyst |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000117628890-business-analyst-rpa) |
 
 ## About This Role
 
-This strategy / management consulting position at Inetum was posted on 2026-03-25.
+This business analyst position at Inetum was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

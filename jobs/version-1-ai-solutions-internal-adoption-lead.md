@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 6 locations |
-| Category | Project Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000114060488-ai-solutions-internal-adoption-lead) |
+| Category | Program Manager |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000117619537-ai-solutions-internal-adoption-lead) |
 
 ## About This Role
 
-This project manager position at Version 1 was posted on 2026-03-11.
+This program manager position at Version 1 was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

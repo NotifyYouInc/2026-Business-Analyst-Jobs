@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Caldwell, Idaho, United States |
+| Location | Pasco, Washington, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000117055222-coordinator-multiplication-order-management) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000117680928-coordinator-multiplication-order-management) |
 
 ## About This Role
 
-This business analyst position at Syngenta was posted on 2026-03-26.
+This business analyst position at Syngenta was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

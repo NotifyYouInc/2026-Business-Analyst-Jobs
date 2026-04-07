@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/IT-Business-Lead-Analyst_26950489) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/IT-Business-Lead-Analyst_26949962) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-03-26.
+This business analyst position at Citigroup was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

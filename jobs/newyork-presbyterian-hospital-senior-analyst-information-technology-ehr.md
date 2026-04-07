@@ -5,12 +5,12 @@
 | Company | [NewYork-Presbyterian Hospital](https://scoutify.ai/companies/newyork-presbyterian-hospital?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Senior-Analyst-Information-Technology-EHR_00879041-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://nyp.wd1.myworkdayjobs.com/nypcareers/job/NYPWeill-Cornell-Medical-Center/Senior-Analyst-Information-Technology-EHR_00879285) |
 
 ## About This Role
 
-This business analyst position at NewYork-Presbyterian Hospital was posted on 2026-03-25.
+This business analyst position at NewYork-Presbyterian Hospital was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

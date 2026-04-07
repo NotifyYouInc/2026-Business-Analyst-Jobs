@@ -1,16 +1,16 @@
-# Alternance Ingénieur Etudes et Projets (H/F) at Veolia
+# Alternance Ingénieur Etudes et projets (H/F) at Veolia
 
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | France |
+| Location | Rennes, Brittany, France |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000113172678-alternance-ingenieur-etudes-et-projets-hf) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000117673400-alternance-ingenieur-etudes-et-projets-hf) |
 
 ## About This Role
 
-This business analyst position at Veolia was posted on 2026-03-06.
+This business analyst position at Veolia was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

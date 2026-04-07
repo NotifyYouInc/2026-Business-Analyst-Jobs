@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Chengdu/Demand-Planner_R2840153-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Petaling-Jaya/Demand-Planner_R2850361) |
 
 ## About This Role
 
-This business analyst position at Sanofi was posted on 2026-03-05.
+This business analyst position at Sanofi was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Location | Romania |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000116643175-senior-business-analyst) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000117653032-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Endava was posted on 2026-03-25.
+This business analyst position at Endava was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000112211945-sr-specialist-logistics-performance-rider-payments) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000117598847-sr-specialist-logistics-performance-rider-payments) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-03-02.
+This business analyst position at Delivery Hero was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

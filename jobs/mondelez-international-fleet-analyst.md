@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico |
+| Location | Mérida, Yucatán, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Santa-F-Mexico/Fleet-Analyst_R-160742) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Merida-Mexico/Fleet-Analyst_R-164127) |
 
 ## About This Role
 
-This business analyst position at Mondelez International was posted on 2026-03-03.
+This business analyst position at Mondelez International was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 

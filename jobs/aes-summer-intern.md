@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AES](https://scoutify.ai/companies/aes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Huntington Beach, California, United States |
+| Location | Long Beach, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Huntington-Beach-CA/Summer-Intern_R1063074-1) |
+| Posted | 2026-03-30 |
+| Apply | [View on company site](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Long-Beach-CA/Summer-Intern_R1063076) |
 
 ## About This Role
 
-This business analyst position at AES was posted on 2026-03-25.
+This business analyst position at AES was posted on 2026-03-30.
 
 ## Get Real-Time Alerts
 
