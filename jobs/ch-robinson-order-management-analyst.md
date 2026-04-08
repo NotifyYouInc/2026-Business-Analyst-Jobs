@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [C.H. Robinson](https://scoutify.ai/companies/chrobinson?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Visalia, California, United States |
+| Location | New Jersey, US |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Visalia-CA-United-States-of-America/Order-Management-Analyst_R47399) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Voorhees-NJ-United-States-of-America/Order-Management-Analyst_R47464) |
 
 ## About This Role
 
-This business analyst position at C.H. Robinson was posted on 2026-03-05.
+This business analyst position at C.H. Robinson was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

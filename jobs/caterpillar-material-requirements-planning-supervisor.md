@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Coahuila, MX |
+| Location | Santa Catarina, Nuevo León, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Acuna-Coahuila/Material-Requirements-Planning-Supervisor_R0000339169-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Santa-Catarina-Nuevo-Len/Material-Requirements-Planning-Supervisor_R0000359753) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-02-17.
+This business analyst position at Caterpillar was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

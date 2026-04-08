@@ -6,7 +6,7 @@
 | Location | Scarborough, England, United Kingdom |
 | Category | Business Analyst |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000117618413-apprenticeship-delivery-coordinator-12-month-fixed-term-contract) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000117752783-apprenticeship-delivery-coordinator-12-month-fixed-term-contract) |
 
 ## About This Role
 

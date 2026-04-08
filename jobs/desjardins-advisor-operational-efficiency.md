@@ -1,16 +1,16 @@
-# Advisor, Operational efficiency at Desjardins
+# Advisor, Operational Efficiency at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quebec, CA |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-efficacit-oprationnelle_R2603646) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Efficacit-oprationnelle_R2604285) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-25.
+This business analyst position at Desjardins was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

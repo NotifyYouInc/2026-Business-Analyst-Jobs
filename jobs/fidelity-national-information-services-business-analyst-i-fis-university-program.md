@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Jacksonville, Florida, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-ATL-201-STE-900/Business-Analyst-I--FIS-University-Program_JR0304448) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Business-Analyst-I--FIS-University-Program_JR0304202) |
 
 ## About This Role
 
-This leadership development program position at Fidelity National Information Services was posted on 2026-03-11.
+This leadership development program position at Fidelity National Information Services was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

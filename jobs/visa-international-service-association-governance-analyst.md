@@ -5,12 +5,12 @@
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brazil |
 | Category | ESG / Sustainability |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000112515327-governance-analyst) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000117984253-governance-analyst) |
 
 ## About This Role
 
-This esg / sustainability position at Visa International Service Association was posted on 2026-03-03.
+This esg / sustainability position at Visa International Service Association was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland/Senior-Business-Analyst_R-268785) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Business Analyst |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Mexico-City-Mexico/Senior-Business-Analyst_R-274081-1) |
 
 ## About This Role
 
-This operations position at Mastercard was posted on 2026-02-03.
+This business analyst position at Mastercard was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

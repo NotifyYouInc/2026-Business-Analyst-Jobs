@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Everett, Washington, United States |
-| Category | Project Manager |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Quality-Systems-Specialist_JR2026501401-2) |
+| Location | North Charleston, South Carolina, United States |
+| Category | Business Analyst |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Quality-Systems-Specialist_JR2026503063-1) |
 
 ## About This Role
 
-This project manager position at Boeing was posted on 2026-03-27.
+This business analyst position at Boeing was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

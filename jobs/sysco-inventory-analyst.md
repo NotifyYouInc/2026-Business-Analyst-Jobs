@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Houston, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Dublin/Inventory-Analyst_R242337) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Corporate/Inventory-Analyst_R245026) |
 
 ## About This Role
 
-This business analyst position at Sysco was posted on 2026-03-13.
+This business analyst position at Sysco was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

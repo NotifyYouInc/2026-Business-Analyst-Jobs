@@ -6,7 +6,7 @@
 | Location | New Jersey, US |
 | Category | Project Manager |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117679819-project-manager-bilingual-english-korean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117756695-project-manager-bilingual-english-korean) |
 
 ## About This Role
 

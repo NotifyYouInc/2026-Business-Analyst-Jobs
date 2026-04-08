@@ -6,7 +6,7 @@
 | Location | Dalton, Georgia, United States |
 | Category | Business Analyst |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117680921-logistic-planning-coordinator-bilingual-englishkorean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117757752-logistic-planning-coordinator-bilingual-englishkorean) |
 
 ## About This Role
 

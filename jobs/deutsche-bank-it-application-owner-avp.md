@@ -5,12 +5,12 @@
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Project Manager |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/IT-Application-Owner--AVP_R0416868-1) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Margarpatta/IT-Application-Owner--AVP_R0415512) |
 
 ## About This Role
 
-This project manager position at Deutsche Bank was posted on 2026-03-04.
+This project manager position at Deutsche Bank was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

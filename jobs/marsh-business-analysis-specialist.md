@@ -5,12 +5,12 @@
 | Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Bogota---Calle-26/Business-Analysis--Specialist_R_344687) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Bogota---Eldorado/Business-Analysis--Specialist_R_343394) |
 
 ## About This Role
 
-This business analyst position at Marsh was posted on 2026-03-26.
+This business analyst position at Marsh was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

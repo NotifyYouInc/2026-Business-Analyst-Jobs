@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh](https://scoutify.ai/companies/mmc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Aliso Viejo, California, United States |
+| Location | San Diego, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Aliso-Viejo---Polaris/Benefit-Analyst_R_344164) |
+| Posted | 2026-03-31 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/San-Diego---Towne-Centre/Benefit-Analyst_R_346173) |
 
 ## About This Role
 
-This business analyst position at Marsh was posted on 2026-03-13.
+This business analyst position at Marsh was posted on 2026-03-31.
 
 ## Get Real-Time Alerts
 

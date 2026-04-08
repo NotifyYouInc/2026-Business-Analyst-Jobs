@@ -6,7 +6,7 @@
 | Location | Buena Park, California, United States |
 | Category | Project Manager |
 | Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117681537-pos-application-manager-bilingual-englishkorean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117757637-pos-application-manager-bilingual-englishkorean) |
 
 ## About This Role
 
