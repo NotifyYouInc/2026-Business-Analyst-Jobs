@@ -5,12 +5,12 @@
 | Company | [QS Investors](https://scoutify.ai/companies/qs-investors?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Hyderabad-Telangana-India/Business-Systems-Analyst---FTS_866582) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://franklintempleton.wd5.myworkdayjobs.com/primary-external-1/job/Hyderabad-Telangana-India/Business-Systems-Analyst---FTS_866932) |
 
 ## About This Role
 
-This business analyst position at QS Investors was posted on 2026-03-26.
+This business analyst position at QS Investors was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Accounting |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Payroll-Senior-Analyst_26946774) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/Payroll-Senior-Analyst_26950051) |
 
 ## About This Role
 
-This accounting position at Citigroup was posted on 2026-03-20.
+This accounting position at Citigroup was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

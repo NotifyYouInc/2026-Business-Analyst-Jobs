@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quebec, CA |
+| Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Intgration-de-la-revue-de-performance_R2604387) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-en-performance-de-produits_R2604383) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-27.
+This business analyst position at Desjardins was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

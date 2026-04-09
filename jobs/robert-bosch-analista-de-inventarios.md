@@ -1,16 +1,16 @@
-# Analista de inventarios at Robert Bosch
+# Analista de Inventarios at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Celaya, Guanajuato, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115460248-analista-de-inventarios) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118210815-analista-de-inventarios) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-03-18.
+This business analyst position at Robert Bosch was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

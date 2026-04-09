@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quebec, CA |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Conseiller-ou-conseillre--Souscription-Entreprises_R2602502) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Souscripteur-ou-souscriptrice--Dveloppeur-ou-dveloppeuse--Entreprises_R2604487) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-02-18.
+This business analyst position at Desjardins was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

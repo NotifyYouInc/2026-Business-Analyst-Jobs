@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | New Jersey, US |
 | Category | Project Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000117758576-business-analyst-bilingual-englishkorean) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118276978-business-analyst-bilingual-englishkorean) |
 
 ## About This Role
 
-This project manager position at Woongjin was posted on 2026-03-30.
+This project manager position at Woongjin was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

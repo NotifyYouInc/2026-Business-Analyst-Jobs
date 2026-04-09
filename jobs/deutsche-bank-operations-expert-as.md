@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Raheja-Towers-26-27-M-G-Road/Operations-Expert--AS_R0410302) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Operations-Expert--AS_R0430888) |
 
 ## About This Role
 
-This business analyst position at Deutsche Bank was posted on 2026-03-27.
+This business analyst position at Deutsche Bank was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

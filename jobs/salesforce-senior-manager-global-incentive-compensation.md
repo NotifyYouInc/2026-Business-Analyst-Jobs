@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Project Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Senior-Manager--Global-Incentive-Compensation_JR334754) |
+| Location | Indianapolis, Indiana, United States |
+| Category | Program Manager |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Senior-Manager--Global-Incentive-Compensation_JR336464) |
 
 ## About This Role
 
-This project manager position at Salesforce was posted on 2026-03-25.
+This program manager position at Salesforce was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

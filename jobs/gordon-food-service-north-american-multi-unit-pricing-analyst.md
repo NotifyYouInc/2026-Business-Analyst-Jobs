@@ -1,16 +1,16 @@
-# North American Multi Unit Pricing Analyst at Gordon Food Service
+# North American Multi-Unit Pricing Analyst at Gordon Food Service
 
 | Field | Details |
 |-------|---------|
 | Company | [Gordon Food Service](https://scoutify.ai/companies/gordon-food-service?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Wyoming, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/North-American-Multi-Unit-Pricing-Analyst_R-48080-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/North-American-Multi-Unit-Pricing-Analyst_R-49927-1) |
 
 ## About This Role
 
-This business analyst position at Gordon Food Service was posted on 2026-02-17.
+This business analyst position at Gordon Food Service was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

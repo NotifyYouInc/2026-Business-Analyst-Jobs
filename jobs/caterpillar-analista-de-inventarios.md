@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ciénega de Flores, Nuevo León, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Cienega-de-Flores-Facility-6/Analista-de-Inventarios_R0000352559) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Cienega-de-Flores-Facility-6/Analista-de-Inventarios_R0000358730) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-03-03.
+This business analyst position at Caterpillar was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

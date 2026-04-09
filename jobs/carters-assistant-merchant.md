@@ -5,12 +5,12 @@
 | Company | [Carter’s](https://scoutify.ai/companies/carter-s?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://carters.wd1.myworkdayjobs.com/carterscareers/job/Atlanta-GA/Assistant-Merchant_JR54433) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://carters.wd1.myworkdayjobs.com/carterscareers/job/Atlanta-GA/Assistant-Merchant_JR55742) |
 
 ## About This Role
 
-This business analyst position at Carter’s was posted on 2026-02-18.
+This business analyst position at Carter’s was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

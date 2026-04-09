@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Remote---United-States/Business-Systems-Analyst_JR26-4100-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Chicago---Illinois---Wacker/Business-Systems-Analyst_JR26-4296-1) |
 
 ## About This Role
 
-This business analyst position at Ryan Specialty was posted on 2026-02-18.
+This business analyst position at Ryan Specialty was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

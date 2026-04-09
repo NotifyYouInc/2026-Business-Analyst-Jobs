@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/Business-Systems-Analyst-Tester_323895) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/Business-Systems-Analyst-Tester_324179) |
 
 ## About This Role
 
-This business analyst position at CACI was posted on 2026-03-27.
+This business analyst position at CACI was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

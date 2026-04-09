@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | O'Fallon, Missouri, United States |
-| Category | Project Manager |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Manager--Business-Analysis_R-270652) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Business Analyst |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia-Bldg-978/Manager--Business-Analysis_R-274291) |
 
 ## About This Role
 
-This project manager position at Mastercard was posted on 2026-02-11.
+This business analyst position at Mastercard was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

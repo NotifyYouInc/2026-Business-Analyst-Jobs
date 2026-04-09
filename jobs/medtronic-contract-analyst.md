@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Legal |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Contract-Analyst_R60543-1) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Contract-Analyst_R63059-2) |
 
 ## About This Role
 
-This legal position at Medtronic was posted on 2026-02-26.
+This legal position at Medtronic was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 

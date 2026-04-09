@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adyen](https://scoutify.ai/companies/adyen?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | San Francisco, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7742480) |
+| Posted | 2026-04-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/adyen/jobs/7759995) |
 
 ## About This Role
 
-This business analyst position at Adyen was posted on 2026-03-30.
+This business analyst position at Adyen was posted on 2026-04-01.
 
 ## Get Real-Time Alerts
 
