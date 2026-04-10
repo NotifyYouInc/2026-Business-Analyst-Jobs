@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | North Carolina, US |
-| Category | Project Manager |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Business-Systems-Analyst_2002913-1) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | Business Analyst |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Taipei-Taiwan/Business-Systems-Analyst_2011109) |
 
 ## About This Role
 
-This project manager position at Cisco was posted on 2026-02-27.
+This business analyst position at Cisco was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

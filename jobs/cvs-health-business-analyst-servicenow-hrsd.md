@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Business-Analyst---ServiceNow-HRSD_R0862876-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Richardson/Business-Analyst---ServiceNow-HRSD_R0840851) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-03-30.
+This business analyst position at CVS Health was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

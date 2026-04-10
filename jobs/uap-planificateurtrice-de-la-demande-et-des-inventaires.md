@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Longueuil, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000117989343-planificateurtrice-de-la-demande-et-des-inventaires) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000118474007-planificateurtrice-de-la-demande-et-des-inventaires) |
 
 ## About This Role
 
-This business analyst position at UAP was posted on 2026-03-31.
+This business analyst position at UAP was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

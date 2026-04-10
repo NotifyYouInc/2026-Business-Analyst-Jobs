@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Program Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale-mise-en-uvre-amlioration-des-processus-marketing_R2604166) |
+| Location | Montréal, Quebec, Canada |
+| Category | Business Analyst |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-principal-ou-conseillre-principale--Efficacit-oprationnelle--Conformit-TI---SOC-1---SOX_R2604457) |
 
 ## About This Role
 
-This program manager position at Desjardins was posted on 2026-03-24.
+This business analyst position at Desjardins was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Business Analyst |
 | Posted | 2026-04-02 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Procurement-Analyst_JR2026503843) |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Procurement-Analyst_JR2026504132) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# ALTERNANCE - Ingénieur Amélioration Continue - F/H at Thales
+# ALTERNANCE - Ingénieur Amélioration continue - F/H at Thales
 
 | Field | Details |
 |-------|---------|
 | Company | [Thales](https://scoutify.ai/companies/thales?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | France |
+| Location | Brest, Brittany, France |
 | Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Orlans/ALTERNANCE---Ingnieur-Amlioration-Continue---F-H_R0321847-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://thales.wd3.myworkdayjobs.com/Careers/job/Brest/ALTERNANCE---Ingnieur-Amlioration-continue---F-H_R0322629-2) |
 
 ## About This Role
 
-This business analyst position at Thales was posted on 2026-03-30.
+This business analyst position at Thales was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

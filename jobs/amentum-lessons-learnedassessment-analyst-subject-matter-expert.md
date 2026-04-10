@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AK-Fairbanks/Lessons-Learned-Assessment-Analyst-Subject-Matter-Expert_R0157060) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AK-Fairbanks/Lessons-Learned-Assessment-Analyst-Subject-Matter-Expert_R0158206) |
 
 ## About This Role
 
-This business analyst position at Amentum was posted on 2026-03-20.
+This business analyst position at Amentum was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

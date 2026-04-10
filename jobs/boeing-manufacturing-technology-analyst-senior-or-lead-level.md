@@ -1,16 +1,16 @@
-# Manufacturing Technology Analyst (Senior or Lead Level) at Boeing
+# Manufacturing Technology Analyst (Senior or Lead level) at Boeing
 
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Auburn, Washington, United States |
+| Location | Everett, Washington, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Auburn-WA/Manufacturing-Technology-Analyst--Senior-or-Lead-Level-_JR2026496613-1) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Manufacturing-Technology-Analyst--Senior-or-Lead-level-_JR2026502058-1) |
 
 ## About This Role
 
-This business analyst position at Boeing was posted on 2026-02-23.
+This business analyst position at Boeing was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

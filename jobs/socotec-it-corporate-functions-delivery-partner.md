@@ -5,12 +5,12 @@
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Project Manager |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000116494911-it-corporate-functions-delivery-partner) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000118463843-it-corporate-functions-delivery-partner) |
 
 ## About This Role
 
-This project manager position at SOCOTEC was posted on 2026-03-24.
+This project manager position at SOCOTEC was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

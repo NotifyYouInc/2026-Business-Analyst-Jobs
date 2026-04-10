@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barry-Wehmiller](https://scoutify.ai/companies/barrywehmiller?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | St. Louis, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Raleigh-NC-USA/Supply-Chain-Procurement-Co-Op_R021084) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/St-Louis-MO/Supply-Chain-Procurement-Co-Op_R021266) |
 
 ## About This Role
 
-This business analyst position at Barry-Wehmiller was posted on 2026-03-13.
+This business analyst position at Barry-Wehmiller was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

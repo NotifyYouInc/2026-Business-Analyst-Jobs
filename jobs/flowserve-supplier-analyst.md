@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | Torreón, Coahuila, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Bangalore-India/Supplier-Analyst_R-18677) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Torreon-Mexico/Supplier-Analyst_R-18675-1) |
 
 ## About This Role
 
-This business analyst position at Flowserve was posted on 2026-04-01.
+This business analyst position at Flowserve was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

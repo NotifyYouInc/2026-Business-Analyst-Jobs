@@ -5,12 +5,12 @@
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Haryana, IN |
 | Category | Business Analyst |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Business-Analyst_108084) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Business-Analyst_108574) |
 
 ## About This Role
 
-This business analyst position at Gartner was posted on 2026-03-14.
+This business analyst position at Gartner was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

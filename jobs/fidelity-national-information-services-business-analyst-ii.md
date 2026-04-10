@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Florida, US |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-PIE-11601/Business-Analyst-II_JR0304713) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Business-Analyst-II_JR0304875-1) |
 
 ## About This Role
 
-This business analyst position at Fidelity National Information Services was posted on 2026-02-18.
+This business analyst position at Fidelity National Information Services was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

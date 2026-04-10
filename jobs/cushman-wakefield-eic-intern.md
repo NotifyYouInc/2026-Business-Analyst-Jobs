@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Los Angeles, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Phoenix-Arizona-USA/EIC-Intern_R308843) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Los-Angeles-California-USA/EIC-Intern_R312864) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-03-27.
+This business analyst position at Cushman & Wakefield was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

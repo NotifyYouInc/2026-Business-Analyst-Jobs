@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vistra](https://scoutify.ai/companies/vst?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Irving, Texas, United States |
 | Category | Legal |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Dallas-Texas/Retail-Contract-Analyst-IV_40014018-2) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Irving-Texas/Retail-Contract-Analyst-IV_40015589-2) |
 
 ## About This Role
 
-This legal position at Vistra was posted on 2026-03-16.
+This legal position at Vistra was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

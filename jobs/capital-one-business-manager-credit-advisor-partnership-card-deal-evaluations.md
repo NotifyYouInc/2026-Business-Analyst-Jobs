@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Project Manager |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Manager---Credit-Advisor--Partnership-Card-Deal-Evaluations_R239176-1) |
+| Location | 3 locations |
+| Category | Business Analyst |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Manager---Credit-Advisor--Partnership-Card-Deal-Evaluations_R239736-1) |
 
 ## About This Role
 
-This project manager position at Capital One was posted on 2026-03-30.
+This business analyst position at Capital One was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
