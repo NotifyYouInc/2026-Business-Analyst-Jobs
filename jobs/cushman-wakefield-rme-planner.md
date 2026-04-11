@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fort Wayne, Indiana, United States |
+| Location | Hesperia, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---IN---Fort-Wayne---5510-Flaugh-Road/RME-Planner_R310890) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Hesperia---11500-Phelan-Rd/RME-Planner_R313825) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-03-20.
+This business analyst position at Cushman & Wakefield was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

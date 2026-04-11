@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Business-Analyst_REQ490122) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Business-Analyst_REQ496453-1) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-02-27.
+This business analyst position at JLL was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

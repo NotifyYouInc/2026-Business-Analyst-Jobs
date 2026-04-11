@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cleveland Clinic](https://scoutify.ai/companies/ccf?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cleveland, Ohio, United States |
-| Category | Project Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/SQPE-Specialist-I_328781) |
+| Location | Avon, Ohio, United States |
+| Category | Business Analyst |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Avon-Hospital/SQPE-Specialist-I_330007) |
 
 ## About This Role
 
-This project manager position at Cleveland Clinic was posted on 2026-03-13.
+This business analyst position at Cleveland Clinic was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

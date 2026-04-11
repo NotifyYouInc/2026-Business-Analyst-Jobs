@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Iowa, US |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Wisconsin/Provider-Contracting-Professional_R-408983-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Wisconsin/Provider-Contracting-Professional_R-411899-1) |
 
 ## About This Role
 
-This business analyst position at Humana was posted on 2026-03-26.
+This business analyst position at Humana was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

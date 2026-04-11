@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011724206-senior-analyst-process-automation) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012450016-senior-analyst-process-automation) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-02-18.
+This business analyst position at AbbVie was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

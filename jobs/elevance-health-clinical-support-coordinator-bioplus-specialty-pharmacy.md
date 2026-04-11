@@ -5,12 +5,12 @@
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/LA-HARVEY-2731-MANHATTAN-BLVD-STE-A18-A24--B4-B17/Clinical-Support-Coordinator---BioPlus-Specialty-Pharmacy_JR185821) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/LA-HARVEY-2731-MANHATTAN-BLVD-STE-A18-A24--B4-B17/Clinical-Support-Coordinator---BioPlus-Specialty-Pharmacy_JR187542) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-03-18.
+This business analyst position at Elevance Health was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

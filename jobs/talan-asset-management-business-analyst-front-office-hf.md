@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000107473156-asset-management-business-analyst-front-office-hf) |
+| Category | Asset Management / Portfolio Management |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000118635607-asset-management-business-analyst-front-office-hf) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-02-05.
+This asset management / portfolio management position at Talan was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

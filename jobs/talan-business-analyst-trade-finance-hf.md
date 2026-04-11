@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000114751388-business-analyst-trade-finance-hf) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000118619397-business-analyst-trade-finance-hf) |
 
 ## About This Role
 
-This strategy / management consulting position at Talan was posted on 2026-03-13.
+This strategy / management consulting position at Talan was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

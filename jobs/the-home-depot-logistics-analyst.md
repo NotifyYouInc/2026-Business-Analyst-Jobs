@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Operations |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Logistics-Analyst_Req159366-1) |
+| Category | Business Analyst |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Logistics-Analyst_Req174335) |
 
 ## About This Role
 
-This operations position at The Home Depot was posted on 2026-02-05.
+This business analyst position at The Home Depot was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

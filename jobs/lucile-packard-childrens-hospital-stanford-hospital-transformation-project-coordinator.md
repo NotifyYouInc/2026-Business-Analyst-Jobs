@@ -5,12 +5,12 @@
 | Company | [Lucile Packard Children's Hospital Stanford](https://scoutify.ai/companies/lucilepackardchildrenshospitalstanford?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Project Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990012255031-hospital-transformation-project-coordinator) |
+| Posted | 2026-04-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990012459676-hospital-transformation-project-coordinator) |
 
 ## About This Role
 
-This project manager position at Lucile Packard Children's Hospital Stanford was posted on 2026-03-20.
+This project manager position at Lucile Packard Children's Hospital Stanford was posted on 2026-04-04.
 
 ## Get Real-Time Alerts
 

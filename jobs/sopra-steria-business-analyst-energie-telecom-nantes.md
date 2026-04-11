@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000115440312-business-analyst-energie-telecom-nantes) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000118616086-business-analyst-energie-telecom-nantes) |
 
 ## About This Role
 
-This business analyst position at Sopra Steria was posted on 2026-03-18.
+This business analyst position at Sopra Steria was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

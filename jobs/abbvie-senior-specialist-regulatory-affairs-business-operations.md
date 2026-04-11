@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012431545-senior-specialist-regulatory-affairs-business-operations) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012445296-senior-specialist-regulatory-affairs-business-operations) |
 
 ## About This Role
 
-This compliance & risk management position at AbbVie was posted on 2026-04-02.
+This compliance & risk management position at AbbVie was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

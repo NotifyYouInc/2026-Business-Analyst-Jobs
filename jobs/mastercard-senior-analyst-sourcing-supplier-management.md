@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | O'Fallon, Missouri, United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Analyst--Sourcing---Supplier-Management_R-270916) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Analyst--Sourcing---Supplier-Management_R-273973) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Mastercard was posted on 2026-02-18.
+This talent acquisition / recruiting position at Mastercard was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

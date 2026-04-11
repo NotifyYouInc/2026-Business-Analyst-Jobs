@@ -1,16 +1,16 @@
-# alternance 12 mois – amélioration continue at Sanofi
+# alternance 12 mois - amélioration continue at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | France |
+| Location | Tours, Centre-Val de Loire, France |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Neuville-Sur-Sane/alternance-12-mois---amlioration-continue_R2849158) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Tours/alternance-12-mois---amlioration-continue_R2850981) |
 
 ## About This Role
 
-This business analyst position at Sanofi was posted on 2026-03-20.
+This business analyst position at Sanofi was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

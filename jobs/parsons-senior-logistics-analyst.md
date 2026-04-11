@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Centreville, Virginia, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/Senior-Logistics-Analyst_R178221-1) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---DC-Washington/Senior-Logistics-Analyst_R179224-1) |
 
 ## About This Role
 
-This business analyst position at Parsons was posted on 2026-03-17.
+This business analyst position at Parsons was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

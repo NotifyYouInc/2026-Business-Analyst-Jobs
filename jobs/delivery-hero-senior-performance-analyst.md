@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dhaka, Dhaka Division, Bangladesh |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000110674435-senior-performance-analyst) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000118595822-senior-performance-analyst) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-02-23.
+This business analyst position at Delivery Hero was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 

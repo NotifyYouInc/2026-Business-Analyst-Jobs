@@ -1,16 +1,16 @@
-# Ingénieur Chargé d'affaires Construction  H/F at SOCOTEC
+# Ingénieur chargé d'affaires construction H/F at SOCOTEC
 
 | Field | Details |
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Belfort, Bourgogne, France |
+| Location | Nice, Provence-Alpes-Côte d'Azur, France |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000113785917-ingenieur-charge-daffaires-construction-hf) |
+| Posted | 2026-04-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000118614487-ingenieur-charge-daffaires-construction-hf) |
 
 ## About This Role
 
-This business analyst position at SOCOTEC was posted on 2026-03-10.
+This business analyst position at SOCOTEC was posted on 2026-04-03.
 
 ## Get Real-Time Alerts
 
