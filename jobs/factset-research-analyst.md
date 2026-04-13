@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FactSet](https://scoutify.ai/companies/factset?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Hyderabad-IND/Research-Analyst_R30432) |
+| Posted | 2026-04-05 |
+| Apply | [View on company site](https://factset.wd108.myworkdayjobs.com/FactSetCareers/job/Philippines-Manila-One-Le-Grand-Tower-Manila---One-Le-Grand/Research-Analyst_R31932) |
 
 ## About This Role
 
-This business analyst position at FactSet was posted on 2026-02-17.
+This business analyst position at FactSet was posted on 2026-04-05.
 
 ## Get Real-Time Alerts
 

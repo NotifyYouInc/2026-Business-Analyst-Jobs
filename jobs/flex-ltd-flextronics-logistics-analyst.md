@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Penang, MY |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Logistics-Analyst_WD215819) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Penang/Logistics-Analyst_WD218597) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-02-23.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

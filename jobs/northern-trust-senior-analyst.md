@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Senior-Analyst_R152641) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Manila-Philippines/Senior-Analyst_R152339) |
 
 ## About This Role
 
-This business analyst position at Northern Trust was posted on 2026-03-23.
+This business analyst position at Northern Trust was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

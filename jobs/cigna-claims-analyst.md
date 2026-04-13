@@ -6,7 +6,7 @@
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Actuary / Insurance Analytics |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Kuala-Lumpur-Malaysia/Claims-Analyst_26003920) |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Kuala-Lumpur-Malaysia/Claims-Analyst_26003919) |
 
 ## About This Role
 

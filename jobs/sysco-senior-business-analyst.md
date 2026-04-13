@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nassau, New Providence, Bahamas |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Bahamas-Food-Service-----Nassau1/Senior-Business-Analyst_R240781) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Senior-Business-Analyst_R243237) |
 
 ## About This Role
 
-This business analyst position at Sysco was posted on 2026-03-02.
+This business analyst position at Sysco was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 
