@@ -6,7 +6,7 @@
 | Location | Plano, Texas, United States |
 | Category | Project Manager |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118626847-mid-it-security-project-coordinator-bilingualenglishkorean-preferred) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118664896-mid-it-security-project-coordinator-bilingualenglishkorean-preferred) |
 
 ## About This Role
 

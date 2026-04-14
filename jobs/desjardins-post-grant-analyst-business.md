@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ontario, CA |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Ontario/Analyste--Post-octroi-de-financement_R2604029) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Saint-Hyacinthe/Analyste---Post-octroi-de-financement---Entreprises_R2604577) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-24.
+This business analyst position at Desjardins was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

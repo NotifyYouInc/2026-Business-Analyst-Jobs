@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San José, San José, Costa Rica |
+| Location | Karnataka, IN |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Lean-Practitioner_EB00075200) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/IND-Bangalore-D-601/Lean-Practitioner_WD30262410) |
 
 ## About This Role
 
-This business analyst position at Johnson Controls was posted on 2026-03-09.
+This business analyst position at Johnson Controls was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

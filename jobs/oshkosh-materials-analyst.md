@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oshkosh](https://scoutify.ai/companies/oshkoshcorporation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Neenah, Wisconsin, United States |
-| Category | Project Manager |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Neenah-Wisconsin-United-States/Materials-Analyst_R44273) |
+| Location | Appleton, Wisconsin, United States |
+| Category | Business Analyst |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Materials-Analyst_R45115) |
 
 ## About This Role
 
-This project manager position at Oshkosh was posted on 2026-02-23.
+This business analyst position at Oshkosh was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

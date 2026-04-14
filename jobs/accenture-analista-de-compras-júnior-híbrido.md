@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Barueri, São Paulo, Brazil |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Compras-Junior--Hbrido_14263968) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Nova-Lima-Shopping-Alta-Vila/Analista-de-Compras-Pleno_R00305597) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-02.
+This business analyst position at Accenture was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

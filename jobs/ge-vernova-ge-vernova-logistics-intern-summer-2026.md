@@ -5,12 +5,12 @@
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Greenville, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/GE-Vernova-Logistics-Intern---Summer-2026_R5037100-2) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/GE-Vernova-Logistics-Intern---Summer-2026_R5037676-2) |
 
 ## About This Role
 
-This business analyst position at GE Vernova was posted on 2026-04-01.
+This business analyst position at GE Vernova was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analista De Processos at Unilever
+# Analista de Processos at Unilever
 
 | Field | Details |
 |-------|---------|
 | Company | [Unilever](https://scoutify.ai/companies/unilever?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
+| Location | Indaiatuba, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Agua-Brazil/Analista-De-Processos_R-1177193) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Indaiatuba-Brazil/Analista-de-Processos_R-1179320) |
 
 ## About This Role
 
-This business analyst position at Unilever was posted on 2026-03-13.
+This business analyst position at Unilever was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

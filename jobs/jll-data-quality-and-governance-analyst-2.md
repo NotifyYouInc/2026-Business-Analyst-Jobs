@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | 2 locations |
 | Category | ESG / Sustainability |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Warsaw-POL/Data-Quality-and-Governance-Analyst-2_REQ491890) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Data-Quality-and-Governance-Analyst-2_REQ497349) |
 
 ## About This Role
 
-This esg / sustainability position at JLL was posted on 2026-03-09.
+This esg / sustainability position at JLL was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

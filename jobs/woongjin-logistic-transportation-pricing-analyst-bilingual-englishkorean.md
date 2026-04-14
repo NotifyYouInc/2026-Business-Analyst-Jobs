@@ -6,7 +6,7 @@
 | Location | Plano, Texas, United States |
 | Category | Business Analyst |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118625933-logistic-transportation-pricing-analyst-bilingual-englishkorean) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118663918-logistic-transportation-pricing-analyst-bilingual-englishkorean) |
 
 ## About This Role
 

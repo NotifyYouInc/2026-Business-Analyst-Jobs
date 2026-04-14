@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Premier](https://scoutify.ai/companies/premierinc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | New York, US |
 | Category | Legal |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Remote/Contract-Analyst_R0008295-1) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/New-York-NY/Contract-Analyst_R0008322) |
 
 ## About This Role
 
-This legal position at Premier was posted on 2026-04-03.
+This legal position at Premier was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

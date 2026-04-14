@@ -1,16 +1,16 @@
-# Estágio Supply Chain at Renault Group
+# Estágio - Supply Chain at Renault Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brazil |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/So-Jos-dos-Pinhais/Estgio-Supply-Chain_JOBREQ_50249433) |
+| Posted | 2026-04-06 |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/So-Jos-dos-Pinhais/Estgio---Supply-Chain_JOBREQ_50259916) |
 
 ## About This Role
 
-This business analyst position at Renault Group was posted on 2026-02-24.
+This business analyst position at Renault Group was posted on 2026-04-06.
 
 ## Get Real-Time Alerts
 

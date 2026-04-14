@@ -6,7 +6,7 @@
 | Location | New Jersey, US |
 | Category | Business Analyst |
 | Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118645087-business-analyst-bilingual-korean-and-english) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000118665437-business-analyst-bilingual-korean-and-english) |
 
 ## About This Role
 
