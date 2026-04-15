@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Rahway, New Jersey, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---New-Jersey---Rahway/Associate-Director--Strategic-Forecasting_R386999) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Associate-Director--Strategic-Forecasting_R392525) |
 
 ## About This Role
 
-This strategy & operations position at Merck was posted on 2026-03-05.
+This strategy & operations position at Merck was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

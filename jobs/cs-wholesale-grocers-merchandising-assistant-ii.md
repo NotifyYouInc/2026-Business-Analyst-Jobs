@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [C&S Wholesale Grocers](https://scoutify.ai/companies/cswg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Keene, New Hampshire, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/North-Hatfield-MA/Merchandising-Assistant-II_R-266909) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Keene-NH/Merchandising-Assistant-II_R-266908) |
 
 ## About This Role
 
-This business analyst position at C&S Wholesale Grocers was posted on 2026-04-06.
+This business analyst position at C&S Wholesale Grocers was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 

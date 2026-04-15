@@ -6,7 +6,7 @@
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Business Analyst |
 | Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000118862179-business-analyst-fr-eng) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000118869227-business-analyst-fr-eng) |
 
 ## About This Role
 

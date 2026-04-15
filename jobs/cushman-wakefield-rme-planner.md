@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hesperia, California, United States |
+| Location | Bessemer, Alabama, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Hesperia---11500-Phelan-Rd/RME-Planner_R313825) |
+| Posted | 2026-04-07 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---AL---Bessemer---975-Powder-Plant-Rd/RME-Planner_R306186) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-04-03.
+This business analyst position at Cushman & Wakefield was posted on 2026-04-07.
 
 ## Get Real-Time Alerts
 
