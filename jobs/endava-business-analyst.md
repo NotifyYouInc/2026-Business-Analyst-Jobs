@@ -1,16 +1,16 @@
-# Business Analyst at Endava
+# Business Analyst  at Endava
 
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000117352011-business-analyst) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000119457398-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Endava was posted on 2026-03-27.
+This business analyst position at Endava was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

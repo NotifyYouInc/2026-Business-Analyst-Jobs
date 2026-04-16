@@ -5,12 +5,12 @@
 | Company | [Lucid Motors](https://scoutify.ai/companies/lucidmotors?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Newark, New Jersey, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lucidmotors/jobs/5072853007) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lucidmotors/jobs/5103163007) |
 
 ## About This Role
 
-This business analyst position at Lucid Motors was posted on 2026-03-10.
+This business analyst position at Lucid Motors was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

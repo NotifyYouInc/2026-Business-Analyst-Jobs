@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Location | Shanghai, Shanghai, China |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Australia-New-South-Wales-Moorebank-2170/Business-Analyst_R175463) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Shanghai-Shanghai-200003/Business-Analyst_R177938) |
 
 ## About This Role
 
-This business analyst position at A.P. Moller - Maersk was posted on 2026-03-18.
+This business analyst position at A.P. Moller - Maersk was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Privacy & Data Protection |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Supply-Chain-Data-Steward--Experienced-or-Senior-_JR2026495861-1) |
+| Posted | 2026-04-08 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Supply-Chain-Data-Steward--Experienced-or-Senior-_JR2026504957-1) |
 
 ## About This Role
 
-This privacy & data protection position at Boeing was posted on 2026-02-19.
+This privacy & data protection position at Boeing was posted on 2026-04-08.
 
 ## Get Real-Time Alerts
 

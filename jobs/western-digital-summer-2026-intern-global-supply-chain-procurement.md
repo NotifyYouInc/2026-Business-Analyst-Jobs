@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | San Jose, California, United States |
-| Category | Leadership Development Program |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000115793897-summer-2026-intern-global-supply-chain-procurement) |
+| Category | Business Analyst |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000119508684-summer-2026-intern-global-supply-chain-procurement) |
 
 ## About This Role
 
-This leadership development program position at Western Digital was posted on 2026-03-20.
+This business analyst position at Western Digital was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

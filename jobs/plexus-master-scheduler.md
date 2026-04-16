@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plexus](https://scoutify.ai/companies/plexus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Neenah, Wisconsin, United States |
+| Location | Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Neenah-WI/Master-Scheduler_R036914) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Penang-Malaysia/Demand-Analyst--Master-Scheduler-_R030455-1) |
 
 ## About This Role
 
-This business analyst position at Plexus was posted on 2026-03-05.
+This business analyst position at Plexus was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
