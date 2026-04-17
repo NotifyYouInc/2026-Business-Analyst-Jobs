@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bogota-Colombia/Senior-Analyst---Managed-Services--US-Pharma-_R1522674) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bogota-Colombia/Senior-Analyst---Managed-Services--US-Pharma-_R1538364) |
 
 ## About This Role
 
-This business analyst position at IQVIA was posted on 2026-03-31.
+This business analyst position at IQVIA was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

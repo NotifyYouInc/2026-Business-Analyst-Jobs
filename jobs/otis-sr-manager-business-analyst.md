@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
 | Posted | 2026-04-09 |
-| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/1st-Floor-Embassy-Vajram-Onyx-Embassy-Tech-Village-Outer-Ring-Road-Devarabisanahalli-Bengaluru-Karnataka---560103-India/Sr-Manager--Business-Analyst_20156242) |
+| Apply | [View on company site](https://otis.wd5.myworkdayjobs.com/REC_Ext_Gateway/job/1st-Floor-Embassy-Vajram-Onyx-Embassy-Tech-Village-Outer-Ring-Road-Devarabisanahalli-Bengaluru-Karnataka---560103-India/Sr-Manager--Business-Analyst_20156241) |
 
 ## About This Role
 

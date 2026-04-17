@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Videotron](https://scoutify.ai/companies/videotron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000117054607-gestionnaire-de-systemes-erp) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Videotron/744000119677337-gestionnaire-de-systemes-erp) |
 
 ## About This Role
 
-This business analyst position at Videotron was posted on 2026-03-26.
+This business analyst position at Videotron was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

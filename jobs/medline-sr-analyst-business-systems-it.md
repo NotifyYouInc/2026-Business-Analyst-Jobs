@@ -5,12 +5,12 @@
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Northbrook, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/Sr-Analyst-Business-Systems-IT_R2600839) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/Sr-Analyst-Business-Systems-IT_R2520758) |
 
 ## About This Role
 
-This business analyst position at Medline was posted on 2026-02-26.
+This business analyst position at Medline was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

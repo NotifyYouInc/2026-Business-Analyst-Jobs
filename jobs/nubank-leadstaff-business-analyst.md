@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nubank](https://scoutify.ai/companies/nubank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/nubank/jobs/7239326) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/nubank/jobs/7239382) |
 
 ## About This Role
 
-This business analyst position at Nubank was posted on 2026-02-26.
+This business analyst position at Nubank was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

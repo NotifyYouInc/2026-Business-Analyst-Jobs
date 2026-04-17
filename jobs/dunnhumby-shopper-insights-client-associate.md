@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7664439003) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7694130003) |
 
 ## About This Role
 
-This business analyst position at dunnhumby was posted on 2026-04-03.
+This business analyst position at dunnhumby was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

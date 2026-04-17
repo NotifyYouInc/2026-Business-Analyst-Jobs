@@ -5,12 +5,12 @@
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Reynosa, Tamaulipas, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Reynosa-Tamaulipas-Mexico/Implementador-de-Mejora-Continua_JR0000042069-1) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Reynosa-Tamaulipas-Mexico/Implementador-de-Mejora-Continua_JR0000042264) |
 
 ## About This Role
 
-This business analyst position at Marmon Holdings was posted on 2026-04-01.
+This business analyst position at Marmon Holdings was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

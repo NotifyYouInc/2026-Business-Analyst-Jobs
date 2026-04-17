@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Redondo Beach, California, United States |
+| Location | Maryland, US |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Program-Planning-and-Scheduling-Analyst---Level-3-or-Level-4_R10226495) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Program-Planning-and-Scheduling-Analyst---Level-3-or-Level-4_R10229059) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-03-18.
+This business analyst position at Northrop Grumman was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cornerstone Building Brands](https://scoutify.ai/companies/cornerstonebuildingbrands?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brantford, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990012295286-inventory-analyst) |
+| Posted | 2026-04-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990012537881-inventory-analyst) |
 
 ## About This Role
 
-This business analyst position at Cornerstone Building Brands was posted on 2026-03-24.
+This business analyst position at Cornerstone Building Brands was posted on 2026-04-09.
 
 ## Get Real-Time Alerts
 
