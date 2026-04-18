@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Commerce City, Colorado, United States |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Commerce-City-CO-USA/Logistics-Analyst_R-172801-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Tyngsboro-MA-USA/Logistics-Analyst_R-173071) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-04-08.
+This business analyst position at Republic Services was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

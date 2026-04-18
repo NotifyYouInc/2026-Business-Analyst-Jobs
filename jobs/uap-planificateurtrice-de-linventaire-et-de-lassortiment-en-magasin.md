@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000114391788-planificateurtrice-de-linventaire-et-de-lassortiment-en-magasin) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000120007735-planificateurtrice-de-linventaire-et-de-lassortiment-en-magasin) |
 
 ## About This Role
 
-This business analyst position at UAP was posted on 2026-03-12.
+This business analyst position at UAP was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

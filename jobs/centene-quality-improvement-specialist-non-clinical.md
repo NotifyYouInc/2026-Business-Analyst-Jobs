@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | California, US |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/Quality-Improvement-Specialist--Non-Clinical-_1636615) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-AZ/Quality-Improvement-Specialist--Non-Clinical-_1632906) |
 
 ## About This Role
 
-This business analyst position at Centene was posted on 2026-04-09.
+This business analyst position at Centene was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

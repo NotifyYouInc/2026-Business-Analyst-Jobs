@@ -5,12 +5,12 @@
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Overland Park, Kansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/KS---Overland-Park/Operations-Advisor---Investor-Reporting---Midland_R217508-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/KS---Overland-Park/Operations-Advisor---Investor-Reporting---Midland_R215723-1) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-04-03.
+This business analyst position at PNC Financial was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

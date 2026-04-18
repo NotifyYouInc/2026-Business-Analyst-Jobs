@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Kansas City, Missouri, United States |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Georgia/SBA-Product-Business-Development-Officer-Sr_R0070933-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Colorado/SBA-Product-Business-Development-Officer-Sr_R0070886) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Huntington Bancshares was posted on 2026-04-09.
+This sales development (sdr / bdr) position at Huntington Bancshares was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

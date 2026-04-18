@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
-| Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Digital-Solutions-Business-Manager-_JR184412) |
+| Location | Atlanta, Georgia, United States |
+| Category | Product Manager |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Digital-Solutions-Business-Manager-_JR189285) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-03-12.
+This product manager position at Elevance Health was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

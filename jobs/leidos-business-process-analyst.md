@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ashburn, Virginia, United States |
-| Category | Operations |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Business-Process-Analyst_R-00175854) |
+| Location | United States |
+| Category | Business Analyst |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Process-Analyst_R-00180396) |
 
 ## About This Role
 
-This operations position at Leidos was posted on 2026-02-11.
+This business analyst position at Leidos was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

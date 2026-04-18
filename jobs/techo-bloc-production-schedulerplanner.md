@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Techo-Bloc](https://scoutify.ai/companies/techobloc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | California, US |
+| Location | Ontario, CA |
 | Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000118399322-production-schedulerplanner) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000119965452-production-schedulerplanner) |
 
 ## About This Role
 
-This business analyst position at Techo-Bloc was posted on 2026-04-02.
+This business analyst position at Techo-Bloc was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

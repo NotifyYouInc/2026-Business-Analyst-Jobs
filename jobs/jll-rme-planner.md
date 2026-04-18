@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Stratford, Connecticut, United States |
+| Location | Kenosha, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Stratford-CT/RME-Planner_REQ495376) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kenosha-WI/RME-Planner_REQ499815-1) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-03-25.
+This business analyst position at JLL was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

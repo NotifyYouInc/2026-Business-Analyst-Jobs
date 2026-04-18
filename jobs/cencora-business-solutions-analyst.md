@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Missouri, US |
+| Location | Texas, US |
 | Category | Business Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/USA--MO--Remote/Business-Solutions-Analyst_R262052) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Texas/Business-Solutions-Analyst_R265582) |
 
 ## About This Role
 
-This business analyst position at Cencora was posted on 2026-02-09.
+This business analyst position at Cencora was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

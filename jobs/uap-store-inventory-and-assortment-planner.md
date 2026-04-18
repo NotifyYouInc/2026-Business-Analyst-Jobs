@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Canada |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000109988875-store-inventory-and-assortment-planner) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000120009248-store-inventory-and-assortment-planner) |
 
 ## About This Role
 
-This business analyst position at UAP was posted on 2026-02-18.
+This business analyst position at UAP was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

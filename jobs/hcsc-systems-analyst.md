@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Systems-Analyst_R0045805-1) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Systems-Analyst_R0049012-1) |
 
 ## About This Role
 
-This business analyst position at HCSC was posted on 2026-03-24.
+This business analyst position at HCSC was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 

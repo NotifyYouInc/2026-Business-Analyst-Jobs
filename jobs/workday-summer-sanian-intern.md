@@ -1,16 +1,16 @@
-# Summer Sanian - Intern at Workday
+# Summer Sanian Intern at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Summer-Sanian---Intern_JR-0104166) |
+| Posted | 2026-04-10 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Sweden-Stockholm/Summer-Sanian-Intern_JR-0106046) |
 
 ## About This Role
 
-This business analyst position at Workday was posted on 2026-02-25.
+This business analyst position at Workday was posted on 2026-04-10.
 
 ## Get Real-Time Alerts
 
