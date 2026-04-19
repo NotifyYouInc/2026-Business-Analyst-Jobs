@@ -1,16 +1,16 @@
-# Business Process Architect at Accenture
+# Program and Planning - Analyst at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 7 locations |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | New York, US |
 | Category | Business Analyst |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Process-Architect_ATCI-5489691-S2003080-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012563811-program-and-planning-analyst) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-11.
+This business analyst position at City of New York was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

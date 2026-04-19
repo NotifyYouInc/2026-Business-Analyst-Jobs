@@ -1,16 +1,16 @@
-# Business Process Architect at Accenture
+# Senior analyst- Global Business Operations at InMobi
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 7 locations |
+| Company | [InMobi](https://scoutify.ai/companies/inmobi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | India |
 | Category | Business Analyst |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Process-Architect_ATCI-5489691-S2003080-1) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/inmobi/jobs/7795224) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-11.
+This business analyst position at InMobi was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

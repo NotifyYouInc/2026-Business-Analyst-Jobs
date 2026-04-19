@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Florida, US |
+| Location | Karnataka, IN |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-TX-SAT-8151/Business-Systems-Analyst-I_JR0303332) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-BNGL-FL2-3-TWR-3/Business-Systems-Analyst-I_JR0305823) |
 
 ## About This Role
 
-This business analyst position at Fidelity National Information Services was posted on 2026-03-04.
+This business analyst position at Fidelity National Information Services was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

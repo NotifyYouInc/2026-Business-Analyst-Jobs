@@ -5,12 +5,12 @@
 | Company | [Ventura TRAVEL](https://scoutify.ai/companies/ventura-travel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://www.venturatravel.org/jobs/7670087?gh_jid=7670087) |
+| Posted | 2026-04-11 |
+| Apply | [View on company site](https://www.venturatravel.org/jobs/7369745?gh_jid=7369745) |
 
 ## About This Role
 
-This business analyst position at Ventura TRAVEL was posted on 2026-04-09.
+This business analyst position at Ventura TRAVEL was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

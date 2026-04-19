@@ -1,16 +1,16 @@
-# Business Process Architect at Accenture
+# Sr Analyst, Audit at S&P Global
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 7 locations |
+| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Process-Architect_ATCI-5489691-S2003080-1) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/London-UK/Sr-Analyst--Audit_327521-2) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-11.
+This business analyst position at S&P Global was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business Process Architect at Accenture
+# BA4 - Assistant Manager at Barclays
 
 | Field | Details |
 |-------|---------|
-| Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 7 locations |
+| Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
 | Posted | 2026-04-11 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Process-Architect_ATCI-5489691-S2003080-1) |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/BA4---Assistant-Manager_JR-0000097584-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-11.
+This business analyst position at Barclays was posted on 2026-04-11.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Canada |
 | Category | Business Analyst |
 | Posted | 2026-04-10 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Expert-ou-experte-matire--Administration-des-oprations-montaires_R2604796) |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Agent-ou-agente--Filtrage-des-membres-et-clients_R2604979) |
 
 ## About This Role
 
