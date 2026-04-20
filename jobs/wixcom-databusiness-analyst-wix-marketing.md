@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
-| Category | Marketing |
-| Posted | 2026-02-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000108000475-databusiness-analyst-wix-marketing) |
+| Category | Business Analyst |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000120264327-databusiness-analyst-wix-marketing) |
 
 ## About This Role
 
-This marketing position at Wix.com was posted on 2026-02-08.
+This business analyst position at Wix.com was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 

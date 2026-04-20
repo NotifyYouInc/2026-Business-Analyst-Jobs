@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Austria |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000115256418-praktikum-invoice-to-pay-wmdiv-ab-mai-2026-20-stundenwoche) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000120314907-praktikum-invoice-to-pay-wmdiv-ab-mai-2026-20-stundenwoche) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-03-17.
+This business analyst position at Robert Bosch was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

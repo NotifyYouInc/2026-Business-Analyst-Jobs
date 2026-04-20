@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4816490101) |
+| Posted | 2026-04-12 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4839081101) |
 
 ## About This Role
 
-This business analyst position at Ebury was posted on 2026-03-19.
+This business analyst position at Ebury was posted on 2026-04-12.
 
 ## Get Real-Time Alerts
 
