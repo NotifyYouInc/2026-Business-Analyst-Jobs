@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Penang, MY |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Planner-Scheduler_WD218252-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Penang/Planner-Scheduler_WD213080) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-04-07.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

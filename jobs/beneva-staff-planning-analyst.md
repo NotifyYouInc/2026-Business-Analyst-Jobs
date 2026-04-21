@@ -5,12 +5,12 @@
 | Company | [Beneva](https://scoutify.ai/companies/beneva?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Québec, Quebec, Canada |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Quebec-Quebec/Analyste-planification-effectifs_R16048) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Quebec-Quebec/Analyste-planification-effectifs_R16375) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Beneva was posted on 2026-03-06.
+This fp&a / strategic finance position at Beneva was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

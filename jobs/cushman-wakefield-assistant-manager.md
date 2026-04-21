@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/Assistant-Manager_R303760) |
+| Category | Operations |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/Assistant-Manager_R314432) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-02-17.
+This operations position at Cushman & Wakefield was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

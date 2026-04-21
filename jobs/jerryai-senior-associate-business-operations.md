@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Operations |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/d7815ab8-c38e-47b7-87c7-55c98d6a366c) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/641bee2e-0a01-41dc-b18e-61e72897b8cd) |
 
 ## About This Role
 
-This operations position at Jerry.ai was posted on 2026-04-07.
+This operations position at Jerry.ai was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

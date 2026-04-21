@@ -5,12 +5,12 @@
 | Company | [7-Eleven](https://scoutify.ai/companies/my7elevenhr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Revenue-Management-Analyst_R26_1184) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Revenue-Management-Analyst_R26_2117) |
 
 ## About This Role
 
-This business analyst position at 7-Eleven was posted on 2026-02-25.
+This business analyst position at 7-Eleven was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000118617608-business-analyst-transverse-finance-hf) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000120476147-business-analyst-transverse-finance-hf) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-04-03.
+This business analyst position at Talan was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 

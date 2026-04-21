@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cambridge, Massachusetts, United States |
+| Location | United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=103044) |
+| Posted | 2026-04-13 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=108933) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-03-13.
+This business analyst position at IBM was posted on 2026-04-13.
 
 ## Get Real-Time Alerts
 
