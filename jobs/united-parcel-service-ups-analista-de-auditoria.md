@@ -1,16 +1,16 @@
-# Analista de auditoria at United Parcel Service (UPS)
+# Analista de Auditoria at United Parcel Service (UPS)
 
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/MX---GUADALAJARA-GATEWAY-MXGUA/Analista-de-auditoria_R26009616) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/MX---GUADALAJARA-GATEWAY-MXGUA/Analista-de-Auditoria_R26011357) |
 
 ## About This Role
 
-This business analyst position at United Parcel Service (UPS) was posted on 2026-04-07.
+This business analyst position at United Parcel Service (UPS) was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

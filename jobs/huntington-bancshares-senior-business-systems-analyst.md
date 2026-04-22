@@ -5,12 +5,12 @@
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Business-Systems-Analyst_R0071087) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Senior-Business-Systems-Analyst_R0071099-1) |
 
 ## About This Role
 
-This business analyst position at Huntington Bancshares was posted on 2026-04-07.
+This business analyst position at Huntington Bancshares was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | India |
 | Category | Business Analyst |
 | Posted | 2026-04-14 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Analyst_JR116931) |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-3/Analyst_JR116474) |
 
 ## About This Role
 

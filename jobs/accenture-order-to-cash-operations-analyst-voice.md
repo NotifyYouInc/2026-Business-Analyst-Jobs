@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Gurugram/Order-to-Cash-Operations-Analyst-Voice_AIOC-S01635218-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Order-to-Cash-Operations-Analyst-Voice_AIOC-S01638568-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-03-31.
+This business analyst position at Accenture was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

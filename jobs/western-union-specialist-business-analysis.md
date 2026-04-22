@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Western Union](https://scoutify.ai/companies/westernunion?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/LTU---Vilnius/Specialist--Business-Analysis_JR0127174-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://westernunion.wd5.myworkdayjobs.com/WesternUnionJobs/job/IND---Pune/Specialist--Business-Analysis_JR0130082) |
 
 ## About This Role
 
-This business analyst position at Western Union was posted on 2026-03-05.
+This business analyst position at Western Union was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

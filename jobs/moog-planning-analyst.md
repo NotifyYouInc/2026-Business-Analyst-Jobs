@@ -5,12 +5,12 @@
 | Company | [Moog](https://scoutify.ai/companies/moog?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Torrance, California, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Planning-Analyst_R-26-17027) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Planning-Analyst_R-26-17141) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Moog was posted on 2026-04-09.
+This fp&a / strategic finance position at Moog was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hunter Douglas](https://scoutify.ai/companies/hunter-douglas?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7672553003?gh_jid=7672553003) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.hunterdouglas.com/division/hunterdouglas/job/7700916003?gh_jid=7700916003) |
 
 ## About This Role
 
-This business analyst position at Hunter Douglas was posted on 2026-03-19.
+This business analyst position at Hunter Douglas was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

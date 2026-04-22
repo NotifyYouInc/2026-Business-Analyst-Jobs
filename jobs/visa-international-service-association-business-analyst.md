@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Project Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000116630867-business-analyst) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Business Analyst |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000120766077-business-analyst) |
 
 ## About This Role
 
-This project manager position at Visa International Service Association was posted on 2026-03-25.
+This business analyst position at Visa International Service Association was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

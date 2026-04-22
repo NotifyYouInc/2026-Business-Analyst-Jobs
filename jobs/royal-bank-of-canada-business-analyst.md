@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Business-Analyst_R-0000161327-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Business-Analyst_R-0000167149) |
 
 ## About This Role
 
-This business analyst position at Royal Bank of Canada was posted on 2026-03-11.
+This business analyst position at Royal Bank of Canada was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

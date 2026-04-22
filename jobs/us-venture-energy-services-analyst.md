@@ -5,12 +5,12 @@
 | Company | [U.S. Venture](https://scoutify.ai/companies/usventure?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Appleton, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Energy-Services-Analyst_R6268) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://usventure.wd1.myworkdayjobs.com/usvexternal/job/WI---Appleton/Energy-Services-Analyst_R6880) |
 
 ## About This Role
 
-This business analyst position at U.S. Venture was posted on 2026-02-23.
+This business analyst position at U.S. Venture was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

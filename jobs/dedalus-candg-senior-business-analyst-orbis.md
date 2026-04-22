@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dedalus CandG](https://scoutify.ai/companies/dedalus-candg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/AUS---Melbourne/Senior-Business-Analyst--ORBIS-_JR108202) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://dedalus.wd3.myworkdayjobs.com/external/job/AUS---Melbourne/Senior-Business-Analyst--ORBIS-_JR108099) |
 
 ## About This Role
 
-This business analyst position at Dedalus CandG was posted on 2026-04-02.
+This business analyst position at Dedalus CandG was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

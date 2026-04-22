@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Valmont](https://scoutify.ai/companies/valmont?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Jasper, Indiana, United States |
+| Location | El Dorado, Arkansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Jasper-TN/Continuous-Improvement-Coordinator_R27012) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/El-Dorado-KS/Continuous-Improvement-Coordinator_R27192) |
 
 ## About This Role
 
-This business analyst position at Valmont was posted on 2026-03-26.
+This business analyst position at Valmont was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

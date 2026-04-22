@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000114111236-business-analyst-front-office-confirme-hf) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000120714635-business-analyst-front-office-confirme-hf) |
 
 ## About This Role
 
-This business analyst position at Meritis was posted on 2026-03-11.
+This business analyst position at Meritis was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

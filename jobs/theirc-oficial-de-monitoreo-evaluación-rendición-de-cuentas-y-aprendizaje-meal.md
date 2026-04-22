@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Theirc](https://scoutify.ai/companies/theirc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ipiales, Nariño, Colombia |
+| Location | Cúcuta, Norte de Santander Department, Colombia |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Ipiales-Colombia/Oficial-de-Monitoreo--Evaluacin--Rendicin-de-cuentas-y-Aprendizaje--MEAL-_JR00002902-1) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Cucuta-Colombia/Oficial-de-Monitoreo--Evaluacin--Rendicin-de-cuentas-y-Aprendizaje--MEAL-_JR00002953) |
 
 ## About This Role
 
-This business analyst position at Theirc was posted on 2026-04-09.
+This business analyst position at Theirc was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

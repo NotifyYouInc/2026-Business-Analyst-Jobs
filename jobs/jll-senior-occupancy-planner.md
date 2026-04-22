@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Illinois, US |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Senior-Occupancy-Planner_REQ489395) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Riverwoods-IL/Senior-Occupancy-Planner_REQ500225) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-02-26.
+This business analyst position at JLL was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

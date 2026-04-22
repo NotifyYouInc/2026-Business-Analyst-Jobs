@@ -5,12 +5,12 @@
 | Company | [CenturyTel of the Midwest-Kendall](https://scoutify.ai/companies/centurytelofthemidwestkendall?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Brightspeed/744000113725183-inventory-analyst) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Brightspeed/744000120774187-inventory-analyst) |
 
 ## About This Role
 
-This business analyst position at CenturyTel of the Midwest-Kendall was posted on 2026-03-10.
+This business analyst position at CenturyTel of the Midwest-Kendall was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=102618) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=109286) |
 
 ## About This Role
 
-This strategy / management consulting position at IBM was posted on 2026-03-12.
+This technology / it consulting position at IBM was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

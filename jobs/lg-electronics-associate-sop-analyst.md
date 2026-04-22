@@ -5,12 +5,12 @@
 | Company | [LG Electronics](https://scoutify.ai/companies/lg-electronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Troy, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lgelectronics/jobs/5187024008) |
+| Posted | 2026-04-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lgelectronics/jobs/5188640008) |
 
 ## About This Role
 
-This business analyst position at LG Electronics was posted on 2026-04-13.
+This business analyst position at LG Electronics was posted on 2026-04-14.
 
 ## Get Real-Time Alerts
 

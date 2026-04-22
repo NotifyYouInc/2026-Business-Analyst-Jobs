@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Australia |
+| Location | South Australia, AU |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000000993970-business-manager) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000000997947-business-manager) |
 
 ## About This Role
 
-This business analyst position at APM Group was posted on 2026-04-13.
+This business analyst position at APM Group was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
