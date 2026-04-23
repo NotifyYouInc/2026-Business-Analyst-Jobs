@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000117697007-business-analyst) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000121057917-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Experian was posted on 2026-03-30.
+This business analyst position at Experian was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Meridian, Idaho, United States |
+| Location | Waukegan, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Meridian-ID/RME-Planner_REQ500126) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Waukegan-IL/RME-Planner_REQ492627) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-13.
+This business analyst position at JLL was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [J.S. Held](https://scoutify.ai/companies/jsheld?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Colombia |
-| Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000120713181-expense-analyst) |
+| Category | Business Analyst |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JSHeldLLC/744000121054067-expense-analyst) |
 
 ## About This Role
 
-This corporate finance position at J.S. Held was posted on 2026-04-14.
+This business analyst position at J.S. Held was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

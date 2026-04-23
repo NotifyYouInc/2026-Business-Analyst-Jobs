@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Belgrade, Central Serbia, Serbia |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Business-Analyst_JR-0019104) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Belgrade/Business-Analyst_JR-0020408) |
 
 ## About This Role
 
-This business analyst position at Apex Fund Services was posted on 2026-04-14.
+This business analyst position at Apex Fund Services was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

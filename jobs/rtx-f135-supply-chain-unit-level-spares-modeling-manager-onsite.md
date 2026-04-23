@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | East Hartford, Connecticut, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/F135-Supply-Chain-Unit-Level-Spares-Modeling-Manager----Onsite-_01836698) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/F135-Supply-Chain-Unit-Level-Spares-Modeling-Manager----Onsite-_01838457) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-04-10.
+This business analyst position at RTX was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

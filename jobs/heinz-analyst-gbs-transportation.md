@@ -5,12 +5,12 @@
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Mexico-City---Antara-Tower-A---5th-Floor---Local-Office/Analyst--GBS---Transportation_R-101941) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Mexico-City---Antara-Tower-A---5th-Floor---Local-Office/Analyst--GBS---Transportation_R-101254) |
 
 ## About This Role
 
-This business analyst position at Heinz was posted on 2026-04-14.
+This business analyst position at Heinz was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

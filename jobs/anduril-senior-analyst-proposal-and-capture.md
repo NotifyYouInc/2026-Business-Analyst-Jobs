@@ -1,16 +1,16 @@
-# Senior Analyst, Proposal and Capture  at Anduril
+# Senior Analyst, Proposal and Capture at Anduril
 
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Costa Mesa, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5089424007?gh_jid=5089424007) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5104949007?gh_jid=5104949007) |
 
 ## About This Role
 
-This business analyst position at Anduril was posted on 2026-03-25.
+This business analyst position at Anduril was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

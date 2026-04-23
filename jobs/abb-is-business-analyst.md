@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/IS-Business-Analyst_JR00027511) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Krakow-Lesser-Poland-Poland/IS-Business-Analyst_JR00032111) |
 
 ## About This Role
 
-This business analyst position at ABB was posted on 2026-03-05.
+This business analyst position at ABB was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

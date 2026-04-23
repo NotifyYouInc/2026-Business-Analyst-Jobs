@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Durham, North Carolina, United States |
-| Category | Software Engineer |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Durham-NC/Senior-Systems-Analyst_2123469-1) |
+| Location | Smithfield, Rhode Island, United States |
+| Category | Business Analyst |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Smithfield-RI/Senior-Systems-Analyst_2126630-2) |
 
 ## About This Role
 
-This software engineer position at Fidelity was posted on 2026-02-26.
+This business analyst position at Fidelity was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

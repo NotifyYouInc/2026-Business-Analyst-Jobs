@@ -1,16 +1,16 @@
-# Business Operations Coordinator, I at Travel + Leisure Co.
+# Business Operations Coordinator I at Travel + Leisure Co.
 
 | Field | Details |
 |-------|---------|
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Panama-City-Beach-area/Business-Operations-Coordinator--I_R-120211) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Sports-Illustrated-Chicago/Business-Operations-Coordinator-I_R-120899) |
 
 ## About This Role
 
-This business analyst position at Travel + Leisure Co. was posted on 2026-04-06.
+This business analyst position at Travel + Leisure Co. was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

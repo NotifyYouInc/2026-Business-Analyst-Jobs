@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TC Energy](https://scoutify.ai/companies/tcenergy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Houston, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Calgary-Alberta/Business-Analyst_JR-09696) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Texas/Business-Analyst_JR-10060) |
 
 ## About This Role
 
-This business analyst position at TC Energy was posted on 2026-02-11.
+This business analyst position at TC Energy was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

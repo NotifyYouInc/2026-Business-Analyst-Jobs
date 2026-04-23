@@ -5,12 +5,12 @@
 | Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Knoxville, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000119686957-analyst-transportation-safety) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000120990775-analyst-transportation-safety) |
 
 ## About This Role
 
-This business analyst position at Pilot Flying J was posted on 2026-04-09.
+This business analyst position at Pilot Flying J was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

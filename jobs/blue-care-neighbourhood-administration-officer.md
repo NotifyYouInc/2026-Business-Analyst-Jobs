@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Care](https://scoutify.ai/companies/blue-care?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Australia |
+| Location | Alexandra Hills, Queensland, Australia |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Coolum-Beach/Neighbourhood-Administration-Officer_JR120395) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Alexandra-Hills/Neighbourhood-Administration-Officer_JR120440) |
 
 ## About This Role
 
-This business analyst position at Blue Care was posted on 2026-04-14.
+This business analyst position at Blue Care was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

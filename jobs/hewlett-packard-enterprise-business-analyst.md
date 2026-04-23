@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dalian, Liaoning, China |
+| Location | Karnataka, IN |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Dalian-Liaoning-China/Business-Analyst_1197942) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bangalore-Karnataka-India/Business-Analyst_1204784) |
 
 ## About This Role
 
-This business analyst position at Hewlett Packard Enterprise was posted on 2026-03-26.
+This business analyst position at Hewlett Packard Enterprise was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

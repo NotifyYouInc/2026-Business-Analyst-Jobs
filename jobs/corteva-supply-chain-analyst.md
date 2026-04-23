@@ -5,12 +5,12 @@
 | Company | [Corteva](https://scoutify.ai/companies/corteva?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Des Moines, Iowa, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://corteva.wd5.myworkdayjobs.com/ctp/job/Des-Moines-Iowa-United-States/Supply-Chain-Analyst_245968W-1) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://corteva.wd5.myworkdayjobs.com/ctp/job/Des-Moines-Iowa-United-States/Supply-Chain-Analyst_246285W-2) |
 
 ## About This Role
 
-This business analyst position at Corteva was posted on 2026-03-26.
+This business analyst position at Corteva was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

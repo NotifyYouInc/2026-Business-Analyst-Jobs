@@ -1,16 +1,16 @@
-# Logistics planning Analyst at Caterpillar
+# Logistics Planning Analyst at Caterpillar
 
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Santa Catarina, Nuevo León, Mexico |
+| Location | Ciénega de Flores, Nuevo León, Mexico |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Santa-Catarina-Nuevo-Len/Logistics-planning-Analyst_R0000354227) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Cienega-de-Flores-Facility-6/Logistics-Planning-Analyst_R0000362789) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Caterpillar was posted on 2026-03-04.
+This fp&a / strategic finance position at Caterpillar was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

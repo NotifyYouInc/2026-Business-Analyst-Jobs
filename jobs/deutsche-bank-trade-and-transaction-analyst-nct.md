@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | India |
 | Category | Corporate Development & M&A |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Pune---Business-Bay/Trade-and-Transaction-Analyst--NCT_R0413371) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bangalore-Velankani-Tech-Park/Trade-and-Transaction-Analyst--NCT_R0429085) |
 
 ## About This Role
 
-This corporate development & m&a position at Deutsche Bank was posted on 2026-04-12.
+This corporate development & m&a position at Deutsche Bank was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

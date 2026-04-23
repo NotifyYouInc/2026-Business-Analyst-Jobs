@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Georgia, US |
+| Location | Indiana, US |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/GA-CLIENT-STATE/Workforce-Management-Analyst_R6965) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/IN-CLIENT-STATE/Workforce-Management-Analyst_R7468) |
 
 ## About This Role
 
-This human resources / people ops position at CAI was posted on 2026-03-09.
+This human resources / people ops position at CAI was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 

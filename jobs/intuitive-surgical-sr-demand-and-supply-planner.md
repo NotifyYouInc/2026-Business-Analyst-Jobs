@@ -1,16 +1,16 @@
-# Sr. Demand and Supply Planner at Intuitive Surgical
+# Sr Demand and Supply Planner at Intuitive Surgical
 
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000120499847-sr-demand-and-supply-planner) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000121098637-sr-demand-and-supply-planner) |
 
 ## About This Role
 
-This business analyst position at Intuitive Surgical was posted on 2026-04-13.
+This business analyst position at Intuitive Surgical was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

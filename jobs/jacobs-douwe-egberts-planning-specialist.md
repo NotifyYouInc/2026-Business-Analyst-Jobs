@@ -5,12 +5,12 @@
 | Company | [Jacobs Douwe Egberts](https://scoutify.ai/companies/jacobsdouweegberts?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Otara, Auckland, New Zealand |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JACOBSDOUWEEGBERTS/744000120812197-planning-specialist) |
+| Posted | 2026-04-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JACOBSDOUWEEGBERTS/744000121053407-planning-specialist) |
 
 ## About This Role
 
-This business analyst position at Jacobs Douwe Egberts was posted on 2026-04-14.
+This business analyst position at Jacobs Douwe Egberts was posted on 2026-04-15.
 
 ## Get Real-Time Alerts
 
