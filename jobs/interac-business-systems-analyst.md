@@ -5,12 +5,12 @@
 | Company | [Interac](https://scoutify.ai/companies/interac?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems-Analyst_REQ-2075) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Business-Systems-Analyst_REQ-2184) |
 
 ## About This Role
 
-This business analyst position at Interac was posted on 2026-02-05.
+This business analyst position at Interac was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

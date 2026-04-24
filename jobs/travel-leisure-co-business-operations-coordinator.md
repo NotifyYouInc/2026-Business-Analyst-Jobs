@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Saint George, Utah, United States |
+| Location | California, US |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/St-George/Business-Operations-Coordinator_R-118671) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Angels-Camp/Business-Operations-Coordinator_R-121021) |
 
 ## About This Role
 
-This business analyst position at Travel + Leisure Co. was posted on 2026-03-10.
+This business analyst position at Travel + Leisure Co. was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

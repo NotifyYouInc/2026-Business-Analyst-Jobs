@@ -1,16 +1,16 @@
-# International Business Manager at Domino's
+# International Business Manager  at Domino's
 
 | Field | Details |
 |-------|---------|
 | Company | [Domino's](https://scoutify.ai/companies/dominos?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ann Arbor, Michigan, United States |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000110847638-international-business-manager) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000121271092-international-business-manager) |
 
 ## About This Role
 
-This business analyst position at Domino's was posted on 2026-02-23.
+This business analyst position at Domino's was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

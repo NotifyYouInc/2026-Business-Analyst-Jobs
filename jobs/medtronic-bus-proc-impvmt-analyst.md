@@ -1,16 +1,16 @@
-# Bus Proc Impvmt Analyst at Medtronic
+# Bus Proc Impvmt Analyst. at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Puerto Rico |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Ho-Chi-Minh-City-Ho-Chi-Minh-City-Vietnam/Bus-Proc-Impvmt-Analyst_R56657-1) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Villalba-Puerto-Rico-United-States-of-America/Bus-Proc-Impvmt-Analyst_R64081-1) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-04-01.
+This business analyst position at Medtronic was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

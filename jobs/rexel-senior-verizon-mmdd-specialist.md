@@ -5,12 +5,12 @@
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Corona, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000117710428-senior-verizon-mmdd-specialist) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000121243995-senior-verizon-mmdd-specialist) |
 
 ## About This Role
 
-This business analyst position at REXEL was posted on 2026-03-30.
+This business analyst position at REXEL was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

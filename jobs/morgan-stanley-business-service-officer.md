@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sherman Oaks, California, United States |
+| Location | Garden City, Kansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Sherman-Oaks-California-United-States-of-America/Business-Service-Officer_JR033116-2) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Garden-City-New-York-United-States-of-America/Business-Service-Officer_JR026610-1) |
 
 ## About This Role
 
-This business analyst position at Morgan Stanley was posted on 2026-04-14.
+This business analyst position at Morgan Stanley was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

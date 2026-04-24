@@ -1,0 +1,22 @@
+# Marketing Research & Insights Manager at Generac
+
+| Field | Details |
+|-------|---------|
+| Company | [Generac](https://scoutify.ai/companies/generac?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Waukesha, Wisconsin, United States |
+| Category | UX Researcher |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Pewaukee-WI---USA/Marketing-Research---Insights-Manager_JR12866-1) |
+
+## About This Role
+
+This ux researcher position at Generac was posted on 2026-04-16.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

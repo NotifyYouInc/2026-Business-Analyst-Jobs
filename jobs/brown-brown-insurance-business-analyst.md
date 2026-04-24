@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Daytona Beach, Florida, United States |
+| Location | Plano, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Daytona-Beach-FL-USA/Business-Analyst_R26_0000001000) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Business-Analyst_R26_0000001400) |
 
 ## About This Role
 
-This business analyst position at Brown & Brown Insurance was posted on 2026-03-17.
+This business analyst position at Brown & Brown Insurance was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

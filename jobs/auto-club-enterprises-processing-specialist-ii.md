@@ -5,12 +5,12 @@
 | Company | [Auto Club Enterprises](https://scoutify.ai/companies/ace?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Coppell, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Processing-Specialist-II_JR202635728) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX/Processing-Specialist-II_JR202636019) |
 
 ## About This Role
 
-This business analyst position at Auto Club Enterprises was posted on 2026-04-06.
+This business analyst position at Auto Club Enterprises was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

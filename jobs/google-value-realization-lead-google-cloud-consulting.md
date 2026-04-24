@@ -1,0 +1,22 @@
+# Value Realization Lead, Google Cloud Consulting at Google
+
+| Field | Details |
+|-------|---------|
+| Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Toronto, Ontario, Canada |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckUlkyf2wz6pJ9gUx_sKxvFRzwVmw43zUE9yrLT_HCE6hEjsACxwdTMRDxMuN1iU_e-GzXsUArq88vr2FnV-jmszK_KPMyXwd8vg6TOENPOOvdmB-IB1ftUvjQLN5zg%3D%3D_V2&loc=CA&title=Value+Realization+Lead) |
+
+## About This Role
+
+This technology / it consulting position at Google was posted on 2026-04-16.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

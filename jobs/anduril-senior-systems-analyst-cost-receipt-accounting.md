@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Corporate Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5108095007?gh_jid=5108095007) |
+| Location | Atlanta, Georgia, United States |
+| Category | Accounting |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5110932007?gh_jid=5110932007) |
 
 ## About This Role
 
-This corporate finance position at Anduril was posted on 2026-04-14.
+This accounting position at Anduril was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

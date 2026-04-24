@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Viavi Solutions](https://scoutify.ai/companies/viavisolutions?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Virginia, US |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Business Analyst |
-| Posted | 2026-02-28 |
-| Apply | [View on company site](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Paeonian-Springs-VA-USA/Planner-Scheduler_260004268-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Bangkok-THA/Planner-Scheduler_260004546-3) |
 
 ## About This Role
 
-This business analyst position at Viavi Solutions was posted on 2026-02-28.
+This business analyst position at Viavi Solutions was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

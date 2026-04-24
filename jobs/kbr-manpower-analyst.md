@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Tampa-Florida/Manpower-Analyst_R2121009) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Tampa-Florida/Manpower-Analyst_R2122124) |
 
 ## About This Role
 
-This business analyst position at KBR was posted on 2026-03-26.
+This business analyst position at KBR was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Warren, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Supply-Chain-Business-Analyst_JR-202603566) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Supply-Chain-Business-Analyst_JR-202607133-1) |
 
 ## About This Role
 
-This business analyst position at General Motors was posted on 2026-02-24.
+This business analyst position at General Motors was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

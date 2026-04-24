@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | 2 locations |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Guadalajara-Jalisco/Business-Analyst--Sales-Operations_1201730) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sunnyvale-California-United-States-of-America/Business-Analyst--Sales-Operations_1204904-3) |
 
 ## About This Role
 
-This revenue / sales operations position at Hewlett Packard Enterprise was posted on 2026-02-19.
+This revenue / sales operations position at Hewlett Packard Enterprise was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

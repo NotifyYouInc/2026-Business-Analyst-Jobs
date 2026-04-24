@@ -5,12 +5,12 @@
 | Company | [Luminis Health](https://scoutify.ai/companies/luminishealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Annapolis, Maryland, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/luminishealth/jobs/5105529008?gh_jid=5105529008) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://boards.greenhouse.io/luminishealth/jobs/5172780008?gh_jid=5172780008) |
 
 ## About This Role
 
-This business analyst position at Luminis Health was posted on 2026-02-13.
+This business analyst position at Luminis Health was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

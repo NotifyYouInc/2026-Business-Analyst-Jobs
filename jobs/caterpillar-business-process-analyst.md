@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Piracicaba, São Paulo, Brazil |
+| Location | Peoria, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Business-Process-Analyst_R0000356886) |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Business-Process-Analyst_R0000362492) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-03-16.
+This business analyst position at Caterpillar was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 

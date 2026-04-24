@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Visa International Service Association](https://scoutify.ai/companies/visainternationalserviceassociation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Highlands Ranch, Colorado, United States |
-| Category | Customer Success |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000118453773-associate-systems-analyst-major-incident-management) |
+| Location | Singapore, Singapore |
+| Category | IT & Systems Administration |
+| Posted | 2026-04-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Visa/744000121229042-associate-systems-analyst-major-incident-management) |
 
 ## About This Role
 
-This customer success position at Visa International Service Association was posted on 2026-04-02.
+This it & systems administration position at Visa International Service Association was posted on 2026-04-16.
 
 ## Get Real-Time Alerts
 
