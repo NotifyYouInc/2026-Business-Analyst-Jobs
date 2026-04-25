@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Jersey, US |
-| Category | Leadership Development Program |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Florham-Park-New-Jersey/Registered-Operations-Leader_R26_1333) |
+| Location | Portland, Oregon, United States |
+| Category | Business Analyst |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Portland-Oregon/Registered-Operations-Leader_R26_1528-1) |
 
 ## About This Role
 
-This leadership development program position at Ameriprise Financial was posted on 2026-04-07.
+This business analyst position at Ameriprise Financial was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

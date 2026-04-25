@@ -1,16 +1,16 @@
-# Business Experience & Planning Specialist Sr. at PNC Financial
+# Business Experience & Planning Specialist Sr at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Lakewood, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Farmers-Branch/Business-Experience---Planning-Specialist-Sr_R213928-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/CO---Lakewood-80215/Business-Experience---Planning-Specialist-Sr_R219199-1) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-03-12.
+This business analyst position at PNC Financial was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

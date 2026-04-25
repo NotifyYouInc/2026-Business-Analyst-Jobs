@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alphabe Insight Inc](https://scoutify.ai/companies/alphabe-insight-inc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Baton Rouge, Louisiana, United States |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/alphabeinsightinc/744000120263667-business-development-assistant) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/alphabeinsightinc/744000121570687-business-development-assistant) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Alphabe Insight Inc was posted on 2026-04-12.
+This sales development (sdr / bdr) position at Alphabe Insight Inc was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

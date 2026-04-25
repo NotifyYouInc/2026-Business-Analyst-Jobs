@@ -6,7 +6,7 @@
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Business Analyst |
 | Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000121339462-dynamics-365-crm-systems-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000121401856-dynamics-365-crm-systems-analyst) |
 
 ## About This Role
 

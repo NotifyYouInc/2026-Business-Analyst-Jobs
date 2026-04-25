@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | Magna, Utah, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Business-Management-Manager-2_R10229845) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Magna/Business-Management-Manager-2_R10229948) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-04-16.
+This business analyst position at Northrop Grumman was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

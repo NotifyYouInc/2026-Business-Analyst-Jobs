@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Juarez/Material-Planning-Analyst_WD218146) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Material-Planning-Analyst_WD219215) |
 
 ## About This Role
 
-This fp&a / strategic finance position at FLEX LTD. Flextronics was posted on 2026-04-15.
+This fp&a / strategic finance position at FLEX LTD. Flextronics was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

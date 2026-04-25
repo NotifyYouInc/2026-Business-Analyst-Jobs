@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Greene King](https://scoutify.ai/companies/greeneking?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bury St Edmunds, England, United Kingdom |
+| Location | Birmingham, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000120029588-process-improvement-developer-hybrid-5050) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000121485297-process-improvement-developer-hybrid-5050) |
 
 ## About This Role
 
-This business analyst position at Greene King was posted on 2026-04-10.
+This business analyst position at Greene King was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

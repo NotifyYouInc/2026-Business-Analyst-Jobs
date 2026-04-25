@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | East Lansing, Michigan, United States |
+| Location | Tennessee, US |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Michigan/Operations-Specialist_R0017252-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Tennessee/Operations-Specialist_R0017239) |
 
 ## About This Role
 
-This business analyst position at CLEAResult was posted on 2026-04-03.
+This business analyst position at CLEAResult was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 

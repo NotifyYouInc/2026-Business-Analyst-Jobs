@@ -1,16 +1,16 @@
-# IT Business Analyst. at Medtronic
+# IT Business Analyst at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Colombia |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/IT-Business-Analyst_R60080-1) |
+| Posted | 2026-04-17 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/IT-Business-Analyst_R53507-1) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-03-03.
+This business analyst position at Medtronic was posted on 2026-04-17.
 
 ## Get Real-Time Alerts
 
