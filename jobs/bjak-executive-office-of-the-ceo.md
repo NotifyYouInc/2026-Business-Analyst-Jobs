@@ -1,16 +1,16 @@
-# Order Management Analyst at S&P Global
+# Executive, Office of the CEO at Bjak
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Malaysia |
+| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | United States |
 | Category | Business Analyst |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/MY---PENANG-38-JALAN-SULTAN-AHMAD-SHAH---LOTS-302-701--901/Order-Management-Analyst_327841-1) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e434a8b5-ac05-493e-a6a8-c37b93e06552) |
 
 ## About This Role
 
-This business analyst position at S&P Global was posted on 2026-04-18.
+This business analyst position at Bjak was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

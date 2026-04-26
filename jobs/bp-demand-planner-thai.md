@@ -1,16 +1,16 @@
-# Order Management Analyst at S&P Global
+# Demand Planner - Thai at BP
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Malaysia |
+| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Business Analyst |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/MY---PENANG-38-JALAN-SULTAN-AHMAD-SHAH---LOTS-302-701--901/Order-Management-Analyst_327841-1) |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/Malaysia---Kuala-Lumpur/Demand-Planner---Japanese_RQ102932-1) |
 
 ## About This Role
 
-This business analyst position at S&P Global was posted on 2026-04-18.
+This business analyst position at BP was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Order Management Analyst at S&P Global
+# Intern at JLL
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Malaysia |
+| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/MY---PENANG-38-JALAN-SULTAN-AHMAD-SHAH---LOTS-302-701--901/Order-Management-Analyst_327841-1) |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Intern_REQ501428) |
 
 ## About This Role
 
-This business analyst position at S&P Global was posted on 2026-04-18.
+This business analyst position at JLL was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | California, US |
+| Location | Nashville, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Angels-Camp/Business-Operations-Coordinator_R-121021) |
+| Posted | 2026-04-18 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Nashville-Area/Business-Operations-Coordinator_R-121127) |
 
 ## About This Role
 
-This business analyst position at Travel + Leisure Co. was posted on 2026-04-16.
+This business analyst position at Travel + Leisure Co. was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

@@ -1,12 +1,12 @@
-# Order Management Analyst at S&P Global
+# Associate Director - Data Partnership, Energy Horizons at S&P Global
 
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Malaysia |
+| Location | 4 locations |
 | Category | Business Analyst |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/MY---PENANG-38-JALAN-SULTAN-AHMAD-SHAH---LOTS-302-701--901/Order-Management-Analyst_327841-1) |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Associate-Director---Data-Partnership--Energy-Horizons_327529-1) |
 
 ## About This Role
 

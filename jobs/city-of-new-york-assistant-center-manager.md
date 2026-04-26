@@ -1,16 +1,16 @@
-# Order Management Analyst at S&P Global
+# ASSISTANT CENTER MANAGER at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Malaysia |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/MY---PENANG-38-JALAN-SULTAN-AHMAD-SHAH---LOTS-302-701--901/Order-Management-Analyst_327841-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012668501-assistant-center-manager) |
 
 ## About This Role
 
-This business analyst position at S&P Global was posted on 2026-04-18.
+This business analyst position at City of New York was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 

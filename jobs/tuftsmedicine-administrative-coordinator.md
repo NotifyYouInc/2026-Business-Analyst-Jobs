@@ -1,16 +1,16 @@
-# Order Management Analyst at S&P Global
+# Administrative Coordinator at tuftsmedicine
 
 | Field | Details |
 |-------|---------|
-| Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Malaysia |
+| Company | [tuftsmedicine](https://scoutify.ai/companies/tuftsmedicine?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Boston, Massachusetts, United States |
 | Category | Business Analyst |
 | Posted | 2026-04-18 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/MY---PENANG-38-JALAN-SULTAN-AHMAD-SHAH---LOTS-302-701--901/Order-Management-Analyst_327841-1) |
+| Apply | [View on company site](https://tuftsmedicine.wd1.myworkdayjobs.com/jobs/job/Tufts-Medical-Center/Administrative-Coordinator_R23635) |
 
 ## About This Role
 
-This business analyst position at S&P Global was posted on 2026-04-18.
+This business analyst position at tuftsmedicine was posted on 2026-04-18.
 
 ## Get Real-Time Alerts
 
