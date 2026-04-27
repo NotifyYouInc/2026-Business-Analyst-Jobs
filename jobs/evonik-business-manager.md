@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evonik](https://scoutify.ai/companies/evonik?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://evonik.wd3.myworkdayjobs.com/external_careers/job/Shanghai-Xinzhuang/Business-Manager_R48313) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://evonik.wd3.myworkdayjobs.com/external_careers/job/Tokyo/Business-Manager_R47043-1) |
 
 ## About This Role
 
-This business analyst position at Evonik was posted on 2026-04-16.
+This business analyst position at Evonik was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

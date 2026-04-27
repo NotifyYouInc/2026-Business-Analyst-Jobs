@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philippines |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/Cebu-Philippines/Senior-Associate-Policy-Administration_351956) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/PHI---Manila/Senior-Associate-Policy-Administration_352911) |
 
 ## About This Role
 
-This business analyst position at QBE Insurance was posted on 2026-04-15.
+This business analyst position at QBE Insurance was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Staffing-Senior-Analyst--Advisors-Client-Services_R-272658) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Kuala-Lumpur-Malaysia/Staffing-Senior-Analyst--Advisors-Client-Services_R-275319) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-03-11.
+This business analyst position at Mastercard was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 
