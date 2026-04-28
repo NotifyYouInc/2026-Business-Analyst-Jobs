@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [7-Eleven](https://scoutify.ai/companies/my7elevenhr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Irving, Texas, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/IT-Business-Support-Analyst-II_R26_1062-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/IT-Business-Support-Analyst-II_R26_2520) |
 
 ## About This Role
 
-This business analyst position at 7-Eleven was posted on 2026-02-23.
+This business analyst position at 7-Eleven was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

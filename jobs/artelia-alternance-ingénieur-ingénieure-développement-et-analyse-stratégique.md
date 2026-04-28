@@ -5,12 +5,12 @@
 | Company | [Artelia](https://scoutify.ai/companies/artelia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | France |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000119976577-alternance-ingenieur-ingenieure-developpement-et-analyse-strategique) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Artelia/744000121817547-alternance-ingenieur-ingenieure-developpement-et-analyse-strategique) |
 
 ## About This Role
 
-This business analyst position at Artelia was posted on 2026-04-10.
+This business analyst position at Artelia was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Matamoros, Coahuila, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Matamoros-Tamaulipas-Mexico/Demand-Planner_WD30261415) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Matamoros-Tamaulipas-Mexico/Demand-Planner_WD30267133) |
 
 ## About This Role
 
-This business analyst position at Johnson Controls was posted on 2026-02-17.
+This business analyst position at Johnson Controls was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

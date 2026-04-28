@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Massachusetts, US |
+| Location | Łódź, Łódź Voivodeship, Poland |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/Massachusetts---Virtual/Senior-Manager--Feasibility_R0165664) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/POL---Lodz/Senior-Manager--Feasibility_R0178628-1) |
 
 ## About This Role
 
-This business analyst position at Takeda was posted on 2026-02-23.
+This business analyst position at Takeda was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

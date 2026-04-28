@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Parsippany, New Jersey, United States |
+| Location | North Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Orchard-Park-NY-United-States-of-America/Senior-Business-Analyst_R1526659) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/North-Sydney-New-South-Wales-Australia/Senior-Business-Analyst_R1539924) |
 
 ## About This Role
 
-This business analyst position at IQVIA was posted on 2026-04-03.
+This business analyst position at IQVIA was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Wynn Resorts](https://scoutify.ai/companies/wynnresorts?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Everett, Washington, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000113047337-scheduler-analyst-workforce-management) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WynnResorts/744000121786837-scheduler-analyst-workforce-management) |
 
 ## About This Role
 
-This human resources / people ops position at Wynn Resorts was posted on 2026-03-06.
+This human resources / people ops position at Wynn Resorts was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

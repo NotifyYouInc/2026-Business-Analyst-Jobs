@@ -1,16 +1,16 @@
-# Senior Analyst- supply chain Management at RTX
+# Senior Analyst-Supply Chain Management at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Analyst--supply-chain-Management_01833450) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Analyst-Supply-Chain-Management_01839487) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-03-30.
+This business analyst position at RTX was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

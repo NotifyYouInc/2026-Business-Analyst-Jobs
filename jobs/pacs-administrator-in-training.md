@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Missouri, US |
+| Location | Nevada, US |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Remote---Missouri/Administrator-In-Training_JR167512) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Remote---Nevada/Administrator-In-Training_JR167757) |
 
 ## About This Role
 
-This business analyst position at Pacs was posted on 2026-04-17.
+This business analyst position at Pacs was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

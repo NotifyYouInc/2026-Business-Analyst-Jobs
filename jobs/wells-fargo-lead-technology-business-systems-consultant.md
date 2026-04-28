@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Irving, Texas, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Lead-Technology-Business-Systems-Consultant_R-529339-1) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Lead-Technology-Business-Systems-Consultant_R-533807-1) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-03-20.
+This technology / it consulting position at Wells Fargo was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

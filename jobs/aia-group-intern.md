@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Philippines |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Makati-PH-AIA-Philippines/Intern_JR-65584) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Makati-PH-AIA-Philippines/Intern_JR-66026) |
 
 ## About This Role
 
-This business analyst position at AIA Group was posted on 2026-04-20.
+This business analyst position at AIA Group was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

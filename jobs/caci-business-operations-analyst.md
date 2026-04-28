@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Indiana, US |
-| Category | Operations |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-IN-Crane/Business-Operations-Analyst_322173) |
+| Category | Strategy & Operations |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-IN-Crane/Business-Operations-Analyst_325090) |
 
 ## About This Role
 
-This operations position at CACI was posted on 2026-02-16.
+This strategy & operations position at CACI was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

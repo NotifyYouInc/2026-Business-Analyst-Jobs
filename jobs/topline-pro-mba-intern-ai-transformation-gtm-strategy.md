@@ -1,0 +1,22 @@
+# MBA Intern, AI Transformation & GTM Strategy at Topline Pro
+
+| Field | Details |
+|-------|---------|
+| Company | [Topline Pro](https://scoutify.ai/companies/topline-pro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Boston, Massachusetts, United States |
+| Category | Operations |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/topline-pro/e29ba220-c945-4105-8999-b27a9bca487d) |
+
+## About This Role
+
+This operations position at Topline Pro was posted on 2026-04-20.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

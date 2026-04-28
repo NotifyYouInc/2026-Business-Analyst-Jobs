@@ -5,12 +5,12 @@
 | Company | [Ontario Teachers' Pension Plan](https://scoutify.ai/companies/otppb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Business-Analyst_6942) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Business-Analyst_6985) |
 
 ## About This Role
 
-This business analyst position at Ontario Teachers' Pension Plan was posted on 2026-03-24.
+This business analyst position at Ontario Teachers' Pension Plan was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

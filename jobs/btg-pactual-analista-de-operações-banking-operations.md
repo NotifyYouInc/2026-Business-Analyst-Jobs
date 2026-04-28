@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=5818184004) |
+| Posted | 2026-04-20 |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=5977129004) |
 
 ## About This Role
 
-This business analyst position at BTG Pactual was posted on 2026-03-03.
+This business analyst position at BTG Pactual was posted on 2026-04-20.
 
 ## Get Real-Time Alerts
 

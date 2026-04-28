@@ -1,16 +1,16 @@
-# Associate Director, International Market Analytics and Business Intelligence, Parkinson's  at AbbVie
+# Associate Director, International Market Analytics and Business Intelligence, Parkinson's at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012625656-associate-director-international-market-analytics-and-business-intelligence-parkinsons) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012689156-associate-director-international-market-analytics-and-business-intelligence-parkinsons) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-04-15.
+This business analyst position at AbbVie was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
