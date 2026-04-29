@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Penang, MY |
+| Location | Batu Kawan, Penang, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Penang/Planner-Scheduler_WD213080) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Penang/Planner-Scheduler_WD219522) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-04-14.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

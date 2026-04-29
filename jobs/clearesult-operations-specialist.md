@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tennessee, US |
+| Location | Pennsylvania, US |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Tennessee/Operations-Specialist_R0017239) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Pennsylvania/Operations-Specialist_R0017238-1) |
 
 ## About This Role
 
-This business analyst position at CLEAResult was posted on 2026-04-17.
+This business analyst position at CLEAResult was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

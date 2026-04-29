@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Raleigh, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gandhinagar---GJ/Occupancy-Planner_REQ498963) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Raleigh-NC/Occupancy-Planner_REQ502400) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-17.
+This business analyst position at JLL was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

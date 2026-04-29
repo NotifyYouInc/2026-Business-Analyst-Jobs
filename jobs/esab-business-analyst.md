@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ESAB](https://scoutify.ai/companies/esab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Budapest, Budapest, Hungary |
 | Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://esab.wd5.myworkdayjobs.com/esabcareers/job/Canada-Ontario-Mississauga/Business-Analyst_R0024406) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://esab.wd5.myworkdayjobs.com/esabcareers/job/Budapest-Hungary/Business-Analyst_R0025219) |
 
 ## About This Role
 
-This business analyst position at ESAB was posted on 2026-04-02.
+This business analyst position at ESAB was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

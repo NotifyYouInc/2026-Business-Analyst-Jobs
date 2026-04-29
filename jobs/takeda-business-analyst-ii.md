@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico |
+| Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/MEX---Santa-Fe/Business-Analyst-II_R0174920) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/SVK---Bratislava--Svatoplukova/Business-Analyst-II_R0178370-1) |
 
 ## About This Role
 
-This business analyst position at Takeda was posted on 2026-02-24.
+This business analyst position at Takeda was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

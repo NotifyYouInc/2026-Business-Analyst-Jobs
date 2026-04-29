@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University of Rochester](https://scoutify.ai/companies/university-of-rochester?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brighton, Massachusetts, United States |
+| Location | Brighton, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/30-Corporate-Woods/EHR-Applications-Analyst-II_R269613) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://rochester.wd5.myworkdayjobs.com/ur_staff/job/30-Corporate-Woods/EHR-Applications-Analyst-II_R270535) |
 
 ## About This Role
 
-This business analyst position at University of Rochester was posted on 2026-03-18.
+This business analyst position at University of Rochester was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

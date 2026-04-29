@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 7 locations |
-| Category | Scrum Master & Agile Coach |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Business-Systems-Analyst-Consultant_R217921-1) |
+| Location | 5 locations |
+| Category | Business Analyst |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Systems-Analyst-Consultant_R218330-2) |
 
 ## About This Role
 
-This scrum master & agile coach position at PNC Financial was posted on 2026-04-17.
+This business analyst position at PNC Financial was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

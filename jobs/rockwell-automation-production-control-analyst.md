@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Twinsburg, Ohio, United States |
+| Location | Mequon, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Twinsburg-Ohio-United-States/Production-Control-Analyst_R26-1827-1) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Production-Control-Analyst_R26-2742-1) |
 
 ## About This Role
 
-This business analyst position at Rockwell Automation was posted on 2026-04-10.
+This business analyst position at Rockwell Automation was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

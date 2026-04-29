@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | Argentina |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Dublin--Ireland/Transaction-Manager_26943080) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Martinez--Argentina/Transaction-Manager_26952059-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-03-06.
+This business analyst position at Citigroup was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

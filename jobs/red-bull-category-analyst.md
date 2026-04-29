@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000121854056-category-analyst) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000122077837-category-analyst) |
 
 ## About This Role
 
-This business analyst position at Red Bull was posted on 2026-04-20.
+This business analyst position at Red Bull was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

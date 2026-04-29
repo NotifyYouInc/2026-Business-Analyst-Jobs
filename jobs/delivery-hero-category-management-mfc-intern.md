@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Italy |
 | Category | Business Analyst |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000121587717-category-management-mfc-intern) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000122080448-category-management-mfc-intern) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-04-18.
+This business analyst position at Delivery Hero was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

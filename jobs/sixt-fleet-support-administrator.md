@@ -1,16 +1,16 @@
-#  Fleet Support Administrator at Sixt
+# Fleet Support Administrator at Sixt
 
 | Field | Details |
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Reno, Nevada, United States |
+| Location | Santa Ana, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000119235817-fleet-support-administrator) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000122157029-fleet-support-administrator) |
 
 ## About This Role
 
-This business analyst position at Sixt was posted on 2026-04-07.
+This business analyst position at Sixt was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

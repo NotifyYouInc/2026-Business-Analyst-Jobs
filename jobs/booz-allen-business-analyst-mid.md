@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Diego, California, United States |
+| Location | Albuquerque, New Mexico, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/San-Diego-CA/Business-Analyst--Mid_R0235552) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Business-Analyst--Mid_R0238274) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-03-10.
+This business analyst position at Booz Allen was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

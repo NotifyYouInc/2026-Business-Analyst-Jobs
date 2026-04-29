@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plexus](https://scoutify.ai/companies/plexus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nampa, Idaho, United States |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Nampa-ID/Master-Scheduler-II_R037103) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Guadalajara-Mexico/Master-Scheduler-II_R037852) |
 
 ## About This Role
 
-This business analyst position at Plexus was posted on 2026-03-12.
+This business analyst position at Plexus was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

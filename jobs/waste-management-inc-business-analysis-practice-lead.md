@@ -5,12 +5,12 @@
 | Company | [Waste Management, Inc.](https://scoutify.ai/companies/wastemanagementinc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Business Analyst |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WasteManagement8/6000000000902057-business-analysis-practice-lead) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WasteManagement8/6000000001017496-business-analysis-practice-lead) |
 
 ## About This Role
 
-This business analyst position at Waste Management, Inc. was posted on 2026-03-01.
+This business analyst position at Waste Management, Inc. was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

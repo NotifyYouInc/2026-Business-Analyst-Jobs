@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Care](https://scoutify.ai/companies/blue-care?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Alexandra Hills, Queensland, Australia |
+| Location | Mount Warren Park, Queensland, Australia |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Alexandra-Hills/Neighbourhood-Administration-Officer_JR120440) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Mount-WarrenPark/Neighbourhood-Administration-Officer_JR120551) |
 
 ## About This Role
 
-This business analyst position at Blue Care was posted on 2026-04-16.
+This business analyst position at Blue Care was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | West Virginia, US |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Material-Estimating-Pricing-Analyst_R10227074) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Material-Estimating-Pricing-Analyst_R10230369) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-03-26.
+This business analyst position at Northrop Grumman was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

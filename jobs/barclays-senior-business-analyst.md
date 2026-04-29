@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gera-Commerzone-SEZ--Pune/Senior-Business-Analyst_JR-0000086847) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Senior-Business-Analyst_JR-0000095618-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-04-01.
+This business analyst position at Barclays was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 
