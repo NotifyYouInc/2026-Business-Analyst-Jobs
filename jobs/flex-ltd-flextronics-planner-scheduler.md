@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Batu Kawan, Penang, Malaysia |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Penang/Planner-Scheduler_WD219522) |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Planner-Scheduler_WD219260) |
 
 ## About This Role
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Guangzhou, Guangdong, China |
-| Category | Program Manager |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000115808758-asst-gpd-officer) |
+| Category | Business Analyst |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000122354839-asst-gpd-officer) |
 
 ## About This Role
 
-This program manager position at Avery Dennison Corporation was posted on 2026-03-20.
+This business analyst position at Avery Dennison Corporation was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7615377414274713861/detail) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7615376816711305525/detail) |
 
 ## About This Role
 
-This business analyst position at TikTok was posted on 2026-03-17.
+This business analyst position at TikTok was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

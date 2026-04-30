@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Trust & Safety |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10393497/business-analyst-i-buyer-abuse-prevention-analytics) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10400818/business-analyst-i-buyer-abuse-prevention-analytics) |
 
 ## About This Role
 
-This trust & safety position at Amazon was posted on 2026-04-16.
+This trust & safety position at Amazon was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

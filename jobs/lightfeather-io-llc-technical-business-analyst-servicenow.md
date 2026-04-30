@@ -5,12 +5,12 @@
 | Company | [LIGHTFEATHER IO LLC](https://scoutify.ai/companies/lightfeather-io-llc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5192960008) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lightfeatheriollc/jobs/5197343008) |
 
 ## About This Role
 
-This business analyst position at LIGHTFEATHER IO LLC was posted on 2026-04-17.
+This business analyst position at LIGHTFEATHER IO LLC was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

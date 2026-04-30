@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Systems-Analyst-II_R44186) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Systems-Analyst-II_R44265) |
 
 ## About This Role
 
-This business analyst position at FirstRand was posted on 2026-02-12.
+This business analyst position at FirstRand was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

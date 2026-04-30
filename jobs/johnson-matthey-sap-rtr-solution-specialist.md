@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Matthey](https://scoutify.ai/companies/johnson-matthey?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Skopje, Grad Skopje, North Macedonia |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://matthey.wd3.myworkdayjobs.com/ext_career_site/job/Skopje---MK/SAP-RTR-Solution-Specialist_R-014382) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://matthey.wd3.myworkdayjobs.com/ext_career_site/job/Vilnius---LT/SAP-RTR-Solution-Specialist_R-014325-1) |
 
 ## About This Role
 
-This business analyst position at Johnson Matthey was posted on 2026-02-20.
+This business analyst position at Johnson Matthey was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

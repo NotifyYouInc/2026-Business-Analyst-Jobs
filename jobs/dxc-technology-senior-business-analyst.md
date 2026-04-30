@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Senior-Business-Analyst_51575979) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Senior-Business-Analyst_51578885) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-04-06.
+This business analyst position at DXC Technology was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

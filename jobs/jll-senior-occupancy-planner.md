@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Illinois, US |
+| Location | Seattle, Washington, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Riverwoods-IL/Senior-Occupancy-Planner_REQ500225) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Senior-Occupancy-Planner_REQ502696) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-14.
+This business analyst position at JLL was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

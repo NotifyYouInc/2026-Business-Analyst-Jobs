@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Kinston, North Carolina, United States |
+| Location | Illescas, Castille-La Mancha, Spain |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/Master-Production-Scheduler_JR10399285) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Illescas/Master-Production-Scheduler_JR10394965-1) |
 
 ## About This Role
 
-This business analyst position at Airbus was posted on 2026-03-17.
+This business analyst position at Airbus was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

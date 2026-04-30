@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Juárez, Chiapas, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Master-Schedule-Planner_JR00030950) |
+| Posted | 2026-04-21 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Juarez-Nuevo-Leon-Mexico/Master-Schedule-Planner_JR00027851) |
 
 ## About This Role
 
-This business analyst position at ABB was posted on 2026-04-15.
+This business analyst position at ABB was posted on 2026-04-21.
 
 ## Get Real-Time Alerts
 

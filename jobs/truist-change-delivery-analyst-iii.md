@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 4 locations |
 | Category | Project Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Change-Delivery-Analyst-III_R0112853) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Change-Delivery-Analyst-III_R0113697) |
 
 ## About This Role
 
-This project manager position at Truist was posted on 2026-03-26.
+This project manager position at Truist was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

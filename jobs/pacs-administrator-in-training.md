@@ -1,16 +1,16 @@
-# Administrator In Training at Pacs
+# Administrator in Training at Pacs
 
 | Field | Details |
 |-------|---------|
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nevada, US |
+| Location | California, US |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Remote---Nevada/Administrator-In-Training_JR167757) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Remote---California/Administrator-in-Training_JR167959) |
 
 ## About This Role
 
-This business analyst position at Pacs was posted on 2026-04-21.
+This business analyst position at Pacs was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

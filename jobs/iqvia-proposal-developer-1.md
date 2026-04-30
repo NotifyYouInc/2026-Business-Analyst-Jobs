@@ -5,12 +5,12 @@
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Mexico-City-Mexico/Proposal-Developer-1_R1536903) |
+| Posted | 2026-04-22 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Mexico-City-Mexico/Proposal-Developer-1_R1529975) |
 
 ## About This Role
 
-This business analyst position at IQVIA was posted on 2026-04-14.
+This business analyst position at IQVIA was posted on 2026-04-22.
 
 ## Get Real-Time Alerts
 

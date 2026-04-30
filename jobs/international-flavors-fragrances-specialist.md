@@ -5,12 +5,12 @@
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Hyderabad-GBS-India/Specialist_R17137) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Hyderabad-GBS-India/Specialist_R17390) |
 
 ## About This Role
 
-This business analyst position at International Flavors & Fragrances was posted on 2026-04-20.
+This business analyst position at International Flavors & Fragrances was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

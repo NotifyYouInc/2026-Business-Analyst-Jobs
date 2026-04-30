@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New Delhi, Delhi, India |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10397553/cluster-manager-amazon-now) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10400777/cluster-manager-amazon-now) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-04-21.
+This business analyst position at Amazon was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
