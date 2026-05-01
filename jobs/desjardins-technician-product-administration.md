@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Canada |
+| Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Technicien-ou-technicienne--Administration-des-produits_R2605164) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Technicien-ou-technicienne--Administration-des-produits_R2605448) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-04-15.
+This business analyst position at Desjardins was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

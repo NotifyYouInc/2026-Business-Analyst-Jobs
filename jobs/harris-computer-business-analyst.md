@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | North Carolina, US |
+| Location | East Meadow, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---North-Carolina/Business-Analyst_R0040178-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Nassau-East-Meadow-NY/Business-Analyst_R0041019) |
 
 ## About This Role
 
-This business analyst position at Harris Computer was posted on 2026-03-06.
+This business analyst position at Harris Computer was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

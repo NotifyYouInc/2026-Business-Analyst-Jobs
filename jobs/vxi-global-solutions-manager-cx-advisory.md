@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VXI Global Solutions](https://scoutify.ai/companies/vxi-global-solutions?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
-| Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://vxi.wd12.myworkdayjobs.com/careers/job/Makati-City-Philippines/Manager--CX-Advisory_R26_01019-1) |
+| Location | Philippines |
+| Category | Project Manager |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://vxi.wd12.myworkdayjobs.com/careers/job/Pasay-City-Philippines/Manager--CX-Advisory_R25_05871) |
 
 ## About This Role
 
-This business analyst position at VXI Global Solutions was posted on 2026-03-25.
+This project manager position at VXI Global Solutions was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business Operations Sr. Analyst at Sanofi
+# Business Operations Sr Analyst at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
-| Category | Operations |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/So-Paulo/Business-Operations-Sr-Analyst_R2842578) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Business Analyst |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/So-Paulo/Business-Operations-Sr-Analyst_R2852349-1) |
 
 ## About This Role
 
-This operations position at Sanofi was posted on 2026-02-09.
+This business analyst position at Sanofi was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

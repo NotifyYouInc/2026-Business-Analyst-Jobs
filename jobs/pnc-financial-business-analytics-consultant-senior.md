@@ -5,12 +5,12 @@
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 4 locations |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Consultant-Senior_R212918-1) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Consultant-Senior_R212816-1) |
 
 ## About This Role
 
-This technology / it consulting position at PNC Financial was posted on 2026-03-02.
+This technology / it consulting position at PNC Financial was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

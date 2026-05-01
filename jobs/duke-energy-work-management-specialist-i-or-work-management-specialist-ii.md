@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Duke Energy](https://scoutify.ai/companies/dukeenergy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Winter Garden, Florida, United States |
+| Location | St. Petersburg, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Winter-Garden-FL/Work-Management-Specialist-I-or-Work-Management-Specialist-II_R39343) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/St-Petersburg-FL/Work-Management-Specialist-I-or-Work-Management-Specialist-II_R39387-1) |
 
 ## About This Role
 
-This business analyst position at Duke Energy was posted on 2026-04-21.
+This business analyst position at Duke Energy was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

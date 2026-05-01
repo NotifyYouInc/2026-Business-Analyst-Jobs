@@ -5,12 +5,12 @@
 | Company | [AIR Communities](https://scoutify.ai/companies/aircommunities?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000119479297-business-specialist) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000122507089-business-specialist) |
 
 ## About This Role
 
-This business analyst position at AIR Communities was posted on 2026-04-08.
+This business analyst position at AIR Communities was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

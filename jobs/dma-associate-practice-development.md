@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [DMA](https://scoutify.ai/companies/dmainc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Business Analyst |
 | Posted | 2026-04-22 |
-| Apply | [View on company site](https://dmainc.wd5.myworkdayjobs.com/dma/job/Phoenix-AZ/Associate--Practice-Development_REQ276) |
+| Apply | [View on company site](https://dmainc.wd5.myworkdayjobs.com/dma/job/Boston-MA/Associate--Practice-Development_REQ430) |
 
 ## About This Role
 

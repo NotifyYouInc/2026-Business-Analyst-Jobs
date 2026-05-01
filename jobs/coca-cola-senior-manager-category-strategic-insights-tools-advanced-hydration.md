@@ -5,12 +5,12 @@
 | Company | [Coca-Cola](https://scoutify.ai/companies/coca-cola?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Manager--Category-Strategic-Insights---Tools--Advanced-Hydration_R-139202) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Senior-Manager--Category-Strategic-Insights---Tools--Advanced-Hydration_R-139988) |
 
 ## About This Role
 
-This strategy & operations position at Coca-Cola was posted on 2026-04-07.
+This strategy & operations position at Coca-Cola was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

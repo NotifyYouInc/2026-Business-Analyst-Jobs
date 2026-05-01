@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000121513257-inventory-analyst-2) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000122538110-inventory-analyst-2) |
 
 ## About This Role
 
-This business analyst position at Intuitive Surgical was posted on 2026-04-17.
+This business analyst position at Intuitive Surgical was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Palmdale, California, United States |
+| Location | Baltimore, Maryland, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Manufacturing-Analyst_R10229314) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Manufacturing-Analyst_R10230513) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-04-13.
+This business analyst position at Northrop Grumman was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

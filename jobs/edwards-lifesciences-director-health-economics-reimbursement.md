@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | North Carolina, US |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA-North-Carolina-Field/Director--Health-Economics---Reimbursement_Req-45871) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---Arizona--Phoenix/Director--Health-Economics---Reimbursement_Req-47318) |
 
 ## About This Role
 
-This business analyst position at Edwards Lifesciences was posted on 2026-02-19.
+This business analyst position at Edwards Lifesciences was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

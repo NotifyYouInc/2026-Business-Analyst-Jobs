@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Luanda, Luanda, Angola |
 | Category | Business Analyst |
-| Posted | 2026-04-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000121640367-gestor-de-negocio) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000122518522-gestor-de-negocio) |
 
 ## About This Role
 
-This business analyst position at Standard Bank was posted on 2026-04-19.
+This business analyst position at Standard Bank was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

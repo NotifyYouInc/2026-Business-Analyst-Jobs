@@ -5,12 +5,12 @@
 | Company | [Ingram Content Group](https://scoutify.ai/companies/ingramcontentgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | La Vergne, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IngramContentGroup1/744000116695607-senior-business-systems-analyst) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IngramContentGroup1/744000122510035-senior-business-systems-analyst) |
 
 ## About This Role
 
-This business analyst position at Ingram Content Group was posted on 2026-03-25.
+This business analyst position at Ingram Content Group was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 

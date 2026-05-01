@@ -5,12 +5,12 @@
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000115465776-analista-de-gestion) |
+| Posted | 2026-04-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000122528569-analista-de-gestion) |
 
 ## About This Role
 
-This business analyst position at QIMA was posted on 2026-03-18.
+This business analyst position at QIMA was posted on 2026-04-23.
 
 ## Get Real-Time Alerts
 
