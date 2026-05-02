@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Florida, US |
-| Category | Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/St-Petersburg-Florida---United-States/Analyst--Enterprise-Risk-Management_R-0009294) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Analyst--Enterprise-Risk-Management_R-0010806) |
 
 ## About This Role
 
-This operations position at Raymond James Financial was posted on 2026-02-03.
+This compliance & risk management position at Raymond James Financial was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

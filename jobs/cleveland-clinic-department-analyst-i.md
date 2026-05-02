@@ -5,12 +5,12 @@
 | Company | [Cleveland Clinic](https://scoutify.ai/companies/ccf?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cleveland, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Department-Analyst-I_319287) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Department-Analyst-I_336448) |
 
 ## About This Role
 
-This business analyst position at Cleveland Clinic was posted on 2026-02-26.
+This business analyst position at Cleveland Clinic was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

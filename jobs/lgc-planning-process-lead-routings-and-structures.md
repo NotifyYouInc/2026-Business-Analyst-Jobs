@@ -5,12 +5,12 @@
 | Company | [LGC](https://scoutify.ai/companies/lgc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kidlington, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000117710007-planning-process-lead-routings-and-structures) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LGCGroup/744000122726009-planning-process-lead-routings-and-structures) |
 
 ## About This Role
 
-This business analyst position at LGC was posted on 2026-03-30.
+This business analyst position at LGC was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

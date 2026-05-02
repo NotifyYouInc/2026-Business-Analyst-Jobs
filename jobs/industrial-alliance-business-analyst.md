@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | 6 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Quebec-Quebec/Analyste-d-affaires--oprationnalisation_JR10026278) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Toronto-Ontario/Business-Analyst_JR10026393) |
 
 ## About This Role
 
-This business analyst position at Industrial Alliance was posted on 2026-04-20.
+This business analyst position at Industrial Alliance was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

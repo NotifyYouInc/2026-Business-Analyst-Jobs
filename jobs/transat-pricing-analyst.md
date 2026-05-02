@@ -1,16 +1,16 @@
-# Pricing Analyst at Transat
+# Pricing analyst at Transat
 
 | Field | Details |
 |-------|---------|
 | Company | [Transat](https://scoutify.ai/companies/transat?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TransatAT1/744000112451837-pricing-analyst) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TransatAT1/744000122757409-pricing-analyst) |
 
 ## About This Role
 
-This business analyst position at Transat was posted on 2026-03-03.
+This business analyst position at Transat was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

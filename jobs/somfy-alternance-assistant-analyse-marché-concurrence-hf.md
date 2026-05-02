@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Somfy](https://scoutify.ai/companies/somfy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cluses, Rhône-Alpes, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Marketing |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/somfygroup/744000121235438-alternance-assistant-analyse-marche-concurrence-hf) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/somfygroup/744000122730824-alternance-assistant-analyse-marche-concurrence-hf) |
 
 ## About This Role
 
-This marketing position at Somfy was posted on 2026-04-16.
+This marketing position at Somfy was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

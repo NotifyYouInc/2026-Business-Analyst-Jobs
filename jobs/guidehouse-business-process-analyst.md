@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Business-Process-Analyst_38232) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---AL-Huntsville/Business-Process-Analyst_38869) |
 
 ## About This Role
 
-This business analyst position at Guidehouse was posted on 2026-04-16.
+This business analyst position at Guidehouse was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Specialist Charge, RIO (Remote) at Trinity Health
+# Specialist Charge - RIO (Remote) at Trinity Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Livonia, Michigan, United States |
+| Location | Albany, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Livonia-Michigan/Specialist-Charge--RIO--Remote-_00628425) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/St-Peters-Hospital---Albany-New-York/Specialist-Charge---RIO--Remote-_00657435-1) |
 
 ## About This Role
 
-This business analyst position at Trinity Health was posted on 2026-02-18.
+This business analyst position at Trinity Health was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

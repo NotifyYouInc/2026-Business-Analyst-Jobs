@@ -5,12 +5,12 @@
 | Company | [Oscar Health](https://scoutify.ai/companies/oscar-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](http://www.hioscar.com/careers/7705615?gh_jid=7705615) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](http://www.hioscar.com/careers/7852551?gh_jid=7852551) |
 
 ## About This Role
 
-This business analyst position at Oscar Health was posted on 2026-03-13.
+This business analyst position at Oscar Health was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

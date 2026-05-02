@@ -5,12 +5,12 @@
 | Company | [CIMA+](https://scoutify.ai/companies/cima?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000122102014-conseillere-ou-conseiller-aux-offres-de-services-montreal) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CIMA2/744000122701169-conseillere-ou-conseiller-aux-offres-de-services-montreal) |
 
 ## About This Role
 
-This business analyst position at CIMA+ was posted on 2026-04-21.
+This business analyst position at CIMA+ was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

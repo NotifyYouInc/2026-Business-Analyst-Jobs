@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DLA Piper](https://scoutify.ai/companies/dla-piper?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 20 locations |
+| Location | San Diego, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/Dallas-TX/Matter-Information-Analyst_R2026-2139-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/San-Diego-CA/Matter-Information-Analyst_R2026-2395) |
 
 ## About This Role
 
-This business analyst position at DLA Piper was posted on 2026-03-02.
+This business analyst position at DLA Piper was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

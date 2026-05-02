@@ -5,12 +5,12 @@
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cebu City, Central Visayas, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000119519707-continuous-improvement-engineer-internship) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000122642269-continuous-improvement-engineer-internship) |
 
 ## About This Role
 
-This business analyst position at QIMA was posted on 2026-04-09.
+This business analyst position at QIMA was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

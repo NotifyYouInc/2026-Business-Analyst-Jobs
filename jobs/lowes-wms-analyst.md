@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Westfield, Massachusetts, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Westfield-MA-Flatbed-Distribution-1432/WMS-Analyst_JR-02487932) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Lowes-Richmond-VA-BDC-3469/WMS-Analyst_JR-02495888) |
 
 ## About This Role
 
-This business analyst position at Lowe's was posted on 2026-04-16.
+This business analyst position at Lowe's was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

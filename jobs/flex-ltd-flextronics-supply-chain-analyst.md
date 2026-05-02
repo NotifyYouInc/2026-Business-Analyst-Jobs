@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Dallas, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Supply-Chain-Analyst_WD218422-1) |
+| Posted | 2026-04-24 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Dallas/Supply-Chain-Analyst_WD219497-1) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-04-21.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-04-24.
 
 ## Get Real-Time Alerts
 

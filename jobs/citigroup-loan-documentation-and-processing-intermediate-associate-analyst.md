@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-Castle-Delaware-United-States/Loan-Documentation-and-Processing-Intermediate-Associate-Analyst_26947771) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/6400-LAS-COLINAS-BLVD--IRVING/Loan-Documentation-and-Processing-Intermediate-Associate-Analyst_26954724) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-17.
+This business analyst position at Citigroup was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 
