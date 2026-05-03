@@ -1,16 +1,16 @@
-# Business Analyst Senior at Inetum
+# Executive, CEO Office at Bjak
 
 | Field | Details |
 |-------|---------|
-| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | France |
+| Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Malaysia |
 | Category | Business Analyst |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000122923759-business-analyst-senior) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/65277ff3-61dd-4ba6-a992-24d18d851571) |
 
 ## About This Role
 
-This business analyst position at Inetum was posted on 2026-04-25.
+This business analyst position at Bjak was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

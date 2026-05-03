@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/e434a8b5-ac05-493e-a6a8-c37b93e06552) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/90cfdae1-2635-493f-baa0-4146b38a6882) |
 
 ## About This Role
 
-This business analyst position at Bjak was posted on 2026-04-18.
+This business analyst position at Bjak was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

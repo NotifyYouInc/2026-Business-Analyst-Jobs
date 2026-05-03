@@ -1,16 +1,16 @@
-# Business Analyst Senior at Inetum
+# Investigative Analyst at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | France |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000122923759-business-analyst-senior) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012822816-investigative-analyst) |
 
 ## About This Role
 
-This business analyst position at Inetum was posted on 2026-04-25.
+This business analyst position at City of New York was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

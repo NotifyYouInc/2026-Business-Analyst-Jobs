@@ -1,16 +1,16 @@
-# Business Analyst Senior at Inetum
+# Assistant de gestion services généraux H/F at Assystem
 
 | Field | Details |
 |-------|---------|
-| Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | France |
+| Company | [Assystem](https://scoutify.ai/companies/assystem?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Business Analyst |
 | Posted | 2026-04-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000122923759-business-analyst-senior) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASSYSTEM/744000122919049-assistant-de-gestion-services-generaux-hf) |
 
 ## About This Role
 
-This business analyst position at Inetum was posted on 2026-04-25.
+This business analyst position at Assystem was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 

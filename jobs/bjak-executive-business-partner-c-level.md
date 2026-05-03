@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | China |
+| Location | Hong Kong, Hong Kong |
 | Category | Strategy & Operations |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8fbdadd6-9870-45f4-91be-8342d36c223f) |
+| Posted | 2026-04-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/69ba2b2c-6e94-4954-94d9-ae6948312074) |
 
 ## About This Role
 
-This strategy & operations position at Bjak was posted on 2026-04-18.
+This strategy & operations position at Bjak was posted on 2026-04-25.
 
 ## Get Real-Time Alerts
 
