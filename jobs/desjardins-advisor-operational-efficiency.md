@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Business Analyst |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-efficacit-oprationnelle--Livraison-des-commandes-et-des-accs-TI_R2605447) |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Efficacit-oprationnelle-entreprises--Ple-financement_R2605549) |
 
 ## About This Role
 

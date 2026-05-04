@@ -6,7 +6,7 @@
 | Location | Switzerland |
 | Category | Business Analyst |
 | Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000122731519-international-execution-specialist) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000122746249-international-execution-specialist) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Broadcom](https://scoutify.ai/companies/broadcom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Malaysia-Penang-B-1--2/Supply-Chain-Analyst_R025742) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://broadcom.wd1.myworkdayjobs.com/External_Career/job/Malaysia-Penang-B-1--2/Supply-Chain-Analyst_R025825-1) |
 
 ## About This Role
 
-This business analyst position at Broadcom was posted on 2026-04-15.
+This business analyst position at Broadcom was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 
