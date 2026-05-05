@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Kansas City, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---PA-Philadelphia/Child-Care-Regional-Program-Specialist_36169) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MO-Kansas-City/Child-Care-Regional-Program-Specialist_36172) |
 
 ## About This Role
 
-This business analyst position at Guidehouse was posted on 2026-04-09.
+This business analyst position at Guidehouse was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

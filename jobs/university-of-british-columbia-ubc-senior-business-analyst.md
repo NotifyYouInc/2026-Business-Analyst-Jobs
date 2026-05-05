@@ -5,12 +5,12 @@
 | Company | [University of British Columbia (UBC)](https://scoutify.ai/companies/university-of-british-columbia-ubc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Senior-Business-Analyst_JR23785) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-Campus---Vancouver-BC-Canada/Senior-Business-Analyst_JR24300) |
 
 ## About This Role
 
-This business analyst position at University of British Columbia (UBC) was posted on 2026-03-09.
+This business analyst position at University of British Columbia (UBC) was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

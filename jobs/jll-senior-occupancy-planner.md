@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | Andover, Minnesota, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Senior-Occupancy-Planner_REQ502696) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Andover-MA/Senior-Occupancy-Planner_REQ503777) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-22.
+This business analyst position at JLL was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

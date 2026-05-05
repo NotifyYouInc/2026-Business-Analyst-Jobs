@@ -1,16 +1,16 @@
-# Technology Lead Business Analyst - Vice President at Citigroup
+# Technology Lead Business Analyst-Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology-Lead-Business-Analyst---Vice-President_26956218) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Technology-Lead-Business-Analyst-Vice-President_26958342) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-24.
+This business analyst position at Citigroup was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

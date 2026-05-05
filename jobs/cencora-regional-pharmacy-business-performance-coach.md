@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Indiana, US |
+| Location | North Carolina, US |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-MI/Regional-Pharmacy-Business-Performance-Coach_R266841) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-NC/Regional-Pharmacy-Business-Performance-Coach_R266840) |
 
 ## About This Role
 
-This business analyst position at Cencora was posted on 2026-04-24.
+This business analyst position at Cencora was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

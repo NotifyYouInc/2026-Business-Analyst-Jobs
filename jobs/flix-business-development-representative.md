@@ -5,12 +5,12 @@
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://flix.careers/job/8515158002?gh_jid=8515158002) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://flix.careers/job/8525864002?gh_jid=8525864002) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Flix was posted on 2026-04-20.
+This sales development (sdr / bdr) position at Flix was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

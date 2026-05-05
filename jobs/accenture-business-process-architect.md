@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Process-Architect_ATCI-5528942-S2018983-1) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Process-Architect_ATCI-5386113-S2019135-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-27.
+This technology / it consulting position at Accenture was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

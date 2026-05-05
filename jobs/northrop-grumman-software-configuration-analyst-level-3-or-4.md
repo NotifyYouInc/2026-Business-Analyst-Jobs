@@ -1,16 +1,16 @@
-# Software Configuration Analyst – level 3 or 4 at Northrop Grumman
+# Software Configuration Analyst - Level 3 or 4 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fairfax, Virginia, United States |
-| Category | Technical Writer |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Fairfax/Software-Configuration-Analyst---level-3-or-4_R10227385) |
+| Location | Aurora, Colorado, United States |
+| Category | Software Engineer |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Configuration-Analyst---Level-3-or-4_R10230660) |
 
 ## About This Role
 
-This technical writer position at Northrop Grumman was posted on 2026-03-26.
+This software engineer position at Northrop Grumman was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

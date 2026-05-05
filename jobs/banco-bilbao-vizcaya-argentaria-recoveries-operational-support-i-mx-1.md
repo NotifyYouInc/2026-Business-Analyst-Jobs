@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Culiacán, Sinaloa, Mexico |
+| Location | Tijuana, Baja California, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Sinaloa-Culiacn-80220/RECOVERIES-OPERATIONAL-SUPPORT-I-MX-1_JR00098158) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Baja-California-Tijuana-22010/RECOVERIES-OPERATIONAL-SUPPORT-I-MX-1_JR00099957) |
 
 ## About This Role
 
-This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-20.
+This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

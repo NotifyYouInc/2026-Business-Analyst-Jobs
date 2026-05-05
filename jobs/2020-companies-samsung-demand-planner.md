@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [2020 Companies](https://scoutify.ai/companies/2020-companies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Jersey, US |
+| Location | Santa Ana, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Englewood-Cliffs-NJ/Samsung-Demand-Planner_REQ_100660) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Santa-Ana-CA/Samsung-Demand-Planner_REQ_103509) |
 
 ## About This Role
 
-This business analyst position at 2020 Companies was posted on 2026-03-19.
+This business analyst position at 2020 Companies was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

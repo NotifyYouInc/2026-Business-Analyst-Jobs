@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Operations |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012810586-senior-commercial-analyst) |
+| Posted | 2026-04-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990012838633-senior-commercial-analyst) |
 
 ## About This Role
 
-This operations position at The Nielsen Company was posted on 2026-04-24.
+This operations position at The Nielsen Company was posted on 2026-04-27.
 
 ## Get Real-Time Alerts
 

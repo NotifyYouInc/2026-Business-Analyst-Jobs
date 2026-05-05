@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | Gurugram, Haryana, India |
 | Category | IT & Systems Administration |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Infra-Intmd-Systems-Analyst_26951324) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/DLF-CYBERCITY-12B/Infra-Intmd-Systems-Analyst_26957212) |
 
 ## About This Role
 
-This it & systems administration position at Citigroup was posted on 2026-04-06.
+This it & systems administration position at Citigroup was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
