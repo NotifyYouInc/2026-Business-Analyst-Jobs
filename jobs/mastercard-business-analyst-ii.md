@@ -5,12 +5,12 @@
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Business-Analyst-II_R-273236) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Business-Analyst-II_R-269393) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-04-15.
+This business analyst position at Mastercard was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

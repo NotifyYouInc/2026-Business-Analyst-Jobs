@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thoughtworks](https://scoutify.ai/companies/thoughtworks?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7587865?gh_jid=7587865) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://www.thoughtworks.com/careers/jobs/7836837?gh_jid=7836837) |
 
 ## About This Role
 
-This business analyst position at Thoughtworks was posted on 2026-02-19.
+This business analyst position at Thoughtworks was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

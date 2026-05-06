@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2Fckc53Lnvc15qTkBLnQrkUnKkXUlJ1xuaNrJEReJnCoztpEjsACxwdTDBqmkV3vJV-5wOnAWXg2X9Wbq1-K6XCXmXfw7TqpZ-rE0cFYIMSGWwi53egIc5hK4suCgjM8g%3D%3D_V2&loc=VN&title=%C4%90%E1%BB%91i+t%C3%A1c+Kinh+doanh+H%C3%A0nh+ch%C3%ADnh) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckYwzgBDla7tHTgpHYb7RrlydlHTIrmhw6T-yctOzY04dEjsACxwdTOBmTSaLvdOsOkghQemBN1JO1AX_jUDgu2nXw_IK33DmqP_FGbUDgHWIi_qF5ZRueDX5QvBR3g%3D%3D_V2&loc=VN&title=%C4%90%E1%BB%91i+t%C3%A1c+Kinh+doanh+H%C3%A0nh+ch%C3%ADnh) |
 
 ## About This Role
 
-This business analyst position at Google was posted on 2026-04-22.
+This business analyst position at Google was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

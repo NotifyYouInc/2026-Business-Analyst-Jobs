@@ -1,16 +1,16 @@
-# Private Bank-Core Banking Senior Business Analyst-AVP at Deutsche Bank
+# Private Bank - Core Banking Senior Business Analyst - AVP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Singapore-One-Raffles-Quay/Private-Bank-Core-Banking-Senior-Business-Analyst-AVP_R0430197) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Singapore-One-Raffles-Quay/Private-Bank---Core-Banking-Senior-Business-Analyst---AVP_R0430121) |
 
 ## About This Role
 
-This business analyst position at Deutsche Bank was posted on 2026-04-23.
+This business analyst position at Deutsche Bank was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

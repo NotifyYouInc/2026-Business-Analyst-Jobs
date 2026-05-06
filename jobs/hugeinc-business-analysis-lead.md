@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HugeInc](https://scoutify.ai/companies/hugeinc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Colombia |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/hugeinc/jobs/7773869) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hugeinc/jobs/7773866) |
 
 ## About This Role
 
-This business analyst position at HugeInc was posted on 2026-04-22.
+This business analyst position at HugeInc was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

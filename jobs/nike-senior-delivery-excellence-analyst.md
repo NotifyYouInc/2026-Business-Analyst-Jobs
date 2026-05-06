@@ -1,16 +1,16 @@
-# Senior Delivery Excellence Analyst at Nike
+# SENIOR, DELIVERY EXCELLENCE ANALYST at Nike
 
 | Field | Details |
 |-------|---------|
 | Company | [Nike](https://scoutify.ai/companies/nike?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Beaverton, Oregon, United States |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Delivery-Excellence-Analyst_R-80816) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://nike.wd1.myworkdayjobs.com/nke/job/South-Singapore-Singapore/SENIOR--DELIVERY-EXCELLENCE-ANALYST_R-82250) |
 
 ## About This Role
 
-This business analyst position at Nike was posted on 2026-03-17.
+This business analyst position at Nike was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

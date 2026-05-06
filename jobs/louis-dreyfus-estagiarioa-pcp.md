@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Varginha, Minas Gerais, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000119150028-estagiarioa-pcp) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000123514409-estagiarioa-pcp) |
 
 ## About This Role
 
-This business analyst position at Louis Dreyfus was posted on 2026-04-07.
+This business analyst position at Louis Dreyfus was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

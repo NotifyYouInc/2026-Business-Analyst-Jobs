@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Andover, Minnesota, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Andover-MA/Senior-Occupancy-Planner_REQ503777) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Richmond-VA/Senior-Occupancy-Planner_REQ503081) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-27.
+This business analyst position at JLL was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

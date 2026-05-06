@@ -1,16 +1,16 @@
-# Analyst Franchise Services at Mastercard
+# Analyst, Franchise Services at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | O'Fallon, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Analyst-Franchise-Services_R-273733-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Analyst--Franchise-Services_R-276257) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-03-31.
+This business analyst position at Mastercard was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

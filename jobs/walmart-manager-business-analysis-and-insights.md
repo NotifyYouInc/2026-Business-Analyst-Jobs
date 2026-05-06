@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Mississauga-ON/Manager--Business-Analysis-And-Insights_R-2313350) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Mississauga-ON/Manager--Business-Analysis-And-Insights_R-2462787) |
 
 ## About This Role
 
-This business analyst position at Walmart was posted on 2026-02-04.
+This business analyst position at Walmart was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

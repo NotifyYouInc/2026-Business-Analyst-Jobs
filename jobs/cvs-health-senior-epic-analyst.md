@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Utah, US |
+| Location | Arkansas, US |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home---Utah/Senior-Epic-Analyst_R0887915) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Work-from-home/Senior-Epic-Analyst_R0887981) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-04-15.
+This business analyst position at CVS Health was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

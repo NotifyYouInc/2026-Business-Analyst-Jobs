@@ -1,16 +1,16 @@
-# Analyst Revenue Cycle at Ensemble Health Partners
+# Analyst, Revenue Cycle at Ensemble Health Partners
 
 | Field | Details |
 |-------|---------|
 | Company | [Ensemble Health Partners](https://scoutify.ai/companies/ensemble-health-partners?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Analyst-Revenue-Cycle_R044159) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Analyst--Revenue-Cycle_R044859) |
 
 ## About This Role
 
-This business analyst position at Ensemble Health Partners was posted on 2026-04-10.
+This business analyst position at Ensemble Health Partners was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

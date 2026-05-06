@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fort Collins, Colorado, United States |
+| Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Fort-Collins-Colorado-USA/Brokerage-Coordinator_R315673) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---USA---TX---Austin---405-Colorado-Street/Brokerage-Coordinator_R317396) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-04-22.
+This business analyst position at Cushman & Wakefield was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [O-I Glass](https://scoutify.ai/companies/oiglass?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000118850402-estagiario-de-comercio-exterior) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000123517798-estagiario-de-comercio-exterior) |
 
 ## About This Role
 
-This business analyst position at O-I Glass was posted on 2026-04-06.
+This business analyst position at O-I Glass was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

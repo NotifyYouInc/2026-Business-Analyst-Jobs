@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Florence, Alabama, United States |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Inventory-Analyst-I_J2445565-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monterrey/Inventory-Analyst-I_J2447457) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-04-22.
+This business analyst position at Jabil was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

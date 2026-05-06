@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Melco Resorts & Entertainment](https://scoutify.ai/companies/melco-resorts-entertainment?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | China |
+| Location | Limassol, Limassol, Cyprus |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://melcoresorts.wd3.myworkdayjobs.com/career/job/Macau-SAR/Analyst--ERP-Systems_REQ14135) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://melcoresorts.wd3.myworkdayjobs.com/career/job/COD-Mediterranean-Limassol/Analyst--ERP-Systems_REQ14498) |
 
 ## About This Role
 
-This business analyst position at Melco Resorts & Entertainment was posted on 2026-02-27.
+This business analyst position at Melco Resorts & Entertainment was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

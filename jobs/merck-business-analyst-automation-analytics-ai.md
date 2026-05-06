@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/ESP---Madrid---Madrid-Josefa-Valcarcel/Business-Analyst---Automation--Analytics---AI_R393725-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CHL---Santiago---Santiago-Calle-Mariano/Business-Analyst---Automation--Analytics---AI_R394855) |
 
 ## About This Role
 
-This business analyst position at Merck was posted on 2026-04-20.
+This business analyst position at Merck was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

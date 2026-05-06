@@ -5,12 +5,12 @@
 | Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tucson, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-1625-N-Campbell-Ave/Staffing-Placement-Liaison_R4438385) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-1625-N-Campbell-Ave/Staffing-Placement-Liaison_R4440515) |
 
 ## About This Role
 
-This business analyst position at Banner Health was posted on 2026-04-14.
+This business analyst position at Banner Health was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

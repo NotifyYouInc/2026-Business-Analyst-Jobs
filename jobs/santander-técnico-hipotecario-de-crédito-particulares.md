@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CDMX/Tcnico-Hipotecario---DE-Crdito-Particulares_Req1547694) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CDMX/Tcnico-Hipotecario---DE-Crdito-Particulares_Req1567311) |
 
 ## About This Role
 
-This business analyst position at Santander was posted on 2026-04-21.
+This business analyst position at Santander was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

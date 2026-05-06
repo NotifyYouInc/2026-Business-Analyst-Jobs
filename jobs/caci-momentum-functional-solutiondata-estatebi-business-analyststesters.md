@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
-| Category | QA Engineer |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Momentum-Functional-Solution-Data-Estate-BI--Business-Analysts-Testers_321995) |
+| Location | United States |
+| Category | Business Analyst |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Momentum-Functional-Solution-Data-Estate-BI--Business-Analysts-Testers_325442) |
 
 ## About This Role
 
-This qa engineer position at CACI was posted on 2026-02-09.
+This business analyst position at CACI was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

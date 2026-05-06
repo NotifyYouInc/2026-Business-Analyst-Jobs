@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oscar Health](https://scoutify.ai/companies/oscar-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Arizona, US |
+| Location | Texas, US |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](http://www.hioscar.com/careers/7649740?gh_jid=7649740) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](http://www.hioscar.com/careers/7647462?gh_jid=7647462) |
 
 ## About This Role
 
-This business analyst position at Oscar Health was posted on 2026-02-24.
+This business analyst position at Oscar Health was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

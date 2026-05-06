@@ -1,16 +1,16 @@
-# Business Solutions Analyst, AVP at Mitsubishi UFG
+# Business Solutions Analyst. AVP at Mitsubishi UFG
 
 | Field | Details |
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tempe, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tempe-AZ/Business-Solutions-Analyst--AVP_10075496-WD) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tempe-AZ/Business-Solutions-Analyst-AVP_10076146-WD) |
 
 ## About This Role
 
-This business analyst position at Mitsubishi UFG was posted on 2026-04-07.
+This business analyst position at Mitsubishi UFG was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Córdoba, Cordoba, Argentina |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Analyst_ATCI-4696483-S2003872-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Cordoba-Torre-Capitalinas/Business-Analyst_14327232) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-24.
+This business analyst position at Accenture was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

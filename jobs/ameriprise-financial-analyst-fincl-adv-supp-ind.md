@@ -5,12 +5,12 @@
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Analyst-Fincl-Adv-Supp-IND_R26_1283) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Analyst-Fincl-Adv-Supp-IND_R26_1285) |
 
 ## About This Role
 
-This business analyst position at Ameriprise Financial was posted on 2026-04-10.
+This business analyst position at Ameriprise Financial was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

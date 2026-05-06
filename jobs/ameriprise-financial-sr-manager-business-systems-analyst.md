@@ -5,12 +5,12 @@
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Sr-Manager---Business-Systems-Analyst_R26_0836-1) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Sr-Manager---Business-Systems-Analys_R26_1567-1) |
 
 ## About This Role
 
-This business analyst position at Ameriprise Financial was posted on 2026-03-12.
+This business analyst position at Ameriprise Financial was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 
