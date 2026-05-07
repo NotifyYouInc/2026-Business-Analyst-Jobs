@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Los Angeles, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Citi-Commercial-Bank---Commercial-Associate_26955688-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Los-Angeles-California-United-States/Citi-Commercial-Bank---Commercial-Associate_26955684) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-28.
+This business analyst position at Citigroup was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

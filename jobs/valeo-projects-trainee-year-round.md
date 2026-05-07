@@ -5,12 +5,12 @@
 | Company | [Valeo](https://scoutify.ai/companies/valeo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Troy, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Projects-Trainee--Year-Round-_REQ2026073473) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Projects-Trainee--Year-Round-_REQ2026072056) |
 
 ## About This Role
 
-This business analyst position at Valeo was posted on 2026-04-28.
+This business analyst position at Valeo was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

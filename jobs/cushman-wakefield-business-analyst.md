@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Missouri, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Business-Analyst_R310107) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Business-Analyst_R309146) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-03-26.
+This business analyst position at Cushman & Wakefield was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

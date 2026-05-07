@@ -5,12 +5,12 @@
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chitose, Hokkaido, Japan |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Chitose-Japan/Supply-chain-Operational-Planner_J-00336020-5) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Chitose-Japan/Supply-chain-Operational-Planner_J-00339436-2) |
 
 ## About This Role
 
-This business analyst position at ASML was posted on 2026-03-11.
+This business analyst position at ASML was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

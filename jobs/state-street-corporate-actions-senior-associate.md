@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Fukuoka, Fukuoka, Japan |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Fukuoka-Japan/Corporate-Actions--Senior-Associate_R-788473) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Fukuoka-Japan/Corporate-Actions--Senior-Associate_R-789198) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-04-16.
+This business analyst position at State Street was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

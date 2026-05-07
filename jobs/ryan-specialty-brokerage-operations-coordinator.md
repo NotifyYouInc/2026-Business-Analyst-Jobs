@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Dallas, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/New-York---New-York---1166-Ave-of-Americas/Brokerage-Operations-Coordinator_JR26-4573-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Dallas---Texas---12700-Park-Central-Drive/Brokerage-Operations-Coordinator_JR26-4592) |
 
 ## About This Role
 
-This business analyst position at Ryan Specialty was posted on 2026-04-23.
+This business analyst position at Ryan Specialty was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

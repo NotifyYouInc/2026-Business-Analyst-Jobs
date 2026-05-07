@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Business-Analytics-Sr-Assoc_R-38952-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Chicago-IL/Business-Analytics-Sr-Assoc_R-39207) |
 
 ## About This Role
 
-This business analyst position at KeyBank was posted on 2026-04-13.
+This business analyst position at KeyBank was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

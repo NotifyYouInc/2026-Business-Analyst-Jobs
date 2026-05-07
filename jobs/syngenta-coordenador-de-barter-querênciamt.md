@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mato Grosso, BR |
+| Location | Querência, Mato Grosso, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000109999096-coordenador-de-barter-querenciamt) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000123794158-coordenador-de-barter-querenciamt) |
 
 ## About This Role
 
-This business analyst position at Syngenta was posted on 2026-02-18.
+This business analyst position at Syngenta was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

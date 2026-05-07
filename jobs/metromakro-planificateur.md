@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nanterre, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000122056628-planificateur) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000123789724-planificateur) |
 
 ## About This Role
 
-This business analyst position at METRO/MAKRO was posted on 2026-04-21.
+This business analyst position at METRO/MAKRO was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

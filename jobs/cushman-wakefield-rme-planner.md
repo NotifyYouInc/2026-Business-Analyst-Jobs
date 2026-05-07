@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Joliet, Illinois, United States |
+| Location | Huntley, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---IL---Joliet---4300-Brandon-Road/RME-Planner_R317010) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---IL---Huntley---11500-Freeman-Rd/RME-Planner_R316526) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-04-28.
+This business analyst position at Cushman & Wakefield was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

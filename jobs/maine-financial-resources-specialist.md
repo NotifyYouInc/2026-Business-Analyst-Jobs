@@ -5,12 +5,12 @@
 | Company | [Maine](https://scoutify.ai/companies/maine?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Augusta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Augusta-Maine/Financial-Resources-Specialist_R26-01621) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Augusta-Maine/Financial-Resources-Specialist_R26-01840) |
 
 ## About This Role
 
-This business analyst position at Maine was posted on 2026-04-15.
+This business analyst position at Maine was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Angels Camp, California, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Angels-Camp/Business-Operations-Coordinator_R-121594) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Phoenix-area/Business-Operations-Coordinator_R-121721) |
 
 ## About This Role
 
-This business analyst position at Travel + Leisure Co. was posted on 2026-04-28.
+This business analyst position at Travel + Leisure Co. was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

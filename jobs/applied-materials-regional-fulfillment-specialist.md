@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | 3 locations |
 | Category | Business Analyst |
 | Posted | 2026-04-29 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/HsinchuTWN/Regional-Fulfillment-Specialist_R2618509) |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Regional-Fulfillment-Specialist_R2618496) |
 
 ## About This Role
 

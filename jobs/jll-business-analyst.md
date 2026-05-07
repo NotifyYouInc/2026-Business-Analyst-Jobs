@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Business-Analyst_REQ499298) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Business-Analyst_REQ502598) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-15.
+This business analyst position at JLL was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

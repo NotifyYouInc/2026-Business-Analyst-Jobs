@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canadiantirecorporation](https://scoutify.ai/companies/canadiantirecorporation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Oakville, Ontario, Canada |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://canadiantirecorporation.wd3.myworkdayjobs.com/enterprise_external_careers_site/job/Oakville-ON/Senior-Business-Analyst_JR160130) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://canadiantirecorporation.wd3.myworkdayjobs.com/enterprise_external_careers_site/job/Toronto-ON/Senior-Business-Analyst_JR159715) |
 
 ## About This Role
 
-This business analyst position at Canadiantirecorporation was posted on 2026-04-13.
+This business analyst position at Canadiantirecorporation was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

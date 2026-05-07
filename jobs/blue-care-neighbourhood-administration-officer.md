@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Care](https://scoutify.ai/companies/blue-care?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Atherton, Queensland, Australia |
+| Location | Middle Ridge, Queensland, Australia |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Atherton/Neighbourhood-Administration-Officer_JR120666) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Middle-Ridge/Neighbourhood-Administration-Officer_JR120720) |
 
 ## About This Role
 
-This business analyst position at Blue Care was posted on 2026-04-29.
+This business analyst position at Blue Care was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

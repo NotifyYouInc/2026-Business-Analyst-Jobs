@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Process-Analyst_R-00180396) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Business-Process-Analyst_R-00181782) |
 
 ## About This Role
 
-This business analyst position at Leidos was posted on 2026-04-10.
+This business analyst position at Leidos was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

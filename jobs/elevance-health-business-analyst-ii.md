@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 6 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Business-Analyst-II_JR186715-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IL-CHICAGO-8600-W-BRYN-MAWR-AVE-10th--11th-FL/Business-Analyst-II_JR190462) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-03-24.
+This business analyst position at Elevance Health was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

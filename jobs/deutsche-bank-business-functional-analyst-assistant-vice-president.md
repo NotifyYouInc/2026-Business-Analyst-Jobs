@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cary, North Carolina, United States |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Cary-3000-CentreGreen-Way/Business-Functional-Analyst---Assistant-Vice-President_R0426437-1) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/New-York-1-Columbus-Circle/Business-Functional-Analyst---Assistant-Vice-President_R0423721) |
 
 ## About This Role
 
-This business analyst position at Deutsche Bank was posted on 2026-03-20.
+This business analyst position at Deutsche Bank was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

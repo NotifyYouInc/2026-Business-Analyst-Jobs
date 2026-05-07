@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Analyst--Production-Support_REQ504044) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Analyst--Production-Support_REQ504007) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-28.
+This business analyst position at JLL was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

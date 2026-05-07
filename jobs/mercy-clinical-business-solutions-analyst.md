@@ -5,12 +5,12 @@
 | Company | [Mercy](https://scoutify.ai/companies/mercy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://mercy.wd1.myworkdayjobs.com/mercycareers/job/Mercy-Remote---East/Clinical-Business-Solutions-Analyst_JR247114) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://mercy.wd1.myworkdayjobs.com/mercycareers/job/Remote/Clinical-Business-Solutions-Analyst_JR249663) |
 
 ## About This Role
 
-This business analyst position at Mercy was posted on 2026-04-27.
+This business analyst position at Mercy was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

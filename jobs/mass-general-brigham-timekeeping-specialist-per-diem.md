@@ -5,12 +5,12 @@
 | Company | [Mass General Brigham](https://scoutify.ai/companies/mass-general-brigham?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Timekeeping-Specialist--Per-Diem_RQ4062181) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Timekeeping-Specialist--Per-Diem_RQ4062345) |
 
 ## About This Role
 
-This business analyst position at Mass General Brigham was posted on 2026-04-28.
+This business analyst position at Mass General Brigham was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 

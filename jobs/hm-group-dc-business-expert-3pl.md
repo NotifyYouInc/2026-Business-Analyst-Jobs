@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Colombia |
+| Location | Tenjo, Cundinamarca, Colombia |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000120044478-dc-business-expert-3pl) |
+| Posted | 2026-04-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000123774409-dc-business-expert-3pl) |
 
 ## About This Role
 
-This business analyst position at H&M Group was posted on 2026-04-10.
+This business analyst position at H&M Group was posted on 2026-04-29.
 
 ## Get Real-Time Alerts
 
