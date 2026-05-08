@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012780921-associate-director-international-market-access-pricing-oncology-pipeline) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012921045-associate-director-international-market-access-pricing-oncology-pipeline) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-04-22.
+This business analyst position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

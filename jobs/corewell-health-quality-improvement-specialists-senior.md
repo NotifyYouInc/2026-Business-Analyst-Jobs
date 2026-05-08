@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Corewell Health](https://scoutify.ai/companies/spectrumhealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 6 locations |
-| Category | Project Manager |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Troy-MI/Quality-Improvement-Specialists-Senior_R205182) |
+| Location | 9 locations |
+| Category | Business Analyst |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Southfield-MI/Quality-Improvement-Specialists-Senior_R211960) |
 
 ## About This Role
 
-This project manager position at Corewell Health was posted on 2026-02-20.
+This business analyst position at Corewell Health was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

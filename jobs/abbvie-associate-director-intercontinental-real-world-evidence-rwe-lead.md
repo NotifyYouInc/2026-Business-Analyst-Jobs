@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Illinois, US |
-| Category | Program Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012170804-associate-director-intercontinental-real-world-evidence-rwe-lead) |
+| Category | Business Analyst |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012914668-associate-director-intercontinental-real-world-evidence-rwe-lead) |
 
 ## About This Role
 
-This program manager position at AbbVie was posted on 2026-03-16.
+This business analyst position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

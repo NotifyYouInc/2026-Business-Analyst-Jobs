@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Brazil |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110276) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113227) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-04-22.
+This business analyst position at IBM was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Arkansas, US |
+| Location | Texas, US |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Eligibility-Analyst_R0887958) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Eligibility-Analyst_R0897829-1) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-04-17.
+This business analyst position at CVS Health was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

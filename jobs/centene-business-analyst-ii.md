@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | District of Columbia, US |
+| Location | North Carolina, US |
 | Category | Business Analyst |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-NJ/Business-Analyst-II_1629475) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-NC/Business-Analyst-II_1636781-1) |
 
 ## About This Role
 
-This business analyst position at Centene was posted on 2026-02-10.
+This business analyst position at Centene was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

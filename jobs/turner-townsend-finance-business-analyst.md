@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Corporate Finance |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000108285508-finance-business-analyst) |
+| Location | New York City, New York, United States |
+| Category | Business Analyst |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000124013010-finance-business-analyst) |
 
 ## About This Role
 
-This corporate finance position at Turner & Townsend was posted on 2026-02-09.
+This business analyst position at Turner & Townsend was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

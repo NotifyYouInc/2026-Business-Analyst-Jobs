@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012689156-associate-director-international-market-analytics-and-business-intelligence-parkinsons) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012910262-associate-director-international-market-analytics-and-business-intelligence-parkinsons) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-04-21.
+This business analyst position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Matthey](https://scoutify.ai/companies/johnson-matthey?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://matthey.wd3.myworkdayjobs.com/ext_career_site/job/Vilnius---LT/ERP-Analyst_R-014368-2) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://matthey.wd3.myworkdayjobs.com/ext_career_site/job/Royston---UK/ERP-Analyst--iSeries-AS400-_R-014787-1) |
 
 ## About This Role
 
-This business analyst position at Johnson Matthey was posted on 2026-04-23.
+This business analyst position at Johnson Matthey was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

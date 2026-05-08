@@ -5,12 +5,12 @@
 | Company | [Indigo Books & Music](https://scoutify.ai/companies/indigobooksmusic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000120525994-inventory-analyst-12-months-contract) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IndigoBooksMusic/744000123970779-inventory-analyst-12-months-contract) |
 
 ## About This Role
 
-This business analyst position at Indigo Books & Music was posted on 2026-04-13.
+This business analyst position at Indigo Books & Music was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

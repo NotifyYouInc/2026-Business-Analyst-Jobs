@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Maryland, US |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Capability-Requirements-Analyst_R0235073) |
+| Location | Fort Meade, Maryland, United States |
+| Category | Business Analyst |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fort-Meade-MD/Capability-Requirements-Analyst_R0239069) |
 
 ## About This Role
 
-This strategy / management consulting position at Booz Allen was posted on 2026-03-03.
+This business analyst position at Booz Allen was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

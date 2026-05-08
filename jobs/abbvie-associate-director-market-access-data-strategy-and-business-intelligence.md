@@ -1,16 +1,16 @@
-# Associate Director, Market Access Data Strategy and Business Intelligence  at AbbVie
+# Associate Director, Market Access Data Strategy and Business Intelligence at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Strategy & Operations |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012624686-associate-director-market-access-data-strategy-and-business-intelligence) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012920788-associate-director-market-access-data-strategy-and-business-intelligence) |
 
 ## About This Role
 
-This strategy & operations position at AbbVie was posted on 2026-04-15.
+This strategy & operations position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

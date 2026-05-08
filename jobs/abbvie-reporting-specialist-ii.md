@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012540136-reporting-specialist-ii) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012917422-reporting-specialist-ii) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-04-09.
+This business analyst position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

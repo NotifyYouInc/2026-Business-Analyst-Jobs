@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Santa Fe, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Monterrey-Mexico/Fleet-Analyst_R-166274) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Santa-F-Mexico/Fleet-Analyst_R-166283) |
 
 ## About This Role
 
-This business analyst position at Mondelez International was posted on 2026-04-24.
+This business analyst position at Mondelez International was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Irvine, California, United States |
+| Location | North Chicago, Illinois, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012105426-associate-business-systems-consultant-hybrid) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012923414-associate-business-systems-consultant-hybrid) |
 
 ## About This Role
 
-This technology / it consulting position at AbbVie was posted on 2026-03-12.
+This technology / it consulting position at AbbVie was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

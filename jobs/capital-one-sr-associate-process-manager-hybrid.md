@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Sr-Associate--Process-Manager--Hybrid-_R236583-1) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Sr-Associate--Process-Manager--Hybrid-_R241497-1) |
 
 ## About This Role
 
-This business analyst position at Capital One was posted on 2026-02-25.
+This business analyst position at Capital One was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

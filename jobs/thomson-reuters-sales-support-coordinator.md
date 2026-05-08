@@ -5,12 +5,12 @@
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Sales-Support-Coordinator_JREQ200084) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Sales-Support-Coordinator_JREQ200311) |
 
 ## About This Role
 
-This business analyst position at Thomson Reuters was posted on 2026-04-21.
+This business analyst position at Thomson Reuters was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

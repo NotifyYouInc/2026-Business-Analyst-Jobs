@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | De Soto, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Orlando-FL-USA/Logistics-Analyst_R-173988) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/De-Soto-IL-USA/Logistics-Analyst_R-174071) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-04-29.
+This business analyst position at Republic Services was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

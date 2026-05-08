@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLSMIDTH](https://scoutify.ai/companies/flsmidth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Tucson, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://flsmidth.wd3.myworkdayjobs.com/fls_global/job/Monterrey/PCV-Global-Inventory-Analyst_R29633) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://flsmidth.wd3.myworkdayjobs.com/fls_global/job/Tucson/PCV-Global-Inventory-Analyst_R29969-1) |
 
 ## About This Role
 
-This business analyst position at FLSMIDTH was posted on 2026-03-19.
+This business analyst position at FLSMIDTH was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Rosario, Santa Fe, Argentina |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000123291268-ssr-commodity-mgt-analyst-sbs-americas) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000124017339-ssr-commodity-mgt-analyst-sbs-americas) |
 
 ## About This Role
 
-This business analyst position at Louis Dreyfus was posted on 2026-04-27.
+This business analyst position at Louis Dreyfus was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

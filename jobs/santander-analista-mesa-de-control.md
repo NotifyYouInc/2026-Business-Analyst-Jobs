@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/OFNA-REFORMA-490-CDMX/Analista-Mesa-de-Control_Req1567229) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/OFNA-REFORMA-490-CDMX/Analista-Mesa-de-Control_Req1572569) |
 
 ## About This Role
 
-This business analyst position at Santander was posted on 2026-04-28.
+This business analyst position at Santander was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

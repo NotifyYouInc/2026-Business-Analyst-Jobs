@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012641686-coordinator-vision-care-specialty) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012905913-coordinator-vision-care-specialty) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-04-16.
+This business analyst position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

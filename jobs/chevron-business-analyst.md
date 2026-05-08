@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
+| Location | Barcelona, Anzoátegui, Venezuela |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Ayala-Makati-City-Philippines/Business-Analyst_R000069102) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Barcelona-Anzoategui-Venezuela/Business-Analyst_R000070787) |
 
 ## About This Role
 
-This business analyst position at Chevron was posted on 2026-02-25.
+This business analyst position at Chevron was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

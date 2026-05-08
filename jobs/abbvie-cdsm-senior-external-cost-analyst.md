@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Financial Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012839452-cdsm-senior-external-cost-analyst) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012907070-cdsm-senior-external-cost-analyst) |
 
 ## About This Role
 
-This financial analyst position at AbbVie was posted on 2026-04-27.
+This financial analyst position at AbbVie was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

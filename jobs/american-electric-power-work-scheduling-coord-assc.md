@@ -1,16 +1,16 @@
-# Work Scheduling Coord Assc at American Electric Power
+# Work Scheduling Coord Assc. at American Electric Power
 
 | Field | Details |
 |-------|---------|
 | Company | [American Electric Power](https://scoutify.ai/companies/aep?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Charleston, South Carolina, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Charleston-WV/Work-Scheduling-Coord-Assc_R14740) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/Kingsport-TN/Work-Scheduling-Coord-Assc_R14917) |
 
 ## About This Role
 
-This business analyst position at American Electric Power was posted on 2026-04-20.
+This business analyst position at American Electric Power was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

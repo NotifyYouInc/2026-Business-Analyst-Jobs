@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wellmark, Inc.](https://scoutify.ai/companies/wellmarkinc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sioux Falls, South Dakota, United States |
+| Location | Cedar Rapids, Iowa, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000111721925-pharmacy-performance-manager) |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WellmarkInc/744000124021149-pharmacy-performance-manager) |
 
 ## About This Role
 
-This business analyst position at Wellmark, Inc. was posted on 2026-02-26.
+This business analyst position at Wellmark, Inc. was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 
