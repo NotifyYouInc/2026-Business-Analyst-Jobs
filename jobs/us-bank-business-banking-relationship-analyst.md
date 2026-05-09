@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Tempe, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Bellevue-WA/Business-Banking-Relationship-Analyst_2026-0003104) |
+| Posted | 2026-05-02 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Tempe-AZ/Business-Banking-Relationship-Analyst_2026-0011364) |
 
 ## About This Role
 
-This business analyst position at U.S. Bank was posted on 2026-02-11.
+This business analyst position at U.S. Bank was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

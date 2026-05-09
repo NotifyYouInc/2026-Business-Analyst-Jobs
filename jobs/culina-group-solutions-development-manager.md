@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Culina Group](https://scoutify.ai/companies/culinagroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Desborough, England, United Kingdom |
 | Category | Engineering Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000117002642-solutions-development-manager) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000124094850-solutions-development-manager) |
 
 ## About This Role
 
-This engineering manager position at Culina Group was posted on 2026-03-26.
+This engineering manager position at Culina Group was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

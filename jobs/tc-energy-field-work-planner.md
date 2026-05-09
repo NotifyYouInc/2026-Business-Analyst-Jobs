@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TC Energy](https://scoutify.ai/companies/tcenergy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Michigan, US |
+| Location | Binghamton, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Big-Rapids-Michigan/Field-Work-Planner_JR-10057) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/BINGHAMTON-NY-OFFC/Field-Work-Planner_JR-10147-1) |
 
 ## About This Role
 
-This business analyst position at TC Energy was posted on 2026-04-15.
+This business analyst position at TC Energy was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

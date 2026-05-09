@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Olsztyn, Warmia-Masuria, Poland |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Olsztyn--Poland/Reference-Data-Services-Analyst_26948731) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Reference-Data-Services-Analyst_26958325) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-01.
+This business analyst position at Citigroup was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

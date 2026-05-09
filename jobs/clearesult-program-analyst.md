@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Oregon, US |
+| Location | Plymouth Meeting, Pennsylvania, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Oregon/Program-Analyst_R0017308) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Plymouth-Meeting-PA---Campus-Drive/Program-Analyst_R0017356) |
 
 ## About This Role
 
-This business analyst position at CLEAResult was posted on 2026-04-16.
+This business analyst position at CLEAResult was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

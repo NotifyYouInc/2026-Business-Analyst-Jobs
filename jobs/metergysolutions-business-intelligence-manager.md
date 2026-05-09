@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Metergysolutions](https://scoutify.ai/companies/metergysolutions?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York, US |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.lever.co/metergysolutions/04a390b4-6f0d-4a63-8514-bb33ac32f3d5) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.lever.co/metergysolutions/1ff93c6e-12cc-4a04-8e5d-002e7003c056) |
 
 ## About This Role
 
-This business analyst position at Metergysolutions was posted on 2026-03-05.
+This business analyst position at Metergysolutions was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Boise, Idaho, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/BU-Analyst---Catalyst-Rotation-Program_JR93943) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/BU-Analyst---Catalyst-Rotation-Program_JR99669) |
 
 ## About This Role
 
-This leadership development program position at Micron was posted on 2026-03-16.
+This leadership development program position at Micron was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

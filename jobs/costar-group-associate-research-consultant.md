@@ -5,12 +5,12 @@
 | Company | [CoStar Group](https://scoutify.ai/companies/costar-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Richmond, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38730) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R37999) |
 
 ## About This Role
 
-This business analyst position at CoStar Group was posted on 2026-04-21.
+This business analyst position at CoStar Group was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

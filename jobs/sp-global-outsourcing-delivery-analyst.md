@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Dallas, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Outsourcing-Delivery-Analyst_326651-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Dallas-TX/Outsourcing-Delivery-Analyst_327379-2) |
 
 ## About This Role
 
-This business analyst position at S&P Global was posted on 2026-03-26.
+This business analyst position at S&P Global was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

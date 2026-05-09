@@ -5,12 +5,12 @@
 | Company | [Monzo](https://scoutify.ai/companies/monzo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Human Resources / People Ops |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/monzo/jobs/7739178) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/monzo/jobs/7873916) |
 
 ## About This Role
 
-This human resources / people ops position at Monzo was posted on 2026-03-20.
+This human resources / people ops position at Monzo was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

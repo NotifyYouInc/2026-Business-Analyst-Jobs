@@ -5,12 +5,12 @@
 | Company | [Nordic](https://scoutify.ai/companies/nordic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://nordic.wd1.myworkdayjobs.com/nordic/job/US---National/Application-Analyst-II---Epic-Inpatient-Orders_R5557-1) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://nordic.wd1.myworkdayjobs.com/nordic/job/US---National/Application-Analyst-II---Epic-Inpatient-Orders_R5569) |
 
 ## About This Role
 
-This business analyst position at Nordic was posted on 2026-04-15.
+This business analyst position at Nordic was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

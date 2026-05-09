@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Warner Robins, Georgia, United States |
+| Location | 3 locations |
 | Category | Implementation / Professional Services |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Warner-Robins-GA/Experienced-Support-Integration-Specialist_JR2026507875) |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Support-Integration-Specialist_JR2026507103-1) |
 
 ## About This Role
 
-This implementation / professional services position at Boeing was posted on 2026-04-29.
+This implementation / professional services position at Boeing was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

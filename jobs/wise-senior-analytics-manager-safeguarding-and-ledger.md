@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Data Engineer |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000108942085-senior-analytics-manager-safeguarding-and-ledger) |
+| Category | Business Analyst |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000124099419-senior-analytics-manager-safeguarding-and-ledger) |
 
 ## About This Role
 
-This data engineer position at WISE was posted on 2026-02-12.
+This business analyst position at WISE was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 

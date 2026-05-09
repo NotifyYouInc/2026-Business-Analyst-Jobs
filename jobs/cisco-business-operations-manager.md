@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Program Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Business-Operations-Manager_2011300-1) |
+| Location | 4 locations |
+| Category | Operations |
+| Posted | 2026-05-01 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maitland-Florida-US/Business-Operations-Manager_2013811) |
 
 ## About This Role
 
-This program manager position at Cisco was posted on 2026-04-03.
+This operations position at Cisco was posted on 2026-05-01.
 
 ## Get Real-Time Alerts
 
