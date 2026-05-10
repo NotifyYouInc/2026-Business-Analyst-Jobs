@@ -1,4 +1,4 @@
-# Operations Analyst at City of New York
+# Assistant Director/Team Counsel  - INTERGOVERNMENTAL RELATIONS at City of New York
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012943871-operations-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012944066-assistant-directorteam-counsel-intergovernmental-relations) |
 
 ## About This Role
 

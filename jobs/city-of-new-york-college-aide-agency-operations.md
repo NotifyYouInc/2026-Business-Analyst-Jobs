@@ -1,4 +1,4 @@
-# Operations Analyst at City of New York
+# College Aide, Agency Operations at City of New York
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012943871-operations-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012943736-college-aide-agency-operations) |
 
 ## About This Role
 

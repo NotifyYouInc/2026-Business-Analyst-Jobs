@@ -1,16 +1,16 @@
-# Intern - Corporate at HD Supply
+# Administrative Researcher at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Intern---Corporate_R26000859) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990012943836-administrative-researcher) |
 
 ## About This Role
 
-This business analyst position at HD Supply was posted on 2026-05-02.
+This business analyst position at City of New York was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

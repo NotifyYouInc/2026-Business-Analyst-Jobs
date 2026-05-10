@@ -1,16 +1,16 @@
-# Intern - Corporate at HD Supply
+# Sr. Principal Analyst, Quality & Supply Chain (Remote - UK) at Gartner
 
 | Field | Details |
 |-------|---------|
-| Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | United Kingdom |
 | Category | Business Analyst |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Intern---Corporate_R26000859) |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Remote---United-Kingdom/Sr-Principal-Analyst_110160) |
 
 ## About This Role
 
-This business analyst position at HD Supply was posted on 2026-05-02.
+This business analyst position at Gartner was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 

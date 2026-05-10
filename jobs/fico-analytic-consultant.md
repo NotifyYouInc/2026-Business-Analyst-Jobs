@@ -1,16 +1,16 @@
-# Intern - Corporate at HD Supply
+# Analytic Consultant at FICO
 
 | Field | Details |
 |-------|---------|
-| Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Company | [FICO](https://scoutify.ai/companies/fico?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | United States |
 | Category | Business Analyst |
 | Posted | 2026-05-02 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Intern---Corporate_R26000859) |
+| Apply | [View on company site](https://fico.wd1.myworkdayjobs.com/external/job/Work-from-Home-United-States/Analytic-Consultant_31800) |
 
 ## About This Role
 
-This business analyst position at HD Supply was posted on 2026-05-02.
+This business analyst position at FICO was posted on 2026-05-02.
 
 ## Get Real-Time Alerts
 
