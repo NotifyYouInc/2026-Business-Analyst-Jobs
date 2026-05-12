@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Business Analyst |
 | Posted | 2026-05-01 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-d-affaires--Intelligence-artificielle_R2606015) |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-d-affaires--Rseaux-Centres-Desjardins-Entreprises_R2606158) |
 
 ## About This Role
 

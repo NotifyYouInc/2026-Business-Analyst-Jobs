@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Business Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012925554-associate-director-market-access-contract-analytics-and-measurement) |
+| Posted | 2026-05-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012953006-associate-director-market-access-contract-analytics-and-measurement) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-05-01.
+This business analyst position at AbbVie was posted on 2026-05-04.
 
 ## Get Real-Time Alerts
 

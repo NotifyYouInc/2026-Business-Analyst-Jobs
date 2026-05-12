@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hefei, Anhui, China |
+| Location | Delhi, Delhi, India |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/CN---HEFEI-I-GLOBAL-BUSINESS-SERVICES---GBS-CNHEF/Brokerage-Senior-Assistant_R26011897) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/IN---DELHI-EXPRESS-TERMINAL-INNDH/Brokerage-Senior-Assistant_R26014788) |
 
 ## About This Role
 
-This business analyst position at United Parcel Service (UPS) was posted on 2026-04-15.
+This business analyst position at United Parcel Service (UPS) was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7830321?gh_jid=7830321) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/7830254?gh_jid=7830254) |
 
 ## About This Role
 
-This business analyst position at Coupang Internal was posted on 2026-04-24.
+This business analyst position at Coupang Internal was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

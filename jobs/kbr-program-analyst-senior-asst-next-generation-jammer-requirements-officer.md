@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-District-of-Columbia/Program-Analyst--Senior--Asst-Next-Generation-Jammer-Requirements-Officer-_R2121900) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-District-of-Columbia/Program-Analyst--Senior--Asst-Next-Generation-Jammer-Requirements-Officer-_R2123029) |
 
 ## About This Role
 
-This business analyst position at KBR was posted on 2026-04-14.
+This business analyst position at KBR was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

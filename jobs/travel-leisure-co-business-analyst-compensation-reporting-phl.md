@@ -5,12 +5,12 @@
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Philippines |
 | Category | Business Analyst |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Philippines/Business-Analyst--Compensation---Reporting--PHL-_R-116931) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Philippines/Business-Analyst--Compensation---Reporting--PHL-_R-121888) |
 
 ## About This Role
 
-This business analyst position at Travel + Leisure Co. was posted on 2026-02-13.
+This business analyst position at Travel + Leisure Co. was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Altera Corporation](https://scoutify.ai/companies/altera?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Penang, MY |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Supply-Chain-Planning-Analyst_R02128) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://altera.wd1.myworkdayjobs.com/altera/job/Penang-15-Penang-Malaysia/Supply-Chain-Planning-Analyst_R02428) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Altera Corporation was posted on 2026-03-02.
+This fp&a / strategic finance position at Altera Corporation was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

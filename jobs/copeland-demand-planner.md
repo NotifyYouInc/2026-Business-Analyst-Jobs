@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cudahy, California, United States |
+| Location | St. Louis, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Cudahy-WI-USA/Demand-Planner_JR113395-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/St-Louis-MO-USA/Demand-Planner_JR114796) |
 
 ## About This Role
 
-This business analyst position at Copeland was posted on 2026-03-11.
+This business analyst position at Copeland was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

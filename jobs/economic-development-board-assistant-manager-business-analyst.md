@@ -1,16 +1,16 @@
-# Assistant/ Manager, Business Analyst at Economic Development Board
+# Assistant Manager, Business Analyst at Economic Development Board
 
 | Field | Details |
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/SLA-REVENUE-HOUSE-LEVEL-10/Assistant--Manager--Business-Analyst_JR-10000048172) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/SLA-REVENUE-HOUSE-LEVEL-10/Assistant-Manager--Business-Analyst_JR-10000050449) |
 
 ## About This Role
 
-This business analyst position at Economic Development Board was posted on 2026-03-03.
+This business analyst position at Economic Development Board was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

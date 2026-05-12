@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000121097887-intern-merchant-operations) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000124550749-intern-merchant-operations) |
 
 ## About This Role
 
-This business analyst position at Grab was posted on 2026-04-16.
+This business analyst position at Grab was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
