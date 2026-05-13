@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Equinix](https://scoutify.ai/companies/equinix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Business-Assurance-Services-Senior-Analyst_JR-159820) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://equinix.wd1.myworkdayjobs.com/external/job/Toronto/Business-Assurance-Services-Senior-Analyst_JR-160402) |
 
 ## About This Role
 
-This business analyst position at Equinix was posted on 2026-04-14.
+This business analyst position at Equinix was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

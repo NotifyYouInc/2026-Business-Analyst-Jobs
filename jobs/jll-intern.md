@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chennai-TN/Intern_REQ502865) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Intern_REQ503989) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-28.
+This business analyst position at JLL was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Detroit, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Business-Analyst-3_R0071832-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Detroit-MI/Business-Analyst-3_R0072050) |
 
 ## About This Role
 
-This business analyst position at Huntington Bancshares was posted on 2026-04-30.
+This business analyst position at Huntington Bancshares was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

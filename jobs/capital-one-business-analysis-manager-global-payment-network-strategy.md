@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Operations |
-| Posted | 2026-04-05 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Business-Analysis--Manager-Global-Payment-Network-Strategy_R239058-2) |
+| Location | 4 locations |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Chicago-IL/Business-Analysis--Manager-Global-Payment-Network-Strategy_R239067-2) |
 
 ## About This Role
 
-This operations position at Capital One was posted on 2026-04-05.
+This strategy / management consulting position at Capital One was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

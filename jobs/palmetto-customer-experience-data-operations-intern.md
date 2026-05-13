@@ -5,12 +5,12 @@
 | Company | [Palmetto](https://scoutify.ai/companies/palmetto?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5167530008) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/palmettocleantech/jobs/5211194008) |
 
 ## About This Role
 
-This business analyst position at Palmetto was posted on 2026-03-26.
+This business analyst position at Palmetto was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

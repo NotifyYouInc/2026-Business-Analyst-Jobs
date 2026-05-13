@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Torreón, Coahuila, Mexico |
+| Location | Tianjin, Tianjin, China |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Torreon-Coahuila/Demand---Orders-Analyst_R0000362280) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tianjin-Tianjin/Demand---Orders-Analyst_R0000367084) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-04-16.
+This business analyst position at Caterpillar was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

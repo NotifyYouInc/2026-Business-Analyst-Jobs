@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Wealth-Business-Analyst-III_R0112520-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Dallas-TX/Wealth-Business-Analyst-III_R0114216) |
 
 ## About This Role
 
-This business analyst position at Truist was posted on 2026-03-17.
+This business analyst position at Truist was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

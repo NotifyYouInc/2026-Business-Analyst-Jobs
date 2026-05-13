@@ -5,12 +5,12 @@
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Senior-Analyst---Master-Data-Management_WD213285) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Senior-Analyst---Master-Data-Management_WD220241) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-02-18.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

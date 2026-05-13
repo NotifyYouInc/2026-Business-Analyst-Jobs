@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WEST-CONSHOHOCKEN-PA/Business-Relationship-Support-Specialist_R-540899) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/PHILADELPHIA-PA/Business-Relationship-Support-Specialist_R-540652) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-04-28.
+This business analyst position at Wells Fargo was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

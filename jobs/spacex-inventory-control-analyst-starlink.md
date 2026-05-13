@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Texas, US |
+| Location | Woodinville, Washington, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8405898002?gh_jid=8405898002) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8536305002?gh_jid=8536305002) |
 
 ## About This Role
 
-This business analyst position at SpaceX was posted on 2026-04-10.
+This business analyst position at SpaceX was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dalian, Liaoning, China |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Dalian-Liaoning-China/Intern-Student-Intl_WD30267940) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Dalian-Liaoning-China/Intern-Student-Intl_WD30267941-1) |
 
 ## About This Role
 
-This business analyst position at Johnson Controls was posted on 2026-04-27.
+This business analyst position at Johnson Controls was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

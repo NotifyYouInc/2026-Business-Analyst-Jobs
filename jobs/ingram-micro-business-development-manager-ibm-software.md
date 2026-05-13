@@ -5,12 +5,12 @@
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore |
 | Category | Engineering Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Kallang-Bahru-Singapore/Product-Manager--IBM-Hardware_R-111331) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Kallang-Bahru-Singapore/Business-Development-Manager--IBM-Software_R-115258) |
 
 ## About This Role
 
-This engineering manager position at Ingram Micro was posted on 2026-04-06.
+This engineering manager position at Ingram Micro was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

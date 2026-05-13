@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mksinst](https://scoutify.ai/companies/mksinst-mkscareersameri?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico |
+| Location | Querétaro, MX |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://mksinst.wd1.myworkdayjobs.com/mkscareersamericas/job/Mexico-Queretaro-City/Demand-Planning-Analyst_R17921) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://mksinst.wd1.myworkdayjobs.com/mkscareersamericas/job/Mexico-Queretaro-City/Demand-Planning-Analyst_R18898) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Mksinst was posted on 2026-04-10.
+This fp&a / strategic finance position at Mksinst was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

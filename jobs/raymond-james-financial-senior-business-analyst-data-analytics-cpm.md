@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Florida, US |
-| Category | Project Manager |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/St-Petersburg-Florida---United-States/Senior-Business-Analyst--Data-Analytics---CPM_R-0009432) |
+| Category | Business Analyst |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Senior-Business-Analyst--Data-Analytics---CPM_R-0010977-1) |
 
 ## About This Role
 
-This project manager position at Raymond James Financial was posted on 2026-02-06.
+This business analyst position at Raymond James Financial was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Prisma Health](https://scoutify.ai/companies/prisma-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Greenville, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://prismahealth.wd5.myworkdayjobs.com/prismahealthcorporate/job/Greenville-SC/PFS-Analyst_R1134606) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://prismahealth.wd5.myworkdayjobs.com/prismahealthcorporate/job/Greenville-SC/PFS-Analyst_R1137911) |
 
 ## About This Role
 
-This business analyst position at Prisma Health was posted on 2026-04-29.
+This business analyst position at Prisma Health was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

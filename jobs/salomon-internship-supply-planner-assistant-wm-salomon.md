@@ -5,12 +5,12 @@
 | Company | [Salomon](https://scoutify.ai/companies/salomon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Annecy, Rhône-Alpes, France |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000118207443-internship-supply-planner-assistant-wm-salomon) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Salomon/744000124690690-internship-supply-planner-assistant-wm-salomon) |
 
 ## About This Role
 
-This business analyst position at Salomon was posted on 2026-04-01.
+This business analyst position at Salomon was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

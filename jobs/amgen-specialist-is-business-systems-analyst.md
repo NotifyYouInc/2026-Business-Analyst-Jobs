@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Holly Springs, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Specialist-IS-Business-Systems-Analyst_R-240865-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---North-Carolina---Holly-Springs/Specialist-IS-Business-Systems-Analyst_R-242859) |
 
 ## About This Role
 
-This business analyst position at Amgen was posted on 2026-04-17.
+This business analyst position at Amgen was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [The Campbell's Company](https://scoutify.ai/companies/campbellsoup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hanover, Maryland, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---PA---Hanover/Trade-Deduction-Coordinator_Req-64900) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---PA---Hanover/Trade-Deduction-Coordinator_Req-65221) |
 
 ## About This Role
 
-This business analyst position at The Campbell's Company was posted on 2026-04-22.
+This business analyst position at The Campbell's Company was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

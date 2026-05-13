@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Redondo Beach, California, United States |
-| Category | Project Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Proposal-Analyst---Level-3_R10223997) |
+| Category | Business Analyst |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Proposal-Analyst---Level-3_R10232053) |
 
 ## About This Role
 
-This project manager position at Northrop Grumman was posted on 2026-02-25.
+This business analyst position at Northrop Grumman was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

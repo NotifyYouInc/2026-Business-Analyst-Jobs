@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | San Jose, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CRI---San-Jose---San-Jose-City-Place/Order-To-Cash---Sr-Analyst_R391352) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CRI---San-Jose---San-Jose-City-Place/Order-To-Cash---Sr-Analyst_R396546) |
 
 ## About This Role
 
-This business analyst position at Merck was posted on 2026-03-31.
+This business analyst position at Merck was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

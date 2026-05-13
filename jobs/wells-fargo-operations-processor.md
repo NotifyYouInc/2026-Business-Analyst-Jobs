@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Operations-Processor_R-534234-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Operations-Processor_R-539769) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-04-15.
+This business analyst position at Wells Fargo was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

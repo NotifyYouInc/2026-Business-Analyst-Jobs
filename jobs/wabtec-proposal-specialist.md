@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Duncan, Oklahoma, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012897926-proposal-specialist) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012984916-proposal-specialist) |
 
 ## About This Role
 
-This business analyst position at Wabtec was posted on 2026-04-30.
+This business analyst position at Wabtec was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

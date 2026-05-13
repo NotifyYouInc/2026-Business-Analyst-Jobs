@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Portland-Oregon/Registered-Operations-Leader_R26_1528-1) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Richmond-Virginia/Registered-Operations-Leader_R26_1767) |
 
 ## About This Role
 
-This business analyst position at Ameriprise Financial was posted on 2026-04-17.
+This business analyst position at Ameriprise Financial was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

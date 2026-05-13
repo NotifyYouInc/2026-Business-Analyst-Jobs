@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-02 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Senior-Analyst--Engineering-Engagement-Specialist--Hybrid-_01842258) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Senior-Analyst--Engineering-Engagement-Specialist--Hybrid-_01842983-1) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-05-02.
+This business analyst position at RTX was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

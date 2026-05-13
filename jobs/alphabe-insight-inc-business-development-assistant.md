@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alphabe Insight Inc](https://scoutify.ai/companies/alphabe-insight-inc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fort Worth, Texas, United States |
+| Location | Miami, Florida, United States |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/alphabeinsightinc/744000123284955-business-development-assistant) |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/alphabeinsightinc/744000124693536-business-development-assistant) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Alphabe Insight Inc was posted on 2026-04-27.
+This sales development (sdr / bdr) position at Alphabe Insight Inc was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 

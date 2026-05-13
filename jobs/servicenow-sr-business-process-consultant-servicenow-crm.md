@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ServiceNow](https://scoutify.ai/companies/servicenow?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Addison, Illinois, United States |
-| Category | Customer Success |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000123735814-sr-business-process-consultant-servicenow-crm) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-05-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ServiceNow/744000124741149-sr-business-process-consultant-servicenow-crm) |
 
 ## About This Role
 
-This customer success position at ServiceNow was posted on 2026-04-29.
+This technology / it consulting position at ServiceNow was posted on 2026-05-05.
 
 ## Get Real-Time Alerts
 
