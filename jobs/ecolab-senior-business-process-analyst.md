@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Shanghai, Shanghai, China |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Senior-Business-Process-Analyst_R00288774) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/CHN---Shanghai---Shanghai/Senior-Business-Process-Analyst_R00293345) |
 
 ## About This Role
 
-This business analyst position at Ecolab was posted on 2026-04-03.
+This business analyst position at Ecolab was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

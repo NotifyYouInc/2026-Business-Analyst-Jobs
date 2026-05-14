@@ -1,16 +1,16 @@
-# Analyst-Digital Brand Advocate at Lowe's
+# Analyst -Digital Brand Advocate at Lowe's
 
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mooresville, North Carolina, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Analyst-Digital-Brand-Advocate_JR-02396236) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/Analyst--Digital-Brand-Advocate_JR-02511002) |
 
 ## About This Role
 
-This business analyst position at Lowe's was posted on 2026-04-14.
+This business analyst position at Lowe's was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

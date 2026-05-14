@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Košice, Košice Region, Slovakia |
-| Category | Project Manager |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/Senior-Business-Analyst_R0000351796) |
+| Category | Business Analyst |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/Senior-Business-Analyst_R0000368452) |
 
 ## About This Role
 
-This project manager position at Caterpillar was posted on 2026-02-19.
+This business analyst position at Caterpillar was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bentonville, Arkansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/Senior-Analyst--Supply-Chain-Management_R-2472377) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AR-BENTONVILLE-06705-INBOUND-TRANSPORTATION/Senior-Analyst--Supply-Chain-Management_R-2493598) |
 
 ## About This Role
 
-This business analyst position at Walmart was posted on 2026-04-24.
+This business analyst position at Walmart was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

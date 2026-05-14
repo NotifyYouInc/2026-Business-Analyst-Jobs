@@ -5,12 +5,12 @@
 | Company | [2020 Companies](https://scoutify.ai/companies/2020-companies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Dallas-TX/Business-Analyst_REQ_099866) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Dallas-TX/Business-Analyst_REQ_104064-1) |
 
 ## About This Role
 
-This business analyst position at 2020 Companies was posted on 2026-03-03.
+This business analyst position at 2020 Companies was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

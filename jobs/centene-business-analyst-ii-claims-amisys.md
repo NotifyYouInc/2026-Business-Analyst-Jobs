@@ -1,16 +1,16 @@
-# Business Analyst II Claims, Amisys at Centene
+# Business Analyst II  Claims, Amisys at Centene
 
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Missouri, US |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Business-Analyst-II-Claims--Amisys_1635946-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Business-Analyst-II--Claims--Amisys_1639314-1) |
 
 ## About This Role
 
-This business analyst position at Centene was posted on 2026-04-20.
+This business analyst position at Centene was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

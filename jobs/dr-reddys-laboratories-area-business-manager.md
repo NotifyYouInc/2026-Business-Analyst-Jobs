@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | New Delhi, Delhi, India |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000120863272-area-business-manager) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000125034539-area-business-manager) |
 
 ## About This Role
 
-This business analyst position at Dr. Reddy's Laboratories was posted on 2026-04-15.
+This business analyst position at Dr. Reddy's Laboratories was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

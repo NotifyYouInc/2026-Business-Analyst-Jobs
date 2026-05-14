@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tysons, Virginia, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tysons-VA/Occupancy-Planner_REQ503054) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Occupancy-Planner_REQ505074) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-24.
+This business analyst position at JLL was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

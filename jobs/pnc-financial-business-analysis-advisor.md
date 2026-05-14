@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | 5 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Denver---12345-W-Colfax-CO147/Business-Analysis-Advisor_R214627-1) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analysis-Advisor_R222117-2) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-04-16.
+This business analyst position at PNC Financial was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

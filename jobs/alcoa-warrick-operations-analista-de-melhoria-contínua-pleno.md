@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alcoa Warrick Operations](https://scoutify.ai/companies/alcoa-warrick-operations?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Juruti, Pará, Brazil |
+| Location | São Luís, Maranhão, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://alcoa.wd5.myworkdayjobs.com/careers/job/Brazil-PA-Juruti/Analista-de-Melhoria-Contnua-Pleno_Req-36570) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://alcoa.wd5.myworkdayjobs.com/careers/job/Brazil-MA-So-Luis/Analista-de-Melhoria-Contnua-Pleno_Req-37152) |
 
 ## About This Role
 
-This business analyst position at Alcoa Warrick Operations was posted on 2026-03-25.
+This business analyst position at Alcoa Warrick Operations was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

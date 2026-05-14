@@ -5,12 +5,12 @@
 | Company | [Konecranes](https://scoutify.ai/companies/konecranes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Smithfield, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000123563829-service-planner) |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Konecranes/744000124997029-service-planner) |
 
 ## About This Role
 
-This business analyst position at Konecranes was posted on 2026-04-28.
+This business analyst position at Konecranes was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

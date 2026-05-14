@@ -1,16 +1,16 @@
-# Business Architect Senior Manager (Remote - US) at Allstate
+# Business Architect Senior Manager (Remote, US) at Allstate
 
 | Field | Details |
 |-------|---------|
 | Company | [Allstate](https://scoutify.ai/companies/allstate?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
-| Category | Program Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/Remote---Remote/Business-Architect-Senior-Manager--Remote---US-_R27518) |
+| Location | United States |
+| Category | Business Analyst |
+| Posted | 2026-05-06 |
+| Apply | [View on company site](https://allstate.wd5.myworkdayjobs.com/Allstate_Careers/job/US---Remote/Business-Architect-Senior-Manager--Remote--US-_R30002) |
 
 ## About This Role
 
-This program manager position at Allstate was posted on 2026-03-13.
+This business analyst position at Allstate was posted on 2026-05-06.
 
 ## Get Real-Time Alerts
 

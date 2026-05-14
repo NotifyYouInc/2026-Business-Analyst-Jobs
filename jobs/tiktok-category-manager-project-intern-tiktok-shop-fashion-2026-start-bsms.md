@@ -1,16 +1,16 @@
-# Category Manager Project Intern (TikTok Shop - Fashion) - 2026 Start (BS/MS) at TikTok
+# Category Manager Project Intern (TikTok Shop Fashion) - 2026 Start (BS/MS) at TikTok
 
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7634362049033849093/detail) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7594751230367598901/detail) |
 
 ## About This Role
 
-This business analyst position at TikTok was posted on 2026-05-05.
+This business analyst position at TikTok was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

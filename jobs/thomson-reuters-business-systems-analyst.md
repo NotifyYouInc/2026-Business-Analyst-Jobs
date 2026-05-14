@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Mexico-Mexico-City/Business-Systems-Analyst_JREQ199003) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Business-Systems-Analyst_JREQ200259) |
 
 ## About This Role
 
-This business analyst position at Thomson Reuters was posted on 2026-03-19.
+This business analyst position at Thomson Reuters was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
