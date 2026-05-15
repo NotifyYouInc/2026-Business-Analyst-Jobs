@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Alvin, Texas, United States |
 | Category | Engineering Manager |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000124967544-business-development-manager) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000125163391-business-development-manager) |
 
 ## About This Role
 
-This engineering manager position at SGS was posted on 2026-05-06.
+This engineering manager position at SGS was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Madrid, Madrid, Spain |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Los-Angeles-California-USA/EIC-Intern_R312864) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Madrid-Spain/Intern_R287343) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-04-03.
+This business analyst position at Cushman & Wakefield was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Business-System-Analyst-II_J2444408) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Business-System-Analyst-II_J2449366) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-03-26.
+This business analyst position at Jabil was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

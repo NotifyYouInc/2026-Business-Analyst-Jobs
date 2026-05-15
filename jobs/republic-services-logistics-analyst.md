@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bella Vista, Arkansas, United States |
+| Location | Galena, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Bella-Vista-AR-USA/Logistics-Analyst_R-174691) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Galena-KS-USA/Logistics-Analyst_R-173699) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-05-06.
+This business analyst position at Republic Services was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Kentucky, US |
+| Location | Illinois, US |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-KY/Quality-Practice-Advisor_1638543) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IL/Quality-Practice-Advisor_1630285) |
 
 ## About This Role
 
-This business analyst position at Centene was posted on 2026-05-05.
+This business analyst position at Centene was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

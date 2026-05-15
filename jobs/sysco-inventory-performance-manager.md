@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Norman, Oklahoma, United States |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-North-Texas/Inventory-Performance-Manager_R237550-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Corporate/Inventory-Performance-Manager_R250067) |
 
 ## About This Role
 
-This business analyst position at Sysco was posted on 2026-03-09.
+This business analyst position at Sysco was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

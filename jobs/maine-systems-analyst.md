@@ -5,12 +5,12 @@
 | Company | [Maine](https://scoutify.ai/companies/maine?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Augusta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Augusta-Maine/Systems-Analyst_R26-01498-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Augusta-Maine/Systems-Analyst_R26-01827) |
 
 ## About This Role
 
-This business analyst position at Maine was posted on 2026-04-17.
+This business analyst position at Maine was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

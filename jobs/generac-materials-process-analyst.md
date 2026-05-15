@@ -5,12 +5,12 @@
 | Company | [Generac](https://scoutify.ai/companies/generac?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Beaver Dam, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Beaver-Dam-WI---USA/Materials-Process-Analyst_JR13637) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://generac.wd5.myworkdayjobs.com/external/job/Beaver-Dam-WI---USA/Materials-Process-Analyst_JR14058) |
 
 ## About This Role
 
-This business analyst position at Generac was posted on 2026-04-15.
+This business analyst position at Generac was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Farnborough, England, United Kingdom |
+| Location | Nashville, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Farnborough/Service-Business-Analyst_569644-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Service-Business-Analyst_581677) |
 
 ## About This Role
 
-This business analyst position at Philips was posted on 2026-02-20.
+This business analyst position at Philips was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

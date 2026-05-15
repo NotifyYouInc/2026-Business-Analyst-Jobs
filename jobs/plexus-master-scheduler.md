@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plexus](https://scoutify.ai/companies/plexus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Malaysia |
+| Location | Nampa, Idaho, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Penang-Malaysia/Demand-Analyst--Master-Scheduler-_R030455-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Nampa-ID/Master-Scheduler_R038297) |
 
 ## About This Role
 
-This business analyst position at Plexus was posted on 2026-04-09.
+This business analyst position at Plexus was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

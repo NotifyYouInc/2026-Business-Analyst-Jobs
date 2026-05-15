@@ -1,16 +1,16 @@
-# Associate, Development at Invenergy
+# Associate Development at Invenergy
 
 | Field | Details |
 |-------|---------|
 | Company | [Invenergy](https://scoutify.ai/companies/invenergyllc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Denver, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Associate--Development_R10488-1) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Denver-CO/Associate-Development_R10658) |
 
 ## About This Role
 
-This business analyst position at Invenergy was posted on 2026-04-07.
+This business analyst position at Invenergy was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

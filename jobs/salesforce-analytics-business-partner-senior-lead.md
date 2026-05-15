@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Analytics-Business-Partner--Senior-Lead_JR338401) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Analytics-Business-Partner--Senior-Lead_JR341626) |
 
 ## About This Role
 
-This business analyst position at Salesforce was posted on 2026-04-20.
+This business analyst position at Salesforce was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

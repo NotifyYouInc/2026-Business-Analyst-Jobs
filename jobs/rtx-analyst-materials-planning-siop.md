@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | McKinney, Texas, United States |
+| Location | Goleta, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WZ--2501-W-University-Dr--WING-Z-BLDG/Analyst--Materials-Planning--SIOP_01829636) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/Analyst--Materials-Planning--SIOP_01841610) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-03-31.
+This business analyst position at RTX was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

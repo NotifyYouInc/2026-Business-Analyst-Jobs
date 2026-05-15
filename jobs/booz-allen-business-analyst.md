@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/St-Louis-MO/Business-Analyst_R0238179) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Business-Analyst_R0239533) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-04-20.
+This business analyst position at Booz Allen was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Samlino Group](https://scoutify.ai/companies/samlino-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ceg/jobs/7704263003) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ceg/jobs/7727152003) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Samlino Group was posted on 2026-04-17.
+This sales development (sdr / bdr) position at Samlino Group was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

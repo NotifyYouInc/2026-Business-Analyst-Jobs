@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Diego, California, United States |
+| Location | Portland, Oregon, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012240726-warranty-auditor) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013023846-warranty-auditor) |
 
 ## About This Role
 
-This business analyst position at MSX International was posted on 2026-03-20.
+This business analyst position at MSX International was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

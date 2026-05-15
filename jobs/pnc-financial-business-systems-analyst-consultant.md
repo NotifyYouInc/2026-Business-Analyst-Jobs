@@ -5,12 +5,12 @@
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 5 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Systems-Analyst-Consultant_R218330-2) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh/Business-Systems-Analyst-Consultant_R219837-1) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-04-21.
+This business analyst position at PNC Financial was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

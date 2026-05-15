@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adler & Allan](https://scoutify.ai/companies/adlerallan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Rainham, England, United Kingdom |
+| Location | Swansea, Wales, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AdlerAllan1/744000123492879-eps-technical-operations-planner) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AdlerAllan1/744000125180395-eps-technical-operations-planner) |
 
 ## About This Role
 
-This business analyst position at Adler & Allan was posted on 2026-04-28.
+This business analyst position at Adler & Allan was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 

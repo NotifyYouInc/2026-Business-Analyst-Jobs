@@ -5,12 +5,12 @@
 | Company | [Clinical Architecture](https://scoutify.ai/companies/clinical-architecture?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/clinicalarchitecture/jobs/5111114007) |
+| Posted | 2026-05-07 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/clinicalarchitecture/jobs/5131665007) |
 
 ## About This Role
 
-This business analyst position at Clinical Architecture was posted on 2026-04-16.
+This business analyst position at Clinical Architecture was posted on 2026-05-07.
 
 ## Get Real-Time Alerts
 
