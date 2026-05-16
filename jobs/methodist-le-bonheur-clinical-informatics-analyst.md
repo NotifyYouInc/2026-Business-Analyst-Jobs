@@ -5,12 +5,12 @@
 | Company | [Methodist Le Bonheur](https://scoutify.ai/companies/methodisthealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Memphis, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://methodisthealth.wd5.myworkdayjobs.com/MLH/job/5865-Shelby-Oaks-Circle/Clinical-Informatics-Analyst_R-16373) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://methodisthealth.wd5.myworkdayjobs.com/MLH/job/5865-Shelby-Oaks-Circle/Clinical-Informatics-Analyst_R-17932) |
 
 ## About This Role
 
-This business analyst position at Methodist Le Bonheur was posted on 2026-02-27.
+This business analyst position at Methodist Le Bonheur was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

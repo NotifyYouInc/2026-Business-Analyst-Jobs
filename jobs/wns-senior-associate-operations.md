@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000123121752-senior-associate-operations) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000125311309-senior-associate-operations) |
 
 ## About This Role
 
-This business analyst position at WNS was posted on 2026-04-27.
+This business analyst position at WNS was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Quezon-City---EXXA-Tower/Consultant--Global-Analytic-Insights_R1726847) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Quezon-City---EXXA-Tower/Consultant--Global-Analytic-Insights_R1726848) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-05-06.
+This business analyst position at Concentrix was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

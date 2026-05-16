@@ -5,12 +5,12 @@
 | Company | [Nova Founders Capital](https://scoutify.ai/companies/nova-founders-capital?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Copenhagen, Capital Region, Denmark |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/novafounders/jobs/7560945003) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/novafounders/jobs/7727465003) |
 
 ## About This Role
 
-This business analyst position at Nova Founders Capital was posted on 2026-04-10.
+This business analyst position at Nova Founders Capital was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

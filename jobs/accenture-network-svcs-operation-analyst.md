@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Network---Svcs-Operation-Analyst_AIOC-S01638456-1) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Network---Svcs-Operation-Analyst_AIOC-S01644166) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-13.
+This business analyst position at Accenture was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

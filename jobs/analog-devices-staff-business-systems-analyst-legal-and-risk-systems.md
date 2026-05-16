@@ -5,12 +5,12 @@
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Staff-Analyst---CLM---LRO-IT-Systems_R258741) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Staff-Business-Systems-Analyst---Legal-and-Risk-Systems_R262484-1) |
 
 ## About This Role
 
-This business analyst position at Analog Devices was posted on 2026-04-21.
+This business analyst position at Analog Devices was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

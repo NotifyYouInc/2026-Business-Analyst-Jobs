@@ -5,12 +5,12 @@
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Business Analyst |
-| Posted | 2026-02-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000109346825-business-analystbusiness-intelligence-banking-power-bi) |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000125446209-business-analystbusiness-intelligence-banking-power-bi) |
 
 ## About This Role
 
-This business analyst position at VAM Systems was posted on 2026-02-14.
+This business analyst position at VAM Systems was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

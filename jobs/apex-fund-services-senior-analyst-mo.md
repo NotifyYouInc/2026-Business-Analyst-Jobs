@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Hyderabad/Senior-Analyst---MO_JR-0021724) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Senior-Analyst---MO_JR-0022083) |
 
 ## About This Role
 
-This business analyst position at Apex Fund Services was posted on 2026-04-15.
+This business analyst position at Apex Fund Services was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

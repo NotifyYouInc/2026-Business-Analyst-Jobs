@@ -5,12 +5,12 @@
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Milwaukee-WI/Business-Systems-Analyst--Fund-Svcs-_R-8455) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Milwaukee-WI/Business-Systems-Analyst--Fund-Svcs-_R-8587) |
 
 ## About This Role
 
-This asset management / portfolio management position at UMB Financial was posted on 2026-03-30.
+This asset management / portfolio management position at UMB Financial was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

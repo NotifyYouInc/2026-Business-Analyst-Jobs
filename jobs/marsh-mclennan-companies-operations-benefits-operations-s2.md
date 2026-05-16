@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Project Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/mmc/job/Manila---SixNEO/Operations---Benefits-Operations---S2_R_335080) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Business Analyst |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Bogota---Calle-26/Operations---Benefits-Operations---S2_R_347572) |
 
 ## About This Role
 
-This project manager position at Marsh & McLennan Companies was posted on 2026-04-03.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

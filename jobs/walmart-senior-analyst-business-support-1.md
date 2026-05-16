@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/Senior-Analyst--Business-Support-1_R-2434191) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/IN-KA-BANGALORE-Home-Office-Building-10/Senior-Analyst--Business-Support-1_R-2435397) |
 
 ## About This Role
 
-This business analyst position at Walmart was posted on 2026-05-05.
+This business analyst position at Walmart was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

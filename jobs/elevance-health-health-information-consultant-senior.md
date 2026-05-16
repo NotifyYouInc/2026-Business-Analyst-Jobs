@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/NY-NEW-YORK-ONE-PENN-PLAZA-35TH-AND-36TH-FL/Health-Information-Consultant-Senior_JR189328) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/NY-NEW-YORK-ONE-PENN-PLAZA-35TH-AND-36TH-FL/Health-Information-Consultant-Senior_JR192476) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-04-14.
+This business analyst position at Elevance Health was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

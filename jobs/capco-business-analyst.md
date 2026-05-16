@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Poland |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7812200) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7824039) |
 
 ## About This Role
 
-This business analyst position at Capco was posted on 2026-04-13.
+This business analyst position at Capco was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

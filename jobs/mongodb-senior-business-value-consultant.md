@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MongoDB](https://scoutify.ai/companies/mongodb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
-| Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7771677) |
+| Location | Spain |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://www.mongodb.com/careers/job/?gh_jid=7904962) |
 
 ## About This Role
 
-This business analyst position at MongoDB was posted on 2026-04-01.
+This strategy / management consulting position at MongoDB was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

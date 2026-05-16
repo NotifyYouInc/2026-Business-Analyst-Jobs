@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Senior-Occupancy-Planner_REQ505060) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Senior-Occupancy-Planner_REQ506209-1) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-05-06.
+This business analyst position at JLL was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

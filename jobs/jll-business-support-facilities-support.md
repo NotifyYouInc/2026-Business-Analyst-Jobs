@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Ciudad-de-MexicoMEX/Business-Support--Facilities-Support_REQ502441) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tokyo-Japan/Business-Support--Facilities-Support_REQ506335) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-05-06.
+This business analyst position at JLL was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Lucile Packard Children's Hospital Stanford](https://scoutify.ai/companies/lucilepackardchildrenshospitalstanford?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Palo Alto, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990012861656-business-manager-general-services-and-space-management) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StanfordMedicineChildrensHealth/3743990013047337-business-manager-general-services-and-space-management) |
 
 ## About This Role
 
-This business analyst position at Lucile Packard Children's Hospital Stanford was posted on 2026-04-28.
+This business analyst position at Lucile Packard Children's Hospital Stanford was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

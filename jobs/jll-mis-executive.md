@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Kolkata, West Bengal, India |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/MIS-Executive_REQ494793) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kolkata-WB/MIS-Executive_REQ506118) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-06.
+This business analyst position at JLL was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

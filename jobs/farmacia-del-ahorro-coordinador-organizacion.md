@@ -5,12 +5,12 @@
 | Company | [Farmacia del Ahorro](https://scoutify.ai/companies/farmacia-del-ahorro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Santa Catarina, Nuevo León, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/SANTA-CATARINA-NUEVO-LEON/COORDINADOR-ORGANIZACION_JR154082) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/SANTA-CATARINA-NUEVO-LEON/COORDINADOR-ORGANIZACION_JR166769) |
 
 ## About This Role
 
-This business analyst position at Farmacia del Ahorro was posted on 2026-04-21.
+This business analyst position at Farmacia del Ahorro was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

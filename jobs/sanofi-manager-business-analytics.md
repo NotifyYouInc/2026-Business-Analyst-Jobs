@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Project Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Manager---Business-Analytics_R2844868) |
+| Category | Business Analyst |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Manager---Business-Analytics_R2855733) |
 
 ## About This Role
 
-This project manager position at Sanofi was posted on 2026-03-11.
+This business analyst position at Sanofi was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

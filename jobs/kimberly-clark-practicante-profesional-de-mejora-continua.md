@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kimberly-Clark](https://scoutify.ai/companies/kimberly-clark?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cali, Valle del Cauca Department, Colombia |
+| Location | Medellín, Antioquia, Colombia |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/Colombia--Cali---Planta-Puerto-Tejada/Practicante-Profesional-de-Mejora-Continua_884286) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/Colombia--Medellin/Practicante-Profesional-de-Mejora-Continua_884990) |
 
 ## About This Role
 
-This business analyst position at Kimberly-Clark was posted on 2026-03-18.
+This business analyst position at Kimberly-Clark was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

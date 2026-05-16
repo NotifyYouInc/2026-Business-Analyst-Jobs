@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Karnataka, IN |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/ServiceNow-Business-Process-Analyst-QA_R00284972) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Business Analyst |
+| Posted | 2026-05-09 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/ServiceNow-Business-Process-Analyst-QA_R00293087) |
 
 ## About This Role
 
-This operations position at Ecolab was posted on 2026-02-13.
+This business analyst position at Ecolab was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

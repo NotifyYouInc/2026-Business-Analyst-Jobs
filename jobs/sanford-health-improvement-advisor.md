@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanford Health](https://scoutify.ai/companies/sanford?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fargo, North Dakota, United States |
+| Location | Bismarck, North Dakota, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/ND-Fargo/Improvement-Advisor_R-0256137) |
+| Posted | 2026-05-08 |
+| Apply | [View on company site](https://sanford.wd5.myworkdayjobs.com/SanfordHealth/job/ND-Bismarck/Improvement-Advisor_R-0246301) |
 
 ## About This Role
 
-This business analyst position at Sanford Health was posted on 2026-04-02.
+This business analyst position at Sanford Health was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 
