@@ -1,12 +1,12 @@
-# Operations Planning and Performance Advisor at City of New York
+# Summer Intern (Investment Administration) at City of New York
 
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Corona, California, United States |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056221-operations-planning-and-performance-advisor) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056376-summer-intern-investment-administration) |
 
 ## About This Role
 

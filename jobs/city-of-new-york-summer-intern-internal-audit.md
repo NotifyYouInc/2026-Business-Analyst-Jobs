@@ -1,16 +1,16 @@
-# Operations Planning and Performance Advisor at City of New York
+# Summer Intern (Internal Audit) at City of New York
 
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Corona, California, United States |
-| Category | Business Analyst |
+| Location | New York City, New York, United States |
+| Category | Accounting |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056221-operations-planning-and-performance-advisor) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056211-summer-intern-internal-audit) |
 
 ## About This Role
 
-This business analyst position at City of New York was posted on 2026-05-09.
+This accounting position at City of New York was posted on 2026-05-09.
 
 ## Get Real-Time Alerts
 

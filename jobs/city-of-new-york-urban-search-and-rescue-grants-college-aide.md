@@ -1,12 +1,12 @@
-# Operations Planning and Performance Advisor at City of New York
+# URBAN SEARCH AND RESCUE GRANTS COLLEGE AIDE at City of New York
 
 | Field | Details |
 |-------|---------|
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Corona, California, United States |
+| Location | Brooklyn, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056221-operations-planning-and-performance-advisor) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056506-urban-search-and-rescue-grants-college-aide) |
 
 ## About This Role
 
