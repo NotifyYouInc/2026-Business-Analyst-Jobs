@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 4 locations |
-| Category | Business Analyst |
+| Location | 2 locations |
+| Category | Operations |
 | Posted | 2026-05-08 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Experience---Planning-Specialist-Sr_R222203-1) |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Experience---Planning-Specialist-Sr_R221636-2) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-05-08.
+This operations position at PNC Financial was posted on 2026-05-08.
 
 ## Get Real-Time Alerts
 

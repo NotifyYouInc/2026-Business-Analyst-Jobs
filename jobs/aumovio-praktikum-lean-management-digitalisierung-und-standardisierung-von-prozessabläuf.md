@@ -1,16 +1,16 @@
-# Praktikum - Lean Management - Digitalisierung und Standardisierung von Prozessabläufen - REF8759F at Aumovio
+# Praktikum Lean Management - Digitalisierung und Standardisierung von Prozessabläufen - REF4448O at Aumovio
 
 | Field | Details |
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Regensburg, Bavaria, Germany |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000123121439-praktikum-lean-management-digitalisierung-und-standardisierung-von-prozessablaufen-ref8759f) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000125758689-praktikum-lean-management-digitalisierung-und-standardisierung-von-prozessablaufen-ref4448o) |
 
 ## About This Role
 
-This business analyst position at Aumovio was posted on 2026-04-27.
+This business analyst position at Aumovio was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

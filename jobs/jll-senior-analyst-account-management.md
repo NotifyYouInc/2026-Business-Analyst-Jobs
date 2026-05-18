@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
-| Category | Account Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Account-Management_REQ499764-1) |
+| Category | Business Analyst |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Senior-Analyst---Account-Management_REQ499730) |
 
 ## About This Role
 
-This account manager position at JLL was posted on 2026-04-13.
+This business analyst position at JLL was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

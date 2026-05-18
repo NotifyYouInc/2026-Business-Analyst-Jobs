@@ -5,12 +5,12 @@
 | Company | [Wistron NeWeb](https://scoutify.ai/companies/wistron-neweb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hsinchu, Taiwan, Taiwan |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/20/AW0620--Process-Analyst-_REQ_260310520) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/20/AW0620--Process-Analyst-_REQ_260511196-1) |
 
 ## About This Role
 
-This business analyst position at Wistron NeWeb was posted on 2026-03-04.
+This business analyst position at Wistron NeWeb was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hong Kong Exchanges & Clearing](https://scoutify.ai/companies/hong-kong-exchanges-clearing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://hkex.wd3.myworkdayjobs.com/hkexcareerpage/job/HK-TWO-ES-6F/Officer---Trading-Development---Operations_R003824) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://hkex.wd3.myworkdayjobs.com/hkexcareerpage/job/HK-TWO-ES-6F/Officer---Trading-Development---Operations_R003851) |
 
 ## About This Role
 
-This business analyst position at Hong Kong Exchanges & Clearing was posted on 2026-04-30.
+This business analyst position at Hong Kong Exchanges & Clearing was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 
