@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000122513127-business-systems-analyst-capital-markets-contract) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000125877482-business-systems-analyst-capital-markets-contract) |
 
 ## About This Role
 
-This business analyst position at SIA was posted on 2026-04-23.
+This business analyst position at SIA was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

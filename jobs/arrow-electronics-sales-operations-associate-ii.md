@@ -5,12 +5,12 @@
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tlaquepaque, Jalisco, Mexico |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Tlaquepaque-Mexico/Sales-Operations-Asociate-II_R242738-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Tlaquepaque-Mexico/Sales-Operations-Associate-II_R244444) |
 
 ## About This Role
 
-This revenue / sales operations position at Arrow Electronics was posted on 2026-04-08.
+This revenue / sales operations position at Arrow Electronics was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

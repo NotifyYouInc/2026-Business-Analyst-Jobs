@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Piracicaba, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Decatur-Illinois/Orders---Demand-Consultant_R0000361824) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Orders---Demand-Consultant_R0000366005) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-04-10.
+This business analyst position at Caterpillar was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

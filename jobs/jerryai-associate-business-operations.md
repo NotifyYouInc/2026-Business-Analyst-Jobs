@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
-| Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/68aab2ff-3d40-48ee-8387-090dd1fdf6ce) |
+| Category | Operations |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/db1e5442-f61a-447f-8bab-c6f0f67f05f7) |
 
 ## About This Role
 
-This business analyst position at Jerry.ai was posted on 2026-04-27.
+This operations position at Jerry.ai was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

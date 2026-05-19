@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Peoria, Arizona, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Business-Process-Analyst_R0000362492) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Business-Process-Analyst_R0000369031) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-04-16.
+This business analyst position at Caterpillar was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

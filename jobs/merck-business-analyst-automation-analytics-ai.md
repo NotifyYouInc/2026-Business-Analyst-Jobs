@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Macquarie Park, New South Wales, Australia |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/AUS---New-South-Wales---Macquarie-Park/Business-Analyst---Automation--Analytics---AI_R394954-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/SGP---Singapore---Singapore-Boulevard-Towers/Business-Analyst---Automation--Analytics---AI_R397501) |
 
 ## About This Role
 
-This business analyst position at Merck was posted on 2026-05-05.
+This business analyst position at Merck was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

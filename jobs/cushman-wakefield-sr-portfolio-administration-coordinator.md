@@ -1,16 +1,16 @@
-# Sr Portfolio Administration Coordinator at Cushman & Wakefield
+# Sr. Portfolio Administration Coordinator at Cushman & Wakefield
 
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Temple Terrace, Florida, United States |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Temple-Terrace-Florida-USA/Sr-Portfolio-Administration-Coordinator_R308590) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-Client-Site---USA---Flexible-United-States/Sr-Portfolio-Administration-Coordinator_R319135) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-03-10.
+This business analyst position at Cushman & Wakefield was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

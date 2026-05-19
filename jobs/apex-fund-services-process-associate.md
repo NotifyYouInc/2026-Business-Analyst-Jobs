@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Chennai/Process-Associate_JR-0018665) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Chennai/Process-Associate_JR-0016709) |
 
 ## About This Role
 
-This business analyst position at Apex Fund Services was posted on 2026-05-07.
+This business analyst position at Apex Fund Services was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

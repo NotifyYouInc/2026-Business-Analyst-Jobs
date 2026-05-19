@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://boards.greenhouse.io/purestorage/jobs/7603761?gh_jid=7603761) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/7843037) |
 
 ## About This Role
 
-This business analyst position at Pure Storage was posted on 2026-02-17.
+This business analyst position at Pure Storage was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

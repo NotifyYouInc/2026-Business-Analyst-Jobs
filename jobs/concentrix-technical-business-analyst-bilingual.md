@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MEX-Mexico-City-Downtown-Insurgentes/Technical-Business-Analyst---Bilingual_R1719898) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/MEX-Work-at-Home/Technical-Business-Analyst---Bilingual_R1727216-1) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-04-08.
+This business analyst position at Concentrix was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

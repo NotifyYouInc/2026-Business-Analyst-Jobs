@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/New-York-New-York-US/Business-Intelligence-Manager_2013786) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Hyderabad-India/Business-Intelligence-Manager_2014046) |
 
 ## About This Role
 
-This business analyst position at Cisco was posted on 2026-04-29.
+This business analyst position at Cisco was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

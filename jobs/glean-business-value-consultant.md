@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Glean](https://scoutify.ai/companies/gleanwork?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
-| Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/gleanwork/jobs/4681110005) |
+| Location | New York City, New York, United States |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/gleanwork/jobs/4654837005) |
 
 ## About This Role
 
-This business analyst position at Glean was posted on 2026-04-02.
+This strategy / management consulting position at Glean was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

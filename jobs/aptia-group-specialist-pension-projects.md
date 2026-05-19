@@ -5,12 +5,12 @@
 | Company | [Aptia Group](https://scoutify.ai/companies/aptia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://aptiagroup.wd3.myworkdayjobs.com/opportunities/job/India-Mumbai/Specialist---Pension-Projects_JR105271) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://aptiagroup.wd3.myworkdayjobs.com/opportunities/job/India-Mumbai/Specialist---Pension-Projects_JR104994) |
 
 ## About This Role
 
-This business analyst position at Aptia Group was posted on 2026-04-06.
+This business analyst position at Aptia Group was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

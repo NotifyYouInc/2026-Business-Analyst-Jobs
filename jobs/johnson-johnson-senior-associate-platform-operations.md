@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/Senior-Associate--Platform-Operations_R-068456-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Toronto-Ontario-Canada/Senior-Associate--Platform-Operations_R-072853-1) |
 
 ## About This Role
 
-This business analyst position at Johnson & Johnson was posted on 2026-04-15.
+This business analyst position at Johnson & Johnson was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

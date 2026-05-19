@@ -5,12 +5,12 @@
 | Company | [Privia Health](https://scoutify.ai/companies/privia-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/priviahealth/744000125211548-athena-systems-enrollment-analyst) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/priviahealth/744000125915089-athena-systems-enrollment-analyst) |
 
 ## About This Role
 
-This business analyst position at Privia Health was posted on 2026-05-07.
+This business analyst position at Privia Health was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

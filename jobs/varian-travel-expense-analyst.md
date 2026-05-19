@@ -5,12 +5,12 @@
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/BUD-C/Travel---Expense-Analyst_R-27972-1) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/BUD-C/Travel---Expense-Analyst_R-28499-1) |
 
 ## About This Role
 
-This business analyst position at Varian was posted on 2026-04-30.
+This business analyst position at Varian was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

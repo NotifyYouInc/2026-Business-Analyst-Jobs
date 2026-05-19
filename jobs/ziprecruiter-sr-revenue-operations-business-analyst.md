@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ZipRecruiter](https://scoutify.ai/companies/ziprecruiter?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ziprecruiter/jobs/7697441) |
+| Location | Santa Monica, California, United States |
+| Category | Operations |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ziprecruiter/jobs/7905434) |
 
 ## About This Role
 
-This revenue / sales operations position at ZipRecruiter was posted on 2026-03-09.
+This operations position at ZipRecruiter was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

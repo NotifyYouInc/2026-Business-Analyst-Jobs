@@ -5,12 +5,12 @@
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/PARIS/Internship---High-Jewelry-Business-Development-Assistant_JR125119-2) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/PARIS/Internship---High-Jewelry-Business-Development-Assistant_JR128047-3) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Richemont was posted on 2026-02-17.
+This sales development (sdr / bdr) position at Richemont was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

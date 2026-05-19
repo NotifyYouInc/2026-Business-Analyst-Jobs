@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Shanghai-Shanghai-200003/Business-Analyst_R177938) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/IN---Pune/Business-Analyst_R179312-1) |
 
 ## About This Role
 
-This business analyst position at A.P. Moller - Maersk was posted on 2026-04-09.
+This business analyst position at A.P. Moller - Maersk was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mountain View, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Occupancy-Planner_REQ505074) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Mountain-View-CA/Occupancy-Planner_REQ507025-1) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-05-06.
+This business analyst position at JLL was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

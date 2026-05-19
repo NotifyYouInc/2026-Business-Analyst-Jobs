@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 7 locations |
+| Location | Sunnyvale, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000116980794-senior-analytics-business-partner) |
+| Posted | 2026-05-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000125917283-senior-analytics-business-partner) |
 
 ## About This Role
 
-This business analyst position at LinkedIn was posted on 2026-03-26.
+This business analyst position at LinkedIn was posted on 2026-05-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nottingham, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/GBR-Nottingham-1-Chapel-Qtr/Business-Analyst_R0118075-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Business-Analyst_R0119194-1) |
 
 ## About This Role
 
-This business analyst position at LSEG was posted on 2026-04-13.
+This business analyst position at LSEG was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
