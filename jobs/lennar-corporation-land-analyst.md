@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Charleston, South Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Houston-TX-Job-Posting-Location/Land-Analyst_R26_0000001777) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/Charleston-SC-Job-Posting-Location/Land-Analyst_R26_0000001963) |
 
 ## About This Role
 
-This business analyst position at Lennar Corporation was posted on 2026-05-05.
+This business analyst position at Lennar Corporation was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

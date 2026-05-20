@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Horsham, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Associate-Director--Real-World-Value-and-Evidence---Hematology_R-066654-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Horsham-Pennsylvania-United-States-of-America/Associate-Director--Real-World-Value-and-Evidence---Hematology_R-071863) |
 
 ## About This Role
 
-This business analyst position at Johnson & Johnson was posted on 2026-04-06.
+This business analyst position at Johnson & Johnson was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

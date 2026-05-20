@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brink's](https://scoutify.ai/companies/brink-s?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Indonesia |
+| Location | Balikpapan, East Kalimantan, Indonesia |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://brinks.wd5.myworkdayjobs.com/brinkscareers_row/job/Lebak-Bulus/PNC_R72439-2) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://brinks.wd5.myworkdayjobs.com/brinkscareers_row/job/Balikpapan/PNC_R73723) |
 
 ## About This Role
 
-This business analyst position at Brink's was posted on 2026-04-17.
+This business analyst position at Brink's was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

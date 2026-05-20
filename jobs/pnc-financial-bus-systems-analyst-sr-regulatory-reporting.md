@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Pittsburgh, Pennsylvania, United States |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Bus-Systems-Analyst-Sr---Regulatory-Reporting_R213300-2) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Bus-Systems-Analyst-Sr---Regulatory-Reporting_R221981-2) |
 
 ## About This Role
 
-This compliance & risk management position at PNC Financial was posted on 2026-03-19.
+This compliance & risk management position at PNC Financial was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

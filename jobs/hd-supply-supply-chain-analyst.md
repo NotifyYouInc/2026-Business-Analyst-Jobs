@@ -5,12 +5,12 @@
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Supply-Chain-Analyst_R26001327) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Supply-Chain-Analyst_R26002594) |
 
 ## About This Role
 
-This business analyst position at HD Supply was posted on 2026-03-17.
+This business analyst position at HD Supply was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

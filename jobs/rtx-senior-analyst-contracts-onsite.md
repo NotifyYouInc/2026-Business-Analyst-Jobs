@@ -1,16 +1,16 @@
-# Senior Analyst, Contracts  (Onsite) at RTX
+# Senior Analyst, Contracts (Onsite) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tucson, Arizona, United States |
+| Location | Woburn, Massachusetts, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-928--1151-E-Hermans-Rd--MULTI-PURPOSE-FAC-928/Senior-Analyst--Contracts---Onsite-_01842483-1) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-WOBURN-WB2--225-Presidential-Way--GODDARD-BLDG/Senior-Analyst--Contracts--Onsite-_01844637) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-05-05.
+This business analyst position at RTX was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

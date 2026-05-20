@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Business Analyst |
 | Posted | 2026-05-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Analyst_ATCI-4553039-S1766731-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Sofia-Sopharma-Business-Towers-OPS/Business-Analyst_R00330193-1) |
 
 ## About This Role
 

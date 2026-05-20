@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Norwich, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Schaumburg---Martingale/Business-Analyst_R_348375) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Norwich---Willow/Business-Analyst_R_350046) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-04-27.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

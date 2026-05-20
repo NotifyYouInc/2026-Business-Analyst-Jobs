@@ -5,12 +5,12 @@
 | Company | [Ampol](https://scoutify.ai/companies/ampol?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Fortitude Valley, Queensland, Australia |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001065278-business-manager) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001068526-business-manager) |
 
 ## About This Role
 
-This business analyst position at Ampol was posted on 2026-05-12.
+This business analyst position at Ampol was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

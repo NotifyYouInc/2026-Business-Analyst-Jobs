@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Missouri, US |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ofallon-Missouri-United-States/Service-Process-Coordinator_26946486) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ofallon-Missouri-United-States/Service-Process-Coordinator_26959202) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-13.
+This business analyst position at Citigroup was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

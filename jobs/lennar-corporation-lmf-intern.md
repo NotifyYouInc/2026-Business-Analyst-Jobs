@@ -5,12 +5,12 @@
 | Company | [Lennar Corporation](https://scoutify.ai/companies/lennar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/New-York-NY-Job-Posting-Location/LMF---Intern_R26_0000001584) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/New-York-NY-Job-Posting-Location/LMF---Intern_R26_0000001926) |
 
 ## About This Role
 
-This business analyst position at Lennar Corporation was posted on 2026-04-22.
+This business analyst position at Lennar Corporation was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

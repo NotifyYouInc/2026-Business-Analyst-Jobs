@@ -5,12 +5,12 @@
 | Company | [tuftsmedicine](https://scoutify.ai/companies/tuftsmedicine?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://tuftsmedicine.wd1.myworkdayjobs.com/jobs/job/Tufts-Medical-Center---Corporate-Location/Administrative-Coordinator-II---Cardiac-Surgery---Boston_R23388) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://tuftsmedicine.wd1.myworkdayjobs.com/jobs/job/Tufts-Medical-Center---Corporate-Location/Administrative-Coordinator-II---Cardiac-Surgery---Boston_R24346) |
 
 ## About This Role
 
-This business analyst position at tuftsmedicine was posted on 2026-04-09.
+This business analyst position at tuftsmedicine was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

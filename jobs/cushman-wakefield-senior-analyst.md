@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Senior-Analyst_R308961) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Taguig-Philippines/Senior-Analyst_R319330-1) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-05-12.
+This business analyst position at Cushman & Wakefield was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

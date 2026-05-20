@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | Oklahoma City, Oklahoma, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Principal-Material-Requirements-Planning-Analyst_R10223041) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Principal-Material-Requirements-Planning-Analyst_R10232480) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Northrop Grumman was posted on 2026-02-20.
+This fp&a / strategic finance position at Northrop Grumman was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -1,4 +1,4 @@
-# Specialist - Pension Projects at Aptia Group
+# Specialist - Pension projects at Aptia Group
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
 | Posted | 2026-05-12 |
-| Apply | [View on company site](https://aptiagroup.wd3.myworkdayjobs.com/opportunities/job/India-Mumbai/Specialist---Pension-Projects_JR104994) |
+| Apply | [View on company site](https://aptiagroup.wd3.myworkdayjobs.com/opportunities/job/India-Mumbai/Specialist---Pension-projects_JR104753) |
 
 ## About This Role
 

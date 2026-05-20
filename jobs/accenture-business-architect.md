@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Business-Architect_ATCI-4916295-S1852000-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Architect_ATCI-5545339-S2021974) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-05-12.
+This business analyst position at Accenture was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

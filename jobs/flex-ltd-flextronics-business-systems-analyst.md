@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Software Engineer |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Business-Systems-Analyst_WD217697) |
+| Location | Dallas, Texas, United States |
+| Category | Business Analyst |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Dallas/Business-Systems-Analyst_WD220561-1) |
 
 ## About This Role
 
-This software engineer position at FLEX LTD. Flextronics was posted on 2026-03-20.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

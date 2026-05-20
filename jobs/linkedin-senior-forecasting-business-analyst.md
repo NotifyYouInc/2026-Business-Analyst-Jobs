@@ -5,12 +5,12 @@
 | Company | [LinkedIn](https://scoutify.ai/companies/linkedin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000115535532-senior-forecasting-business-analyst) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LinkedIn3/744000126155120-senior-forecasting-business-analyst) |
 
 ## About This Role
 
-This business analyst position at LinkedIn was posted on 2026-03-18.
+This business analyst position at LinkedIn was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

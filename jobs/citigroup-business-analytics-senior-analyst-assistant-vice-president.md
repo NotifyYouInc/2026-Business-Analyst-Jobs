@@ -1,16 +1,16 @@
-# Business Analytics Senior Analyst-Assistant Vice President at Citigroup
+# Business Analytics Senior Analyst - Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Haryana, IN |
+| Location | Tampa, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurgaon-Haryana-India/Business-Analytics-Senior-Analyst-Assistant-Vice-President_26937942) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Business-Analytics-Senior-Analyst---Assistant-Vice-President_26962749) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-03-13.
+This business analyst position at Citigroup was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

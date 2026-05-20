@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Duke Energy](https://scoutify.ai/companies/dukeenergy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Bern, North Carolina, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/New-Bern-NC/Work-Management-Specialist-II_R39013) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Durham-NC/Work-Management-Specialist-I-or-II_R39675) |
 
 ## About This Role
 
-This business analyst position at Duke Energy was posted on 2026-04-24.
+This business analyst position at Duke Energy was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Product Marketing |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Market-Research-Analyst--Senior_R0237119) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Washington-DC/Market-Research-Analyst--Senior_R0239957) |
 
 ## About This Role
 
-This product marketing position at Booz Allen was posted on 2026-04-06.
+This product marketing position at Booz Allen was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

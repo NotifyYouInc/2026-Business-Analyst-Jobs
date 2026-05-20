@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
-| Category | Project Manager |
-| Posted | 2026-02-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000110552779-order-scheduler) |
+| Category | Business Analyst |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000126142459-order-scheduler) |
 
 ## About This Role
 
-This project manager position at ALTEN was posted on 2026-02-22.
+This business analyst position at ALTEN was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

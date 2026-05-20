@@ -5,12 +5,12 @@
 | Company | [Munson Healthcare](https://scoutify.ai/companies/munsonhealthcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cadillac, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990013031264-quality-incentives-coordinator-urology) |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MunsonHealthcare1/3743990013087576-quality-incentives-coordinator-urology) |
 
 ## About This Role
 
-This business analyst position at Munson Healthcare was posted on 2026-05-07.
+This business analyst position at Munson Healthcare was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 

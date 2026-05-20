@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GlobalFoundries](https://scoutify.ai/companies/globalfoundries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Austin/AI-Enablement-Strategist_JR-2600122) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Singapore/AI-Enablement-Strategist--New-College-Graduate-_JR-2601919) |
 
 ## About This Role
 
-This business analyst position at GlobalFoundries was posted on 2026-04-16.
+This business analyst position at GlobalFoundries was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

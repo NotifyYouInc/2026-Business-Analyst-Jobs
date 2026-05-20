@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Marketing |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-NY-New-York-City/GTM-Associate_JR-0106741) |
+| Category | Business Development |
+| Posted | 2026-05-12 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-NY-New-York-City/GTM-Associate_JR-0107157) |
 
 ## About This Role
 
-This marketing position at Workday was posted on 2026-05-08.
+This business development position at Workday was posted on 2026-05-12.
 
 ## Get Real-Time Alerts
 
