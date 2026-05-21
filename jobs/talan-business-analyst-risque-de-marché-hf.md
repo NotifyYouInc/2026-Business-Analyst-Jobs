@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000123241300-business-analyst-risque-de-marche-hf) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000126352575-business-analyst-risque-de-marche-hf) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-04-27.
+This business analyst position at Talan was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

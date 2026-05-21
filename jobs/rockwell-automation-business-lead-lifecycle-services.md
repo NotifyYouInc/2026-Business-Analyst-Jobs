@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Detroit, Michigan, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Detroit-Michigan-United-States/Business-Lead--Lifecycle-Services_R26-2307) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Dallas-Texas-United-States/Business-Lead--Lifecycle-Services_R26-3361-1) |
 
 ## About This Role
 
-This business analyst position at Rockwell Automation was posted on 2026-05-12.
+This business analyst position at Rockwell Automation was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WGU](https://scoutify.ai/companies/wgu?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Salt Lake City, Utah, United States |
-| Category | Project Manager |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Assessment-Strategist_JR-022001) |
+| Category | Business Analyst |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://wgu.wd5.myworkdayjobs.com/external/job/Salt-Lake-City-UT/Assessment-Strategist_JR-025166-1) |
 
 ## About This Role
 
-This project manager position at WGU was posted on 2026-02-24.
+This business analyst position at WGU was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

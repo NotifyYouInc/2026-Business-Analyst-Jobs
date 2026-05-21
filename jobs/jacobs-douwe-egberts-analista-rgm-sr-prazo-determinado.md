@@ -5,12 +5,12 @@
 | Company | [Jacobs Douwe Egberts](https://scoutify.ai/companies/jacobsdouweegberts?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Barueri, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JACOBSDOUWEEGBERTS/744000121259386-analista-rgm-sr-prazo-determinado) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JACOBSDOUWEEGBERTS/744000126408018-analista-rgm-sr-prazo-determinado) |
 
 ## About This Role
 
-This business analyst position at Jacobs Douwe Egberts was posted on 2026-04-16.
+This business analyst position at Jacobs Douwe Egberts was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

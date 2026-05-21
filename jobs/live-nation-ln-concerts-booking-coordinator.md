@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Beverly Hills, California, United States |
+| Location | Novi, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Booking-Coordinator_JR-89660-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Novi-MI-USA/LN-Concerts--Booking-Coordinator_JR-90023) |
 
 ## About This Role
 
-This business analyst position at Live Nation was posted on 2026-04-23.
+This business analyst position at Live Nation was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Westpac New Zealand](https://scoutify.ai/companies/westpac-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Taupo, Waikato Region, New Zealand |
-| Category | Corporate Finance |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Taupo-Branch/Agribusiness-Analyst_JR106718) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://westpacnz.wd105.myworkdayjobs.com/westpac_careers/job/Gore-Branch/Agribusiness-Analyst_JR107277) |
 
 ## About This Role
 
-This corporate finance position at Westpac New Zealand was posted on 2026-02-10.
+This business analyst position at Westpac New Zealand was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

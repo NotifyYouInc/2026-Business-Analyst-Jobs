@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Parts-Inventory-Analyst_R0000351142) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Parts-Inventory-Analyst_R0000369606) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-02-19.
+This business analyst position at Caterpillar was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

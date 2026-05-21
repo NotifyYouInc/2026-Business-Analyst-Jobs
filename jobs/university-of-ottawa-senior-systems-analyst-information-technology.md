@@ -5,12 +5,12 @@
 | Company | [University of Ottawa](https://scoutify.ai/companies/university-of-ottawa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | IT & Systems Administration |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Senior-Systems-Analyst--Information-Technology_JR31815) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Senior-Systems-Analyst--Information-Technology_JR34507-1) |
 
 ## About This Role
 
-This it & systems administration position at University of Ottawa was posted on 2026-02-26.
+This it & systems administration position at University of Ottawa was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

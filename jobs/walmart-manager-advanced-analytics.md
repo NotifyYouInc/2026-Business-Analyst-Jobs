@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | San Bruno, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/Manager--Advanced-Analytics_R-2487402) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/San-Bruno-CA/Manager--Advanced-Analytics_R-2503833) |
 
 ## About This Role
 
-This business analyst position at Walmart was posted on 2026-05-01.
+This business analyst position at Walmart was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

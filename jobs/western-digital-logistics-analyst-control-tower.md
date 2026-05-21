@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | San Jose, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000117057738-logistics-analyst-control-tower) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000126398980-logistics-analyst-control-tower) |
 
 ## About This Role
 
-This business analyst position at Western Digital was posted on 2026-03-26.
+This business analyst position at Western Digital was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

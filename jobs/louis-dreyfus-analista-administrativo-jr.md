@@ -1,16 +1,16 @@
-# ANALISTA ADMINISTRATIVO JR at Louis Dreyfus
+# Analista Administrativo JR at Louis Dreyfus
 
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sinop, Mato Grosso, Brazil |
+| Location | Cuiabá, Mato Grosso, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000125916491-analista-administrativo-jr) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000126408599-analista-administrativo-jr) |
 
 ## About This Role
 
-This business analyst position at Louis Dreyfus was posted on 2026-05-11.
+This business analyst position at Louis Dreyfus was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

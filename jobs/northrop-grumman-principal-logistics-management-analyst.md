@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Italy |
+| Location | Oklahoma, US |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/US-Expat---A143-Italy-Sigonella-USAF-9-Oper-GP/Principal-Logistics-Management-Analyst_R10229562) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Tinker-AFB/Principal-Logistics-Management-Analyst_R10232849-1) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-05-05.
+This business analyst position at Northrop Grumman was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

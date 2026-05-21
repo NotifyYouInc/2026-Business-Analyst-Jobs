@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Customer Success |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Melbourne-Australia/L2-Systems-Analyst--SaaS-Operations--Officer_R-785181-1) |
+| Category | IT & Systems Administration |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Melbourne-Australia/L2-Systems-Analyst--SaaS-Operations--Officer_R-790108) |
 
 ## About This Role
 
-This customer success position at State Street was posted on 2026-03-04.
+This it & systems administration position at State Street was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

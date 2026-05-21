@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Silao, Guanajuato, Mexico |
+| Location | National Capital Region, PH |
 | Category | Corporate Finance |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Silao-Guanajuato-Mexico/FP-A-Finance-Systems-Analyst_JR-202607696) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Taguig-City-National-Capital-Region-Manila-Philippines/FP-A-Finance-Systems-Analyst_JR-202610225) |
 
 ## About This Role
 
-This corporate finance position at General Motors was posted on 2026-04-08.
+This corporate finance position at General Motors was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

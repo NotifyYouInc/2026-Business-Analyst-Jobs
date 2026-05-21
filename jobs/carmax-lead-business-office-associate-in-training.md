@@ -1,16 +1,16 @@
-# Lead Business Office Associate in Training at CarMax
+# Lead Business Office Associate In Training at CarMax
 
 | Field | Details |
 |-------|---------|
 | Company | [CarMax](https://scoutify.ai/companies/carmax?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Tinley Park, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/TX---Austin-South/Lead-Business-Office-Associate-in-Training_JR-175407) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://carmax.wd1.myworkdayjobs.com/External/job/IL---Chicago---Tinley-Park/Lead-Business-Office-Associate-In-Training_JR-177544) |
 
 ## About This Role
 
-This business analyst position at CarMax was posted on 2026-04-13.
+This business analyst position at CarMax was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

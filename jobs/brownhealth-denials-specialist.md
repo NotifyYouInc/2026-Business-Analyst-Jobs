@@ -5,12 +5,12 @@
 | Company | [Brownhealth](https://scoutify.ai/companies/brownhealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Providence, Rhode Island, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Brown-University-Health/Denials-Specialist_JR-108808-1) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Brown-University-Health/Denials-Specialist_JR-109235) |
 
 ## About This Role
 
-This business analyst position at Brownhealth was posted on 2026-04-28.
+This business analyst position at Brownhealth was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

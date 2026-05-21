@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philippines |
+| Location | 4 locations |
 | Category | Business Analyst |
 | Posted | 2026-05-13 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Manila---SixNEO/Insurance-Operations-Specialist_R_347700) |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Bethesda---7700-Wisconsin/Insurance-Operations-Specialist_R_349987) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tempe, Arizona, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Tempe-Arizona/Internal-Business-Associate_JR26040051) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Boston-Massachusetts/Internal-Business-Associate_JR25110327) |
 
 ## About This Role
 
-This business analyst position at Manulife was posted on 2026-04-24.
+This business analyst position at Manulife was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 

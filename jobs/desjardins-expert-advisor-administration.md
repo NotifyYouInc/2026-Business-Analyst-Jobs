@@ -1,16 +1,16 @@
-# Expert Advisor, Administration at Desjardins
+# Expert advisor, Administration at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Canada |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Officier-ou-officire-de-scurit_R2604683) |
+| Posted | 2026-05-13 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-expert-ou-conseillre-experte---Risque-de-crdit_R2606697) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-04-06.
+This business analyst position at Desjardins was posted on 2026-05-13.
 
 ## Get Real-Time Alerts
 
