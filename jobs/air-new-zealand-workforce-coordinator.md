@@ -5,12 +5,12 @@
 | Company | [Air New Zealand](https://scoutify.ai/companies/air-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001063674-workforce-coordinator) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001073353-workforce-coordinator) |
 
 ## About This Role
 
-This business analyst position at Air New Zealand was posted on 2026-05-12.
+This business analyst position at Air New Zealand was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Business Analyst  at Endava
+# Senior Business Analyst at Endava
 
 | Field | Details |
 |-------|---------|
 | Company | [Endava](https://scoutify.ai/companies/endava?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000119670278-senior-business-analyst) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000126633940-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Endava was posted on 2026-04-09.
+This business analyst position at Endava was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

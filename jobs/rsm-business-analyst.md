@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | San Salvador, San Salvador Department, El Salvador |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Charlotte/Business-Analyst_JR119155) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/San-Salvador/Business-Analyst_JR119525) |
 
 ## About This Role
 
-This business analyst position at RSM was posted on 2026-04-21.
+This business analyst position at RSM was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

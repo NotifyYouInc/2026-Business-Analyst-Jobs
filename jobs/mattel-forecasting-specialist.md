@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Rogers, Arkansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000116701001-forecasting-specialist) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126592979-forecasting-specialist) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-03-25.
+This business analyst position at Mattel was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

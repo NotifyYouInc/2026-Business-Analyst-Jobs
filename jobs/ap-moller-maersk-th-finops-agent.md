@@ -1,16 +1,16 @@
-# TH FinOps Agent at A.P. Moller - Maersk
+# TH FINOPS Agent at A.P. Moller - Maersk
 
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Chon Buri, TH |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Thailand-Bangkok-Bangkok-10120/TH-FinOps-Agent_R180956) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Thailand-Chon-Buri-Laem-Chabang-20230/TH-FINOPS-Agent_R181680) |
 
 ## About This Role
 
-This business analyst position at A.P. Moller - Maersk was posted on 2026-05-08.
+This business analyst position at A.P. Moller - Maersk was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

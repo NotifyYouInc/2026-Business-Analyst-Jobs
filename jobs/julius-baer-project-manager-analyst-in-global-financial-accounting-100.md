@@ -5,12 +5,12 @@
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Switzerland |
 | Category | Accounting |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Project-Manager---Analyst-in-Global-Financial-Accounting-100-_r-18175-2) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Project-Manager---Analyst-in-Global-Financial-Accounting-100-_r-18176-3) |
 
 ## About This Role
 
-This accounting position at Julius Baer was posted on 2026-05-01.
+This accounting position at Julius Baer was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

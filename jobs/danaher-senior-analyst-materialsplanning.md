@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Tokyo, JP |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Ciudad-de-Mexico-Mexico/Senior-Analyst-Materials-Planning_R1310491) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Koto-Ku-Tokyo-Japan/Senior-Analyst-Materials-Planning_R1308266) |
 
 ## About This Role
 
-This business analyst position at Danaher was posted on 2026-05-06.
+This business analyst position at Danaher was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

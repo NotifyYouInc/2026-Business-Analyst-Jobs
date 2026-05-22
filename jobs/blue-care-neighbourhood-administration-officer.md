@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Care](https://scoutify.ai/companies/blue-care?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gympie, Queensland, Australia |
+| Location | Morayfield, Queensland, Australia |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Gympie/Neighbourhood-Administration-Officer_JR120805) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Morayfield/Neighbourhood-Administration-Officer_JR121071) |
 
 ## About This Role
 
-This business analyst position at Blue Care was posted on 2026-05-05.
+This business analyst position at Blue Care was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

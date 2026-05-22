@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
+| Location | Irving, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/LOS-ANGELES-CA/Treasury-Management-Support-Analyst_R-541192) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Treasury-Management-Support-Analyst_R-545256) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-05-07.
+This business analyst position at Wells Fargo was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

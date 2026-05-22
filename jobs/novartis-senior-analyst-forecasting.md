@@ -5,12 +5,12 @@
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Senior-Analyst---Forecasting_REQ-10068761-1) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Senior-Analyst---Forecasting_REQ-10077336) |
 
 ## About This Role
 
-This business analyst position at Novartis was posted on 2026-04-22.
+This business analyst position at Novartis was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

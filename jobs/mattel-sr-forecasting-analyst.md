@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Rogers, Arkansas, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000120828047-sr-forecasting-analyst) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126592254-sr-forecasting-analyst) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Mattel was posted on 2026-04-14.
+This fp&a / strategic finance position at Mattel was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

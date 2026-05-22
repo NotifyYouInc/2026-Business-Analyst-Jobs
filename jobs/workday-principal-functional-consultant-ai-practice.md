@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Customer Success |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Chicago/Principal-Functional-Consultant--AI-Practice_JR-0106750) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Chicago/Principal-Functional-Consultant--AI-Practice_JR-0107274) |
 
 ## About This Role
 
-This customer success position at Workday was posted on 2026-04-24.
+This customer success position at Workday was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

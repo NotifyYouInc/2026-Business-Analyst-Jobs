@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beghouconsulting](https://scoutify.ai/companies/beghouconsulting?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Evanston, Illinois, United States |
+| Location | Emeryville, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.lever.co/beghouconsulting/a980bfc3-1a29-4682-9468-80c665471dda) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://jobs.lever.co/beghouconsulting/1408108d-830d-4a65-8132-be43176151d0) |
 
 ## About This Role
 
-This business analyst position at Beghouconsulting was posted on 2026-04-13.
+This business analyst position at Beghouconsulting was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

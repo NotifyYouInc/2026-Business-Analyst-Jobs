@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=112767) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=115520) |
 
 ## About This Role
 
-This technology / it consulting position at IBM was posted on 2026-04-29.
+This technology / it consulting position at IBM was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 

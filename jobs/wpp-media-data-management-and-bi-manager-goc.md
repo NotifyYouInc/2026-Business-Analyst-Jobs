@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5198071008) |
+| Posted | 2026-05-14 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5212871008) |
 
 ## About This Role
 
-This business analyst position at WPP Media was posted on 2026-05-08.
+This business analyst position at WPP Media was posted on 2026-05-14.
 
 ## Get Real-Time Alerts
 
