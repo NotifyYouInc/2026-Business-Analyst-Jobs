@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Seoul-Korea-Republic-of/Assistant-Manager_R-AOP-0320) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/Assistant-Manager_R-AOP-0248) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-05-05.
+This business analyst position at Cushman & Wakefield was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

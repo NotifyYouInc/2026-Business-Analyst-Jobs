@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
+| Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-Gestion-de-l-indemnit_R2605839-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Estimateur-ou-estimatrice---Habitation-route_R2606840) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-04-29.
+This business analyst position at Desjardins was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

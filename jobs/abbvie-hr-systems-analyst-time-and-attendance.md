@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | North Chicago, Illinois, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990012909463-hr-systems-analyst-time-and-attendance) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013153932-hr-systems-analyst-time-and-attendance) |
 
 ## About This Role
 
-This human resources / people ops position at AbbVie was posted on 2026-04-30.
+This human resources / people ops position at AbbVie was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

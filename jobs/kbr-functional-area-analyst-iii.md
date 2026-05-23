@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Alexandria, Virginia, United States |
+| Location | Arlington, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Alexandria-Virginia/Functional-Area-Analyst-III_R2122589) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Arlington-Virginia/Functional-Area-Analyst-III_R2123809) |
 
 ## About This Role
 
-This business analyst position at KBR was posted on 2026-04-24.
+This business analyst position at KBR was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

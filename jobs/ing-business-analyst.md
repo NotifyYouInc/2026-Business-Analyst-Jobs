@@ -1,16 +1,16 @@
-# Business Analyst at ING
+# business Analyst at ING
 
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Istanbul, Istanbul, Turkey |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/Business-Analyst_REQ-10110698) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Istanbul-VADI-ISTANBUL-PARK/business-Analyst_REQ-10113807) |
 
 ## About This Role
 
-This business analyst position at ING was posted on 2026-03-18.
+This business analyst position at ING was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

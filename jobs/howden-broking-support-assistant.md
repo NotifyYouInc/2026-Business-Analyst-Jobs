@@ -5,12 +5,12 @@
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bristol, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Bristol---One-Linear-Park/Broking-Support-Assistant_R0016419-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Bristol---One-Linear-Park/Broking-Support-Assistant_R0017057) |
 
 ## About This Role
 
-This business analyst position at Howden was posted on 2026-04-09.
+This business analyst position at Howden was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

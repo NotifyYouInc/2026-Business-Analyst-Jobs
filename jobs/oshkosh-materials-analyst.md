@@ -5,12 +5,12 @@
 | Company | [Oshkosh](https://scoutify.ai/companies/oshkoshcorporation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Appleton, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Materials-Analyst_R45514-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Materials-Analyst_R44275) |
 
 ## About This Role
 
-This business analyst position at Oshkosh was posted on 2026-04-23.
+This business analyst position at Oshkosh was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

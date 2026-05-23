@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [REXEL](https://scoutify.ai/companies/rexel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | France |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000126348419-assistante-dir-regional-en-alternance-fh-la-roche-sur-yon) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/REXEL1/744000126739129-assistante-dir-regional-en-alternance-fh-la-roche-sur-yon) |
 
 ## About This Role
 
-This business analyst position at REXEL was posted on 2026-05-13.
+This business analyst position at REXEL was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

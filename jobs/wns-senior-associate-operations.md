@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000125311309-senior-associate-operations) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000126690729-senior-associate-operations) |
 
 ## About This Role
 
-This business analyst position at WNS was posted on 2026-05-08.
+This business analyst position at WNS was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Barrie, Ontario, Canada |
+| Location | Edmonton, Alberta, Canada |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Barrie-Ontario/Business-Development-Consultant_JR00119014) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Edmonton-Alberta/Business-Development-Consultant_JR00124030) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Sun Life Financial was posted on 2026-04-20.
+This sales development (sdr / bdr) position at Sun Life Financial was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

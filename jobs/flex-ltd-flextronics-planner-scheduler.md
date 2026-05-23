@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tijuana, Baja California, Mexico |
+| Location | Aguascalientes, Aguascalientes, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Tijuana/Planner-Scheduler_WD219891) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Aguascalientes/Planner-Scheduler_WD221239) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-05-07.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

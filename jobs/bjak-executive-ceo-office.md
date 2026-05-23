@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/7190197e-8e5b-469b-887f-aee32a83dc01) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/8a6bee1b-b507-4e89-9af1-fb88fd5312a4) |
 
 ## About This Role
 
-This business analyst position at Bjak was posted on 2026-05-01.
+This business analyst position at Bjak was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Valtech](https://scoutify.ai/companies/valtech?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4795021101) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/valtech/jobs/4868064101) |
 
 ## About This Role
 
-This business analyst position at Valtech was posted on 2026-03-04.
+This business analyst position at Valtech was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Knoxville, Tennessee, United States |
+| Location | Rockland, Massachusetts, United States |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Iowa-Knoxville/Production-Planning-Analyst_R01164062-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Massachusetts-Rockland/Production-Planning-Analyst_R01165207) |
 
 ## About This Role
 
-This fp&a / strategic finance position at 3M Company was posted on 2026-04-21.
+This fp&a / strategic finance position at 3M Company was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

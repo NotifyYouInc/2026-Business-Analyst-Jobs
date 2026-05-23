@@ -5,12 +5,12 @@
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Thailand |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000125999583-planner-production-control-head-media) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000126662379-planner-production-control-head-media) |
 
 ## About This Role
 
-This business analyst position at Western Digital was posted on 2026-05-12.
+This business analyst position at Western Digital was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

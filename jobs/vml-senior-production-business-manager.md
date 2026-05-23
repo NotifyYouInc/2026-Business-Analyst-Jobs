@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8466334002?gh_jid=8466334002) |
+| Location | Portland, Oregon, United States |
+| Category | Project Manager |
+| Posted | 2026-05-16 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8553097002?gh_jid=8553097002) |
 
 ## About This Role
 
-This business analyst position at VML was posted on 2026-04-22.
+This project manager position at VML was posted on 2026-05-16.
 
 ## Get Real-Time Alerts
 

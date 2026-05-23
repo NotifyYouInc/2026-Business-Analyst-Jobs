@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | South Carolina, US |
+| Location | California, US |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Remote---South-Carolina/Administrator-In-Training_JR169258) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Remote---California/Administrator-In-Training_JR169837) |
 
 ## About This Role
 
-This business analyst position at Pacs was posted on 2026-05-08.
+This business analyst position at Pacs was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

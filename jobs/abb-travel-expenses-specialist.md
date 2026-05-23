@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Travel---Expenses-Specialist_JR00034368-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bangalore-Karnataka-India/Travel---Expenses-Specialist_JR00034507) |
 
 ## About This Role
 
-This business analyst position at ABB was posted on 2026-05-13.
+This business analyst position at ABB was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [WVUMedicine](https://scoutify.ai/companies/wvumedicine?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Morgantown, West Virginia, United States |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Operations-Support-Center/Business-Development-Analyst_JR26-32545) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Operations-Support-Center/Business-Development-Analyst_JR26-35937) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at WVUMedicine was posted on 2026-04-06.
+This sales development (sdr / bdr) position at WVUMedicine was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Washington, US |
+| Location | Texas, US |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Washington/Senior-Analyst--Network-Relations_R0873103) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Work-from-home/Senior-Analyst--Network-Relations_R0904920) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-04-07.
+This business analyst position at CVS Health was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

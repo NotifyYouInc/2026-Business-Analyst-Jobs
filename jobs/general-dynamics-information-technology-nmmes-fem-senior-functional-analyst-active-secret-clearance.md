@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montgomery, Alabama, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AL-Montgomery/NMMES-FEM-Senior-Functional-Analyst---Active-Secret-clearance_RQ215841-1) |
+| Category | Business Analyst |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AL-Montgomery/NMMES-FEM-Senior-Functional-Analyst---Active-Secret-clearance_RQ220229-1) |
 
 ## About This Role
 
-This technology / it consulting position at General Dynamics Information Technology was posted on 2026-02-27.
+This business analyst position at General Dynamics Information Technology was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

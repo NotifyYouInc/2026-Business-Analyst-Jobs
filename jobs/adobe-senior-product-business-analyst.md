@@ -5,12 +5,12 @@
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product---Business-Analyst_R165832) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Noida/Senior-Product---Business-Analyst_R167219) |
 
 ## About This Role
 
-This business analyst position at Adobe was posted on 2026-04-06.
+This business analyst position at Adobe was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

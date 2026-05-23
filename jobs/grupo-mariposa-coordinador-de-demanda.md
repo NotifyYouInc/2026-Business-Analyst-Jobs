@@ -5,12 +5,12 @@
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | El Salvador |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990012214646-coordinador-de-demanda) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990013161897-coordinador-de-demanda) |
 
 ## About This Role
 
-This business analyst position at Grupo Mariposa was posted on 2026-03-18.
+This business analyst position at Grupo Mariposa was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

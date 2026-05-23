@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Springdale, Arkansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Assisstant-Manager-Business-Management_R0459148) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Assistant-Manager-Business-Management_R0461840) |
 
 ## About This Role
 
-This business analyst position at Tyson Foods was posted on 2026-05-01.
+This business analyst position at Tyson Foods was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

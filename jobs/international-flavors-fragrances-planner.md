@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Jersey, US |
+| Location | Dayton, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/South-Brunswick-NJ-USA/Planner_R16871-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/South-Brunswick-NJ-USA/Planner_R18034) |
 
 ## About This Role
 
-This business analyst position at International Flavors & Fragrances was posted on 2026-04-17.
+This business analyst position at International Flavors & Fragrances was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

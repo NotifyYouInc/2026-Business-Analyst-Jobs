@@ -5,12 +5,12 @@
 | Company | [Kanadevia Inova](https://scoutify.ai/companies/kanadeviainova?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Levice, Nitra Region, Slovakia |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000115808327-spare-parts-pricing-manager) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KanadeviaInova/744000126688770-spare-parts-pricing-manager) |
 
 ## About This Role
 
-This business analyst position at Kanadevia Inova was posted on 2026-03-20.
+This business analyst position at Kanadevia Inova was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chamberlain Group](https://scoutify.ai/companies/chamberlain?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Oak Brook, Illinois, United States |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Principal--Sales-Analytics---Commercial-Services_JR30634) |
+| Category | Operations |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Principal--Sales-Analytics---Commercial-Services_JR30768) |
 
 ## About This Role
 
-This revenue / sales operations position at Chamberlain Group was posted on 2026-04-21.
+This operations position at Chamberlain Group was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

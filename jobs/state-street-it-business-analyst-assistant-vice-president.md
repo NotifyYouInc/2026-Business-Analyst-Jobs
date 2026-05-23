@@ -1,16 +1,16 @@
-# IT Business Analyst - Assistant Vice President at State Street
+# IT Business Analyst, Assistant Vice President at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/IT-Business-Analyst---Assistant-Vice-President_R-784496-1) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/IT-Business-Analyst--Assistant-Vice-President_R-790399) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-03-01.
+This business analyst position at State Street was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

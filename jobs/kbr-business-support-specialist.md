@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Beavercreek, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Dayton-Ohio/Business-Support-Specialist_R2123077) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Dayton-Ohio/Business-Support-Specialist_R2123000-1) |
 
 ## About This Role
 
-This business analyst position at KBR was posted on 2026-05-06.
+This business analyst position at KBR was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

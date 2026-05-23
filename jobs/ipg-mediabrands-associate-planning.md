@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IPG Mediabrands](https://scoutify.ai/companies/ipg-mediabrands?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/mediabrands/jobs/5040385007) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/mediabrands/jobs/5039907007) |
 
 ## About This Role
 
-This business analyst position at IPG Mediabrands was posted on 2026-05-13.
+This business analyst position at IPG Mediabrands was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 
