@@ -1,12 +1,12 @@
-# Operations Analyst Senior Tech at General Dynamics Information Technology
+# Organizational Change Management Specialist at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fort Bragg, North Carolina, United States |
+| Location | United States |
 | Category | Business Analyst |
 | Posted | 2026-05-17 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-NC-Fort-Bragg/Operations-Analyst-Senior-Tech_RQ220177-1) |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Organizational-Change-Management-Specialist_RQ219978-1) |
 
 ## About This Role
 
