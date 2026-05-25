@@ -1,16 +1,16 @@
-# Sr Business Systems Analyst at Thermo Fisher Scientific
+# Sr. Business Systems Analyst at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | India |
 | Category | Business Analyst |
-| Posted | 2026-02-16 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-India/Sr-Business-Systems-Analyst_R-01340627) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-India/Sr-Business-Systems-Anlayst_R-01352570) |
 
 ## About This Role
 
-This business analyst position at Thermo Fisher Scientific was posted on 2026-02-16.
+This business analyst position at Thermo Fisher Scientific was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

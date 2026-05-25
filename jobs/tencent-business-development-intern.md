@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Sydney, New South Wales, Australia |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Business-Tower/Business-Development-Intern_R107014) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Australia-New-South-Wales-Sydney/Business-Development-Intern_R107325) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Tencent was posted on 2026-03-12.
+This sales development (sdr / bdr) position at Tencent was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Care](https://scoutify.ai/companies/blue-care?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Morayfield, Queensland, Australia |
+| Location | Redcliffe, Western Australia, Australia |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Morayfield/Neighbourhood-Administration-Officer_JR121071) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Redcliffe/Neighbourhood-Administration-Officer_JR121115) |
 
 ## About This Role
 
-This business analyst position at Blue Care was posted on 2026-05-15.
+This business analyst position at Blue Care was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

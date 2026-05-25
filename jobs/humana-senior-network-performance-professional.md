@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Georgia, US |
+| Location | Alabama, US |
 | Category | Business Analyst |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Virginia/Senior-Network-Performance-Professional_R-414704) |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Alabama/Senior-Network-Performance-Professional_R-412740) |
 
 ## About This Role
 

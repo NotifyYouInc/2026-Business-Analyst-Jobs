@@ -6,7 +6,7 @@
 | Location | Kolkata, West Bengal, India |
 | Category | Business Analyst |
 | Posted | 2026-05-15 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Supply-Chain-Operations-Analyst_AIOC-S01645757-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kolkata/Supply-Chain-Operations-Analyst_AIOC-S01645755-1) |
 
 ## About This Role
 

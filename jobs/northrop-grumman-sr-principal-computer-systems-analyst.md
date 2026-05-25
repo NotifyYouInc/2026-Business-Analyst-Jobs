@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Madison, Wisconsin, United States |
+| Location | Northridge, California, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Madison/Sr-Principal-Computer-Systems-Analyst_R10232275) |
+| Posted | 2026-05-17 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Sr-Principal-Computer-Systems-Analyst_R10233217) |
 
 ## About This Role
 
-This it & systems administration position at Northrop Grumman was posted on 2026-05-07.
+This it & systems administration position at Northrop Grumman was posted on 2026-05-17.
 
 ## Get Real-Time Alerts
 

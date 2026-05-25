@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Cash-and-Trade-Proc-Analyst_26951914) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Cash-and-Trade-Proc-Analyst_26963981) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-12.
+This business analyst position at Citigroup was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 
