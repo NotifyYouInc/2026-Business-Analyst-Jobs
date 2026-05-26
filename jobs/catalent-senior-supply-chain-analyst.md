@@ -5,12 +5,12 @@
 | Company | [Catalent](https://scoutify.ai/companies/catalent?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Kansas-City-MO/Senior-Supply-Chain-Analyst_0093635) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://catalent.wd1.myworkdayjobs.com/external/job/Kansas-City-MO/Senior-Supply-Chain-Analyst_0094587) |
 
 ## About This Role
 
-This business analyst position at Catalent was posted on 2026-03-20.
+This business analyst position at Catalent was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

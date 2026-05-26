@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Maplewood, Minnesota, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Accounting |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Global-Payroll-Analyst_R01164783) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/IN-Bangalore-Kar/Global-Payroll-Analyst_R01165554) |
 
 ## About This Role
 
-This accounting position at 3M Company was posted on 2026-05-01.
+This accounting position at 3M Company was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [University of Southern California](https://scoutify.ai/companies/university-of-southern-california?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Diego, California, United States |
+| Location | Los Angeles, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://usc.wd5.myworkdayjobs.com/externalusccareers/job/San-Diego-CA/Assistant-Research-Administrator_REQ20158768) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://usc.wd5.myworkdayjobs.com/externalusccareers/job/Los-Angeles-CA---Health-Sciences-Campus/Assistant-Research-Administrator_REQ20175533) |
 
 ## About This Role
 
-This business analyst position at University of Southern California was posted on 2026-05-11.
+This business analyst position at University of Southern California was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

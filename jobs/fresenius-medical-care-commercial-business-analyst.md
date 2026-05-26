@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Location | Macquarie Park, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Macquarie-Park-NSW/Commercial-Business-Analyst_R0239785) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Macquarie-Park-NSW/Commercial-Business-Analyst_R0253243) |
 
 ## About This Role
 
-This business analyst position at Fresenius Medical Care was posted on 2026-02-12.
+This business analyst position at Fresenius Medical Care was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

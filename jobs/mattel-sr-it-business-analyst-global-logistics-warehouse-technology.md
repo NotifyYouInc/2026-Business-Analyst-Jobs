@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | El Segundo, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126721036-sr-it-business-analyst-global-logistics-warehouse-technology) |
+| Category | Product Manager |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000127117919-sr-it-business-analyst-global-logistics-warehouse-technology) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-05-15.
+This product manager position at Mattel was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

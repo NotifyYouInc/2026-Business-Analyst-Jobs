@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Edmonton, Alberta, Canada |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Edmonton-AB/Associate--Brokerage_REQ480973) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Associate--Brokerage_REQ508415) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-03-13.
+This business analyst position at JLL was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

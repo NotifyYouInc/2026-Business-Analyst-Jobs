@@ -6,7 +6,7 @@
 | Location | Chennai, Tamil Nadu, India |
 | Category | Corporate Finance |
 | Posted | 2026-05-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Analyst_26963267) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/Securities---Derivatives-Analyst_26962146-1) |
 
 ## About This Role
 

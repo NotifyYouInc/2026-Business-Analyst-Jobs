@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Tigard, Oregon, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Orlando-FL-32824/Rental-Management-Trainee_R170396) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Tigard-OR-97224/Rental-Management-Trainee_R172760) |
 
 ## About This Role
 
-This leadership development program position at Ryder System was posted on 2026-04-27.
+This leadership development program position at Ryder System was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

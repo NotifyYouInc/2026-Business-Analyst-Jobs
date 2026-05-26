@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000120055832-director-business-development-eurofins-central-laboratory) |
+| Location | New York City, New York, United States |
+| Category | Sales Leadership |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000127073499-director-business-development-eurofins-central-laboratory) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Eurofins Scientific was posted on 2026-04-10.
+This sales leadership position at Eurofins Scientific was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

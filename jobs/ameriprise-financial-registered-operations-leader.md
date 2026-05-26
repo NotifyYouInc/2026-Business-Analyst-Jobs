@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Richmond, Virginia, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Richmond-Virginia/Registered-Operations-Leader_R26_1767) |
+| Location | Raleigh, North Carolina, United States |
+| Category | Leadership Development Program |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Raleigh-North-Carolina/Registered-Operations-Leader_R26_1941-1) |
 
 ## About This Role
 
-This business analyst position at Ameriprise Financial was posted on 2026-05-05.
+This leadership development program position at Ameriprise Financial was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

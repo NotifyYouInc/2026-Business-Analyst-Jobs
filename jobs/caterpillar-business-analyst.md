@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Piracicaba, São Paulo, Brazil |
-| Category | Corporate Finance |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Business-Analyst_R0000354656) |
+| Category | Business Analyst |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Business-Analyst_R0000369988) |
 
 ## About This Role
 
-This corporate finance position at Caterpillar was posted on 2026-03-03.
+This business analyst position at Caterpillar was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

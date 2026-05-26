@@ -5,12 +5,12 @@
 | Company | [Cableone](https://scoutify.ai/companies/cableone?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://cableone.wd1.myworkdayjobs.com/cable_one_external_careers/job/Remote-USA/Oracle-Business-Systems-Intern_R-106733) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://cableone.wd1.myworkdayjobs.com/cable_one_external_careers/job/Remote-USA/Oracle-Business-Systems-Intern_R-106929-1) |
 
 ## About This Role
 
-This business analyst position at Cableone was posted on 2026-04-16.
+This business analyst position at Cableone was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

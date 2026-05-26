@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Sr-Technology-Analyst_R-2026-66868) |
+| Location | India |
+| Category | Customer Success |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/India-Office/Sr-Technology-Analyst_R-2026-68046) |
 
 ## About This Role
 
-This business analyst position at Southwest Airlines was posted on 2026-04-01.
+This customer success position at Southwest Airlines was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

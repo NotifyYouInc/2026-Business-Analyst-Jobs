@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uhaul](https://scoutify.ai/companies/uhaul?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tempe, Arizona, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Tempe-Arizona/Repair-Analyst_R235856-1) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Business-Analyst_R245459) |
 
 ## About This Role
 
-This business analyst position at Uhaul was posted on 2026-04-27.
+This business analyst position at Uhaul was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# ESTAGIARIO  at Louis Dreyfus
+# ESTAGIARIO at Louis Dreyfus
 
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cuiabá, Mato Grosso, Brazil |
+| Location | Jataí, Goiás, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000126721490-estagiario) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000127069819-estagiario) |
 
 ## About This Role
 
-This business analyst position at Louis Dreyfus was posted on 2026-05-15.
+This business analyst position at Louis Dreyfus was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

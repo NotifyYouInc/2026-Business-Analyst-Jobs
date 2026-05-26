@@ -1,16 +1,16 @@
-# Business Analyst II - Bank Operations at Commerce Bank
+# Business Analyst II – Bank Operations at Commerce Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Commerce Bank](https://scoutify.ai/companies/commercebank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kansas City, Missouri, United States |
-| Category | Strategy And Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Business-Analyst-II---Bank-Operations_37537) |
+| Category | Business Analyst |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Job-Posting-Title-Business-Analyst---Bank-Operations_37958) |
 
 ## About This Role
 
-This strategy and operations position at Commerce Bank was posted on 2026-02-03.
+This business analyst position at Commerce Bank was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

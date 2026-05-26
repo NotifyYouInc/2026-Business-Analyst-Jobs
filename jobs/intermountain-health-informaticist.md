@@ -5,12 +5,12 @@
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Broomfield, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Broomfield-Clinic/Informaticist_R168666) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Peaks-Regional-Office/Informaticist_R170571) |
 
 ## About This Role
 
-This business analyst position at Intermountain Health was posted on 2026-04-20.
+This business analyst position at Intermountain Health was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

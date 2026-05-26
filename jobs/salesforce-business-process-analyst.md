@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-18 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Business-Process-Analyst_JR338810) |
+| Posted | 2026-05-18 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Canada---Toronto/Business-Process-Analyst_JR341321) |
 
 ## About This Role
 
-This business analyst position at Salesforce was posted on 2026-04-18.
+This business analyst position at Salesforce was posted on 2026-05-18.
 
 ## Get Real-Time Alerts
 

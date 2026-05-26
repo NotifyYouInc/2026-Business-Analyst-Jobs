@@ -1,16 +1,16 @@
-# Business Associate – Assistant Vice President at Citigroup
+# Business Associate (Assistant Vice President) at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Business-Associate---Assistant-Vice-President_26951201) |
+| Location | Singapore, Singapore |
+| Category | Program Manager |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Business-Associate--Assistant-Vice-President-_26961495) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-06.
+This program manager position at Citigroup was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
