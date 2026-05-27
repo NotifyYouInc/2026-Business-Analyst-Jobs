@@ -1,0 +1,22 @@
+# Principle Logistics Analyst at Medtronic
+
+| Field | Details |
+|-------|---------|
+| Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Memphis, Tennessee, United States |
+| Category | Business Analyst |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Memphis-Tennessee-United-States-of-America/Principle-Logistics-Analyst_R66675-1) |
+
+## About This Role
+
+This business analyst position at Medtronic was posted on 2026-05-19.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

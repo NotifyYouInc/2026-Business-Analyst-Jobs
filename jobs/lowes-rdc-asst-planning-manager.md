@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cheyenne, Wyoming, United States |
+| Location | Pittston, Pennsylvania, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Cheyenne-WY-RDC-0965/RDC-Asst-Planning-Manager_JR-02489012) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Pittston-PA-RDC-1449/RDC-Asst-Planning-Manager_JR-02531317) |
 
 ## About This Role
 
-This business analyst position at Lowe's was posted on 2026-04-20.
+This business analyst position at Lowe's was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

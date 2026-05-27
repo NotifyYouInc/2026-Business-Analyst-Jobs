@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Irving, Texas, United States |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Manager--Pricing---Business-Development_JR0144289) |
+| Category | Corporate Finance |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Manager--Pricing---Business-Development_JR0147506) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at McKesson was posted on 2026-03-20.
+This corporate finance position at McKesson was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

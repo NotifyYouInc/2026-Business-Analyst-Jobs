@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Parexel](https://scoutify.ai/companies/parexel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bloemfontein, Free State, South Africa |
 | Category | Legal |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/India---Hyderabad/Proposals-and-Contracts-Specialist_R0000040201) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://parexel.wd1.myworkdayjobs.com/parexel_external_careers/job/South-Africa-Bloemfontein-Remote/Proposals-and-Contracts-Specialist_R0000041860) |
 
 ## About This Role
 
-This legal position at Parexel was posted on 2026-04-01.
+This legal position at Parexel was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

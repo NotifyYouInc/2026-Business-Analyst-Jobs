@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 6 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Technical-Business-Analyst--Health-_36347) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Technical-Business-Analyst--Health-_39451) |
 
 ## About This Role
 
-This business analyst position at Guidehouse was posted on 2026-02-20.
+This business analyst position at Guidehouse was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

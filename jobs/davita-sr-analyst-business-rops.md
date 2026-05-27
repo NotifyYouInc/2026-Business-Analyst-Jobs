@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Malvern, Arkansas, United States |
+| Location | DeLand, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/19511---Pennsylvania-Remote/Sr-Analyst--Business--ROPS-_R0457429-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09500---Florida-Remote/Sr-Analyst--Business--ROPS-_R0459631) |
 
 ## About This Role
 
-This business analyst position at DaVita was posted on 2026-05-05.
+This business analyst position at DaVita was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

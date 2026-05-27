@@ -5,12 +5,12 @@
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lansing, Michigan, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Lansing-Michigan/Senior-Strategic-Enablement-Analyst---Remote_R561816) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Lansing-Michigan/Senior-Strategic-Enablement-Analyst---Remote_R565923-1) |
 
 ## About This Role
 
-This strategy & operations position at Stryker was posted on 2026-05-12.
+This strategy & operations position at Stryker was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

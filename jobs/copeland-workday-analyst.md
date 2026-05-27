@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
+| Location | 2 locations |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Quezon-City-Manila-Philippines/Workday-Analyst_JR114805) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/St-Louis-MO-USA/Workday-Analyst_JR115159) |
 
 ## About This Role
 
-This human resources / people ops position at Copeland was posted on 2026-05-05.
+This human resources / people ops position at Copeland was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 6 locations |
+| Location | San Antonio, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Tampa-Campus/Business-Process-Owner-Lead---Member-Distributions_R0116062) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Business-Process-Owner-Lead---Member-Distributions_R0117645) |
 
 ## About This Role
 
-This business analyst position at USAA was posted on 2026-04-03.
+This business analyst position at USAA was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

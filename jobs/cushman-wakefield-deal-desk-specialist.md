@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 4 locations |
+| Location | 5 locations |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Vancouver-Canada/Deal-Desk-Specialist_R316973) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Deal-Desk-Specialist_R319341) |
 
 ## About This Role
 
-This revenue / sales operations position at Cushman & Wakefield was posted on 2026-05-05.
+This revenue / sales operations position at Cushman & Wakefield was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

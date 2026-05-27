@@ -1,16 +1,16 @@
-# Commercial Business Analyst (WEB & Marketing) at H&M Group
+# COMMERCIAL BUSINESS ANALYST – WEB & MARKETING at H&M Group
 
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Denmark |
+| Location | Chile |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000125332890-commercial-business-analyst-web-marketing) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000127293184-commercial-business-analyst-web-marketing) |
 
 ## About This Role
 
-This business analyst position at H&M Group was posted on 2026-05-08.
+This business analyst position at H&M Group was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

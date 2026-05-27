@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Taipei, Taiwan, Taiwan |
+| Location | Japan |
 | Category | Business Analyst |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/TW---TAIPEI-HUB-TWAOU/Brokerage-Senior-Assistant_R26016259) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/JP---JP---SHINKIBA-CENTER-JPSHN/Brokerage-Senior-Assistant_R26016680) |
 
 ## About This Role
 
-This business analyst position at United Parcel Service (UPS) was posted on 2026-05-17.
+This business analyst position at United Parcel Service (UPS) was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/Manager-Business-Development-3_R10222963) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/Manager-Business-Development-3_R10232016-2) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Northrop Grumman was posted on 2026-03-24.
+This sales development (sdr / bdr) position at Northrop Grumman was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | National Harbor, Maryland, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Phoenix-area/Business-Operations-Supervisor_R-122554) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/National-Harbor/Business-Operations-Supervisor_R-122756) |
 
 ## About This Role
 
-This business analyst position at Travel + Leisure Co. was posted on 2026-05-14.
+This business analyst position at Travel + Leisure Co. was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

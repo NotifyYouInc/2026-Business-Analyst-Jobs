@@ -1,16 +1,16 @@
-# SCHOLARSHIP HOLDER at Romeu
+# Scholarship Holder at Romeu
 
 | Field | Details |
 |-------|---------|
 | Company | [Romeu](https://scoutify.ai/companies/romeu?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Colombia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://romeu.wd3.myworkdayjobs.com/romeu_jobs/job/Bogot/SCHOLARSHIP-HOLDER_JR01231) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://romeu.wd3.myworkdayjobs.com/romeu_jobs/job/Bogot/Scholarship-Holder_JR01292) |
 
 ## About This Role
 
-This business analyst position at Romeu was posted on 2026-04-10.
+This business analyst position at Romeu was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

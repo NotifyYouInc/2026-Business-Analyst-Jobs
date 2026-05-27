@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Riyadh, Riyadh Region, Saudi Arabia |
+| Location | Wayne, New Jersey, United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Riyadh-Saudi-Arabia/Project-Executive_R1509820) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Wayne-PA-United-States-of-America/Associate-Consultant_R1532726-1) |
 
 ## About This Role
 
-This strategy / management consulting position at IQVIA was posted on 2026-04-27.
+This strategy / management consulting position at IQVIA was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

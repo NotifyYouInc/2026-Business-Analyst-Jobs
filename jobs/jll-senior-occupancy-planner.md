@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
+| Location | Round Rock, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Senior-Occupancy-Planner_REQ508452-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Round-Rock-TX/Senior-Occupancy-Planner_REQ508137-1) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-05-15.
+This business analyst position at JLL was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

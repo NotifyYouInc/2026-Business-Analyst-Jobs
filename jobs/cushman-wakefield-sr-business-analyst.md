@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Saint Louis, Michigan, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Sr-Business-Analyst_R317005-1) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---NY---New-York---111-8th-Avenue/Sr-Business-Analyst_R320122) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-04-30.
+This business analyst position at Cushman & Wakefield was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 

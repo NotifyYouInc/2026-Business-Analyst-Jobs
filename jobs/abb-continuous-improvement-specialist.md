@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ostrava, Moravskoslezský, Czechia |
+| Location | San Luis Potosí, San Luis Potosí, Mexico |
 | Category | Strategy & Operations |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ostrava-Moravskoslezsk-kraj-Czechia/Continuous-Improvement-Specialist_JR00034229) |
+| Posted | 2026-05-19 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/San-Luis-Potosi-San-Luis-Potos-Mexico/Continuous-Improvement-Specialist_JR00034583) |
 
 ## About This Role
 
-This strategy & operations position at ABB was posted on 2026-05-14.
+This strategy & operations position at ABB was posted on 2026-05-19.
 
 ## Get Real-Time Alerts
 
