@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Appliedis](https://scoutify.ai/companies/appliedis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Alexandria, Virginia, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/Program-Analyst_JR2026001186-1) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Washington-DC/Program-Analyst_JR2026001211) |
 
 ## About This Role
 
-This business analyst position at Appliedis was posted on 2026-05-06.
+This business analyst position at Appliedis was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Engineering Manager |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Petaling-Jaya-Malaysia/Business-Development-Manager_R-114876) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Sydney-Australia/Business-Development-Manager_R-115323) |
 
 ## About This Role
 
-This engineering manager position at Ingram Micro was posted on 2026-04-21.
+This engineering manager position at Ingram Micro was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

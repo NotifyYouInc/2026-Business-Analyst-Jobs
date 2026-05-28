@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-d-affaires--Rseaux-Centres-Desjardins-Entreprises_R2606158) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-d-affaires--Services-aux-particuliers_R2606837) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-05-01.
+This business analyst position at Desjardins was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

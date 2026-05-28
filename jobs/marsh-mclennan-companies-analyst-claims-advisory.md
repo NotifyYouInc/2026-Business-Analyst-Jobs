@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Jakarta, Jakarta, Indonesia |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Jakarta---World-Trade-Blg-3/Analyst---Claims-Advisory_R_348961) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mexico-City---Paseo/Analyst---Claims-Advisory_R_351519) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-04-29.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

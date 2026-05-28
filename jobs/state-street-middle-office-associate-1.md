@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hangzhou, Zhejiang, China |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Middle-Office--Associate-1_R-788009) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Middle-Office--Associate-1_R-790926) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-05-15.
+This business analyst position at State Street was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

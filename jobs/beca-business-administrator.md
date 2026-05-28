@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beca](https://scoutify.ai/companies/beca?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Newcastle, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://beca.wd105.myworkdayjobs.com/beca/job/Sydney/Business-Administrator_JR101510) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://beca.wd105.myworkdayjobs.com/beca/job/Newcastle-Australia/Business-Administrator_JR101689) |
 
 ## About This Role
 
-This business analyst position at Beca was posted on 2026-04-29.
+This business analyst position at Beca was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-MY-AIA-Malaysia/Business-Analyst--Consultant_JR-58389) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-MY-AIA-Malaysia/Business-Analyst--Consultant_JR-65685) |
 
 ## About This Role
 
-This business analyst position at AIA Group was posted on 2026-04-06.
+This business analyst position at AIA Group was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

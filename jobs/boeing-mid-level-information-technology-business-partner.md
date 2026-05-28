@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Mid-Level-Information-Technology-Business-Partner_JR2026499760-1) |
+| Location | Hazelwood, Missouri, United States |
+| Category | Project Manager |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Mid-Level-Information-Technology-Business-Partner_JR2026511420-1) |
 
 ## About This Role
 
-This business analyst position at Boeing was posted on 2026-03-10.
+This project manager position at Boeing was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

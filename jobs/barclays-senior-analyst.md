@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/Senior-Analyst_JR-0000108119) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Noida-Candor-TechSpace/Senior-Analyst_JR-0000114375) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-05-08.
+This business analyst position at Barclays was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

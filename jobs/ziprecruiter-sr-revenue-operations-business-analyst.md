@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ZipRecruiter](https://scoutify.ai/companies/ziprecruiter?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Santa Monica, California, United States |
+| Location | New York City, New York, United States |
 | Category | Operations |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ziprecruiter/jobs/7905434) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ziprecruiter/jobs/7947899) |
 
 ## About This Role
 
-This operations position at ZipRecruiter was posted on 2026-05-11.
+This operations position at ZipRecruiter was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

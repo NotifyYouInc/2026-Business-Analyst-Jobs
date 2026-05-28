@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dallas, Texas, United States |
-| Category | Project Manager |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Dallas-TX/Boeing-Global-Services-Experienced-Business-Operations-Specialist_JR2026502748-1) |
+| Location | Long Beach, California, United States |
+| Category | Program Manager |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Boeing-Global-Services-Experienced-Business-Operations-Specialist_JR2026510945-1) |
 
 ## About This Role
 
-This project manager position at Boeing was posted on 2026-03-26.
+This program manager position at Boeing was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

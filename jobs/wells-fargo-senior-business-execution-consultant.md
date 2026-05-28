@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
-| Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Business-Execution-Consultant_R-538281) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Project Manager |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Execution-Consultant_R-540906) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-04-27.
+This project manager position at Wells Fargo was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

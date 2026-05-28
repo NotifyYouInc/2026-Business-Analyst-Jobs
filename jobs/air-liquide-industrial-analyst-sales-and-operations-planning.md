@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Calgary, Alberta, Canada |
-| Category | Strategy & Operations |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Calgary-AB---54-Ave/Industrial-Analyst---Sales-and-Operations-Planning_R10084453) |
+| Category | Business Analyst |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Calgary-AB---54-Ave/Industrial-Analyst---Sales-and-Operations-Planning_R10091797) |
 
 ## About This Role
 
-This strategy & operations position at Air Liquide was posted on 2026-02-10.
+This business analyst position at Air Liquide was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

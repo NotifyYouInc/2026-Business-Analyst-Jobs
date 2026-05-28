@@ -5,12 +5,12 @@
 | Company | [VF](https://scoutify.ai/companies/vfc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/ASIA--MYS--Kuala-Lumpur--KL-Office/Logistics-Analyst_R-20260223-0004) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://vfc.wd5.myworkdayjobs.com/vfc_careers/job/ASIA--MYS--Kuala-Lumpur--KL-Office/Logistics-Analyst_R-20260421-0045) |
 
 ## About This Role
 
-This business analyst position at VF was posted on 2026-03-04.
+This business analyst position at VF was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Santa Catarina, Nuevo León, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Santa-Catarina-Nuevo-Len/Demand---Orders-Analyst_R0000367468) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Santa-Catarina-Nuevo-Len/Demand---Orders-Analyst_R0000371681) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-05-12.
+This business analyst position at Caterpillar was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bedminster, Pennsylvania, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bedminster-NJ/Lease-Administration-Analyst_REQ504407) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bedminster-NJ/Lease-Administration-Analyst_REQ508125) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-05-06.
+This business analyst position at JLL was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

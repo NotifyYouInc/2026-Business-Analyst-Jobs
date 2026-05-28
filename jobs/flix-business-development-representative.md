@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Los Angeles, California, United States |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://flix.careers/job/8544825002?gh_jid=8544825002) |
+| Location | Dallas, Texas, United States |
+| Category | Account Manager |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://flix.careers/job/8539505002?gh_jid=8539505002) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Flix was posted on 2026-05-12.
+This account manager position at Flix was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

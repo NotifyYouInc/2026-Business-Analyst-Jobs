@@ -5,12 +5,12 @@
 | Company | [University of Ottawa](https://scoutify.ai/companies/university-of-ottawa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ottawa, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Intermediate-Specialist--Gift-Implementation_JR31376) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://uottawa.wd3.myworkdayjobs.com/uottawa_external_career_site/job/Ottawa-ON/Intermediate-Specialist--Gift-Implementation_JR35275) |
 
 ## About This Role
 
-This business analyst position at University of Ottawa was posted on 2026-03-09.
+This business analyst position at University of Ottawa was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

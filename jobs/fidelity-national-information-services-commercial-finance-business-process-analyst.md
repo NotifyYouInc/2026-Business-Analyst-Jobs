@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philippines |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/PHL-MAKA-8767-FLR42/Commercial-Finance---Business-Process-Analyst_JR0305513) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-MUMB-FL3/Commercial-Finance---Business-Process-Analyst_JR0307179) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Fidelity National Information Services was posted on 2026-03-24.
+This corporate finance position at Fidelity National Information Services was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Argentina |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126743838-analista-administrativo-de-canje-de-granos) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000127490859-analista-administrativo-de-canje-de-granos) |
 
 ## About This Role
 
-This business analyst position at Syngenta was posted on 2026-05-15.
+This business analyst position at Syngenta was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

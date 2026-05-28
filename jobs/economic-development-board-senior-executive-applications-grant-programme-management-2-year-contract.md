@@ -5,12 +5,12 @@
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ESG---Bugis-Junction-Office-Tower-Level-9-ENTERRPRISESG/XMLNAME--Senior--Executive--Applications--Grant-Programme-Management--2-Year-Contract-_JR-10000049264) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ESG---Bugis-Junction-Office-Tower-Level-9-ENTERRPRISESG/XMLNAME--Senior--Executive--Applications--Grant-Programme-Management--2-Year-Contract-_JR-10000051023-1) |
 
 ## About This Role
 
-This business analyst position at Economic Development Board was posted on 2026-04-09.
+This business analyst position at Economic Development Board was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
