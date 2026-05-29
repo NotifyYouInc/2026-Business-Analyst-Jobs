@@ -5,12 +5,12 @@
 | Company | [R R Donnelley & Sons](https://scoutify.ai/companies/rrdonnelleysons?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Warrenville, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000124025789-ebilling-analyst-remote-legal-services) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000127757289-ebilling-analyst-remote-legal-services) |
 
 ## About This Role
 
-This business analyst position at R R Donnelley & Sons was posted on 2026-04-30.
+This business analyst position at R R Donnelley & Sons was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

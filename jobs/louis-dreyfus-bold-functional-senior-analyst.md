@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Subang Jaya, Selangor, Malaysia |
-| Category | Leadership Development Program |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000123348149-bold-functional-senior-analyst) |
+| Location | Petaling Jaya, Selangor, Malaysia |
+| Category | Corporate Finance |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000127787485-bold-functional-senior-analyst) |
 
 ## About This Role
 
-This leadership development program position at Louis Dreyfus was posted on 2026-04-28.
+This corporate finance position at Louis Dreyfus was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

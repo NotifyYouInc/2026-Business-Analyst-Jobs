@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Arkansas, US |
+| Location | Minnesota, US |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Managed-Care-Analyst_J280462) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/MN-Working-at-Home---Minnesota/Associate-Managed-Care-Analyst_J281184) |
 
 ## About This Role
 
-This business analyst position at Highmark Health was posted on 2026-04-30.
+This business analyst position at Highmark Health was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

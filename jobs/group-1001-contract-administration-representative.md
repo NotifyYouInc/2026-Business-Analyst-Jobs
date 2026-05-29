@@ -5,12 +5,12 @@
 | Company | [Group 1001](https://scoutify.ai/companies/group1001wd?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Zionsville, Indiana, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Contract-Administration-Representative_R26_0223) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://group1001wd.wd5.myworkdayjobs.com/careers/job/Zionsville-Indiana/Contract-Administration-Representative_R26_0262) |
 
 ## About This Role
 
-This business analyst position at Group 1001 was posted on 2026-05-08.
+This business analyst position at Group 1001 was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

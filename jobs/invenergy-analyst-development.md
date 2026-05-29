@@ -5,12 +5,12 @@
 | Company | [Invenergy](https://scoutify.ai/companies/invenergyllc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Denver, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Denver-CO/Analyst--Development_R10757-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Denver-CO/Analyst--Development_R10731-1) |
 
 ## About This Role
 
-This business analyst position at Invenergy was posted on 2026-05-11.
+This business analyst position at Invenergy was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

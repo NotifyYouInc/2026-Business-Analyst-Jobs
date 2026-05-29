@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Wilmington, North Carolina, United States |
+| Location | Delaware, US |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Wilmington-Delaware-United-States-of-America/Business-Analyst-Senior_R0028925-1) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/United-States-of-America-Delaware-Remote/Business-Analyst-Senior_R0029766-1) |
 
 ## About This Role
 
-This business analyst position at Solenis was posted on 2026-04-10.
+This business analyst position at Solenis was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

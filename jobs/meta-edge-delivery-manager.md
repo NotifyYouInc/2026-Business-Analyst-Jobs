@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meta](https://scoutify.ai/companies/meta?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Program Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/950113477442615) |
+| Location | 4 locations |
+| Category | Project Manager |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1011724867944179) |
 
 ## About This Role
 
-This program manager position at Meta was posted on 2026-02-25.
+This project manager position at Meta was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

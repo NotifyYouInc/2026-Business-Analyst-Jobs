@@ -5,12 +5,12 @@
 | Company | [MultiCare Health System](https://scoutify.ai/companies/multicare-health-system?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Yakima, Washington, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://multicare.wd1.myworkdayjobs.com/multicare/job/Yakima-Washington/Enterprise-App-Analyst-Sr_JR74357) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://multicare.wd1.myworkdayjobs.com/multicare/job/Yakima-Washington/Enterprise-App-Analyst-Sr_JR76657) |
 
 ## About This Role
 
-This business analyst position at MultiCare Health System was posted on 2026-05-06.
+This business analyst position at MultiCare Health System was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

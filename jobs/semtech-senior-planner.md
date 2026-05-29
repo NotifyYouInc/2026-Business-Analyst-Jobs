@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Semtech](https://scoutify.ai/companies/semtech?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Burlington, Ontario, Canada |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/CAN---Burlington-ON/Senior-Planner_REQ3107) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/USA---Irvine-CA/Senior-Planner_REQ3358) |
 
 ## About This Role
 
-This business analyst position at Semtech was posted on 2026-02-17.
+This business analyst position at Semtech was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

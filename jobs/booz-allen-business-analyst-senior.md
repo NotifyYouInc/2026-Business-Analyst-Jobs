@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Business-Analyst--Senior_R0236770) |
+| Location | Springfield, Missouri, United States |
+| Category | Program Manager |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Business-Analyst--Senior_R0240726) |
 
 ## About This Role
 
-This technology / it consulting position at Booz Allen was posted on 2026-03-25.
+This program manager position at Booz Allen was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

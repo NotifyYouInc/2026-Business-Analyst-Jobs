@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/Export-Sales-Support-Specialist---Intern_R0129991) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Beijing-China/Export-Sales-Support-Specialist---Intern_R0131684) |
 
 ## About This Role
 
-This business analyst position at Hitachi was posted on 2026-05-11.
+This business analyst position at Hitachi was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

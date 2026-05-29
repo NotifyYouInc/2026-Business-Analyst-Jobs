@@ -5,12 +5,12 @@
 | Company | [Celerion](https://scoutify.ai/companies/celerion?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lincoln, Nebraska, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://jobs.lever.co/celerion/9d79cb5f-7597-4454-92a1-67eae3f714d3) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.lever.co/celerion/b43ca37d-4a56-4110-88f9-b42aae38fad6) |
 
 ## About This Role
 
-This business analyst position at Celerion was posted on 2026-04-21.
+This business analyst position at Celerion was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

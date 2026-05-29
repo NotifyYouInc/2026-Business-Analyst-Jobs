@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ensenada, Baja California, Mexico |
+| Location | Culiacán, Sinaloa, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Baja-California-Ensenada-22800/RECOVERIES-OPERATIONAL-SUPPORT-I-MX-1_JR00099955) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Sinaloa-Culiacn-80220/RECOVERIES-OPERATIONAL-SUPPORT-I-MX-1_JR00103517) |
 
 ## About This Role
 
-This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-11.
+This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

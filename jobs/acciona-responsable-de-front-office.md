@@ -5,12 +5,12 @@
 | Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Distrito-Federal/RESPONSABLE-DE-FRONT-OFFICE_20091425) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Distrito-Federal/RESPONSABLE-DE-FRONT-OFFICE_20095986) |
 
 ## About This Role
 
-This business analyst position at Acciona was posted on 2026-05-12.
+This business analyst position at Acciona was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

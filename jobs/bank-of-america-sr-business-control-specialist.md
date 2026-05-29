@@ -1,16 +1,16 @@
-# Sr. Business Control Specialist at Bank of America
+# Sr Business Control Specialist at Bank of America
 
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Sr-Business-Control-Specialist_26005138) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Plano/Sr-Business-Control-Specialist_26015875-2) |
 
 ## About This Role
 
-This business analyst position at Bank of America was posted on 2026-02-23.
+This business analyst position at Bank of America was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

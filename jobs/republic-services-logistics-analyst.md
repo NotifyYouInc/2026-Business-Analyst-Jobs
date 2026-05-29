@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cedar Rapids, Iowa, United States |
+| Location | Palm Bay, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Cedar-Rapids-IA-USA/Logistics-Analyst_R-175504) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Palm-Bay-FL-USA/Logistics-Analyst_R-175942) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-05-19.
+This business analyst position at Republic Services was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

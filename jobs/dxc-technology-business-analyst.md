@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Williamsville, New York, United States |
+| Location | Shanghai, Shanghai, China |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---NY---WILLIAMSVILLE/Business-Analyst_51579798) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Business-Analyst_51580981-1) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-05-05.
+This business analyst position at DXC Technology was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

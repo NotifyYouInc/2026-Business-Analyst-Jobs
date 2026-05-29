@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Monterrey/Business-Analyst_14333016) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Monterrey/Business-Analyst_14393384) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-05-20.
+This business analyst position at Accenture was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

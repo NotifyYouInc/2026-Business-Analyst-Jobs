@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=105822) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=114168) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-04-27.
+This business analyst position at IBM was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Montevideo, Montevideo Department, Uruguay |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000123528408-fpt-business-analyst) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000127727296-fpt-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Syngenta was posted on 2026-04-28.
+This business analyst position at Syngenta was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

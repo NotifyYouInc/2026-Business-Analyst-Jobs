@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Project Manager |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Business-Analyst_R16619) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Business Analyst |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Charlotte-128/Business-Analyst_R17042) |
 
 ## About This Role
 
-This project manager position at Pacific Life was posted on 2026-03-17.
+This business analyst position at Pacific Life was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

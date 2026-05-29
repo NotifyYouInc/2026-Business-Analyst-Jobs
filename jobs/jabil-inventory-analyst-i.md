@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Florence, Alabama, United States |
+| Location | Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Inventory-Analyst-I_J2449815) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Inventory-Analyst-I_J2448129) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-05-12.
+This business analyst position at Jabil was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
