@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | Livonia, Michigan, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Charlotte-NC-28206/Ryder-s-Rental-Management-Trainee-Program_R172941) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Livonia-MI-48150/Ryder-s-Rental-Management-Trainee-Program_R173040) |
 
 ## About This Role
 
-This leadership development program position at Ryder System was posted on 2026-05-20.
+This leadership development program position at Ryder System was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

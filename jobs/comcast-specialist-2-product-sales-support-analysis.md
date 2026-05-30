@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/GA---Atlanta-2605-Circle-75-Pkwy-SE/Specialist-2--Product-Sales-Support---Analysis_R435323) |
+| Location | Pembroke Pines, Florida, United States |
+| Category | Corporate Finance |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/FL---Pembroke-Pines---1200-SW-145th-Ave-Suite-301/Specialist-2--Product-Sales-Support---Analysis_R437370-1) |
 
 ## About This Role
 
-This business analyst position at Comcast was posted on 2026-04-17.
+This corporate finance position at Comcast was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

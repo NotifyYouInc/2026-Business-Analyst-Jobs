@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Policy-Analyst_R0240354) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Policy-Analyst_R0240769) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-05-14.
+This business analyst position at Booz Allen was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

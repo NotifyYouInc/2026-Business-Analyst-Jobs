@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amcor](https://scoutify.ai/companies/amcor?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pittston, Pennsylvania, United States |
+| Location | Syracuse, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Pittston-PA/Production-Scheduler_REQ_90894) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/RPSNA-Syracuse-NY/Production-Scheduler_REQ_91159) |
 
 ## About This Role
 
-This business analyst position at Amcor was posted on 2026-05-15.
+This business analyst position at Amcor was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

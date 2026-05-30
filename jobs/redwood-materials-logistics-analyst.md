@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redwood Materials](https://scoutify.ai/companies/redwood-materials?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nevada, US |
+| Location | Ridgeville, South Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/redwoodmaterials/jobs/5992035004?gh_jid=5992035004) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://boards.greenhouse.io/redwoodmaterials/jobs/5992006004?gh_jid=5992006004) |
 
 ## About This Role
 
-This business analyst position at Redwood Materials was posted on 2026-05-13.
+This business analyst position at Redwood Materials was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Account Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013183236-allergan-practice-consultant-allergan-aesthetics-san-francisco-ca) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013271976-allergan-practice-consultant-allergan-aesthetics-san-francisco-ca) |
 
 ## About This Role
 
-This account manager position at AbbVie was posted on 2026-05-18.
+This account manager position at AbbVie was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tigard, Oregon, United States |
+| Location | Davenport, Iowa, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Tigard-OR-97224/Rental-Management-Trainee_R172760) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Davenport-IA-52806/Rental-Management-Trainee_R173027) |
 
 ## About This Role
 
-This leadership development program position at Ryder System was posted on 2026-05-18.
+This leadership development program position at Ryder System was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

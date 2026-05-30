@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Deerfield, Illinois, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---IL---Deerfield/Commercial-Analytics-Manager_R-232598-1) |
+| Location | Thousand Oaks, California, United States |
+| Category | Marketing |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Commercial-Analytics-Manager_R-245210) |
 
 ## About This Role
 
-This business analyst position at Amgen was posted on 2026-02-04.
+This marketing position at Amgen was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

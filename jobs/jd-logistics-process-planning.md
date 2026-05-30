@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jd](https://scoutify.ai/companies/jd?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Oberhausen, North Rhine-Westphalia, Germany |
+| Location | Los Angeles, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/DEU-North-Rhine-Westphalia-Oberhausen/Logistics-Process-Planning_JR102061) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/USA-California-Los-Angeles/Logistics-Process-Planning_JR102629) |
 
 ## About This Role
 
-This business analyst position at Jd was posted on 2026-04-01.
+This business analyst position at Jd was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

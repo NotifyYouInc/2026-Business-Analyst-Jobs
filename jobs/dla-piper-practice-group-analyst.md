@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DLA Piper](https://scoutify.ai/companies/dla-piper?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Palo Alto, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/New-York-NY/Practice-Group-Analyst_R2026-2109) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/Palo-Alto-CA/Practice-Group-Analyst_R2026-2503) |
 
 ## About This Role
 
-This business analyst position at DLA Piper was posted on 2026-02-23.
+This business analyst position at DLA Piper was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

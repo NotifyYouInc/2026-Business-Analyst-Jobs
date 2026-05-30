@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Account Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000122716191-trilingual-business-manager-mwd) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000127904064-trilingual-business-manager-mwd) |
 
 ## About This Role
 
-This account manager position at Everience was posted on 2026-04-24.
+This account manager position at Everience was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

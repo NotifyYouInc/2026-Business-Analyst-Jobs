@@ -5,12 +5,12 @@
 | Company | [Anglo American](https://scoutify.ai/companies/angloamerican?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000127747036-especialista-de-processos-global-invoice-to-pay-itp) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000127967175-especialista-de-processos-global-invoice-to-pay-itp) |
 
 ## About This Role
 
-This business analyst position at Anglo American was posted on 2026-05-21.
+This business analyst position at Anglo American was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sacramento, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Revenue-Cycle-Analyst-IV_R-128018) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Revenue-Cycle-Analyst-IV_R-130969) |
 
 ## About This Role
 
-This business analyst position at Sutter Health was posted on 2026-04-17.
+This business analyst position at Sutter Health was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/IT-Business-Lead-Analyst_26949962) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/6400-LAS-COLINAS-BLVD--IRVING/IT-Business-Lead-Analyst_26961374) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-03-30.
+This business analyst position at Citigroup was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

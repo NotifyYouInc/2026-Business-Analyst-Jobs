@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nuffield Health](https://scoutify.ai/companies/nuffield-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Woking, England, United Kingdom |
+| Location | Cambridge, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://nuffieldhealth.wd3.myworkdayjobs.com/nh_careers/job/Woking/Business-Administrator_JR0097047-2) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://nuffieldhealth.wd3.myworkdayjobs.com/nh_careers/job/Cambridge/Business-Administrator_JR0098367) |
 
 ## About This Role
 
-This business analyst position at Nuffield Health was posted on 2026-04-21.
+This business analyst position at Nuffield Health was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

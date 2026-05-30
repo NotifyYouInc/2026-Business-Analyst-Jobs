@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Jersey, US |
+| Location | Orlando, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Mt-Olive-NJ/RME-Planner_REQ503783) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Orlando-FL/RME-Planner_REQ509454-1) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-30.
+This business analyst position at JLL was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

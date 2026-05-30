@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mooresville, North Carolina, United States |
 | Category | Brand Marketing |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Lead-Analyst-Digital-Brand-Advocate_JR-02503649) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Lead-Analyst-Digital-Brand-Advocate_JR-02501272-1) |
 
 ## About This Role
 
-This brand marketing position at Lowe's was posted on 2026-05-08.
+This brand marketing position at Lowe's was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

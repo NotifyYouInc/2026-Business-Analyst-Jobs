@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Rhode Island, US |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Client-Benefits---Senior-Analyst_R0898769) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Client-Benefits---Senior-Analyst_R0870999-1) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-05-07.
+This business analyst position at CVS Health was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

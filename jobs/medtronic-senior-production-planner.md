@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Grand Rapids, Michigan, United States |
+| Location | Menlo Park, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Grand-Rapids-Michigan-United-States-of-America/Senior-Production-Planner_R64034) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Menlo-Park-California-United-States-of-America/Senior-Production-Planner_R66984-1) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-04-14.
+This business analyst position at Medtronic was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

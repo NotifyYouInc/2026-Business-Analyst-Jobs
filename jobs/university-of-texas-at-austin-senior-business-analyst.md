@@ -5,12 +5,12 @@
 | Company | [University of Texas at Austin](https://scoutify.ai/companies/university-of-texas-at-austin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Senior-Business-Analyst_R_00046099) |
+| Posted | 2026-05-23 |
+| Apply | [View on company site](https://utaustin.wd1.myworkdayjobs.com/utstaff/job/AUSTIN-TX/Senior-Business-Analyst_R_00046342) |
 
 ## About This Role
 
-This business analyst position at University of Texas at Austin was posted on 2026-05-14.
+This business analyst position at University of Texas at Austin was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

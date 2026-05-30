@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hove, England, United Kingdom |
 | Category | Leadership Development Program |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000124128250-apprenticeship-business-analyst-hove-2026) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000127907389-apprenticeship-business-analyst-hove-2026) |
 
 ## About This Role
 
-This leadership development program position at Legal & General was posted on 2026-05-01.
+This leadership development program position at Legal & General was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Dungarvin](https://scoutify.ai/companies/dungarvin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Long Beach, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000127525748-utilization-coordinator) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Dungarvin/744000127919728-utilization-coordinator) |
 
 ## About This Role
 
-This business analyst position at Dungarvin was posted on 2026-05-20.
+This business analyst position at Dungarvin was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

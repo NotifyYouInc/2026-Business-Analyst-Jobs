@@ -5,12 +5,12 @@
 | Company | [HarbourVest](https://scoutify.ai/companies/harbourvest?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Boston, Massachusetts, United States |
 | Category | Venture Capital / Private Equity |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Associate--Portfolio-Operations--Credit_R2330) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Boston/Associate--Portfolio-Operations--Credit_R2369-1) |
 
 ## About This Role
 
-This venture capital / private equity position at HarbourVest was posted on 2026-04-13.
+This venture capital / private equity position at HarbourVest was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

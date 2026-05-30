@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Turkey |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Besiktas-Istanbul-Turkey/Analyst--Business-Process-Improvement_R-276119) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Dublin-Ireland-Mountain-View/Analyst--Business-Process-Improvement_R-275063) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-04-28.
+This business analyst position at Mastercard was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

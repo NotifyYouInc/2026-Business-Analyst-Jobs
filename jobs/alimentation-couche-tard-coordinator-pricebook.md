@@ -5,12 +5,12 @@
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-MCM-Columbus-IN/Coordinator--Pricebook_R589953-1) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-MCM-Columbus-IN/Coordinator--Pricebook_R591220) |
 
 ## About This Role
 
-This business analyst position at Alimentation Couche-Tard was posted on 2026-05-18.
+This business analyst position at Alimentation Couche-Tard was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 
