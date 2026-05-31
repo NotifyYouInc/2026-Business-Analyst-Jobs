@@ -1,16 +1,16 @@
-# Senior Product Analyst - Account Details at WISE
+# Senior Account Director, New Business & Marketing - Award Winning Global Communications Agency at FleishmanHillard
 
 | Field | Details |
 |-------|---------|
-| Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [FleishmanHillard](https://scoutify.ai/companies/fleishmanhillard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Business Analyst |
+| Category | Marketing |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127992509-senior-product-analyst-account-details) |
+| Apply | [View on company site](https://fleishmanhillard.com/join-us/open-positions/?gh_jid=5144010007) |
 
 ## About This Role
 
-This business analyst position at WISE was posted on 2026-05-23.
+This marketing position at FleishmanHillard was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

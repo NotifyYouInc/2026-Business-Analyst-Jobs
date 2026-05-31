@@ -1,16 +1,16 @@
-# Business Analyst at EVERSANA
+# Associate Director at Cushman & Wakefield
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mason, Ohio, United States |
+| Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128001309-business-analyst) |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Chennai-India/Associate-Director_R-AOP-0084) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-05-23.
+This business analyst position at Cushman & Wakefield was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

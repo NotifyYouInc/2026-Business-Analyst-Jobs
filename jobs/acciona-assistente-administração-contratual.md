@@ -1,16 +1,16 @@
-# Business Analyst at EVERSANA
+# ASSISTENTE ADMINISTRAÇÃO CONTRATUAL at Acciona
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mason, Ohio, United States |
+| Company | [Acciona](https://scoutify.ai/companies/acciona?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Vitória, Espírito Santo, Brazil |
 | Category | Business Analyst |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128001309-business-analyst) |
+| Apply | [View on company site](https://acciona.wd3.myworkdayjobs.com/acciona_employment_channel/job/Vitoria/ASSISTENTE-ADMINISTRAO-CONTRATUAL_20097057) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-05-23.
+This business analyst position at Acciona was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

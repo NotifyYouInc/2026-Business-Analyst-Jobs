@@ -1,16 +1,16 @@
-# Business Analyst at EVERSANA
+# Analyst, Training & Engagement at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mason, Ohio, United States |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128001309-business-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013281566-analyst-training-engagement) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-05-23.
+This business analyst position at City of New York was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business Analyst at EVERSANA
+# Operations Analyst at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mason, Ohio, United States |
+| Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128001309-business-analyst) |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Operations-Analyst_R-0000172946-1) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-05-23.
+This business analyst position at Royal Bank of Canada was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 

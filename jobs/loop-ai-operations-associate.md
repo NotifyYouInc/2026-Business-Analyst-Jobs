@@ -1,16 +1,16 @@
-# Business Analyst at EVERSANA
+# AI Operations Associate at Loop
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mason, Ohio, United States |
+| Company | [Loop](https://scoutify.ai/companies/loop?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128001309-business-analyst) |
+| Posted | 2026-03-13 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/loop/jobs/5819779004) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-05-23.
+This business analyst position at Loop was posted on 2026-03-13.
 
 ## Get Real-Time Alerts
 

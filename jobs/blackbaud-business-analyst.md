@@ -1,16 +1,16 @@
-# Business Analyst at EVERSANA
+# Business Analyst at Blackbaud
 
 | Field | Details |
 |-------|---------|
-| Company | [EVERSANA](https://scoutify.ai/companies/eversana?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mason, Ohio, United States |
+| Company | [Blackbaud](https://scoutify.ai/companies/blackbaud?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
 | Posted | 2026-05-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERSANA1/744000128001309-business-analyst) |
+| Apply | [View on company site](https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Hyderabad---India/Business-Analyst_R0014221) |
 
 ## About This Role
 
-This business analyst position at EVERSANA was posted on 2026-05-23.
+This business analyst position at Blackbaud was posted on 2026-05-23.
 
 ## Get Real-Time Alerts
 
