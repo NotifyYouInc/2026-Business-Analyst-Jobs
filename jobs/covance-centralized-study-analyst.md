@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Karnataka, IN |
-| Category | Project Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Centralized-Study-Analyst_256138) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Business Analyst |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Centralized-Study-Analyst_262483) |
 
 ## About This Role
 
-This project manager position at Covance was posted on 2026-02-18.
+This business analyst position at Covance was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

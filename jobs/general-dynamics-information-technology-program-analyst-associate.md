@@ -5,12 +5,12 @@
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chesapeake, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-21 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chesapeake/Program-Analyst-Associate_RQ215203-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Chesapeake/Program-Analyst-Associate_RQ220644-1) |
 
 ## About This Role
 
-This business analyst position at General Dynamics Information Technology was posted on 2026-02-21.
+This business analyst position at General Dynamics Information Technology was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

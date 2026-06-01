@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eiffage Energie Systemes](https://scoutify.ai/companies/eiffage-energie-systemes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nantes, Pays de la Loire, France |
+| Location | Nice, Provence-Alpes-Côte d'Azur, France |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://eiffage.wd3.myworkdayjobs.com/eiffage_careers/job/Thouare-sur-loire/Charg-tudes-de-prix-F-H_JR2026-1309) |
+| Posted | 2026-05-24 |
+| Apply | [View on company site](https://eiffage.wd3.myworkdayjobs.com/eiffage_careers/job/Nice/Charg-tudes-de-prix-F-H_JR2026-73) |
 
 ## About This Role
 
-This business analyst position at Eiffage Energie Systemes was posted on 2026-02-27.
+This business analyst position at Eiffage Energie Systemes was posted on 2026-05-24.
 
 ## Get Real-Time Alerts
 

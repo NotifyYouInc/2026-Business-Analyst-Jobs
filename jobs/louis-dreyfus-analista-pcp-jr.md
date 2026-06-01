@@ -6,7 +6,7 @@
 | Location | Matipó, Minas Gerais, Brazil |
 | Category | Business Analyst |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000127918965-analista-pcp-jr) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000127958699-analista-pcp-jr) |
 
 ## About This Role
 

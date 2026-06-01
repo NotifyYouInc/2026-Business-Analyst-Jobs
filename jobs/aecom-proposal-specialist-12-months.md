@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000124760210-proposal-specialist-12-months) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000128043419-proposal-specialist-12-months) |
 
 ## About This Role
 
-This business analyst position at AECOM was posted on 2026-05-05.
+This business analyst position at AECOM was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

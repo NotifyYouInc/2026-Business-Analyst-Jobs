@@ -5,12 +5,12 @@
 | Company | [LGT](https://scoutify.ai/companies/lgt?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://lgt.wd3.myworkdayjobs.com/lgtcurrentvacancies/job/Sydney/Business-Analyst_JR7179-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://lgt.wd3.myworkdayjobs.com/lgtcurrentvacancies/job/Sydney/Business-Analyst_JR7837-1) |
 
 ## About This Role
 
-This business analyst position at LGT was posted on 2026-04-01.
+This business analyst position at LGT was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

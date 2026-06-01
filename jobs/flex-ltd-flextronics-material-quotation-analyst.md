@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Israel |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Israel-Migdal-Ha-Emek/Material-Quotation-Analyst_WD215660) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Material-Quotation-Analyst_WD221525) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-02-26.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

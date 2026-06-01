@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Data Engineer |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001090154-data-ai-process-redesign-specialist) |
+| Category | Business Analyst |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001100849-data-ai-process-redesign-specialist) |
 
 ## About This Role
 
-This data engineer position at NCS Australia was posted on 2026-05-20.
+This business analyst position at NCS Australia was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

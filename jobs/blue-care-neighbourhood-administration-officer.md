@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Care](https://scoutify.ai/companies/blue-care?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Maryborough, Queensland, Australia |
+| Location | Australia |
 | Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Maryborough/Neighbourhood-Administration-Officer_JR121137) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Townsville-City/Neighbourhood-Administration-Officer_JR121257) |
 
 ## About This Role
 
-This business analyst position at Blue Care was posted on 2026-05-19.
+This business analyst position at Blue Care was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

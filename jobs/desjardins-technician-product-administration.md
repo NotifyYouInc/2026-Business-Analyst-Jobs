@@ -6,7 +6,7 @@
 | Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
 | Posted | 2026-05-22 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Technicien-ou-technicienne-en-administration-des-produits--Secteur-Revenu_R2606941) |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Technicien-ou-technicienne-en-Gestion-de-certificats_R2607002-1) |
 
 ## About This Role
 
