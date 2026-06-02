@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Business-Advisory-Specialist_AIOC-S01596921-1) |
+| Location | Chennai, Tamil Nadu, India |
+| Category | Financial Crimes & AML |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Business-Advisory-Senior-Analyst_AIOC-S01647536-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-04-30.
+This financial crimes & aml position at Accenture was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

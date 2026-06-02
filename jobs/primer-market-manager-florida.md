@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Primer](https://scoutify.ai/companies/primer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Florida, US |
+| Location | Miami, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/primer/e50f3bd1-c30d-409d-91cf-c162dba9f0c2) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/primer/660d0223-7602-4cf0-bd61-1f6788f55976) |
 
 ## About This Role
 
-This business analyst position at Primer was posted on 2026-04-09.
+This business analyst position at Primer was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

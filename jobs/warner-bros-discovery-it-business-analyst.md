@@ -5,12 +5,12 @@
 | Company | [Warner Bros Discovery](https://scoutify.ai/companies/warner-bros-discovery?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Mexico-City-Paseo-de-las-Palmas-No425-701/IT-Business-Analyst_R000103653) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://warnerbros.wd5.myworkdayjobs.com/global/job/Mexico-City---Av-Paseo-de-las-Palmas-405/IT-Business-Analyst_R000105654) |
 
 ## About This Role
 
-This business analyst position at Warner Bros Discovery was posted on 2026-03-09.
+This business analyst position at Warner Bros Discovery was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

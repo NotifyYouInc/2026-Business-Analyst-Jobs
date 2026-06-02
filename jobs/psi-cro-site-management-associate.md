@@ -5,12 +5,12 @@
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Leadership Development Program |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000125020150-site-management-associate) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000128210489-site-management-associate) |
 
 ## About This Role
 
-This leadership development program position at Psi Cro was posted on 2026-05-07.
+This leadership development program position at Psi Cro was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

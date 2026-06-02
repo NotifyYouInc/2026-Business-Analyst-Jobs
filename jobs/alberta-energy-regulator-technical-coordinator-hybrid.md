@@ -1,0 +1,22 @@
+# Technical Coordinator - Hybrid at Alberta Energy Regulator
+
+| Field | Details |
+|-------|---------|
+| Company | [Alberta Energy Regulator](https://scoutify.ai/companies/alberta-energy-regulator?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://aer.wd3.myworkdayjobs.com/aer/job/Calgary/Technical-Coordinator---Hybrid_R3996-1) |
+
+## About This Role
+
+This business analyst position at Alberta Energy Regulator was posted on 2026-05-25.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

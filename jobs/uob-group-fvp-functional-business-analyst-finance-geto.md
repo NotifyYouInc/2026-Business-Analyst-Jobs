@@ -6,7 +6,7 @@
 | Location | Singapore |
 | Category | Business Analyst |
 | Posted | 2026-05-25 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Central-Region-City-Area/FVP-Functional-Business-Analyst---Finance--GETO_JR87408) |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/Central-Region-City-Area/FVP-Functional-Business-Analyst---Finance--GETO_JR87542) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# [Fresh Grad] Planner 1, Production Planning at SanDisk
+# (Fresh Grad) Planner 1, Production Planning at SanDisk
 
 | Field | Details |
 |-------|---------|
 | Company | [SanDisk](https://scoutify.ai/companies/sandisk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Malaysia |
+| Location | Batu Kawan, Penang, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000118822887-fresh-grad-planner-1-production-planning) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sandisk/744000128274175-fresh-grad-planner-1-production-planning) |
 
 ## About This Role
 
-This business analyst position at SanDisk was posted on 2026-04-06.
+This business analyst position at SanDisk was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

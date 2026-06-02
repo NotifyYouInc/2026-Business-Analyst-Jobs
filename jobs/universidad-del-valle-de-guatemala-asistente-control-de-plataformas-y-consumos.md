@@ -5,12 +5,12 @@
 | Company | [Universidad del Valle de Guatemala](https://scoutify.ai/companies/universidaddelvalledeguatemala?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Guatemala |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversidadDelValleDeGuatemala/744000127500069-asistente-control-de-plataformas-y-consumos) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UniversidadDelValleDeGuatemala/744000128259380-asistente-control-de-plataformas-y-consumos) |
 
 ## About This Role
 
-This business analyst position at Universidad del Valle de Guatemala was posted on 2026-05-20.
+This business analyst position at Universidad del Valle de Guatemala was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Thunder Bay, Ontario, Canada |
-| Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/GREATER-SUDBURY--GRAND-SUDBURY-Ontario-Canada/Group-Advantage-Consultant_R-0000167871) |
+| Location | 2 locations |
+| Category | Account Manager |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MISSISSAUGA-Ontario-Canada/Group-Advantage-Consultant_R-0000173873-1) |
 
 ## About This Role
 
-This business analyst position at Royal Bank of Canada was posted on 2026-04-14.
+This account manager position at Royal Bank of Canada was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

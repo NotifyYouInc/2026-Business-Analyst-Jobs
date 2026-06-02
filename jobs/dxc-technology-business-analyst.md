@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Business-Analyst_51580981-1) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/SGP---SINGAPORE/Business-Analyst_51580794) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-05-22.
+This business analyst position at DXC Technology was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

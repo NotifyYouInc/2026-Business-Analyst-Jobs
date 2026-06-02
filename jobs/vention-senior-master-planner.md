@@ -5,12 +5,12 @@
 | Company | [Vention](https://scoutify.ai/companies/vention?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vention/744000124986359-senior-master-planner) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vention/744000128223959-senior-master-planner) |
 
 ## About This Role
 
-This business analyst position at Vention was posted on 2026-05-06.
+This business analyst position at Vention was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

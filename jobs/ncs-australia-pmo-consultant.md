@@ -5,12 +5,12 @@
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Project Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001091435-pmo-consultant) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001103706-pmo-consultant) |
 
 ## About This Role
 
-This project manager position at NCS Australia was posted on 2026-05-20.
+This project manager position at NCS Australia was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

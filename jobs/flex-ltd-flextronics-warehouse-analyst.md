@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Warehouse-Analyst_WD217300-1) |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Warehouse-Analyst_WD221315-1) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-03-17.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

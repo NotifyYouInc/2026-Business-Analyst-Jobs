@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
-| Category | Program Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Monterrey/Delivery-Operations-Associate-Manager_14197056) |
+| Location | Mumbai, Maharashtra, India |
+| Category | Business Analyst |
+| Posted | 2026-05-25 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Delivery-Operations-Associate-Manager_AIOC-S01647538-1) |
 
 ## About This Role
 
-This program manager position at Accenture was posted on 2026-05-18.
+This business analyst position at Accenture was posted on 2026-05-25.
 
 ## Get Real-Time Alerts
 

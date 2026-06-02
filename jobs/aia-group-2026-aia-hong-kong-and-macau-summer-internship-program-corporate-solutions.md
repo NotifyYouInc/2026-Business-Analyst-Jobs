@@ -1,16 +1,16 @@
-# 2026 AIA Hong Kong and Macau Summer Internship Program - Corporate Solutions at AIA Group
+# 2026 AIA Hong Kong and Macau Summer Internship Program – Corporate Solutions at AIA Group
 
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Hong-Kong-HK-AIA-Hong-Kong--Macau/XMLNAME-2026-AIA-Hong-Kong-and-Macau-Summer-Internship-Program---Corporate-Solutions_JR-66394) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Hong-Kong-HK-AIA-Hong-Kong--Macau/XMLNAME-2026-AIA-Hong-Kong-and-Macau-Summer-Internship-Program---Corporate-Solutions_JR-66637-1) |
 
 ## About This Role
 
-This business analyst position at AIA Group was posted on 2026-05-07.
+This business analyst position at AIA Group was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

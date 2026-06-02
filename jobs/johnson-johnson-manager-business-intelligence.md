@@ -1,16 +1,16 @@
-# Manager, Business Intelligence at Johnson & Johnson
+# Manager - Business Intelligence at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Manager--Business-Intelligence_R-072495-1) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bangalore-Karnataka-India/Manager---Business-Intelligence_R-078867) |
 
 ## About This Role
 
-This business analyst position at Johnson & Johnson was posted on 2026-05-01.
+This business analyst position at Johnson & Johnson was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 
