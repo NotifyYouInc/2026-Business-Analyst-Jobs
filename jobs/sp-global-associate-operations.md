@@ -5,12 +5,12 @@
 | Company | [S&P Global](https://scoutify.ai/companies/s-p-global?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Associate-Operations_327456-1) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/Gurugram-Haryana/Associate-Operations_328304-2) |
 
 ## About This Role
 
-This business analyst position at S&P Global was posted on 2026-05-24.
+This business analyst position at S&P Global was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

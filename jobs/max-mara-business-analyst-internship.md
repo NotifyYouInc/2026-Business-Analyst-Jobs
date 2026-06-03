@@ -5,12 +5,12 @@
 | Company | [Max Mara](https://scoutify.ai/companies/maxmara?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Italy |
 | Category | Business Analyst |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MaxMaraFashionGroup/744000108451835-business-analyst-internship) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MaxMaraFashionGroup/744000128474858-business-analyst-internship) |
 
 ## About This Role
 
-This business analyst position at Max Mara was posted on 2026-02-10.
+This business analyst position at Max Mara was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

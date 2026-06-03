@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fort Wayne, Indiana, United States |
+| Location | Bayonne, New Jersey, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---IN---Fort-Wayne---9798-Smith-Road/RME-Planner_R317449) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---NJ---Bayonne---101-Port-Lincoln-Rd/RME-Planner_R321882) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-05-05.
+This business analyst position at Cushman & Wakefield was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

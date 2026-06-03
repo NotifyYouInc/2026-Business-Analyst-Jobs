@@ -5,12 +5,12 @@
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tirana, Tirana, Albania |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000125352598-junior-evaluation-quality-manager) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000128442141-junior-evaluation-quality-manager) |
 
 ## About This Role
 
-This business analyst position at AUTO1 Group was posted on 2026-05-08.
+This business analyst position at AUTO1 Group was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

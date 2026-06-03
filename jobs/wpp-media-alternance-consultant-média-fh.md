@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5217586008) |
+| Category | Marketing |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5230573008) |
 
 ## About This Role
 
-This business analyst position at WPP Media was posted on 2026-05-12.
+This marketing position at WPP Media was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

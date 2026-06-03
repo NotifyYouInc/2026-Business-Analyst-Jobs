@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anglicare Sydney](https://scoutify.ai/companies/anglicare-sydney?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Location | Macquarie Park, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://anglicare.wd105.myworkdayjobs.com/anglicare_careers/job/Anglicare-Hub-Macquarie-Park/Data-Business-Analyst_JR6059) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://anglicare.wd105.myworkdayjobs.com/anglicare_careers/job/Anglicare-Hub-Macquarie-Park/Data-Business-Analyst_JR7261) |
 
 ## About This Role
 
-This business analyst position at Anglicare Sydney was posted on 2026-02-17.
+This business analyst position at Anglicare Sydney was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Warsaw-Poland/Business-Technology-Analyst_2026-0013401) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/Business-Technology-Analyst_2026-0013389) |
 
 ## About This Role
 
-This business analyst position at U.S. Bancorp was posted on 2026-05-22.
+This business analyst position at U.S. Bancorp was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

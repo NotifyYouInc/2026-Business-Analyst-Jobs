@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Munich, Bavaria, Germany |
-| Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000127724939-trainee-global-operations-products-processes-mwd) |
+| Category | Business Analyst |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000128641079-trainee-global-operations-products-processes-mwd) |
 
 ## About This Role
 
-This product manager position at Sixt was posted on 2026-05-21.
+This business analyst position at Sixt was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Specialist-Quality-Audit_R0000430731) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Specialist-Quality-Audit_R0000438259) |
 
 ## About This Role
 
-This business analyst position at Target was posted on 2026-03-13.
+This business analyst position at Target was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

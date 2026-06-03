@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000126902858-intern-gip-system-project-process-improvement) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000128414639-intern-gip-system-project-process-improvement) |
 
 ## About This Role
 
-This business analyst position at Grab was posted on 2026-05-18.
+This business analyst position at Grab was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

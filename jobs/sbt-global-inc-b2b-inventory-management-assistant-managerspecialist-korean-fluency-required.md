@@ -5,12 +5,12 @@
 | Company | [SBT Global, Inc.](https://scoutify.ai/companies/sbt-global-inc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Irvine, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990013192086-b2b-inventory-management-assistant-managerspecialist-korean-fluency-required) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990013310286-b2b-inventory-management-assistant-managerspecialist-korean-fluency-required) |
 
 ## About This Role
 
-This business analyst position at SBT Global, Inc. was posted on 2026-05-18.
+This business analyst position at SBT Global, Inc. was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

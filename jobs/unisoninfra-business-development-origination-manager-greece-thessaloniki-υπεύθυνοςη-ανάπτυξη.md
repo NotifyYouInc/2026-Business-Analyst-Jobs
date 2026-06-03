@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Unisoninfra](https://scoutify.ai/companies/unisoninfra?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Thessaloníki, Central Macedonia, Greece |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/unisoninfra/c72a3ba9-b10b-4edc-8cb1-41a158a91eff) |
+| Category | Account Manager |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://jobs.lever.co/unisoninfra/498a6178-a638-4b4f-a4cb-7f7fb19ff612) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Unisoninfra was posted on 2026-04-20.
+This account manager position at Unisoninfra was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

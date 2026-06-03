@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---San-Antonio-TX/Transportation-Analyst_JR2026507076-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Transportation-Analyst_JR2026512028-1) |
 
 ## About This Role
 
-This business analyst position at Boeing was posted on 2026-05-07.
+This business analyst position at Boeing was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 
