@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Farmacia del Ahorro](https://scoutify.ai/companies/farmacia-del-ahorro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tapachula, Chiapas, Mexico |
+| Location | Morelia, Michoacán, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/TAPACHULA-CHIAPAS/GERENTE-ADMINISTRATIVO--PLAZA-_JR167406-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/CD-MORELIA-CDML/GERENTE-ADMINISTRATIVO--PLAZA-_JR162349) |
 
 ## About This Role
 
-This business analyst position at Farmacia del Ahorro was posted on 2026-05-15.
+This business analyst position at Farmacia del Ahorro was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

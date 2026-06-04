@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Dalian, Liaoning, China |
 | Category | Corporate Finance |
-| Posted | 2026-05-17 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Order-to-Cash-Operations-Associate_AIOC-S01645838-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Dalian/Order-to-Cash-Operations-Associate_14216618) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-05-17.
+This corporate finance position at Accenture was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

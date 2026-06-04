@@ -5,12 +5,12 @@
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Costa Mesa, California, United States |
 | Category | Program Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5136292007?gh_jid=5136292007) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5148315007?gh_jid=5148315007) |
 
 ## About This Role
 
-This program manager position at Anduril was posted on 2026-05-18.
+This program manager position at Anduril was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

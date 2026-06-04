@@ -5,12 +5,12 @@
 | Company | [Oowlish Technology](https://scoutify.ai/companies/oowlish-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://jobs.lever.co/oowlish/e7e136d9-4954-4d10-a0b2-391d42f96316) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.lever.co/oowlish/b97a9966-95de-44fc-8673-0743fa57da6f) |
 
 ## About This Role
 
-This business analyst position at Oowlish Technology was posted on 2026-05-11.
+This business analyst position at Oowlish Technology was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

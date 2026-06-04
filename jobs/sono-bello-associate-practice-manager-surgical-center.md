@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sono Bello](https://scoutify.ai/companies/sono-bello?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Baton Rouge, Louisiana, United States |
+| Location | Birmingham, Alabama, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/sonobello/jobs/5129582008) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/sonobello/jobs/5232970008) |
 
 ## About This Role
 
-This business analyst position at Sono Bello was posted on 2026-04-22.
+This business analyst position at Sono Bello was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

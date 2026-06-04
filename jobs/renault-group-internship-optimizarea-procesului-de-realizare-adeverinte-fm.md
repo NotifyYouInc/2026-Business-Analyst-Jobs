@@ -5,12 +5,12 @@
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mioveni, Arges, Romania |
 | Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Mioveni/XMLNAME--Internship--Optimizarea-procesului-de-realizare-adeverinte--F-M-_JOBREQ_50251154) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Mioveni/XMLNAME--Internship--Optimizarea-procesului-de-realizare-adeverinte--F-M-_JOBREQ_50266100) |
 
 ## About This Role
 
-This business analyst position at Renault Group was posted on 2026-03-12.
+This business analyst position at Renault Group was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

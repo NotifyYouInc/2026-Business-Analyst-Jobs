@@ -5,12 +5,12 @@
 | Company | [Alimentiv](https://scoutify.ai/companies/alimentiv?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.lever.co/alimentiv-2/719e6715-ba1e-4255-9c4a-a2b463f3cea7) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.lever.co/alimentiv-2/640a2fdf-682b-42ec-9b3f-946d30aad545) |
 
 ## About This Role
 
-This it & systems administration position at Alimentiv was posted on 2026-05-25.
+This it & systems administration position at Alimentiv was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Colorado, US |
-| Category | Project Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09507---Colorado-Remote/Analyst--Business--ROPS-_R0452314) |
+| Location | Atlanta, Georgia, United States |
+| Category | Business Analyst |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09528---Georgia-Remote/Analyst--Business--ROPS-_R0460301) |
 
 ## About This Role
 
-This project manager position at DaVita was posted on 2026-04-03.
+This business analyst position at DaVita was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

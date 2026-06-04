@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qube Research & Technologies](https://scoutify.ai/companies/qube-research-technologies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Hong Kong, Hong Kong |
 | Category | Project Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8554369002) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8563623002) |
 
 ## About This Role
 
-This project manager position at Qube Research & Technologies was posted on 2026-05-18.
+This project manager position at Qube Research & Technologies was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Temple, Texas, United States |
+| Location | New Albany, Indiana, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-TX-TEMPLE-06083-GROCERY/XMLNAME--USA--Assistant-General-Manager--Grocery---Full---MDC-_R-2519089-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/New-Albany-MS/XMLNAME--USA--Assistant-General-Manager--Grocery---Full---MDC-_R-2524269) |
 
 ## About This Role
 
-This business analyst position at Walmart was posted on 2026-05-22.
+This business analyst position at Walmart was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

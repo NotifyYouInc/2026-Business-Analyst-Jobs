@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Centerville, Ohio, United States |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Centerville-Post-Acute/Business-Office-Manager_JR169884) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Mesa-Hills-Post-Acute/Business-Office-Manager_JR170969) |
 
 ## About This Role
 
-This business analyst position at Pacs was posted on 2026-05-19.
+This business analyst position at Pacs was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

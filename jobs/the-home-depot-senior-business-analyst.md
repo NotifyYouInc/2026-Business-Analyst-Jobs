@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Senior-Business-Analyst_Req167330) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/HD-QUOTE-CENTER-HDQC-OFFICE-VANCOUVER---4480/Senior-Business-Analyst_Req181810-1) |
 
 ## About This Role
 
-This business analyst position at The Home Depot was posted on 2026-02-12.
+This business analyst position at The Home Depot was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Project Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-North-Carolina-United-States-of-America/Pricing-Specialist_JR00034875) |
+| Location | Beijing, Beijing, China |
+| Category | Business Analyst |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Pricing-Specialist_JR00035612) |
 
 ## About This Role
 
-This project manager position at ABB was posted on 2026-05-19.
+This business analyst position at ABB was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blue Care](https://scoutify.ai/companies/blue-care?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Australia |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Townsville-City/Neighbourhood-Administration-Officer_JR121257) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Torquay/Neighbourhood-Administration-Officer_JR121364) |
 
 ## About This Role
 
-This business analyst position at Blue Care was posted on 2026-05-25.
+This business analyst position at Blue Care was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

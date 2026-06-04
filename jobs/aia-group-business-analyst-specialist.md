@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Thailand |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-MY-AIA-Malaysia/Business-Analyst--Specialist_JR-66112) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/TH-AIA-Wellness-Amigo/Business-Analyst--Specialist_JR-67026) |
 
 ## About This Role
 
-This business analyst position at AIA Group was posted on 2026-05-18.
+This business analyst position at AIA Group was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

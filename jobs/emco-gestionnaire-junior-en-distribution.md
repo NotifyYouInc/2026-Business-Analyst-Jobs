@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EMCO](https://scoutify.ai/companies/emco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Laval, Quebec, Canada |
+| Location | Brossard, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EMCOCorporation/744000128245739-gestionnaire-junior-en-distribution) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EMCOCorporation/744000128770699-gestionnaire-junior-en-distribution) |
 
 ## About This Role
 
-This business analyst position at EMCO was posted on 2026-05-25.
+This business analyst position at EMCO was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

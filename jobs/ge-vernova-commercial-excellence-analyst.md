@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Commercial-Excellence-Analyst--Fully-Remote-_R5030831-2) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Commercial-Excellence-Analyst_R5043135-2) |
 
 ## About This Role
 
-This business analyst position at GE Vernova was posted on 2026-03-31.
+This business analyst position at GE Vernova was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

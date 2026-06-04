@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Manager--Global-Client-Experience-and-Insights_JR00121350-1) |
+| Category | Marketing |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Manager--Global-Client-Experience-and-Insights_JR00124378) |
 
 ## About This Role
 
-This business analyst position at Sun Life Financial was posted on 2026-03-12.
+This marketing position at Sun Life Financial was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

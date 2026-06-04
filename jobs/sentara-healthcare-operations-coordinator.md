@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Virginia Beach, Virginia, United States |
+| Location | Carrollton, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Virginia-Beach-VA/Operations-Coordinator_JR-97365) |
+| Posted | 2026-05-26 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Carrollton-VA/Operations-Coordinator_JR-99553) |
 
 ## About This Role
 
-This business analyst position at Sentara Healthcare was posted on 2026-04-23.
+This business analyst position at Sentara Healthcare was posted on 2026-05-26.
 
 ## Get Real-Time Alerts
 

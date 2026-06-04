@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Louisville, Kentucky, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Analyst--Contracts--Onsite-_01839976-1) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-KY-LOUISVILLE-500--1001-Cheri-Wy--BLDG-500-Ste-300-400-500/Analyst--Contracts--Onsite-_01848641) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-04-24.
+This business analyst position at RTX was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

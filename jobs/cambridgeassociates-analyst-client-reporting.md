@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cambridgeassociates](https://scoutify.ai/companies/cambridgeassociates?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Boston, Massachusetts, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://cambridgeassociates.wd5.myworkdayjobs.com/cambridge_associates/job/Dallas/Analyst--Client-Reporting_JR0000239) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://cambridgeassociates.wd5.myworkdayjobs.com/cambridge_associates/job/Boston/Analyst--Client-Reporting_JR0000265-1) |
 
 ## About This Role
 
-This business analyst position at Cambridgeassociates was posted on 2026-05-11.
+This business analyst position at Cambridgeassociates was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

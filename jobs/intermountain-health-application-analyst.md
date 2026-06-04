@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | West Valley City, Utah, United States |
+| Location | Broomfield, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Lake-Park-Building/Application-Analyst_R170822) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Peaks-Regional-Office/Application-Analyst_R171684) |
 
 ## About This Role
 
-This business analyst position at Intermountain Health was posted on 2026-05-07.
+This business analyst position at Intermountain Health was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

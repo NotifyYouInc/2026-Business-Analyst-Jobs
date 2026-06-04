@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico |
+| Location | Albuquerque, New Mexico, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/Production-Scheduler_JR00030082) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Production-Scheduler_JR00035235) |
 
 ## About This Role
 
-This business analyst position at ABB was posted on 2026-03-26.
+This business analyst position at ABB was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

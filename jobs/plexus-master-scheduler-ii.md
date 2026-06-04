@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plexus](https://scoutify.ai/companies/plexus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Xiamen, Fujian, China |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Guadalajara-Mexico/Master-Scheduler-II_R037953) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://plexus.wd5.myworkdayjobs.com/Plexus_Careers/job/Xiamen-China/Master-Scheduler-II_R038847) |
 
 ## About This Role
 
-This business analyst position at Plexus was posted on 2026-04-23.
+This business analyst position at Plexus was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

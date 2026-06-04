@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northmarq](https://scoutify.ai/companies/northmarq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Project Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5133129008) |
+| Location | Minneapolis, Minnesota, United States |
+| Category | Business Analyst |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5233282008) |
 
 ## About This Role
 
-This project manager position at Northmarq was posted on 2026-02-25.
+This business analyst position at Northmarq was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

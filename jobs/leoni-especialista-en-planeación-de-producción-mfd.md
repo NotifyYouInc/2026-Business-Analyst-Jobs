@@ -5,12 +5,12 @@
 | Company | [LEONI](https://scoutify.ai/companies/leoni?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000127977119-especialista-en-planeacion-de-produccion-mfd) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000128812799-especialista-en-planeacion-de-produccion-mfd) |
 
 ## About This Role
 
-This business analyst position at LEONI was posted on 2026-05-22.
+This business analyst position at LEONI was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

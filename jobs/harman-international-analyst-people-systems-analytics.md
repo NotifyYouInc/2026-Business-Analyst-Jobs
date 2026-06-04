@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Michigan, US |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/MX_-Juarez_5659-Los-Bravos-Park-Indust/Analyst--People-Systems---Analytics_R-53155-2026) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/US-Client-Site-Michigan/Analyst--People-Systems---Analytics_R-53282-2026) |
 
 ## About This Role
 
-This human resources / people ops position at HARMAN International was posted on 2026-05-11.
+This human resources / people ops position at HARMAN International was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

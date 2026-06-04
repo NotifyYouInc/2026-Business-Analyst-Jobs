@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Compliance & Risk Management |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000115890057-technical-business-analyst-regulatory-reporting) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000128870060-technical-business-analyst-regulatory-reporting) |
 
 ## About This Role
 
-This compliance & risk management position at Inetum was posted on 2026-03-20.
+This compliance & risk management position at Inetum was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
