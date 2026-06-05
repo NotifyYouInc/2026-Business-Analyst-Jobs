@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Crunchyroll, LLC](https://scoutify.ai/companies/crunchyroll-llc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tokyo, Tokyo, Japan |
-| Category | Business Analyst |
-| Posted | 2026-03-28 |
-| Apply | [View on company site](https://boards.greenhouse.io/crunchyroll/jobs/7763636?gh_jid=7763636) |
+| Category | Legal |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://boards.greenhouse.io/crunchyroll/jobs/7964091?gh_jid=7964091) |
 
 ## About This Role
 
-This business analyst position at Crunchyroll, LLC was posted on 2026-03-28.
+This legal position at Crunchyroll, LLC was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

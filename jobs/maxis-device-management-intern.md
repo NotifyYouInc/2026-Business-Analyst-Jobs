@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Maxis](https://scoutify.ai/companies/maxis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://maxine.wd3.myworkdayjobs.com/maxis-early-careers/job/Menara-Maxis/Device-Management-Intern_JR13017) |
+| Category | Marketing |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://maxine.wd3.myworkdayjobs.com/maxis-early-careers/job/Menara-Maxis/Device-Management-Intern_JR13385) |
 
 ## About This Role
 
-This business analyst position at Maxis was posted on 2026-05-06.
+This marketing position at Maxis was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

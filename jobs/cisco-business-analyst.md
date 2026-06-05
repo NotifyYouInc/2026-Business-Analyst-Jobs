@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | North Carolina, US |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Business-Analyst_2011242) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Business-Analyst_2013474-1) |
 
 ## About This Role
 
-This business analyst position at Cisco was posted on 2026-03-24.
+This business analyst position at Cisco was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

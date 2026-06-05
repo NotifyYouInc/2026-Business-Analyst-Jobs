@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Maryland, US |
-| Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Park-Maryland/Senior-FMS-Program-Analyst_R2119784-1) |
+| Location | Lexington Park, Maryland, United States |
+| Category | Program Manager |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Lexington-Park-Maryland/Senior-FMS-Program-Analyst_R2124306) |
 
 ## About This Role
 
-This business analyst position at KBR was posted on 2026-03-04.
+This program manager position at KBR was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

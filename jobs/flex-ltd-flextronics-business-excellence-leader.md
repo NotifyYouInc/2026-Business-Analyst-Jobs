@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Operations |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Business-Excellence-Leader_WD220832) |
+| Location | Austin, Texas, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Business-Excellence-Leader_WD221714) |
 
 ## About This Role
 
-This operations position at FLEX LTD. Flextronics was posted on 2026-05-19.
+This strategy & operations position at FLEX LTD. Flextronics was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

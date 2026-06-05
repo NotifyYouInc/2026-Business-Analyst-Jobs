@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Metepec, México, Mexico |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Metepec-Estado-De-Mexico-Mexico/Analista-de-Autorizacion-de-Credito-Hipotecario_26950130) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Analista-de-Autorizacion-de-Credito-Hipotecario_26967769) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-08.
+This business analyst position at Citigroup was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

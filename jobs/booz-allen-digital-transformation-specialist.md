@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Digital-Transformation-Specialist_R0240947) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Digital-Transformation-Specialist_R0240298) |
 
 ## About This Role
 
-This technology / it consulting position at Booz Allen was posted on 2026-05-22.
+This technology / it consulting position at Booz Allen was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

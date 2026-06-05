@@ -5,12 +5,12 @@
 | Company | [Nissan](https://scoutify.ai/companies/alliance?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Aguascalientes, Aguascalientes, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Aguascalientes-Aguascalientes---Mexico/Especialista-Control-de-Produccion_R00209318-1) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Aguascalientes-Aguascalientes---Mexico/Especialista-Control-de-Produccion_R00209361) |
 
 ## About This Role
 
-This business analyst position at Nissan was posted on 2026-05-25.
+This business analyst position at Nissan was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

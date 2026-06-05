@@ -1,0 +1,22 @@
+# Mobility Tax Analyst at Palantir
+
+| Field | Details |
+|-------|---------|
+| Company | [Palantir](https://scoutify.ai/companies/palantir?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Palo Alto, California, United States |
+| Category | Accounting |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.lever.co/palantir/7dc7e7c3-39bf-4f4e-a8eb-e38a4a0af238) |
+
+## About This Role
+
+This accounting position at Palantir was posted on 2026-05-28.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boyd Group](https://scoutify.ai/companies/boyd-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
+| Location | Buffalo, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/Lansdale-Pennsylvania/Collision-Market-Manager_R060333) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/NY-Buffalo-Delaware-Ave---146002/Collision-Market-Manager_R060119) |
 
 ## About This Role
 
-This business analyst position at Boyd Group was posted on 2026-05-18.
+This business analyst position at Boyd Group was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

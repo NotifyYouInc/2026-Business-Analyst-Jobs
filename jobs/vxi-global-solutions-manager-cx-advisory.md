@@ -5,12 +5,12 @@
 | Company | [VXI Global Solutions](https://scoutify.ai/companies/vxi-global-solutions?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Philippines |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://vxi.wd12.myworkdayjobs.com/careers/job/Pasay-City-Philippines/Manager--CX-Advisory_R25_05336) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://vxi.wd12.myworkdayjobs.com/careers/job/Davao-City-Philippines/Manager--CX-Advisory_R26_02654) |
 
 ## About This Role
 
-This business analyst position at VXI Global Solutions was posted on 2026-04-24.
+This business analyst position at VXI Global Solutions was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

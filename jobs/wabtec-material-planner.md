@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Greenville, North Carolina, United States |
+| Location | Houston, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990012437046-material-planner) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013358906-material-planner) |
 
 ## About This Role
 
-This business analyst position at Wabtec was posted on 2026-04-02.
+This business analyst position at Wabtec was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Elizabeth City, North Carolina, United States |
+| Location | Norfolk, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/APS-Surgery-Spec-Thunder-Road/Specialty-Resource-Coordinator_JR-98494) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Norfolk-VA/Specialty-Resource-Coordinator_JR-99848) |
 
 ## About This Role
 
-This business analyst position at Sentara Healthcare was posted on 2026-05-11.
+This business analyst position at Sentara Healthcare was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/IN---Chennai/Process-Expert_R171737-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/India-Chennai-600116/Process-Expert_R182659) |
 
 ## About This Role
 
-This business analyst position at A.P. Moller - Maersk was posted on 2026-03-02.
+This business analyst position at A.P. Moller - Maersk was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

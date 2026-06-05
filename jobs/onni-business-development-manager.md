@@ -5,12 +5,12 @@
 | Company | [Onni](https://scoutify.ai/companies/onni?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Engineering Manager |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://onni.wd10.myworkdayjobs.com/capwest_external_careers/job/Vancouver/Business-Development-Manager_R-101896) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://onni.wd10.myworkdayjobs.com/capwest_external_careers/job/Vancouver/Business-Development-Manager_R-102223-2) |
 
 ## About This Role
 
-This engineering manager position at Onni was posted on 2026-04-09.
+This engineering manager position at Onni was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

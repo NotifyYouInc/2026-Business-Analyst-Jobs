@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zscaler](https://scoutify.ai/companies/zscaler?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mohali, Punjab, India |
-| Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5127087007) |
+| Location | 2 locations |
+| Category | Project Manager |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zscaler/jobs/5145213007) |
 
 ## About This Role
 
-This business analyst position at Zscaler was posted on 2026-05-12.
+This project manager position at Zscaler was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Milpitas, California, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Milpitas-CA/Occupancy-Planner_REQ509419) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Occupancy-Planner_REQ510125) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-05-22.
+This business analyst position at JLL was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

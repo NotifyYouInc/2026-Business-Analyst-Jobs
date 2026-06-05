@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Altera Digital Health](https://scoutify.ai/companies/alteradigitalhealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | East Meadow, New York, United States |
+| Location | Florida, US |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Office---Nassau-East-Meadow-NY/Business-Analyst_R0041019-2) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/Altera/job/Remote---Florida/Business-Analyst_R0043890) |
 
 ## About This Role
 
-This business analyst position at Altera Digital Health was posted on 2026-04-23.
+This business analyst position at Altera Digital Health was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

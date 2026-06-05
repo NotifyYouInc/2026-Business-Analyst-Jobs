@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | East Meadow, New York, United States |
+| Location | Florida, US |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Nassau-East-Meadow-NY/Business-Analyst_R0041019) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Florida/Business-Analyst_R0043890-1) |
 
 ## About This Role
 
-This business analyst position at Harris Computer was posted on 2026-04-23.
+This business analyst position at Harris Computer was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

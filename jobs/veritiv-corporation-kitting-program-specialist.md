@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veritiv Corporation](https://scoutify.ai/companies/veritiv?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tracy, California, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---PA---Mechanicsburg/Kitting-Program-Specialist_R30992) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://veritiv.wd5.myworkdayjobs.com/veritivcareers/job/USA---MN---Rogers/Kitting-Program-Specialist_R31231) |
 
 ## About This Role
 
-This business analyst position at Veritiv Corporation was posted on 2026-04-15.
+This business analyst position at Veritiv Corporation was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

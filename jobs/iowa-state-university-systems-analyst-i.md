@@ -5,12 +5,12 @@
 | Company | [Iowa State University](https://scoutify.ai/companies/iowa-state-university?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ames, Iowa, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Systems-Analyst-I_R18885) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://isu.wd1.myworkdayjobs.com/iowastatejobs/job/Ames-IA/Systems-Analyst-I_R19309) |
 
 ## About This Role
 
-This it & systems administration position at Iowa State University was posted on 2026-03-30.
+This it & systems administration position at Iowa State University was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

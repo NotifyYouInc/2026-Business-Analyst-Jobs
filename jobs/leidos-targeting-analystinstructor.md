@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hampton, Virginia, United States |
+| Location | Omaha, Nebraska, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Hampton-VA/Targeting-Analyst-Instructor_R-00181385) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Omaha-NE/Targeting-Analyst-Instructor_R-00184296) |
 
 ## About This Role
 
-This business analyst position at Leidos was posted on 2026-04-21.
+This business analyst position at Leidos was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

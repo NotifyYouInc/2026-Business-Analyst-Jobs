@@ -5,12 +5,12 @@
 | Company | [GLOBE](https://scoutify.ai/companies/globe?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Philippines |
 | Category | Venture Capital / Private Equity |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WCC/CFM-Wallet-Operations--Product-Reconciliation---Analysis---Lead--Fund-Operations---Reconciliation_R0000020575) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://globe.wd3.myworkdayjobs.com/mynt/job/NCR---WCC/CFM-Wallet-Operations--Product-Reconciliation---Analysis---Lead--Fund-Operations---Reconciliation_R0000020675) |
 
 ## About This Role
 
-This venture capital / private equity position at GLOBE was posted on 2026-05-18.
+This venture capital / private equity position at GLOBE was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

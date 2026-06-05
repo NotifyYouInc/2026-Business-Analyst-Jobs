@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Haryana, IN |
+| Location | Irving, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Gurgaon/Business-Analyst_108574) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Business-Analyst_109948) |
 
 ## About This Role
 
-This business analyst position at Gartner was posted on 2026-04-03.
+This business analyst position at Gartner was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

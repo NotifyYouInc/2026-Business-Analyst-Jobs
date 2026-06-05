@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lake Orion, Michigan, United States |
+| Location | Wentzville, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lake-Orion-Michigan-United-States-of-America/GSC-Business-Manager_JR-202608839) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Wentzville-Missouri-United-States-of-America/GSC-Business-Manager_JR-202611303) |
 
 ## About This Role
 
-This business analyst position at General Motors was posted on 2026-04-24.
+This business analyst position at General Motors was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 

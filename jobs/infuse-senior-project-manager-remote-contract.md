@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [INFUSE](https://scoutify.ai/companies/infuse?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ukraine |
+| Location | Portugal |
 | Category | Project Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4695759005) |
+| Posted | 2026-05-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/infuse/jobs/4700504005) |
 
 ## About This Role
 
-This project manager position at INFUSE was posted on 2026-05-18.
+This project manager position at INFUSE was posted on 2026-05-28.
 
 ## Get Real-Time Alerts
 
