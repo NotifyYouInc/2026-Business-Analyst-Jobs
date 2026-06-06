@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Malaysia |
 | Category | Strategy & Operations |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/154162a6-87c9-4449-b270-fbb689e17cd2) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/740d96a3-dffb-4f86-806d-9f25cdb7c76e) |
 
 ## About This Role
 
-This strategy & operations position at Bjak was posted on 2026-05-25.
+This strategy & operations position at Bjak was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Argentina |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Martinez--Argentina/Transaction-Manager_26952059-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/NC-CHARLOTTE-BALLANTYNE/Transaction-Manager_26966308) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-21.
+This business analyst position at Citigroup was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

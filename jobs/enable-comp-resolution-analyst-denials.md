@@ -5,12 +5,12 @@
 | Company | [Enable Comp](https://scoutify.ai/companies/enable-comp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Franklin, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.lever.co/enablecomp/f1ef959b-1754-4c10-b536-81856703456f) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.lever.co/enablecomp/d9094edb-f1ba-42e8-ae0f-da40d49af098) |
 
 ## About This Role
 
-This business analyst position at Enable Comp was posted on 2026-04-13.
+This business analyst position at Enable Comp was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

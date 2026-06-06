@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allied Solutions](https://scoutify.ai/companies/alliedsolutions?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | South Dakota, US |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Lender-Task-Administrator_R-010680) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Lender-Task-Administrator_R-010828-1) |
 
 ## About This Role
 
-This business analyst position at Allied Solutions was posted on 2026-03-20.
+This business analyst position at Allied Solutions was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Becario de planeación at Jabil
+# Becario de Planeación at Jabil
 
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Becario-de-planeacin_J2451868) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Becario-de-Planeacin_J2451964) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-05-28.
+This business analyst position at Jabil was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

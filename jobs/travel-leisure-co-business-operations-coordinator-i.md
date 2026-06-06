@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Sports-Illustrated-Chicago/Business-Operations-Coordinator-I_R-120899) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Austin/Business-Operations-Coordinator-I_R-123289) |
 
 ## About This Role
 
-This business analyst position at Travel + Leisure Co. was posted on 2026-04-15.
+This business analyst position at Travel + Leisure Co. was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

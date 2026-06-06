@@ -5,12 +5,12 @@
 | Company | [Anglo American](https://scoutify.ai/companies/angloamerican?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000126346109-specialist-workiva-wdesk-12-month-ftc) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AngloAmericanDeBeersGroup/744000129209419-specialist-workiva-wdesk-12-month-ftc) |
 
 ## About This Role
 
-This business analyst position at Anglo American was posted on 2026-05-13.
+This business analyst position at Anglo American was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

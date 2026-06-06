@@ -5,12 +5,12 @@
 | Company | [Kontoor Brands](https://scoutify.ai/companies/kbi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Greensboro, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://kbi.wd5.myworkdayjobs.com/Kontoor/job/Greensboro-NC/Sales-Planner_R-20260126-0005) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://kbi.wd5.myworkdayjobs.com/Kontoor/job/Greensboro-NC/Sales-Planner_R-20260428-0013-1) |
 
 ## About This Role
 
-This business analyst position at Kontoor Brands was posted on 2026-02-17.
+This business analyst position at Kontoor Brands was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

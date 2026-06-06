@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Federal Way, Washington, United States |
+| Location | DeLand, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/06998---Team-Evergreen-North-CBO-Federal-Way-Business-Office/Analyst--Systems--ROPS-_R0460474) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09500---Florida-Remote/Analyst--Systems--ROPS-_R0447537-1) |
 
 ## About This Role
 
-This business analyst position at DaVita was posted on 2026-05-22.
+This business analyst position at DaVita was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

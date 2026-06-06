@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN Technology USA](https://scoutify.ai/companies/alten-technology-usa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Troy, Michigan, United States |
+| Location | Irvine, California, United States |
 | Category | Account Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5088241007) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/altentechnologyusa/jobs/5150303007) |
 
 ## About This Role
 
-This account manager position at ALTEN Technology USA was posted on 2026-05-19.
+This account manager position at ALTEN Technology USA was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

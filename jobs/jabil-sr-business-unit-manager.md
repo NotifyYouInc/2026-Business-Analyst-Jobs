@@ -1,16 +1,16 @@
-# Sr Business Unit Manager at Jabil
+# Sr. Business Unit Manager at Jabil
 
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chihuahua, Chihuahua, Mexico |
-| Category | Account Manager |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Sr-Business-Unit-Manager_J2450718) |
+| Location | Prince George, Virginia, United States |
+| Category | Business Analyst |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Prince-George-VA/Sr-Business-Unit-Manager_J2444566) |
 
 ## About This Role
 
-This account manager position at Jabil was posted on 2026-05-19.
+This business analyst position at Jabil was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

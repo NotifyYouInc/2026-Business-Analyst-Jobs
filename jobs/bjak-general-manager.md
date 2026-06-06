@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Leadership Development Program |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/08dc5043-2a79-4be9-9be9-850b2dbda140) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/9a10594e-ded4-49a2-968c-a8ff09240fd7) |
 
 ## About This Role
 
-This leadership development program position at Bjak was posted on 2026-05-22.
+This leadership development program position at Bjak was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

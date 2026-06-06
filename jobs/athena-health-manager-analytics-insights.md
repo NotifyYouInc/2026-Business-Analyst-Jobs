@@ -5,12 +5,12 @@
 | Company | [Athena Health](https://scoutify.ai/companies/athenahealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Belfast-ME/Manager--Analytics---Insights_R15010) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://athenahealth.wd1.myworkdayjobs.com/External/job/Belfast-ME/Manager--Analytics---Insights_R15111) |
 
 ## About This Role
 
-This business analyst position at Athena Health was posted on 2026-05-14.
+This business analyst position at Athena Health was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

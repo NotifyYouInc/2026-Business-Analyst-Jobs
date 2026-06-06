@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000127506439-commercial-analyst) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000129225469-commercial-analyst) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-05-20.
+This business analyst position at Delivery Hero was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

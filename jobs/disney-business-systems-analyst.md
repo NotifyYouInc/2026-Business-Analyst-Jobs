@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Celebration, Florida, United States |
+| Location | Kissimmee, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Business-Systems-Analyst_10142620-1) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Kissimmee-FL-USA/Business-Systems-Analyst_10149673) |
 
 ## About This Role
 
-This business analyst position at Disney was posted on 2026-05-06.
+This business analyst position at Disney was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
-| Category | Corporate Finance |
-| Posted | 2026-02-04 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Quality-Review-and-Audit-Analyst---Cigna-Healthcare---Remote_25017024-1) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/United-States-Work-at-Home/Quality-Review-and-Audit-Analyst---Cigna-Healthcare---Remote_26006704) |
 
 ## About This Role
 
-This corporate finance position at Cigna was posted on 2026-02-04.
+This compliance & risk management position at Cigna was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

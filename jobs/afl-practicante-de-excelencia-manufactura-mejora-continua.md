@@ -5,12 +5,12 @@
 | Company | [AFL](https://scoutify.ai/companies/afl?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=cb86fc5d-8985-42f7-a644-9b64dbbc3022) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=87a05975-6c30-40f4-a601-6841242e4f82) |
 
 ## About This Role
 
-This business analyst position at AFL was posted on 2026-02-23.
+This business analyst position at AFL was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

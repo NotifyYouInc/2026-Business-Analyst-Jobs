@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Richmond, Virginia, United States |
+| Location | Salt Lake City, Utah, United States |
 | Category | Technology / IT Consulting |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000115240447-senior-technical-business-systems-analyst) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000129259149-senior-technical-business-systems-analyst) |
 
 ## About This Role
 
-This technology / it consulting position at CapTech Consulting was posted on 2026-03-17.
+This technology / it consulting position at CapTech Consulting was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

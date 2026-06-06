@@ -1,16 +1,16 @@
-# Analyst- Insurance Operations at Marsh & McLennan Companies
+# Analyst - Insurance Operations at Marsh & McLennan Companies
 
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mexico-City---Tamarindos/Analyst--Insurance-Operations_R_346895) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mexico-City---Paseo/Analyst---Insurance-Operations_R_351506) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-04-20.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

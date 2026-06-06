@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ohiohealth](https://scoutify.ai/companies/ohiohealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cleveland, Ohio, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://ohiohealth.wd5.myworkdayjobs.com/ohiohealthjobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Charge-Analyst-Revenue-Cycle_JR146415) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://ohiohealth.wd5.myworkdayjobs.com/ohiohealthjobs/job/HYBRID---BLOM-ADMINISTRATIVE-CAMPUS/Charge-Analyst-Revenue-Cycle_JR151840) |
 
 ## About This Role
 
-This business analyst position at Ohiohealth was posted on 2026-02-23.
+This business analyst position at Ohiohealth was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

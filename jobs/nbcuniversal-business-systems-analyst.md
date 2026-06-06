@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Orlando, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000124711129-business-systems-analyst) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000129255512-business-systems-analyst) |
 
 ## About This Role
 
-This business analyst position at NBCUniversal was posted on 2026-05-05.
+This business analyst position at NBCUniversal was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 
