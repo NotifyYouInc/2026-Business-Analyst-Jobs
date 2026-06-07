@@ -5,12 +5,12 @@
 | Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Corona, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013056221-operations-planning-and-performance-advisor) |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013387326-operations-planning-and-performance-advisor) |
 
 ## About This Role
 
-This business analyst position at City of New York was posted on 2026-05-09.
+This business analyst position at City of New York was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

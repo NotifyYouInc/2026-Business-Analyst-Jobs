@@ -1,4 +1,4 @@
-# Analyst at City of New York
+# Policy Analyst at City of New York
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013387236-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013387156-policy-analyst) |
 
 ## About This Role
 

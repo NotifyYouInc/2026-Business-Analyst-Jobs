@@ -1,16 +1,16 @@
-# Analyst at City of New York
+# Associate Pricing Manager Italy & Greece - Allergan Aesthetics at AbbVie
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Rome, Lazio, Italy |
 | Category | Business Analyst |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013387236-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013388396-associate-pricing-manager-italy-greece-allergan-aesthetics) |
 
 ## About This Role
 
-This business analyst position at City of New York was posted on 2026-05-30.
+This business analyst position at AbbVie was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

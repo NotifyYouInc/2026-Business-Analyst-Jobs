@@ -1,16 +1,16 @@
-# Analyst at City of New York
+# Administrative Analyst at Alkegen
 
 | Field | Details |
 |-------|---------|
-| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Company | [Alkegen](https://scoutify.ai/companies/alkegen?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Analyst |
 | Posted | 2026-05-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013387236-analyst) |
+| Apply | [View on company site](https://alkegen.wd5.myworkdayjobs.com/alkegen/job/Buenos-Aires/Administrative-Analyst_R11956) |
 
 ## About This Role
 
-This business analyst position at City of New York was posted on 2026-05-30.
+This business analyst position at Alkegen was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 

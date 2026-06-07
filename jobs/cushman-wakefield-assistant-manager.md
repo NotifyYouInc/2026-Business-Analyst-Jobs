@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Mumbai-India/Assistant-Manager_R-AOP-0248) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Account Manager |
+| Posted | 2026-05-30 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Assistant-Manager_R-AOP-0116) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-05-15.
+This account manager position at Cushman & Wakefield was posted on 2026-05-30.
 
 ## Get Real-Time Alerts
 
