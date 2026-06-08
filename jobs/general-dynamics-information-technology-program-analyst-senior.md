@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | California, Maryland, United States |
-| Category | Program Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-California/Program-Analyst-Senior_RQ220254-1) |
+| Location | Florida, US |
+| Category | Business Analyst |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Program-Analyst-Senior_RQ221402-1) |
 
 ## About This Role
 
-This program manager position at General Dynamics Information Technology was posted on 2026-05-18.
+This business analyst position at General Dynamics Information Technology was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

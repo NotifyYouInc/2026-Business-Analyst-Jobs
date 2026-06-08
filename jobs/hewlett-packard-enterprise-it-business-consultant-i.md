@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Spring, Texas, United States |
-| Category | Leadership Development Program |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/IT-Business-Consultant-I_1197356) |
+| Category | Business Analyst |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Spring-Texas-United-States-of-America/IT-Business-Consultant-I_1196651) |
 
 ## About This Role
 
-This leadership development program position at Hewlett Packard Enterprise was posted on 2026-02-24.
+This business analyst position at Hewlett Packard Enterprise was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

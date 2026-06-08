@@ -1,16 +1,16 @@
-# Import/Export Analyst at Medtronic
+# Import/Export    Analyst at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Kulim, Kedah, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mexico-City-Distrito-Federal-Mexico/Import-Export-Analyst_R62237-2) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Kulim-Kedah-Malaysia/Import-Export----Analyst_R66215-1) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-05-18.
+This business analyst position at Medtronic was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

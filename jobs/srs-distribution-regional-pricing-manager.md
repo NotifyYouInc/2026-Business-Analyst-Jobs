@@ -6,7 +6,7 @@
 | Location | McKinney, Texas, United States |
 | Category | Business Analyst |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://srsdistribution.wd1.myworkdayjobs.com/srs/job/McKinney-Texas/Regional-Pricing-Manager_REQ51770) |
+| Apply | [View on company site](https://srsdistribution.wd1.myworkdayjobs.com/srs/job/McKinney-Texas/Regional-Pricing-Manager_REQ51771) |
 
 ## About This Role
 

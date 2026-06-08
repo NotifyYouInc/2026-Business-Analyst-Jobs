@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
-| Category | Business Development |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Virtual-USA/Customer-Sales-Analyst_R-102446) |
+| Location | Rogers, Arkansas, United States |
+| Category | Corporate Finance |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Rogers-AR/Customer-Sales-Analyst_R-103345) |
 
 ## About This Role
 
-This business development position at Heinz was posted on 2026-04-30.
+This corporate finance position at Heinz was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bulgaria |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Bulgaria/Resource-Analyst_R-01344014-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Resource-Analyst_R-01341607) |
 
 ## About This Role
 
-This business analyst position at Thermo Fisher Scientific was posted on 2026-02-25.
+This business analyst position at Thermo Fisher Scientific was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

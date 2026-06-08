@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Vietnam |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129100869-bosch-hcp-internship-quality-management-system-method-intern) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000129372495-bosch-hcp-internship-quality-management-system-method-intern) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-05-29.
+This business analyst position at Robert Bosch was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

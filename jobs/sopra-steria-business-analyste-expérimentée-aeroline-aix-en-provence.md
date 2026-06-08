@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000112755717-business-analyste-experimentee-aeroline-aix-en-provence) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000129408338-business-analyste-experimentee-aeroline-aix-en-provence) |
 
 ## About This Role
 
-This business analyst position at Sopra Steria was posted on 2026-03-04.
+This business analyst position at Sopra Steria was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

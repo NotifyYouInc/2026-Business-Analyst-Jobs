@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Associate-Consultant--Omnium-Services_R151273-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Manila-Philippines/Associate-Consultant--Omnium-Services_R150344) |
 
 ## About This Role
 
-This strategy / management consulting position at Northern Trust was posted on 2026-04-13.
+This strategy / management consulting position at Northern Trust was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 
