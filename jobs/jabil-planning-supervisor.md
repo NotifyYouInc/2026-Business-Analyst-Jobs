@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Memphis, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Planning-Supervisor_J2450554-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Planning-Supervisor_J2441309) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-05-21.
+This business analyst position at Jabil was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

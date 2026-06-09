@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Esri](https://scoutify.ai/companies/esri?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Redlands, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://www.esri.com/careers/5137890007?gh_jid=5137890007) |
+| Category | Account Manager |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.esri.com/careers/5151669007?gh_jid=5151669007) |
 
 ## About This Role
 
-This business analyst position at Esri was posted on 2026-05-14.
+This account manager position at Esri was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

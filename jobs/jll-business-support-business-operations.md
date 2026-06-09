@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sydney-NSW/Business-Support--Business-Operations_REQ501684) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Business-Support--Business-Operations_REQ506033) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-05-05.
+This business analyst position at JLL was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

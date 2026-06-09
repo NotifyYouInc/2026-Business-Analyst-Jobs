@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [North Point Technology](https://scoutify.ai/companies/north-point-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Monterrey, Nuevo León, Mexico |
-| Category | Business Analyst |
-| Posted | 2026-05-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8572392002) |
+| Category | Industrial Automation |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8572391002) |
 
 ## About This Role
 
-This business analyst position at North Point Technology was posted on 2026-05-31.
+This industrial automation position at North Point Technology was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

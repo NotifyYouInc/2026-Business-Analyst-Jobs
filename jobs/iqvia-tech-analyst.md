@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Santiago-Chile/Tech-Analyst_R1541064) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Buenos-Aires-Argentina/Tech-Analyst_R1540099) |
 
 ## About This Role
 
-This business analyst position at IQVIA was posted on 2026-05-05.
+This business analyst position at IQVIA was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

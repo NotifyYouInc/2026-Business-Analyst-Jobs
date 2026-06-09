@@ -5,12 +5,12 @@
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Business-Development-Intern_R107578) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Business-Development-Intern_R107604) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Tencent was posted on 2026-05-28.
+This sales development (sdr / bdr) position at Tencent was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

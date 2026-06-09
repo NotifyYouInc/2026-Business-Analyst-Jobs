@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Luminary Hospice](https://scoutify.ai/companies/luminary-hospice?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fort Wayne, Indiana, United States |
+| Location | Akron, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/luminaryhospice/jobs/4916019008) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/luminaryhospice/jobs/5238320008) |
 
 ## About This Role
 
-This business analyst position at Luminary Hospice was posted on 2026-04-22.
+This business analyst position at Luminary Hospice was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

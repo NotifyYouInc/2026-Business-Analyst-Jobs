@@ -5,12 +5,12 @@
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hsinchu, Taiwan, Taiwan |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Chip-Factory-Planner_JR2014224) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Chip-Factory-Planner_JR2018569-1) |
 
 ## About This Role
 
-This business analyst position at Nvidia was posted on 2026-03-09.
+This business analyst position at Nvidia was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Farmacia del Ahorro](https://scoutify.ai/companies/farmacia-del-ahorro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | San Luis Potosí, San Luis Potosí, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/CD-GUADALAJARA-CDGU/ANALISTA-TORRE-DE-CONTROL_JR165365-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/CD-SAN-LUIS-POTOSI-CDSP/ANALISTA-TORRE-DE-CONTROL_JR168286) |
 
 ## About This Role
 
-This business analyst position at Farmacia del Ahorro was posted on 2026-04-16.
+This business analyst position at Farmacia del Ahorro was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

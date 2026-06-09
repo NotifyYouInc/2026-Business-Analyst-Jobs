@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hortolândia, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117253) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=117797) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-05-26.
+This business analyst position at IBM was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

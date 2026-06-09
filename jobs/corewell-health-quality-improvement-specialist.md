@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Corewell Health](https://scoutify.ai/companies/spectrumhealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Grand Rapids, Michigan, United States |
+| Location | Southfield, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/Quality-Improvement-Specialist_R211942) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Southfield-MI/Quality-Improvement-Specialist_R215127) |
 
 ## About This Role
 
-This business analyst position at Corewell Health was posted on 2026-04-30.
+This business analyst position at Corewell Health was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

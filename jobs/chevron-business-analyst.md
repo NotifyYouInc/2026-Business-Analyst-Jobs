@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Barcelona, Anzoátegui, Venezuela |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Barcelona-Anzoategui-Venezuela/Business-Analyst_R000070787) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Barcelona-Edificio-Torre/Business-Analyst_R000071638) |
 
 ## About This Role
 
-This business analyst position at Chevron was posted on 2026-04-30.
+This business analyst position at Chevron was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

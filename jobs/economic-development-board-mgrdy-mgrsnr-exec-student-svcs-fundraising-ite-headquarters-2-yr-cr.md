@@ -5,12 +5,12 @@
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ITE-HQ-Headquarters/Mgr-Dy-Mgr-Snr-Exec---Student-Svcs---Fundraising--ITE-Headquarters----2-Yr-Cr_JR-10000050925) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/ITE-HQ-Headquarters/Mgr-Dy-Mgr-Snr-Exec---Student-Svcs---Fundraising--ITE-Headquarters----2-Yr-Cr_JR-10000051271) |
 
 ## About This Role
 
-This corporate finance position at Economic Development Board was posted on 2026-05-19.
+This corporate finance position at Economic Development Board was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

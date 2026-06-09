@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beghouconsulting](https://scoutify.ai/companies/beghouconsulting?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Emeryville, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.lever.co/beghouconsulting/1408108d-830d-4a65-8132-be43176151d0) |
+| Location | San Diego, California, United States |
+| Category | Project Manager |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.lever.co/beghouconsulting/d392eabe-5be8-4441-8df0-2a3cf0bfc45a) |
 
 ## About This Role
 
-This business analyst position at Beghouconsulting was posted on 2026-05-14.
+This project manager position at Beghouconsulting was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

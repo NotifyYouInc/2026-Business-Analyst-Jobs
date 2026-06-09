@@ -5,12 +5,12 @@
 | Company | [Edwards Lifesciences](https://scoutify.ai/companies/edwards-lifesciences?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Irvine, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Analyst--Clinical-Contracts_Req-47314) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Analyst--Clinical-Contracts_Req-48443) |
 
 ## About This Role
 
-This business analyst position at Edwards Lifesciences was posted on 2026-04-14.
+This business analyst position at Edwards Lifesciences was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

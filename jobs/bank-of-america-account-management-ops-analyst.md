@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Charlotte, North Carolina, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Account-Management-Ops-Analyst_26016984) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Account-Management-Ops-Analyst_26018894) |
 
 ## About This Role
 
-This business analyst position at Bank of America was posted on 2026-05-22.
+This business analyst position at Bank of America was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

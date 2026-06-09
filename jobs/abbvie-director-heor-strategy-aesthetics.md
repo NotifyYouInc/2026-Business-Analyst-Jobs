@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Francisco, California, United States |
+| Location | South San Francisco, California, United States |
 | Category | Strategy & Operations |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990011973766-director-heor-strategy-aesthetics) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013399946-director-heor-strategy-aesthetics) |
 
 ## About This Role
 
-This strategy & operations position at AbbVie was posted on 2026-03-04.
+This strategy & operations position at AbbVie was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

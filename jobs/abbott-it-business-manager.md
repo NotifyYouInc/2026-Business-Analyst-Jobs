@@ -1,16 +1,16 @@
-# IT BUSINESS MANAGER at Abbott
+# IT Business Manager at Abbott
 
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Project Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Bogota/IT-BUSINESS-MANAGER_31146632) |
+| Category | Business Analyst |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia--Bogota--Building-II/IT-Business-Manager_31148430) |
 
 ## About This Role
 
-This project manager position at Abbott was posted on 2026-04-06.
+This business analyst position at Abbott was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

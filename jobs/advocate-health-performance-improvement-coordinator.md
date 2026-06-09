@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Park Ridge, Illinois, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Advocate-Childrens-Hospital---Park-Ridge---1675-Dempster-St/Performance-Improvement-Coordinator_R222678) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Aurora-Medical-Center-Lakeland---W3985-County-Road-NN/Performance-Improvement-Coordinator_R233473) |
 
 ## About This Role
 
-This business analyst position at Advocate Health was posted on 2026-03-20.
+This business analyst position at Advocate Health was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

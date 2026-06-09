@@ -5,12 +5,12 @@
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Republic-Polytechnic/School-of-Business---Executive-Senior-Executive_JR-10000049144) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/Republic-Polytechnic/School-of-Business---Executive-Senior-Executive_JR-10000051457) |
 
 ## About This Role
 
-This business analyst position at Economic Development Board was posted on 2026-04-06.
+This business analyst position at Economic Development Board was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bentonville, Arkansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/Senior-Analyst--Business-Analysis-and-Insights_R-2513623-1) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Always-AR-Bentonville-Home-Office/Senior-Analyst--Business-Analysis-and-Insights_R-2516656-1) |
 
 ## About This Role
 
-This business analyst position at Walmart was posted on 2026-05-29.
+This business analyst position at Walmart was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

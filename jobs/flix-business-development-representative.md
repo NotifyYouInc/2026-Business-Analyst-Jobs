@@ -5,12 +5,12 @@
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Account Manager |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://flix.careers/job/8539505002?gh_jid=8539505002) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://flix.careers/job/8574394002?gh_jid=8574394002) |
 
 ## About This Role
 
-This account manager position at Flix was posted on 2026-05-20.
+This account manager position at Flix was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Renton, Washington, United States |
+| Location | Mesa, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Renton-WA/Manufacturing-Operations-Analyst_JR2026512663-2) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/Manufacturing-Operations-Analyst_JR2026508711-1) |
 
 ## About This Role
 
-This business analyst position at Boeing was posted on 2026-05-29.
+This business analyst position at Boeing was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Bethesda, Maryland, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Grants-Management-Specialist_39854) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---MD-Bethesda/Grants-Management-Specialist_40062) |
 
 ## About This Role
 
-This business analyst position at Guidehouse was posted on 2026-05-27.
+This business analyst position at Guidehouse was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

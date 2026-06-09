@@ -5,12 +5,12 @@
 | Company | [Insperity](https://scoutify.ai/companies/insperity?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kingwood, West Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Pricing---Review-Specialist_JR102568) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Pricing---Review-Specialist_JR102731) |
 
 ## About This Role
 
-This business analyst position at Insperity was posted on 2026-04-30.
+This business analyst position at Insperity was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

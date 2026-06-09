@@ -1,16 +1,16 @@
-# Application Analyst Senior at Intermountain Health
+# Application Analyst- Senior at Intermountain Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | West Valley City, Utah, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Lake-Park-Building/Application-Analyst-Senior_R170638) |
+| Location | Broomfield, Colorado, United States |
+| Category | Project Manager |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Peaks-Regional-Office/Application-Analyst--Senior_R172602-1) |
 
 ## About This Role
 
-This business analyst position at Intermountain Health was posted on 2026-05-14.
+This project manager position at Intermountain Health was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | Omaha, Nebraska, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore---55-Divyasree-Towers-Bannerghatta-Main-Road/Business-Analyst_R1698029) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/Omaha-NE-68179/Business-Analyst_R1734144-5) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-02-09.
+This business analyst position at Concentrix was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

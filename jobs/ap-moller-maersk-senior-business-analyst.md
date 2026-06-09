@@ -5,12 +5,12 @@
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Shanghai-Shanghai-200003/Senior-Business-Analyst_R179122-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/China-Shanghai-Shanghai-200003/Senior-Business-Analyst_R176641) |
 
 ## About This Role
 
-This business analyst position at A.P. Moller - Maersk was posted on 2026-04-21.
+This business analyst position at A.P. Moller - Maersk was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
