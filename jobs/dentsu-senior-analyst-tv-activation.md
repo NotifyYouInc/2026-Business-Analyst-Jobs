@@ -5,12 +5,12 @@
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Chennai---Anna-Nagar-Tyche-Towers/Senior-Analyst---TV-Activation_R1111271-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Chennai---Anna-Nagar-Tyche-Towers/Senior-Analyst---TV-Activation_R1123658-5) |
 
 ## About This Role
 
-This business analyst position at Dentsu was posted on 2026-03-30.
+This business analyst position at Dentsu was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

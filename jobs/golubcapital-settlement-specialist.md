@@ -5,12 +5,12 @@
 | Company | [Golubcapital](https://scoutify.ai/companies/golubcapital?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://golubcapital.wd501.myworkdayjobs.com/golub_capital_careers/job/Chicago/Settlement-Specialist_R-12002-4) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://golubcapital.wd501.myworkdayjobs.com/golub_capital_careers/job/Chicago/Settlement-Specialist_R-12072) |
 
 ## About This Role
 
-This business analyst position at Golubcapital was posted on 2026-05-08.
+This business analyst position at Golubcapital was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

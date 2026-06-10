@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Mesa-Hills-Post-Acute/Business-Office-Manager_JR170969) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Tice-Valley-Post-Acute/Business-Office-Manager_JR171460) |
 
 ## About This Role
 
-This business analyst position at Pacs was posted on 2026-05-28.
+This business analyst position at Pacs was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

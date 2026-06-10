@@ -5,12 +5,12 @@
 | Company | [Frostbank](https://scoutify.ai/companies/frostbank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | San Antonio, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/IT-Business-Analyst-II_R260489-1) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://frostbank.wd5.myworkdayjobs.com/external/job/San-Antonio-TX---One-Frost/IT-Business-Analyst-II_R260955) |
 
 ## About This Role
 
-This business analyst position at Frostbank was posted on 2026-03-24.
+This business analyst position at Frostbank was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

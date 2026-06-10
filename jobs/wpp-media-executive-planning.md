@@ -1,16 +1,16 @@
-# Executive, Planning at WPP Media
+# Executive Planning at WPP Media
 
 | Field | Details |
 |-------|---------|
 | Company | [WPP Media](https://scoutify.ai/companies/wpp-media?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Colombo, Western Province, Sri Lanka |
 | Category | Business Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5166452008) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/wppmedia/jobs/5230190008) |
 
 ## About This Role
 
-This business analyst position at WPP Media was posted on 2026-03-31.
+This business analyst position at WPP Media was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

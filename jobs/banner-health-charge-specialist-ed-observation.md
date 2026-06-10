@@ -5,12 +5,12 @@
 | Company | [Banner Health](https://scoutify.ai/companies/bannerhealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Colorado, US |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Charge-Specialist-ED-Observation_R4425725) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Remote-Arizona/Charge-Specialist-ED-Observation_R4443845) |
 
 ## About This Role
 
-This business analyst position at Banner Health was posted on 2026-04-21.
+This business analyst position at Banner Health was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

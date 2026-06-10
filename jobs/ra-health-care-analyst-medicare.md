@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RA](https://scoutify.ai/companies/ra?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Minneapolis, Minnesota, United States |
-| Category | Business Analyst |
+| Location | New Providence, New Jersey, United States |
+| Category | Program Manager |
 | Posted | 2015-04-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ra2/82314996-health-care-analyst-medicare) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ra2/82315414-health-care-analyst-medicare) |
 
 ## About This Role
 
-This business analyst position at RA was posted on 2015-04-16.
+This program manager position at RA was posted on 2015-04-16.
 
 ## Get Real-Time Alerts
 

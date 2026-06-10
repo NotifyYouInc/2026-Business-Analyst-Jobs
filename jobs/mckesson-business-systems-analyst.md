@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [McKesson](https://scoutify.ai/companies/mckesson?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Overland Park, Kansas, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-KS-Overland-Park/Business-Systems-Analyst_JR0147800) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-VA-Richmond/Business-Systems-Analyst_JR0146422) |
 
 ## About This Role
 
-This business analyst position at McKesson was posted on 2026-05-22.
+This business analyst position at McKesson was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

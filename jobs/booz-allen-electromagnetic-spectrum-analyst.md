@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Electromagnetic-Spectrum-Analyst_R0239534) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Electromagnetic-Spectrum-Analyst_R0241344) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-05-07.
+This business analyst position at Booz Allen was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

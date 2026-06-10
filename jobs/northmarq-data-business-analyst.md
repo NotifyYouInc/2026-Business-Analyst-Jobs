@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northmarq](https://scoutify.ai/companies/northmarq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5233282008) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northmarq/jobs/5239502008) |
 
 ## About This Role
 
-This business analyst position at Northmarq was posted on 2026-05-27.
+This business analyst position at Northmarq was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

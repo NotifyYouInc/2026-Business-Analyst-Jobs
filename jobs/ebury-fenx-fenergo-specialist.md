@@ -5,12 +5,12 @@
 | Company | [Ebury](https://scoutify.ai/companies/ebury?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Financial Crimes & AML |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4869776101) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://ebury.com/company/careers/job?gh_jid=4881096101) |
 
 ## About This Role
 
-This financial crimes & aml position at Ebury was posted on 2026-05-18.
+This financial crimes & aml position at Ebury was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

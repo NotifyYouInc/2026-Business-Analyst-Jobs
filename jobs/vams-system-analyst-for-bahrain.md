@@ -5,12 +5,12 @@
 | Company | [VAMS](https://scoutify.ai/companies/vams?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Manama, Manama, Bahrain |
 | Category | Business Analyst |
-| Posted | 2016-11-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/vams/102549588-system-analyst-for-bahrain) |
+| Posted | 2016-02-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/vams/89615066-system-analyst-for-bahrain) |
 
 ## About This Role
 
-This business analyst position at VAMS was posted on 2016-11-20.
+This business analyst position at VAMS was posted on 2016-02-19.
 
 ## Get Real-Time Alerts
 

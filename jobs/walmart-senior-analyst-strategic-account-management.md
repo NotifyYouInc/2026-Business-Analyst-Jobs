@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Walmart](https://scoutify.ai/companies/walmart?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bentonville, Arkansas, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-Upstream-Building-AR-Bentonville-Home-Office/Senior-Analyst--Strategic-Account-Management_R-2459019-1) |
+| Location | New York City, New York, United States |
+| Category | Account Manager |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-NY-NEW-YORK-11582-HOME-OFFICE/Senior-Analyst--Strategic-Account-Management_R-2495977-1) |
 
 ## About This Role
 
-This strategy & operations position at Walmart was posted on 2026-04-21.
+This account manager position at Walmart was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

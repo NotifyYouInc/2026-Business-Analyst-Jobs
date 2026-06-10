@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Celerion](https://scoutify.ai/companies/celerion?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Virginia, US |
+| Location | Richmond, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.lever.co/celerion/111de0f2-d15f-4c2c-9340-093642feefdc) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://jobs.lever.co/celerion/50d9cf50-4a39-4ef8-9dba-0fe2e4605f98) |
 
 ## About This Role
 
-This business analyst position at Celerion was posted on 2026-03-12.
+This business analyst position at Celerion was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 
