@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Greensboro, North Carolina, United States |
+| Location | Mississauga, Ontario, Canada |
 | Category | Leadership Development Program |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Greensboro-NC-27406/Rental-Management-Trainee_R173116-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/CAN---Mississauga-ON-L5N-7Y2/Rental-Management-Trainee_R174113) |
 
 ## About This Role
 
-This leadership development program position at Ryder System was posted on 2026-05-28.
+This leadership development program position at Ryder System was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Project Manager |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Business-Director---Auto_R239080-1) |
+| Category | Strategy / Management Consulting |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Business-Director---Auto_R243762-1) |
 
 ## About This Role
 
-This project manager position at Capital One was posted on 2026-03-25.
+This strategy / management consulting position at Capital One was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

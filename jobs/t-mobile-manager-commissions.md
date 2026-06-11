@@ -5,12 +5,12 @@
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Overland Park, Kansas, United States |
 | Category | Corporate Finance |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Manager--Commissions_REQ348704-1) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Manager--Commissions_REQ357203) |
 
 ## About This Role
 
-This corporate finance position at T-Mobile was posted on 2026-05-29.
+This corporate finance position at T-Mobile was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

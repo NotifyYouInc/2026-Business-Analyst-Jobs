@@ -5,12 +5,12 @@
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lowell, Massachusetts, United States |
 | Category | Project Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Lowell-MA/Project-Specialist_2615621) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Lowell-MA/Project-Specialist_2619366-1) |
 
 ## About This Role
 
-This project manager position at Labcorp was posted on 2026-05-22.
+This project manager position at Labcorp was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

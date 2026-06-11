@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ZenBusiness Inc.](https://scoutify.ai/companies/zenbusiness-inc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | East Lansing, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/zenbusiness/jobs/5102755007) |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zenbusiness/jobs/5127626007) |
 
 ## About This Role
 
-This business analyst position at ZenBusiness Inc. was posted on 2026-04-10.
+This business analyst position at ZenBusiness Inc. was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

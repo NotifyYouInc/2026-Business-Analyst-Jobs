@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Penang, MY |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Penang/Logistics-Analyst_WD218597) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Logistics-Analyst_WD222217) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-04-06.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

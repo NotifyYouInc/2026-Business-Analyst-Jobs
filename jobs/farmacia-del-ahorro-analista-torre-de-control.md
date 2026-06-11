@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Farmacia del Ahorro](https://scoutify.ai/companies/farmacia-del-ahorro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Luis Potosí, San Luis Potosí, Mexico |
+| Location | Oaxaca, Oaxaca, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/CD-SAN-LUIS-POTOSI-CDSP/ANALISTA-TORRE-DE-CONTROL_JR168286) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/OAXACA-OAXACA/ANALISTA-TORRE-DE-CONTROL_JR168558) |
 
 ## About This Role
 
-This business analyst position at Farmacia del Ahorro was posted on 2026-06-01.
+This business analyst position at Farmacia del Ahorro was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Penang, MY |
+| Location | Batam, Riau, Indonesia |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Penang/Analyst--Client-Technologies_WD217845-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Indonesia-Batam/Analyst--Client-Technologies_WD222092) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-04-03.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

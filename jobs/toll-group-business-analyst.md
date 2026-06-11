@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Toll Group](https://scoutify.ai/companies/toll-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Richmond, Victoria, Australia |
+| Location | Campbell, Australian Capital Territory, Australia |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Richmond-New-South-Wales-Australia/Business-Analyst_R000076438) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Campbell-Australian-Capital-Territory-Australia/Business-Analyst_R000076749) |
 
 ## About This Role
 
-This business analyst position at Toll Group was posted on 2026-05-15.
+This business analyst position at Toll Group was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

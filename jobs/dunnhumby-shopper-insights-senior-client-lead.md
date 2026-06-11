@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
-| Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7704721003) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Account Manager |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7750019003) |
 
 ## About This Role
 
-This business analyst position at dunnhumby was posted on 2026-04-28.
+This account manager position at dunnhumby was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

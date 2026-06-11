@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gandhinagar, Gujarat, India |
+| Location | Cavite, Central Luzon, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/India-Gandhinagar/Associate-Analyst--Supply-Chain-Planning_R262494-1) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Associate-Analyst--Supply-Chain-Planning_R262493) |
 
 ## About This Role
 
-This business analyst position at Analog Devices was posted on 2026-05-15.
+This business analyst position at Analog Devices was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

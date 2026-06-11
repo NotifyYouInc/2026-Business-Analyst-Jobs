@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Reynosa, Tamaulipas, Mexico |
+| Location | Anoka, Minnesota, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Reynosa-MX/Production-Planner_R21140) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Production-Planner_R22109) |
 
 ## About This Role
 
-This business analyst position at nVent was posted on 2026-04-22.
+This business analyst position at nVent was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

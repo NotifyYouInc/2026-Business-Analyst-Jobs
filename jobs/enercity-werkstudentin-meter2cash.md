@@ -5,12 +5,12 @@
 | Company | [enercity](https://scoutify.ai/companies/enercity?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://enercity.wd3.myworkdayjobs.com/enercity_extern/job/Hannover/Werkstudent-in-Meter2Cash_J2026066) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://enercity.wd3.myworkdayjobs.com/enercity_extern/job/Hannover/Werkstudent-in-Meter2Cash_J2026324) |
 
 ## About This Role
 
-This business analyst position at enercity was posted on 2026-02-25.
+This business analyst position at enercity was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

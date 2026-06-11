@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | Buffalo, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Manufacturing-Analyst_R10232824) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Buffalo/Manufacturing-Analyst_R10234689) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-05-14.
+This business analyst position at Northrop Grumman was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

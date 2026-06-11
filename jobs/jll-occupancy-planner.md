@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Milpitas, California, United States |
+| Location | Canberra, Australian Capital Territory, Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Milpitas-CA/Occupancy-Planner_REQ511268) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Canberra-ACT/Occupancy-Planner_REQ512713) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-06-01.
+This business analyst position at JLL was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

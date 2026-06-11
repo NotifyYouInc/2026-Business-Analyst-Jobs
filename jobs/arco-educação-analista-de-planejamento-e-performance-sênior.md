@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arco Educação](https://scoutify.ai/companies/arco-educao?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/arcoeducacao/jobs/5983309004) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/arcoeducacao/jobs/6013364004) |
 
 ## About This Role
 
-This business analyst position at Arco Educação was posted on 2026-04-28.
+This business analyst position at Arco Educação was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

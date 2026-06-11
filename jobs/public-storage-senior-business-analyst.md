@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Frisco, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000109994354-senior-business-analyst) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000130095219-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Public Storage was posted on 2026-02-18.
+This business analyst position at Public Storage was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

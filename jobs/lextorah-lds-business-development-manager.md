@@ -5,12 +5,12 @@
 | Company | [Lextorah LDS](https://scoutify.ai/companies/lextorah-lds?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lagos, Lagos, Nigeria |
 | Category | Engineering Manager |
-| Posted | 2013-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/lextorahlds/72913609-business-development-manager) |
+| Posted | 2014-03-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/lextorahlds/76114612-business-development-manager) |
 
 ## About This Role
 
-This engineering manager position at Lextorah LDS was posted on 2013-07-06.
+This engineering manager position at Lextorah LDS was posted on 2014-03-27.
 
 ## Get Real-Time Alerts
 
