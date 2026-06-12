@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clorox](https://scoutify.ai/companies/clorox?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pleasanton, California, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Pleasanton-CA---USA/Associate-Director--Global-Insights-Lead_21387) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Oakland-CA---USA/Assoc-Dir--Global-Insights-Lead_22387) |
 
 ## About This Role
 
-This business analyst position at Clorox was posted on 2026-03-16.
+This business analyst position at Clorox was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

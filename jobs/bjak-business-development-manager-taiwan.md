@@ -5,12 +5,12 @@
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
 | Category | Engineering Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/47b2b1a6-f78e-459a-9619-b13b6df8cf89) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/a089755f-cb9f-4e16-8935-8ba993a7e077) |
 
 ## About This Role
 
-This engineering manager position at Bjak was posted on 2026-05-22.
+This engineering manager position at Bjak was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

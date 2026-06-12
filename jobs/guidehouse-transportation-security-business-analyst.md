@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Transportation-Security-Business-Analyst_34765) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Springfield/Transportation-Security-Business-Analyst_36318) |
 
 ## About This Role
 
-This business analyst position at Guidehouse was posted on 2026-04-09.
+This business analyst position at Guidehouse was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

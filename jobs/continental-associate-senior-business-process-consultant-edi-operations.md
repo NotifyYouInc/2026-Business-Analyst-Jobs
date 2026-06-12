@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | San Luis Potosí, San Luis Potosí, Mexico |
-| Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000129000869-associate-senior-business-process-consultant-edi-operations) |
+| Category | Customer Success |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000130287324-associate-senior-business-process-consultant-edi-operations) |
 
 ## About This Role
 
-This business analyst position at Continental was posted on 2026-05-28.
+This customer success position at Continental was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

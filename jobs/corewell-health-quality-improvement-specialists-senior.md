@@ -5,12 +5,12 @@
 | Company | [Corewell Health](https://scoutify.ai/companies/spectrumhealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 9 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Southfield-MI/Quality-Improvement-Specialists-Senior_R211960) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Southfield-MI/Quality-Improvement-Specialists-Senior_R211989) |
 
 ## About This Role
 
-This business analyst position at Corewell Health was posted on 2026-04-30.
+This business analyst position at Corewell Health was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

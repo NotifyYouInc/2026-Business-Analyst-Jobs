@@ -5,12 +5,12 @@
 | Company | [Arista Networks](https://scoutify.ai/companies/aristanetworks?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Engineering Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000129776429-professional-services-business-development-manager-sales) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AristaNetworks/744000130248414-professional-services-business-development-manager-sales) |
 
 ## About This Role
 
-This engineering manager position at Arista Networks was posted on 2026-06-02.
+This engineering manager position at Arista Networks was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

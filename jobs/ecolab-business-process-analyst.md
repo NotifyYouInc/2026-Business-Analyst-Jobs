@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Greensboro, North Carolina, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/USA---North-Carolina---Greensboro/Business-Process-Analyst_R00288180) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Business-Process-Analyst_R00296347) |
 
 ## About This Role
 
-This business analyst position at Ecolab was posted on 2026-03-25.
+This business analyst position at Ecolab was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

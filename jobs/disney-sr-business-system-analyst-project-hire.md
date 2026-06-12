@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Burbank, California, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Sr-Business-System-Analyst---Project-Hire_10144045) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Burbank-CA-USA/Sr-Business-System-Analyst---Project-Hire_10151360) |
 
 ## About This Role
 
-This business analyst position at Disney was posted on 2026-03-05.
+This business analyst position at Disney was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

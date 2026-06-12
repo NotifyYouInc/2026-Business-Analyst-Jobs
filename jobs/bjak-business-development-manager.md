@@ -1,16 +1,16 @@
-# Business Development Manager at Bjak
+# Business Development Manager  at Bjak
 
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Thailand |
+| Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Engineering Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/ba80785c-6421-4565-8902-b510bc735501) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/963abbab-5553-43eb-8033-39e12720b666) |
 
 ## About This Role
 
-This engineering manager position at Bjak was posted on 2026-05-22.
+This engineering manager position at Bjak was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

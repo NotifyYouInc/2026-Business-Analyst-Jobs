@@ -5,12 +5,12 @@
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Edmonton, Alberta, Canada |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000124925719-management-consultant-business-analyst-edmonton-future-opportunities-2026) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000130272269-management-consultant-business-analyst-edmonton-future-opportunities-2026) |
 
 ## About This Role
 
-This strategy / management consulting position at SIA was posted on 2026-05-06.
+This strategy / management consulting position at SIA was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

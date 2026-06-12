@@ -5,12 +5,12 @@
 | Company | [Agile Defense](https://scoutify.ai/companies/agile-defense?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Vienna, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.lever.co/agile-defense/31dd6a3c-7623-4204-ac2a-283088992f3b) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.lever.co/agile-defense/d94a5f17-a37b-467e-b4fa-5849cb911f6c) |
 
 ## About This Role
 
-This business analyst position at Agile Defense was posted on 2026-05-28.
+This business analyst position at Agile Defense was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

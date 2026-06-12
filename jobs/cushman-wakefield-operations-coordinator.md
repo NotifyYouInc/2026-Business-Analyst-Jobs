@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Operations-Coordinator_R318615) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Atlanta-Georgia-USA/Operations-Coordinator_R321167) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-05-20.
+This business analyst position at Cushman & Wakefield was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Analyst--Production-Support_REQ504007) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Charlotte-NC/Analyst--Production-Support_REQ512989) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-29.
+This business analyst position at JLL was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

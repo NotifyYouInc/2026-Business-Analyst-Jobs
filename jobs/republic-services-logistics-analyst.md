@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Covington, Kentucky, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/San-Antonio-TX-USA/Logistics-Analyst_R-175669) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Covington-KY-USA/Logistics-Analyst_R-176721-1) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-05-22.
+This business analyst position at Republic Services was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

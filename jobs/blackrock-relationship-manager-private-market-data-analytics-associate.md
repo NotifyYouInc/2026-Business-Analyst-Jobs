@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | New York City, New York, United States |
 | Category | Account Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Relationship-Manager--Private-Market-Data---Analytics---Associate_R263658) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Relationship-Manager--Private-Market-Data---Analytics---Associate_R264525) |
 
 ## About This Role
 
-This account manager position at Blackrock was posted on 2026-04-27.
+This account manager position at Blackrock was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

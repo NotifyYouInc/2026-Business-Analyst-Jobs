@@ -5,12 +5,12 @@
 | Company | [Auto Club Group](https://scoutify.ai/companies/acg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dearborn, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://acg.wd1.myworkdayjobs.com/Careers/job/MI-Admin-Office-Building-AOB/Salesforce-Administrator-Business-Support-Consultant---Hybrid_JR16252) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://acg.wd1.myworkdayjobs.com/Careers/job/MI-Admin-Office-Building-AOB/Salesforce-Administrator-Business-Support-Consultant---Hybrid_JR16253) |
 
 ## About This Role
 
-This business analyst position at Auto Club Group was posted on 2026-05-14.
+This business analyst position at Auto Club Group was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

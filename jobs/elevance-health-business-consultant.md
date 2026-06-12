@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Denver, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Business-Consultant_JR187026) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/CO-DENVER-700-BROADWAY/Business-Consultant_JR194603-1) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-03-23.
+This business analyst position at Elevance Health was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

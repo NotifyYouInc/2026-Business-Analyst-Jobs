@@ -5,12 +5,12 @@
 | Company | [Brooks Running](https://scoutify.ai/companies/brooksrunning?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.lever.co/brooksrunning/442fb18a-6634-4717-8099-ee15b46c143c) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://jobs.lever.co/brooksrunning/b2103aa9-8bf8-4149-8c47-5e7ed6dc6efa) |
 
 ## About This Role
 
-This business analyst position at Brooks Running was posted on 2026-03-16.
+This business analyst position at Brooks Running was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 
