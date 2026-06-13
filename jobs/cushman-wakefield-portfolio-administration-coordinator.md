@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Temple Terrace, Florida, United States |
+| Location | Saint Louis, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Temple-Terrace-Florida-USA/Portfolio-Administration-Coordinator_R319286) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Portfolio-Administration-Coordinator_R321801) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-05-08.
+This business analyst position at Cushman & Wakefield was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

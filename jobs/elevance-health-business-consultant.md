@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Waukesha, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/CO-DENVER-700-BROADWAY/Business-Consultant_JR194603-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/WI-Waukesha-N17W24222-Riverwood-Dr-Ste-300/Business-Consultant_JR193451) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-06-04.
+This business analyst position at Elevance Health was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

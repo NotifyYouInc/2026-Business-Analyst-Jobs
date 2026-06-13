@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacs](https://scoutify.ai/companies/pacs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ohio, US |
+| Location | California, US |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Remote---Ohio/Administrator-In-Training_JR171207-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://pacs.wd108.myworkdayjobs.com/pacs/job/Remote---California/Administrator-In-Training_JR171775) |
 
 ## About This Role
 
-This business analyst position at Pacs was posted on 2026-06-01.
+This business analyst position at Pacs was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

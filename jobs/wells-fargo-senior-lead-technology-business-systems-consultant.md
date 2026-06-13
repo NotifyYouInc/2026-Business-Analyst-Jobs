@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/PHOENIX-AZ/Senior-Lead-Technology-Business-Systems-Consultant_R-532374) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Dublin-Ireland/Senior-Lead-Technology-Business-Systems-Consultant_R-551219) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-04-01.
+This technology / it consulting position at Wells Fargo was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

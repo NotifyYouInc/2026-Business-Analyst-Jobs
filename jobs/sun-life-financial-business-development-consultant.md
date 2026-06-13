@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Edmonton, Alberta, Canada |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Edmonton-Alberta/Business-Development-Consultant_JR00124030) |
+| Location | Markham, Ontario, Canada |
+| Category | Sales Leadership |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Markham-Ontario/Business-Development-Consultant_JR00124782) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Sun Life Financial was posted on 2026-05-15.
+This sales leadership position at Sun Life Financial was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

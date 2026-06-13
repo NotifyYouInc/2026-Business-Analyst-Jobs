@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Dublin, Leinster, Ireland |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000117293505-senior-business-analyst) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000130546874-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Version 1 was posted on 2026-03-27.
+This business analyst position at Version 1 was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

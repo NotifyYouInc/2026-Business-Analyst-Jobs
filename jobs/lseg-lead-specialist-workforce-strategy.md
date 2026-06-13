@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | Philippines |
 | Category | Strategy & Operations |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-TowerERMZ-Infin/Lead-Specialist---Workforce-Strategy_R0117523-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/PHL-Taguig-City-CitiPlaza/Lead-Specialist---Workforce-Strategy_R0119370-1) |
 
 ## About This Role
 
-This strategy & operations position at LSEG was posted on 2026-03-13.
+This strategy & operations position at LSEG was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

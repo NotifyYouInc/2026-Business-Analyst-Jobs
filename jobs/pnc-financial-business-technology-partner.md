@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Denver---12345-W-Colfax-CO147/Business-Technology-Partner_R217103-2) |
+| Location | 2 locations |
+| Category | Product Manager |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Technology-Partner_R224042-1) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-04-02.
+This product manager position at PNC Financial was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

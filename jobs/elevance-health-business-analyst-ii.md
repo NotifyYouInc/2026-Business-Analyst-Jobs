@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 7 locations |
+| Location | Norfolk, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/OH-MASON-4361-IRWIN-SIMPSON-RD/Business-Analyst-II_JR193323-1) |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Business-Analyst-II_JR194830) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-06-02.
+This business analyst position at Elevance Health was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

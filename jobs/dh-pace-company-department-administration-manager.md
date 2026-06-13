@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DH Pace Company](https://scoutify.ai/companies/dh-pace-company?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Olathe, Kansas, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dhpace/jobs/5205377008) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dhpace/jobs/5250021008) |
 
 ## About This Role
 
-This business analyst position at DH Pace Company was posted on 2026-04-29.
+This human resources / people ops position at DH Pace Company was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 
