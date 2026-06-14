@@ -1,16 +1,16 @@
-# Business/Data Analyst Intern at RAKUNA
+# EIT Planner at Jabil
 
 | Field | Details |
 |-------|---------|
-| Company | [RAKUNA](https://scoutify.ai/companies/rakuna?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Long Bien, Hanoi, Vietnam |
+| Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | China |
 | Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/rakuna1/744000130344085-businessdata-analyst-intern) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guangzhou-Juncheng/EIT-Planner_J2453081) |
 
 ## About This Role
 
-This business analyst position at RAKUNA was posted on 2026-06-05.
+This business analyst position at Jabil was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

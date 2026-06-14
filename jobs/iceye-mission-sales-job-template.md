@@ -1,16 +1,16 @@
-# Analyst - Abstractions at JLL
+# Mission Sales Job template at ICEYE
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Business Analyst |
+| Company | [ICEYE](https://scoutify.ai/companies/iceye?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 2 locations |
+| Category | Account Executive |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Analyst---Abstractions_REQ474920) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/iceye/6b6bb95e-b594-4e5e-be73-7e25be96d7c3) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-06-06.
+This account executive position at ICEYE was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

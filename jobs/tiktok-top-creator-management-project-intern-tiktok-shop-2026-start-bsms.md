@@ -1,16 +1,16 @@
-# Analyst - Abstractions at JLL
+# Top Creator Management Project Intern (TikTok Shop) - 2026 Start (BS/MS) at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Business Analyst |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Analyst---Abstractions_REQ474920) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7627033013822163253/detail) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-06-06.
+This business analyst position at TikTok was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

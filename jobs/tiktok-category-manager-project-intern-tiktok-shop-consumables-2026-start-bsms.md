@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7594750980381133061/detail) |
+| Posted | 2026-06-06 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7626820333459409157/detail) |
 
 ## About This Role
 
-This business analyst position at TikTok was posted on 2026-05-07.
+This business analyst position at TikTok was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

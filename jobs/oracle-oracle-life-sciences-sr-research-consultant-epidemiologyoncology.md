@@ -1,16 +1,16 @@
-# Business/Data Analyst Intern at RAKUNA
+# Oracle Life Sciences Sr. Research Consultant- Epidemiology/Oncology at Oracle
 
 | Field | Details |
 |-------|---------|
-| Company | [RAKUNA](https://scoutify.ai/companies/rakuna?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Long Bien, Hanoi, Vietnam |
+| Company | [Oracle](https://scoutify.ai/companies/oracle?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | United States |
 | Category | Business Analyst |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/rakuna1/744000130344085-businessdata-analyst-intern) |
+| Apply | [View on company site](https://careers.oracle.com/jobs/#335344) |
 
 ## About This Role
 
-This business analyst position at RAKUNA was posted on 2026-06-05.
+This business analyst position at Oracle was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

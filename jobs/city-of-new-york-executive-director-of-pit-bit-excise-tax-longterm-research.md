@@ -1,4 +1,4 @@
-# Analyst at City of New York
+# Executive Director of PIT, BIT, Excise Tax & Longterm Research at City of New York
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013505676-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013505881-executive-director-of-pit-bit-excise-tax-longterm-research) |
 
 ## About This Role
 

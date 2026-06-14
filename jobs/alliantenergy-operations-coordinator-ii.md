@@ -1,16 +1,16 @@
-# Analyst - Abstractions at JLL
+# Operations Coordinator II at Alliantenergy
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Company | [Alliantenergy](https://scoutify.ai/companies/alliantenergy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Ottumwa, Iowa, United States |
 | Category | Business Analyst |
 | Posted | 2026-06-06 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Analyst---Abstractions_REQ474920) |
+| Apply | [View on company site](https://alliantenergy.wd1.myworkdayjobs.com/alliant/job/Ottumwa-IA/Operations-Coordinator-II_JR-9798-1) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-06-06.
+This business analyst position at Alliantenergy was posted on 2026-06-06.
 
 ## Get Real-Time Alerts
 

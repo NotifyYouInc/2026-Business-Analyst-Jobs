@@ -1,16 +1,16 @@
-# Business/Data Analyst Intern at RAKUNA
+# Technical Business Analyst  at Skylo Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [RAKUNA](https://scoutify.ai/companies/rakuna?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Long Bien, Hanoi, Vietnam |
+| Company | [Skylo Technologies](https://scoutify.ai/companies/skylo-technologies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | United States |
 | Category | Business Analyst |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/rakuna1/744000130344085-businessdata-analyst-intern) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/skylo/ac308c78-ee0b-48af-9df9-a97725383413) |
 
 ## About This Role
 
-This business analyst position at RAKUNA was posted on 2026-06-05.
+This business analyst position at Skylo Technologies was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

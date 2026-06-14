@@ -1,16 +1,16 @@
-# Business/Data Analyst Intern at RAKUNA
+# Operations Associate Intern at Codingal
 
 | Field | Details |
 |-------|---------|
-| Company | [RAKUNA](https://scoutify.ai/companies/rakuna?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Long Bien, Hanoi, Vietnam |
+| Company | [Codingal](https://scoutify.ai/companies/codingal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/rakuna1/744000130344085-businessdata-analyst-intern) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://www.ycombinator.com/companies/codingal/jobs/gbYto5U-operations-associate-intern) |
 
 ## About This Role
 
-This business analyst position at RAKUNA was posted on 2026-06-05.
+This business analyst position at Codingal was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Aguascalientes, Aguascalientes, Mexico |
+| Location | Israel |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Aguascalientes/Material-Planning-Analyst_WD221679) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Israel-Migdal-Ha-Emek/Material-Planning-Analyst_WD222211) |
 
 ## About This Role
 
-This fp&a / strategic finance position at FLEX LTD. Flextronics was posted on 2026-06-03.
+This fp&a / strategic finance position at FLEX LTD. Flextronics was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 
