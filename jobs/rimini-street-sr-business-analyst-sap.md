@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-Brazil/Sr-Business-Analyst--SAP_R-102232) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Hyderabad/Sr-Business-Analyst--SAP_R-102242) |
 
 ## About This Role
 
-This business analyst position at Rimini Street was posted on 2026-06-02.
+This business analyst position at Rimini Street was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

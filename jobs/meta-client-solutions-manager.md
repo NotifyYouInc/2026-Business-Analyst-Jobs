@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Account Manager |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1728618411914287) |
+| Apply | [View on company site](https://www.metacareers.com/profile/job_details/1748238196304989) |
 
 ## About This Role
 

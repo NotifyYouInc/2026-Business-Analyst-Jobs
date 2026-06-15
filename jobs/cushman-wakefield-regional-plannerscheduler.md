@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Raleigh, North Carolina, United States |
 | Category | Business Analyst |
 | Posted | 2026-06-05 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Austin-Texas-USA/Regional-Planner-Scheduler_R323485) |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Raleigh-North-Carolina-USA/Regional-Planner-Scheduler_R323487) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Limerick, Munster, Ireland |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Limerick-Ireland/Tech-Coord--Transfer-Agency_R148247) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Limerick-Ireland/Tech-Coord--Transfer-Agency_R152449-1) |
 
 ## About This Role
 
-This business analyst position at Northern Trust was posted on 2026-02-17.
+This business analyst position at Northern Trust was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

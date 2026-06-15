@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bjak](https://scoutify.ai/companies/bjak?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | China |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/02ea873c-db84-432a-bd6d-4d5bc9dd0593) |
+| Posted | 2026-06-07 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/bjakcareer/3e7a50e5-033d-40d2-850a-4494338386df) |
 
 ## About This Role
 
-This business analyst position at Bjak was posted on 2026-05-22.
+This business analyst position at Bjak was posted on 2026-06-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | China |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Business-Development-Analyst_J2441781) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Business-Development-Analyst_J2451406) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Jabil was posted on 2026-03-04.
+This sales development (sdr / bdr) position at Jabil was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
