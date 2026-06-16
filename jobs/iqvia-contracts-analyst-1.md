@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Sofia-Bulgaria/Contracts-Analyst-1_R1546752-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Mexico-City-Mexico/Contracts-Analyst-1_R1545042-1) |
 
 ## About This Role
 
-This business analyst position at IQVIA was posted on 2026-05-25.
+This business analyst position at IQVIA was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

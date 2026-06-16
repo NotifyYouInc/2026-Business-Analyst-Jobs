@@ -5,12 +5,12 @@
 | Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Washington-Liberty-Lake/Business-Operations-Specialist_JR102515) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/United-States-of-America-Washington-Liberty-Lake/Business-Operations-Specialist_JR102550) |
 
 ## About This Role
 
-This business analyst position at Itron was posted on 2026-05-28.
+This business analyst position at Itron was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

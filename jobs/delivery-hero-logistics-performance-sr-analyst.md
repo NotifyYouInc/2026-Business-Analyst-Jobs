@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000109304271-logistics-performance-sr-analyst) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000130860069-logistics-performance-sr-analyst) |
 
 ## About This Role
 
-This operations position at Delivery Hero was posted on 2026-02-13.
+This operations position at Delivery Hero was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Cash---Trade-Processing-Intermediate-Analyst_26948228) |
+| Category | Project Manager |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Cash---Trade-Processing-Intermediate-Analyst_26969742-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-03-20.
+This project manager position at Citigroup was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

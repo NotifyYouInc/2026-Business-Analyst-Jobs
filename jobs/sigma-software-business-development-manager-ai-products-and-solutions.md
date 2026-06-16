@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sigma Software](https://scoutify.ai/companies/sigmasoftware?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ukrainka, Crimea, Ukraine |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Engineering Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000128224180-business-development-manager-ai-products-and-solutions) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SigmaSoftware2/744000130856029-business-development-manager-ai-products-and-solutions) |
 
 ## About This Role
 
-This engineering manager position at Sigma Software was posted on 2026-05-25.
+This engineering manager position at Sigma Software was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

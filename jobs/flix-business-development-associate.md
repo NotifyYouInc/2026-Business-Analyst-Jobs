@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
-| Category | Account Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://flix.careers/job/8574391002?gh_jid=8574391002) |
+| Location | Los Angeles, California, United States |
+| Category | Account Executive |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://flix.careers/job/8582948002?gh_jid=8582948002) |
 
 ## About This Role
 
-This account manager position at Flix was posted on 2026-06-02.
+This account executive position at Flix was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

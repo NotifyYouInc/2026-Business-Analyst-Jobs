@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FREENOW](https://scoutify.ai/companies/freenow?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7775076) |
+| Location | 3 locations |
+| Category | Corporate Finance |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/freenow/jobs/7990611) |
 
 ## About This Role
 
-This business analyst position at FREENOW was posted on 2026-04-02.
+This corporate finance position at FREENOW was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

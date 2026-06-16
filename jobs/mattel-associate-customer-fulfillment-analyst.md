@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Germany |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000126667009-associate-customer-fulfillment-analyst) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000130833681-associate-customer-fulfillment-analyst) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-05-15.
+This business analyst position at Mattel was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Securities---Derivatives-Analyst-2_26955448) |
+| Location | Pune, Maharashtra, India |
+| Category | Corporate Finance |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Securities---Derivatives-Analyst-2_26969109) |
 
 ## About This Role
 
-This treasury & capital markets position at Citigroup was posted on 2026-04-21.
+This corporate finance position at Citigroup was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Project-Delivery-Analyst--Elevate-_R0072655) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Project-Delivery-Analyst--Elevate-_R0072675) |
 
 ## About This Role
 
-This scrum master & agile coach position at Huntington Bancshares was posted on 2026-06-01.
+This scrum master & agile coach position at Huntington Bancshares was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

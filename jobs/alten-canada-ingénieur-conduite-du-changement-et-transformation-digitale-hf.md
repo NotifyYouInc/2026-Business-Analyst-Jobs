@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toulouse, Occitanie, France |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000124574449-ingenieur-conduite-du-changement-et-transformation-digitale-hf) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000131061658-ingenieur-conduite-du-changement-et-transformation-digitale-hf) |
 
 ## About This Role
 
-This business analyst position at ALTEN Canada was posted on 2026-05-05.
+This business analyst position at ALTEN Canada was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Florida, US |
-| Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-REMOTE/ERP-Functional-Data-Lead-Analyst--Remote-_01840764) |
+| Category | Project Manager |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-REMOTE/ERP-Functional-Data-Lead-Analyst--Remote-_01850058) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-04-24.
+This project manager position at RTX was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

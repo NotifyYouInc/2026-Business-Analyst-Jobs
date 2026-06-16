@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Project Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/IT-Business-Senior-Analyst---Assistant-Vice-President_26956448) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/IT-Business-Senior-Analyst---Assistant-Vice-President_26967270) |
 
 ## About This Role
 
-This project manager position at Citigroup was posted on 2026-04-27.
+This project manager position at Citigroup was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

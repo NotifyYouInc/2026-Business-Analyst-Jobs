@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Constellation Brands](https://scoutify.ai/companies/cbrands?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bentonville, Arkansas, United States |
+| Location | 8 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Bentonville-Arkansas/Category-Analyst_R-39491-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Los-Angeles-California/Category-Analyst_R-40440-1) |
 
 ## About This Role
 
-This business analyst position at Constellation Brands was posted on 2026-03-10.
+This business analyst position at Constellation Brands was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

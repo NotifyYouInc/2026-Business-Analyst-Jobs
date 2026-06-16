@@ -5,12 +5,12 @@
 | Company | [MultiCare Health System](https://scoutify.ai/companies/multicare-health-system?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Staffing-Timekeeping-Coordinator_JR74654) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://multicare.wd1.myworkdayjobs.com/multicare/job/Remote-USA/Staffing-Timekeeping-Coordinator_JR77844) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at MultiCare Health System was posted on 2026-05-12.
+This talent acquisition / recruiting position at MultiCare Health System was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

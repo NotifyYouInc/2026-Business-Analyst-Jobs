@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Markham, Ontario, Canada |
+| Location | 2 locations |
 | Category | Sales Leadership |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Markham-Ontario/Business-Development-Consultant_JR00124782) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Winnipeg-Manitoba/Business-Development-Consultant_JR00124793) |
 
 ## About This Role
 
-This sales leadership position at Sun Life Financial was posted on 2026-06-05.
+This sales leadership position at Sun Life Financial was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Philippines |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/PH-BTG-TANAUAN-CITY-BQ4--First-Philippine-Industrial-Park--BLDG-Q4/Anlyst--Svc-Contract-Wnty_01843567) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/PH-BTG-TANAUAN-CITY-BQ4--First-Philippine-Industrial-Park--BLDG-Q4/Anlyst--Svc-Contract-Wnty_01851248) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-05-12.
+This business analyst position at RTX was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

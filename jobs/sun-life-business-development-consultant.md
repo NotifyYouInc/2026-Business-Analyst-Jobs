@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Markham, Ontario, Canada |
-| Category | Sales Leadership |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Markham-Ontario/Business-Development-Consultant_JR00124782) |
+| Location | 2 locations |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Winnipeg-Manitoba/Business-Development-Consultant_JR00124793) |
 
 ## About This Role
 
-This sales leadership position at Sun Life was posted on 2026-06-05.
+This sales development (sdr / bdr) position at Sun Life was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

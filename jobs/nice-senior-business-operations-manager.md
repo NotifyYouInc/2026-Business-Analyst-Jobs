@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hoboken, New Jersey, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4715414101?gh_jid=4715414101) |
+| Category | Operations |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4873363101?gh_jid=4873363101) |
 
 ## About This Role
 
-This strategy & operations position at NiCE was posted on 2026-02-27.
+This operations position at NiCE was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

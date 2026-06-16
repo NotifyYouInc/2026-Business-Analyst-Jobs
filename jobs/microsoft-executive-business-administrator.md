@@ -5,12 +5,12 @@
 | Company | [Microsoft](https://scoutify.ai/companies/microsoft?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Redmond, Washington, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556868944) |
+| Posted | 2026-05-29 |
+| Apply | [View on company site](https://apply.careers.microsoft.com/careers/job/1970393556837613) |
 
 ## About This Role
 
-This business analyst position at Microsoft was posted on 2026-05-27.
+This business analyst position at Microsoft was posted on 2026-05-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mahwah, New Jersey, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/New-Jersey-Mahwah-325-Corporate-Dr/Supply-Chain-Analyst--Remote-_R561665-1) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/New-Jersey-Mahwah-325-Corporate-Dr/Supply-Chain-Analyst--Remote-_R567077) |
 
 ## About This Role
 
-This business analyst position at Stryker was posted on 2026-04-30.
+This business analyst position at Stryker was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

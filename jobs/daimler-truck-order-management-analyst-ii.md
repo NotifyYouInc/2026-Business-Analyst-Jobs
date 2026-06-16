@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | South Carolina, US |
-| Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Fort-Mill-SC-US/Order-Management-Analyst-II_DT-16981) |
+| Location | Fort Mill, South Carolina, United States |
+| Category | Account Manager |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Fort-Mill-SC-US/Order-Management-Analyst-II_DT-17598-2) |
 
 ## About This Role
 
-This business analyst position at Daimler Truck was posted on 2026-03-02.
+This account manager position at Daimler Truck was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

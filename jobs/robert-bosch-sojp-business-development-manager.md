@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Engineering Manager |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000118836447-sojp-business-development-manager) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000131026654-sojp-business-development-manager) |
 
 ## About This Role
 
-This engineering manager position at Robert Bosch was posted on 2026-04-06.
+This engineering manager position at Robert Bosch was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

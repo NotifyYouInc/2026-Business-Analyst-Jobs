@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sub-Zero](https://scoutify.ai/companies/sub-zero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cedar Rapids, Iowa, United States |
+| Location | Goodyear, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/sub1000subz/JobBoard/ffaa667e-61b4-4b38-b427-2cb6982a41a3/OpportunityDetail?opportunityId=0d07a409-ede1-4351-a88e-af0cb85979e4) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/sub1000subz/JobBoard/ffaa667e-61b4-4b38-b427-2cb6982a41a3/OpportunityDetail?opportunityId=cbfc1692-428e-422b-82b0-7fe30c1cce4a) |
 
 ## About This Role
 
-This business analyst position at Sub-Zero was posted on 2026-05-06.
+This business analyst position at Sub-Zero was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

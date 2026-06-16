@@ -5,12 +5,12 @@
 | Company | [7-Eleven](https://scoutify.ai/companies/my7elevenhr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Category-Planner_R26_1220) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Category-Planner_R26_1219) |
 
 ## About This Role
 
-This business analyst position at 7-Eleven was posted on 2026-04-22.
+This business analyst position at 7-Eleven was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

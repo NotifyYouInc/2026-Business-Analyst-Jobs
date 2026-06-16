@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HUB International](https://scoutify.ai/companies/hubinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Winter Park, Florida, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Winter-Park-FL/Business-Analyst_R0035765) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://hubinternational.wd1.myworkdayjobs.com/hubinternational/job/Toronto-ON/Junior-Business-Analyst_R0036855) |
 
 ## About This Role
 
-This business analyst position at HUB International was posted on 2026-04-10.
+This business analyst position at HUB International was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

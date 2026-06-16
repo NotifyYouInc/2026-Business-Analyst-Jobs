@@ -1,16 +1,16 @@
-# Manager, Business  Consultant at CVS Health
+# Manager, Business Consultant at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hartford, Connecticut, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Manager--Business--Consultant_R0924368) |
+| Location | Pennsylvania, US |
+| Category | QA Engineer |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Moon-Township/Manager--Business-Consultant_R0925276) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-05-28.
+This qa engineer position at CVS Health was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Birmingham, Alabama, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Houston-77002/Senior-Business-Systems-Analyst_R212941-2) |
+| Posted | 2026-06-08 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Birmingham---Brock-AL112/Senior-Business-Systems-Analyst_R223440-1) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-02-26.
+This business analyst position at PNC Financial was posted on 2026-06-08.
 
 ## Get Real-Time Alerts
 
