@@ -5,12 +5,12 @@
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Business-Operations-Consultant_R147017) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Health-System-Shared-Services/Business-Operations-Consultant_R152347-1) |
 
 ## About This Role
 
-This strategy / management consulting position at The Ohio State University was posted on 2026-03-17.
+This strategy / management consulting position at The Ohio State University was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

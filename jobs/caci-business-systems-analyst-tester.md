@@ -5,12 +5,12 @@
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Arlington/Business-Systems-Analyst--Tester_325540) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Arlington-VA-US/Business-Systems-Analyst--Tester_327573) |
 
 ## About This Role
 
-This business analyst position at CACI was posted on 2026-04-30.
+This business analyst position at CACI was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

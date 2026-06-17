@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SBT Global, Inc.](https://scoutify.ai/companies/sbt-global-inc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cerritos, California, United States |
+| Location | Duluth, Minnesota, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990013163046-warehouse-innovation-project-consultant-korean-bilingual) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990013550006-warehouse-innovation-project-consultant-korean-bilingual) |
 
 ## About This Role
 
-This business analyst position at SBT Global, Inc. was posted on 2026-05-15.
+This business analyst position at SBT Global, Inc. was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

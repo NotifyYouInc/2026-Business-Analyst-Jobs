@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Norfolk, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Norfolk-VA/Travel-and-Expense-PCard-Analyst_R0235232) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Norfolk-VA/Travel-and-Expense-PCard-Analyst_R0241784) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-03-06.
+This business analyst position at Booz Allen was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

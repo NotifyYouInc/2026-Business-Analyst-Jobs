@@ -5,12 +5,12 @@
 | Company | [UOB Group](https://scoutify.ai/companies/uob-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/The-Gardens-North-Tower/Associate-Officer--COPC_JR74720) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://uobgroup.wd3.myworkdayjobs.com/uobexternal/job/The-Intermark-Vista-Tower-IH2/Associate-Officer--COPC_JR86875) |
 
 ## About This Role
 
-This business analyst position at UOB Group was posted on 2026-05-08.
+This business analyst position at UOB Group was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

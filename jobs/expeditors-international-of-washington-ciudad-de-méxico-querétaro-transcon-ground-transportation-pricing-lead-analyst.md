@@ -5,12 +5,12 @@
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000126162679-ciudad-de-mexico-queretaro-transcon-ground-transportation-pricing-lead-analyst) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000131230230-ciudad-de-mexico-queretaro-transcon-ground-transportation-pricing-lead-analyst) |
 
 ## About This Role
 
-This business analyst position at Expeditors International of Washington was posted on 2026-05-12.
+This business analyst position at Expeditors International of Washington was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

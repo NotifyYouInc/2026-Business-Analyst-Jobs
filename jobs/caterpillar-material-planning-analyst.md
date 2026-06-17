@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bologna, Emilia-Romagna, Italy |
+| Location | 2 locations |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Minerbio-Bologna/Material-Planning-Analyst_R0000355488) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Santa-Catarina-Nuevo-Len/Material-Planning-Analyst_R0000370532) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Caterpillar was posted on 2026-03-20.
+This fp&a / strategic finance position at Caterpillar was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

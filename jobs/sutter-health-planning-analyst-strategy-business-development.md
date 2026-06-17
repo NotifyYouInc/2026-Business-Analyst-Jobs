@@ -1,16 +1,16 @@
-# Planning Analyst (Strategy & Business Development) at Sutter Health
+# Planning Analyst, Strategy & Business Development at Sutter Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Sutter Health](https://scoutify.ai/companies/sutterhealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Sacramento, California, United States |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Emeryville/Planning-Analyst--Strategy---Business-Development-_R-129987) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://sutterhealth.wd1.myworkdayjobs.com/sh/job/Sacramento/Planning-Analyst--Strategy---Business-Development-_R-132055) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Sutter Health was posted on 2026-05-11.
+This sales development (sdr / bdr) position at Sutter Health was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

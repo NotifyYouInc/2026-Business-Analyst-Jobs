@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Rochester, New York, United States |
+| Location | Framingham, Massachusetts, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Rochester-NY-USA/Employee-Benefits-Analyst_R26_0000001536) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Framingham-MA-USA/Analyst_R26_0000000446) |
 
 ## About This Role
 
-This human resources / people ops position at Brown & Brown Insurance was posted on 2026-04-21.
+This human resources / people ops position at Brown & Brown Insurance was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

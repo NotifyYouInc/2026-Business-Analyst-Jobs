@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Everett, Washington, United States |
-| Category | Program Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Business-Operations-Specialist_JR2026514019-1) |
+| Location | North Charleston, South Carolina, United States |
+| Category | Business Analyst |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Business-Operations-Specialist_JR2026508182-2) |
 
 ## About This Role
 
-This program manager position at Boeing was posted on 2026-06-08.
+This business analyst position at Boeing was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

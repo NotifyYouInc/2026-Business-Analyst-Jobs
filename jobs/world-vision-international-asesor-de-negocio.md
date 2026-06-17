@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [World Vision International](https://scoutify.ai/companies/world-vision-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Puebla, Puebla, Mexico |
+| Location | San Luis Acatlán, Guerrero, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://worldvision.wd1.myworkdayjobs.com/worldvisioninternational/job/Vision-Fund-Office-Puebla-Sur-Mexico/ASESOR-DE-NEGOCIO_JR48815) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://worldvision.wd1.myworkdayjobs.com/worldvisioninternational/job/VisionFund-Office-San-Luis-Acatlan-Mxico/ASESOR-DE-NEGOCIO_JR50490) |
 
 ## About This Role
 
-This business analyst position at World Vision International was posted on 2026-03-11.
+This business analyst position at World Vision International was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

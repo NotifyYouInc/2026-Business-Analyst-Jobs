@@ -5,12 +5,12 @@
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Overland Park, Kansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Overland-Park---PNC-Kansas-City-KS012/Loan-Support-Analyst-Senior---Covenant-Administration---Midland_R223809-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Overland-Park---PNC-Kansas-City-KS012/Loan-Support-Analyst-Senior---Covenant-Administration---Midland_R217654) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-06-02.
+This business analyst position at PNC Financial was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

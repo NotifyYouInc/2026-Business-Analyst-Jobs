@@ -1,16 +1,16 @@
-# Planning Co Op at Johnson & Johnson
+# Planning Co-Op at Johnson & Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Guaynabo, Guaynabo, Puerto Rico |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Guaynabo-Puerto-Rico-United-States-of-America/Planning-Co-Op_R-064170) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Guaynabo-Puerto-Rico-United-States-of-America/Planning-Co-Op_R-080595) |
 
 ## About This Role
 
-This business analyst position at Johnson & Johnson was posted on 2026-03-25.
+This business analyst position at Johnson & Johnson was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

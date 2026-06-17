@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bayan Lepas, Penang, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000124813494-senior-it-analyst) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000131366753-senior-it-analyst) |
 
 ## About This Role
 
-This business analyst position at Renesas Electronics was posted on 2026-05-06.
+This business analyst position at Renesas Electronics was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

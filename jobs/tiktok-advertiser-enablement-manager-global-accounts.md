@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Los Angeles, California, United States |
 | Category | Account Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7647991381508655413/detail) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7649172857435982085/detail) |
 
 ## About This Role
 
-This account manager position at TikTok was posted on 2026-06-08.
+This account manager position at TikTok was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Laguna, California, United States |
+| Location | Winnemucca, Nevada, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---LAGUNA-HUB-CALAG/PT-PDS_R26019653) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---WINNEMUCCA-CENTER-NVWNA/PT-PDS_R26019046) |
 
 ## About This Role
 
-This business analyst position at United Parcel Service (UPS) was posted on 2026-06-08.
+This business analyst position at United Parcel Service (UPS) was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

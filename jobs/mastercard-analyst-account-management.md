@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Analyst--Account-Management_R-271745-1) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Category | Account Manager |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Buenos-Aires-Argentina/Analyst--Account-Management_R-276561) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-03-27.
+This account manager position at Mastercard was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

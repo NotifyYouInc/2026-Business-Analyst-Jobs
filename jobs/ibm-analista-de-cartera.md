@@ -1,16 +1,16 @@
-# Analista de Cartera at IBM
+# Analista de cartera at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
-| Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=113758) |
+| Category | Project Manager |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119037) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-05-07.
+This project manager position at IBM was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

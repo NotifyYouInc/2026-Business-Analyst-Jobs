@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | North Charleston, South Carolina, United States |
+| Location | Everett, Washington, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Supply-Chain-Management-Analyst_JR2026511089-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Supply-Chain-Management-Analyst_JR2026511419-1) |
 
 ## About This Role
 
-This business analyst position at Boeing was posted on 2026-06-01.
+This business analyst position at Boeing was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

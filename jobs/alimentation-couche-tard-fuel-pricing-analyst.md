@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pensacola, Florida, United States |
+| Location | San Antonio, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B040-Pensacola-FL/Fuel-Pricing-Analyst_R580823) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-B206-SAN-ANTONIO-TX/Fuel-Pricing-Analyst_R596327) |
 
 ## About This Role
 
-This business analyst position at Alimentation Couche-Tard was posted on 2026-04-15.
+This business analyst position at Alimentation Couche-Tard was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

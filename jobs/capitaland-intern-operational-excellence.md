@@ -5,12 +5,12 @@
 | Company | [Capitaland](https://scoutify.ai/companies/capitaland?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Strategy & Operations |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://capitaland.wd3.myworkdayjobs.com/capitalandgroup/job/Singapore-Central-Singapore/Intern--Operational-Excellence_JR004712-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://capitaland.wd3.myworkdayjobs.com/capitalandgroup/job/Singapore-Central-Singapore/Intern--Operational-Excellence_JR004758-1) |
 
 ## About This Role
 
-This strategy & operations position at Capitaland was posted on 2026-05-28.
+This strategy & operations position at Capitaland was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

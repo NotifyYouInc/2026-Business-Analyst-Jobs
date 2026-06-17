@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Chiclayo, Lambayeque, Peru |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/PRACTICANTE-I_JR00105223) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lambayeque-Chiclayo/PRACTICANTE-I_JR00106144) |
 
 ## About This Role
 
-This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-28.
+This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

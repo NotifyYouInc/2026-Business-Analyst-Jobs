@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sacramento, California, United States |
+| Location | Fort Wayne, Indiana, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---CA---Sacramento---4930-Allbaugh-Drive/RME-Planner_R322409) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---IN---Fort-Wayne---9798-Smith-Road/RME-Planner_R323837) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-06-01.
+This business analyst position at Cushman & Wakefield was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

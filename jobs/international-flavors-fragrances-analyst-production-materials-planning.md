@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cedar Rapids, Iowa, United States |
+| Location | Esteio, Rio Grande do Sul, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Cedar-Rapids-IA-USA/Analyst--Production---Materials-Planning_R16593) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Esteio-Brazil/Analyst--Production---Materials-Planning_R18765) |
 
 ## About This Role
 
-This business analyst position at International Flavors & Fragrances was posted on 2026-04-07.
+This business analyst position at International Flavors & Fragrances was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

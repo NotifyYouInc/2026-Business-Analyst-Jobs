@@ -5,12 +5,12 @@
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Administrator_10077081-WD-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Administrator_10077085-WD-1) |
 
 ## About This Role
 
-This business analyst position at Mitsubishi UFG was posted on 2026-06-05.
+This business analyst position at Mitsubishi UFG was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 
