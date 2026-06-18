@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | North Kingstown, Rhode Island, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000130882963-environmental-buma-rhode-island) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000131503779-environmental-buma-rhode-island) |
 
 ## About This Role
 
-This business analyst position at Eurofins Scientific was posted on 2026-06-08.
+This business analyst position at Eurofins Scientific was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

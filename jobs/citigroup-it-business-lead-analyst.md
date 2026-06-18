@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Tampa, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/6400-LAS-COLINAS-BLVD--IRVING/IT-Business-Lead-Analyst_26961374) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/IT-Business-Lead-Analyst_26965703) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-22.
+This business analyst position at Citigroup was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

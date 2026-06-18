@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Live Nation](https://scoutify.ai/companies/live-nation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Beverly Hills, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Work-From-Home---California---Los-Angeles/LN-Concerts--Pricing-Manager_JR-90671) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Beverly-Hills-CA-USA/LN-Concerts--Pricing-Manager_JR-90918-3) |
 
 ## About This Role
 
-This business analyst position at Live Nation was posted on 2026-06-03.
+This business analyst position at Live Nation was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

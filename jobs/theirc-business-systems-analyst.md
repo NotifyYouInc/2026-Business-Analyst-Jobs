@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Theirc](https://scoutify.ai/companies/theirc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Nairobi, Nairobi County, Kenya |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Nairobi-IHUB-Kenya/Business-Systems-Analyst_JR00002817) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://theirc.wd1.myworkdayjobs.com/external_careers/job/Nairobi-IHUB-Kenya/Business-Systems-Analyst_JR00003738) |
 
 ## About This Role
 
-This business analyst position at Theirc was posted on 2026-04-03.
+This business analyst position at Theirc was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

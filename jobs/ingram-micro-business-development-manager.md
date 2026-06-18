@@ -5,12 +5,12 @@
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Engineering Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Sydney-Australia/Business-Development-Manager_R-115323) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Sydney-Australia/Business-Development-Manager_R-115913) |
 
 ## About This Role
 
-This engineering manager position at Ingram Micro was posted on 2026-05-21.
+This engineering manager position at Ingram Micro was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

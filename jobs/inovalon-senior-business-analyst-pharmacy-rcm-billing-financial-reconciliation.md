@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inovalon](https://scoutify.ai/companies/inovalon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Canonsburg, Pennsylvania, United States |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7737597003) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://www.inovalon.com/careers/job/?gh_jid=7768832003) |
 
 ## About This Role
 
-This business analyst position at Inovalon was posted on 2026-05-27.
+This business analyst position at Inovalon was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

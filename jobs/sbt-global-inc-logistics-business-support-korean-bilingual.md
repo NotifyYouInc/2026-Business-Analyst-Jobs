@@ -1,16 +1,16 @@
-# Logistics Business Support (Korean Bilingual) at SBT Global, Inc.
+#  Logistics Business Support (Korean Bilingual) at SBT Global, Inc.
 
 | Field | Details |
 |-------|---------|
 | Company | [SBT Global, Inc.](https://scoutify.ai/companies/sbt-global-inc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Duluth, Minnesota, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990013113886-logistics-business-support-korean-bilingual) |
+| Location | Plano, Texas, United States |
+| Category | Customer Success |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/sbtglobalinc/3743990013563217-logistics-business-support-korean-bilingual) |
 
 ## About This Role
 
-This business analyst position at SBT Global, Inc. was posted on 2026-05-13.
+This customer success position at SBT Global, Inc. was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

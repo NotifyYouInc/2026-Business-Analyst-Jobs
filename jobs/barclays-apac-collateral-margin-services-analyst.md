@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/APAC-Collateral---Margin-Services-Analyst_JR-0000114693) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Singapore-Marina-Bay-Financial-Tower-2/APAC-Collateral---Margin-Services-Analyst_JR-0000114256-8) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-05-29.
+This business analyst position at Barclays was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

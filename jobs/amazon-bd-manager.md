@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Account Manager |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427633/bd-manager) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10445515/bd-manager) |
 
 ## About This Role
 
-This account manager position at Amazon was posted on 2026-05-22.
+This account manager position at Amazon was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

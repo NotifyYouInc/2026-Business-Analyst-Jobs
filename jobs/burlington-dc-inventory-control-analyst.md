@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Burlington](https://scoutify.ai/companies/burlington?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Burlington, North Carolina, United States |
+| Location | Redlands, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://burlington.wd5.myworkdayjobs.com/burlingtoncareers/job/00518---DC-Daniels-Way/DC-Inventory-Control-Analyst_R103452) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://burlington.wd5.myworkdayjobs.com/burlingtoncareers/job/00517---DC-Redlands/DC-Inventory-Control-Analyst_R103589) |
 
 ## About This Role
 
-This business analyst position at Burlington was posted on 2026-05-27.
+This business analyst position at Burlington was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

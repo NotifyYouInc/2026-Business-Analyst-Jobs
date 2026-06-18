@@ -1,16 +1,16 @@
-# Senior Business Value Consultant at JFrog
+# Senior Business Value Consultant  at JFrog
 
 | Field | Details |
 |-------|---------|
 | Company | [JFrog](https://scoutify.ai/companies/jfrog?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Sales Engineer |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://join.jfrog.com/job/?job=7936018&gh_jid=7936018) |
+| Location | 3 locations |
+| Category | Account Executive |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://join.jfrog.com/job/?job=7986109&gh_jid=7986109) |
 
 ## About This Role
 
-This sales engineer position at JFrog was posted on 2026-06-02.
+This account executive position at JFrog was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

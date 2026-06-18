@@ -5,12 +5,12 @@
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Grand Prairie, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/TX-GRAND-PRAIRIE-2505-N-HWY-360-STE-300/Business-Analyst-III---Sr-Test-Analyst_JR189786) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/TX-GRAND-PRAIRIE-2505-N-HWY-360-STE-200--300/Business-Analyst-III---Sr-Test-Analyst_JR193722) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-04-24.
+This business analyst position at Elevance Health was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

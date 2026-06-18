@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Gartner](https://scoutify.ai/companies/gartner?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Business-Analyst_109948) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://gartner.wd5.myworkdayjobs.com/EXT/job/Barcelona/Business-Analyst_111253) |
 
 ## About This Role
 
-This business analyst position at Gartner was posted on 2026-05-29.
+This business analyst position at Gartner was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

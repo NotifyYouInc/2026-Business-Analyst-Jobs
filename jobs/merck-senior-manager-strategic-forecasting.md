@@ -1,16 +1,16 @@
-# Senior Manager Strategic Forecasting at Merck
+# Senior Manager, Strategic Forecasting at Merck
 
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Hyderabad, Telangana, India |
 | Category | Strategy & Operations |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Maharashtra---Pune-Wework/Senior-Manager-Strategic-Forecasting_R395030-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Senior-Manager--Strategic-Forecasting_R400058-1) |
 
 ## About This Role
 
-This strategy & operations position at Merck was posted on 2026-05-22.
+This strategy & operations position at Merck was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

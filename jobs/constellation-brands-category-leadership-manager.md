@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Constellation Brands](https://scoutify.ai/companies/cbrands?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Field-Office---NY---NYCBronxKingsQueensRichmond/Category-Leadership-Manager_R-40241-1) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Atlanta-Georgia/Category-Leadership-Manager_R-40365-1) |
 
 ## About This Role
 
-This business analyst position at Constellation Brands was posted on 2026-06-03.
+This business analyst position at Constellation Brands was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

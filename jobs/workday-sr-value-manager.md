@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Sr-Value-Manager_JR-0103524) |
+| Location | 2 locations |
+| Category | Customer Success |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Finland-Helsinki/Sr-Value-Manager_JR-0107787) |
 
 ## About This Role
 
-This business analyst position at Workday was posted on 2026-03-09.
+This customer success position at Workday was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

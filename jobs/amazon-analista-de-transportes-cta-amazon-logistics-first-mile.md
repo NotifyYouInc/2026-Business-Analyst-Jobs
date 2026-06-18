@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Osasco, São Paulo, Brazil |
+| Location | Contagem, Minas Gerais, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429301/analista-de-transportes-cta-amazon-logistics-first-mile) |
+| Posted | 2026-05-27 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10431548/analista-de-transportes-cta-amazon-logistics-first-mile) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-05-25.
+This business analyst position at Amazon was posted on 2026-05-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHANDLER-AZ/Senior-Business-Execution-Consultant_R-539912) |
+| Location | Hyderabad, Telangana, India |
+| Category | Customer Success |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Business-Execution-Consultant_R-545461) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-06-02.
+This customer success position at Wells Fargo was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

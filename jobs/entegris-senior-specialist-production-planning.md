@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Kulim, Kedah, Malaysia |
+| Location | Jangan, Busan, South Korea |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Kulim-Kedah-Malaysia/Senior-Specialist--Production-Planning_REQ-11942) |
+| Posted | 2026-06-10 |
+| Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/JangAn-Gyeonggi-do-South-Korea/Senior-Specialist--Production-Planning_REQ-12634) |
 
 ## About This Role
 
-This business analyst position at Entegris was posted on 2026-05-08.
+This business analyst position at Entegris was posted on 2026-06-10.
 
 ## Get Real-Time Alerts
 

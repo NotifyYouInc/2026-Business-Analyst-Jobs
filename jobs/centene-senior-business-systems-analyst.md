@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Florida, US |
+| Location | California, US |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Senior-Business-Systems-Analyst_1633882-1) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-CA/Senior-Business-Systems-Analyst_1639266-1) |
 
 ## About This Role
 
-This business analyst position at Centene was posted on 2026-03-24.
+This business analyst position at Centene was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 
