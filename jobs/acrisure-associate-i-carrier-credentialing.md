@@ -5,12 +5,12 @@
 | Company | [Acrisure](https://scoutify.ai/companies/acrisure?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Grand Rapids, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/100-Ottawa-Ave-Sw----GRAND-RAPIDS-MI/Associate-I---Carrier-Credentialing_JR113505) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://acrisure.wd1.myworkdayjobs.com/acrisure/job/100-Ottawa-Ave-Sw----GRAND-RAPIDS-MI/Associate-I---Carrier-Credentialing_JR113549) |
 
 ## About This Role
 
-This business analyst position at Acrisure was posted on 2026-06-05.
+This business analyst position at Acrisure was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

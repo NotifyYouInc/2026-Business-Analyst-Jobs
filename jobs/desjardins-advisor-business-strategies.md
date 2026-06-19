@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-innovation_R2606677) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Traitement-numrique_R2607671) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-05-20.
+This business analyst position at Desjardins was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

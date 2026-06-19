@@ -5,12 +5,12 @@
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ohio, US |
 | Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-Work-from-Home/Consultant--Business-Analysis_20175132) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Ohio-FIELD/Consultant--Business-Analysis_20181215-1) |
 
 ## About This Role
 
-This business analyst position at Cardinal Health was posted on 2026-02-12.
+This business analyst position at Cardinal Health was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

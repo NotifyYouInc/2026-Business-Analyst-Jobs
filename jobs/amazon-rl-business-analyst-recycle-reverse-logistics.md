@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10416540/rl-business-analyst-re-cycle-reverse-logistics) |
+| Posted | 2026-04-28 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10406100/rl-business-analyst-re-cycle-reverse-logistics) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-05-11.
+This business analyst position at Amazon was posted on 2026-04-28.
 
 ## Get Real-Time Alerts
 

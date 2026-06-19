@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Strategy & Operations |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000130675504-continuous-improvement-specialist) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000131766899-continuous-improvement-specialist) |
 
 ## About This Role
 
-This strategy & operations position at The Wonderful Company was posted on 2026-06-07.
+This strategy & operations position at The Wonderful Company was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

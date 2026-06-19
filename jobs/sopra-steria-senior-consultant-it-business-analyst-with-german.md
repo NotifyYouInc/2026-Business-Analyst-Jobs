@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000118597766-senior-consultant-it-business-analyst-with-german) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000131824217-senior-consultant-it-business-analyst-with-german) |
 
 ## About This Role
 
-This business analyst position at Sopra Steria was posted on 2026-04-03.
+This business analyst position at Sopra Steria was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

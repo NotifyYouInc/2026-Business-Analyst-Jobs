@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Pablo, California, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/San-Pablo-CA-USA/Area-Dir-Business-Development_R-172587) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Phoenix-AZ-USA/Area-Dir-Business-Development_R-176950-1) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Republic Services was posted on 2026-04-06.
+This sales development (sdr / bdr) position at Republic Services was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

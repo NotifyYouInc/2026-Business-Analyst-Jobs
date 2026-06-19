@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Jefferson City, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Houston-TX-USA/Logistics-Analyst_R-177129) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Jefferson-City-MO-USA/Logistics-Analyst_R-177469) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-06-09.
+This business analyst position at Republic Services was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

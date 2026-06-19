@@ -5,12 +5,12 @@
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Chicago-IL/Associate-Solutions-Analyst_R42942-1) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Chicago-IL/Associate-Solutions-Analyst_R42756) |
 
 ## About This Role
 
-This business analyst position at SS&C Technologies was posted on 2026-05-13.
+This business analyst position at SS&C Technologies was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

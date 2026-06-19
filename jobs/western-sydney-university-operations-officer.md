@@ -5,12 +5,12 @@
 | Company | [Western Sydney University](https://scoutify.ai/companies/western-sydney-university?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Penrith, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000001118862-operations-officer) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000001150828-operations-officer) |
 
 ## About This Role
 
-This business analyst position at Western Sydney University was posted on 2026-06-01.
+This business analyst position at Western Sydney University was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

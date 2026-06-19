@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Charlotte, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/CW-Site---USA---TX---Austin---405-Colorado-Street/Brokerage-Coordinator_R317396) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Charlotte-North-Carolina-USA/Brokerage-Coordinator_R323777) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-04-28.
+This business analyst position at Cushman & Wakefield was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

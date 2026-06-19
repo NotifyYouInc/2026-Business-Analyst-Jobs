@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
-| Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Consumer-Consultant_R-39108-1) |
+| Location | 2 locations |
+| Category | Sales Leadership |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Buffalo-NY/Consumer-Consultant_R-40310) |
 
 ## About This Role
 
-This business analyst position at KeyBank was posted on 2026-05-28.
+This sales leadership position at KeyBank was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

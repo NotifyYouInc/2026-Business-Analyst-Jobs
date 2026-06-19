@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Assistant-Vice-President---Business-Analytics_26946196) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bangalore-Karnataka-India/Assistant-Vice-President---Business-Analytics_26947856-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-06-09.
+This business analyst position at Citigroup was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

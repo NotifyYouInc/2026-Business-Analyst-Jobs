@@ -5,12 +5,12 @@
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Newton, Massachusetts, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000129203960-chief-analyst) |
+| Posted | 2026-06-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000131723299-chief-analyst) |
 
 ## About This Role
 
-This business analyst position at Informa was posted on 2026-05-29.
+This business analyst position at Informa was posted on 2026-06-11.
 
 ## Get Real-Time Alerts
 

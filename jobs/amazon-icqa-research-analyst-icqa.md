@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-01-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3164191/icqa-research-analyst-icqa) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10426392/icqa-research-analyst-icqa) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-01-22.
+This business analyst position at Amazon was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 
