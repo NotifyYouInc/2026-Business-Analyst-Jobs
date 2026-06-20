@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Plansee Holding](https://scoutify.ai/companies/plansee-holding?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Franklin, Tennessee, United States |
+| Location | Querétaro, Chiapas, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://myhr.wd3.myworkdayjobs.com/planseegroup_career/job/Franklin-MA-USA/Production-Planner_JR-11810) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://myhr.wd3.myworkdayjobs.com/planseegroup_career/job/Queretaro-Mexico/Production-Planner_JR-11787) |
 
 ## About This Role
 
-This business analyst position at Plansee Holding was posted on 2026-06-10.
+This business analyst position at Plansee Holding was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

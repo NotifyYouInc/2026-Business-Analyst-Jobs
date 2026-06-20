@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Espoo, Uusimaa, Finland |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Engineering Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Espoo/Business-Development-Manager_R0660017) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Mexico-City/Business-Development-Manager_R0661456) |
 
 ## About This Role
 
-This engineering manager position at Kone was posted on 2026-05-07.
+This engineering manager position at Kone was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

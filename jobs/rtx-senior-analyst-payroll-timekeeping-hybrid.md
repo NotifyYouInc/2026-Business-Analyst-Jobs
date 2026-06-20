@@ -1,16 +1,16 @@
-# Senior Analyst, Payroll Timekeeping (Hybrid) at RTX
+# Senior Analyst, Payroll - Timekeeping (Hybrid) at RTX
 
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Rockford, Illinois, United States |
+| Location | 2 locations |
 | Category | Accounting |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-BB--4747-Harrison-Ave--BUTLER-BLDG/Senior-Analyst--Payroll-Timekeeping--Hybrid-_01848675-1) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IL-ROCKFORD-BB--4747-Harrison-Ave--BUTLER-BLDG/Senior-Analyst--Payroll---Timekeeping--Hybrid-_01852245) |
 
 ## About This Role
 
-This accounting position at RTX was posted on 2026-06-04.
+This accounting position at RTX was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

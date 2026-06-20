@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000127285549-functional-finance-senior-business-analyst-sap-project) |
+| Category | Corporate Finance |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000131949314-functional-finance-senior-business-analyst-sap-project) |
 
 ## About This Role
 
-This business analyst position at Louis Dreyfus was posted on 2026-05-19.
+This corporate finance position at Louis Dreyfus was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

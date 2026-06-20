@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Madison Heights, Michigan, United States |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000130863599-sales-operations-trainee) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000131985974-sales-operations-trainee) |
 
 ## About This Role
 
-This revenue / sales operations position at Sika was posted on 2026-06-08.
+This revenue / sales operations position at Sika was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

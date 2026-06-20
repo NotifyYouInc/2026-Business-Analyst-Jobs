@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Instacart](https://scoutify.ai/companies/instacart?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Canada |
 | Category | UX Researcher |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://instacart.careers/job/?gh_jid=7617144) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://instacart.careers/job/?gh_jid=8001891) |
 
 ## About This Role
 
-This ux researcher position at Instacart was posted on 2026-02-18.
+This ux researcher position at Instacart was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

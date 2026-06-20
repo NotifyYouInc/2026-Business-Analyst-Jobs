@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Springdale, Arkansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Senior-Demand-Planner---Corporate_R0449399) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Senior-Demand-Planner---Corporate_R0467178-2) |
 
 ## About This Role
 
-This business analyst position at Tyson Foods was posted on 2026-03-10.
+This business analyst position at Tyson Foods was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

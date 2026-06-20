@@ -1,16 +1,16 @@
-# Commercial Space Business Analyst  at H&M Group
+# Commercial Space Business Analyst at H&M Group
 
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Şişli, Istanbul, Turkey |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000130720409-commercial-space-business-analyst) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000131952534-commercial-space-business-analyst) |
 
 ## About This Role
 
-This business analyst position at H&M Group was posted on 2026-06-08.
+This business analyst position at H&M Group was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

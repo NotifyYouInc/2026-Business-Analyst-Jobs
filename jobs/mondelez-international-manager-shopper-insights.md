@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Illinois, US |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Shanghai-China/Manager--Shopper-Insights_R-163546) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Remote-Worker---Michigan-USA/Manager--Shopper-Insights_R-169681) |
 
 ## About This Role
 
-This business analyst position at Mondelez International was posted on 2026-04-15.
+This business analyst position at Mondelez International was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

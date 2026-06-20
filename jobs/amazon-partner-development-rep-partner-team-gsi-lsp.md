@@ -6,7 +6,7 @@
 | Location | Beijing, Beijing, China |
 | Category | Account Manager |
 | Posted | 2026-05-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10433865/partner-development-rep-partner-team-gsi-lsp) |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10434130/partner-development-rep-partner-team-gsi-lsp) |
 
 ## About This Role
 

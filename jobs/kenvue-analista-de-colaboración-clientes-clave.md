@@ -5,12 +5,12 @@
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cali, Valle del Cauca Department, Colombia |
 | Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Colombia-Valle-del-Cauca-Cali/ANALISTA-DE-COLABORACIN-CLIENTES-CLAVE_2607046619W) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Latin-America-Colombia-Valle-del-Cauca-Cali/ANALISTA-DE-COLABORACIN-CLIENTES-CLAVE_2607046925W) |
 
 ## About This Role
 
-This business analyst position at Kenvue was posted on 2026-06-09.
+This business analyst position at Kenvue was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

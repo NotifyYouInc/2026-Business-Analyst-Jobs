@@ -5,12 +5,12 @@
 | Company | [Versant](https://scoutify.ai/companies/versant?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Englewood Cliffs, New Jersey, United States |
 | Category | Growth Marketing |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000127966789-manager-dtc-partnerships-cnbc) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/versant3/744000131961119-manager-dtc-partnerships-cnbc) |
 
 ## About This Role
 
-This growth marketing position at Versant was posted on 2026-05-22.
+This growth marketing position at Versant was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

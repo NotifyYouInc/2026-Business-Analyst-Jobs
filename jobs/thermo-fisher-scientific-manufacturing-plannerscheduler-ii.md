@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Mexico |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Austin-Texas-USA/Manufacturing-Planner-Scheduler-II_R-01354250) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Apodaca-Mexico/Manufacturing-Planner-Scheduler-II_R-01357022) |
 
 ## About This Role
 
-This business analyst position at Thermo Fisher Scientific was posted on 2026-06-03.
+This business analyst position at Thermo Fisher Scientific was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

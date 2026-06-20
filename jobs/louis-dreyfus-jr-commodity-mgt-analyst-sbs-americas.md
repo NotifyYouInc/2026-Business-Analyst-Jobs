@@ -1,16 +1,16 @@
-# Jr Commodity MGT Analyst - SBS Americas at Louis Dreyfus
+# JR COMMODITY MGT ANALYST - SBS AMERICAS at Louis Dreyfus
 
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Rosario, Santa Fe, Argentina |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000129228860-jr-commodity-mgt-analyst-sbs-americas) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000131933386-jr-commodity-mgt-analyst-sbs-americas) |
 
 ## About This Role
 
-This business analyst position at Louis Dreyfus was posted on 2026-05-29.
+This business analyst position at Louis Dreyfus was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

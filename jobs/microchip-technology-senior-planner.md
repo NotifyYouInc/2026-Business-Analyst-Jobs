@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Connecticut, US |
+| Location | Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CT---Simsbury/Senior-Planner_R2174-26) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Malaysia---Penang-MCHP/Senior-Planner_R2430-26) |
 
 ## About This Role
 
-This business analyst position at Microchip Technology was posted on 2026-05-22.
+This business analyst position at Microchip Technology was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

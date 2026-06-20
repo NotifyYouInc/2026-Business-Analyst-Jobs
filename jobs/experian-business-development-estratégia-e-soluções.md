@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000123530054-business-development-estrategia-e-solucoes) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000131952566-business-development-estrategia-e-solucoes) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Experian was posted on 2026-04-28.
+This sales development (sdr / bdr) position at Experian was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

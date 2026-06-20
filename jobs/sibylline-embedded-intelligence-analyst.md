@@ -1,16 +1,16 @@
-# Embedded Intelligence Analyst   at SIBYLLINE
+# Embedded Intelligence Analyst at SIBYLLINE
 
 | Field | Details |
 |-------|---------|
 | Company | [SIBYLLINE](https://scoutify.ai/companies/sibylline?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000127510559-embedded-intelligence-analyst) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SibyllineLtd/744000131952645-embedded-intelligence-analyst) |
 
 ## About This Role
 
-This business analyst position at SIBYLLINE was posted on 2026-05-20.
+This business analyst position at SIBYLLINE was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

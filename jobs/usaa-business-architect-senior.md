@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 6 locations |
+| Location | San Antonio, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Business-Architect-Senior_R0117219) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Business-Architect-Senior_R0117770) |
 
 ## About This Role
 
-This business analyst position at USAA was posted on 2026-04-23.
+This business analyst position at USAA was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

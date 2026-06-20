@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Plano, Texas, United States |
+| Location | Richmond, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Associate--Process-Manager_R242585-2) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Associate--Process-Manager_R244480-1) |
 
 ## About This Role
 
-This business analyst position at Capital One was posted on 2026-05-13.
+This business analyst position at Capital One was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -1,0 +1,22 @@
+# Manufacturing and Business Support Apprentice at Sika
+
+| Field | Details |
+|-------|---------|
+| Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Wishaw, Scotland, United Kingdom |
+| Category | Business Analyst |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000131942830-manufacturing-and-business-support-apprentice) |
+
+## About This Role
+
+This business analyst position at Sika was posted on 2026-06-12.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

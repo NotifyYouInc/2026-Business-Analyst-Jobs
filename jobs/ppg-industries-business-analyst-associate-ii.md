@@ -5,12 +5,12 @@
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Querétaro, Chiapas, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MEX---Queretaro-Business-Services/Business-Analyst-Associate-II_JR265208) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MEX---Queretaro-Business-Services/Business-Analyst-Associate-II_JR266179) |
 
 ## About This Role
 
-This business analyst position at PPG Industries was posted on 2026-05-21.
+This business analyst position at PPG Industries was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

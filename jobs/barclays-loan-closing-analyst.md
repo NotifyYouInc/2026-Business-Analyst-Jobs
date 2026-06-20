@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/Loan-Closing-Analyst_JR-0000102066) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Wilmington-125-South-West-Street/Loan-Closing-Analyst_JR-0000117513-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-04-28.
+This business analyst position at Barclays was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

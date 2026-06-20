@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Revenue / Sales Operations |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-New-Delhi-Noida/Business-Analyst---Sales-Operations--Sales-Incentive-Process_R26-1509) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mexico-City-Mexico/Business-Analyst---Sales-Operations--Sales-Incentive-Process_R26-3797) |
 
 ## About This Role
 
-This revenue / sales operations position at Rockwell Automation was posted on 2026-03-01.
+This revenue / sales operations position at Rockwell Automation was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

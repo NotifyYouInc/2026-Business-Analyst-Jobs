@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Global-Health-Economics---Outcomes-Research--HEOR--Senior-Manager_R-233546) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/United-States---Remote/Global-Health-Economics---Outcomes-Research--HEOR--Senior-Manager_R-247166-1) |
 
 ## About This Role
 
-This business analyst position at Amgen was posted on 2026-04-21.
+This business analyst position at Amgen was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Renaud-Bray](https://scoutify.ai/companies/renaudbray?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000129198140-analyste-fonctionnel-et-technique) |
+| Posted | 2026-06-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Renaud-Bray/744000131936639-analyste-fonctionnel-et-technique) |
 
 ## About This Role
 
-This business analyst position at Renaud-Bray was posted on 2026-05-29.
+This business analyst position at Renaud-Bray was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 
