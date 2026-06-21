@@ -1,16 +1,16 @@
-# Bid Manager IT (w/m/d) at Drees & Sommer
+# Director, PASSport Data at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000132033069-bid-manager-it-wmd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990013611856-director-passport-data) |
 
 ## About This Role
 
-This business analyst position at Drees & Sommer was posted on 2026-06-13.
+This business analyst position at City of New York was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

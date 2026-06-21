@@ -1,16 +1,16 @@
-# Bid Manager IT (w/m/d) at Drees & Sommer
+# Senior Analyst - Business & Customer Analytics at METRO/MAKRO
 
 | Field | Details |
 |-------|---------|
-| Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000132033069-bid-manager-it-wmd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000132040189-senior-analyst-business-customer-analytics) |
 
 ## About This Role
 
-This business analyst position at Drees & Sommer was posted on 2026-06-13.
+This business analyst position at METRO/MAKRO was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

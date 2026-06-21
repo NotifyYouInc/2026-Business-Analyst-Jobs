@@ -1,16 +1,16 @@
-# Bid Manager IT (w/m/d) at Drees & Sommer
+# Client Services Analyst I at Zinnia - Employee Referral
 
 | Field | Details |
 |-------|---------|
-| Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Málaga, Andalusia, Spain |
+| Company | [Zinnia - Employee Referral](https://scoutify.ai/companies/zinnia-employee-referral?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Business Analyst |
 | Posted | 2026-06-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000132033069-bid-manager-it-wmd) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/zind-erprogram/jobs/4688946006) |
 
 ## About This Role
 
-This business analyst position at Drees & Sommer was posted on 2026-06-13.
+This business analyst position at Zinnia - Employee Referral was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 
