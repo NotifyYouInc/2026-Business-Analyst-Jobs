@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | Corporate Finance |
+| Category | Business Analyst |
 | Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000131946269-groceries-workforce-sr-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000131955399-groceries-workforce-sr-analyst) |
 
 ## About This Role
 
-This corporate finance position at Delivery Hero was posted on 2026-06-12.
+This business analyst position at Delivery Hero was posted on 2026-06-12.
 
 ## Get Real-Time Alerts
 

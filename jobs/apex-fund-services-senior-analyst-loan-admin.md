@@ -1,16 +1,16 @@
-# Senior Analyst- Loan Admin at Apex Fund Services
+# Senior Analyst - Loan Admin at Apex Fund Services
 
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Bangalore-Fortune-Summit/Senior-Analyst--Loan-Admin_JR-0022647) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---Baner/Senior-Analyst---Loan-Admin_JR-0024196) |
 
 ## About This Role
 
-This business analyst position at Apex Fund Services was posted on 2026-04-21.
+This business analyst position at Apex Fund Services was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

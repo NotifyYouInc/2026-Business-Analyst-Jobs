@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bellevue, Washington, United States |
-| Category | Project Manager |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3204802/evaluation-rules-specialist-worldwide-returns-and-recommerce) |
+| Category | Program Manager |
+| Posted | 2026-04-30 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10408013/evaluation-rules-specialist-worldwide-returns-and-recommerce) |
 
 ## About This Role
 
-This project manager position at Amazon was posted on 2026-03-14.
+This program manager position at Amazon was posted on 2026-04-30.
 
 ## Get Real-Time Alerts
 

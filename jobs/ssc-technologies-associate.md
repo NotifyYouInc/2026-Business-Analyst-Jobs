@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Navi Mumbai, Maharashtra, India |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Maharashtra-Navi-Mumbai/Associate_R43904) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Pune-India---Commerzone-Building-7/Associate_R43616) |
 
 ## About This Role
 
-This business analyst position at SS&C Technologies was posted on 2026-06-09.
+This business analyst position at SS&C Technologies was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

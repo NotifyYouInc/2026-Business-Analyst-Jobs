@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Culver City, California, United States |
 | Category | Legal |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10422103/licensing-manager-amazon-mgm-studios-consumer-products) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10420858/licensing-manager-amazon-mgm-studios-consumer-products) |
 
 ## About This Role
 
-This legal position at Amazon was posted on 2026-05-18.
+This legal position at Amazon was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

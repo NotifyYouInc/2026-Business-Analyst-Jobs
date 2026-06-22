@@ -1,16 +1,16 @@
-# Specialist 1- Functional Systems & Technology at Comcast
+# Specialist 1 - Functional Systems & Technology at Comcast
 
 | Field | Details |
 |-------|---------|
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Specialist-1--Functional-Systems---Technology_R436892) |
+| Posted | 2026-06-13 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/India---Chennai-Comcast-India-Engineering-Cent/Specialist-1---Functional-Systems---Technology_R436893) |
 
 ## About This Role
 
-This business analyst position at Comcast was posted on 2026-06-12.
+This business analyst position at Comcast was posted on 2026-06-13.
 
 ## Get Real-Time Alerts
 

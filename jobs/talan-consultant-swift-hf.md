@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Project Manager |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000123234584-consultant-swift-hf) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000132129290-consultant-swift-hf) |
 
 ## About This Role
 
-This project manager position at Talan was posted on 2026-04-27.
+This project manager position at Talan was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

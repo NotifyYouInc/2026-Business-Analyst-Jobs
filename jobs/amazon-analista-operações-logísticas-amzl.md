@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Osasco, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428560/analista-operacoes-logisticas-amzl) |
+| Posted | 2026-05-15 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10421790/analista-operacoes-logisticas-amzl) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-05-22.
+This business analyst position at Amazon was posted on 2026-05-15.
 
 ## Get Real-Time Alerts
 

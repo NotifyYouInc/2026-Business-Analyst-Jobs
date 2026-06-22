@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Greencastle, Indiana, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Greencastle-Pennsylvania-USA/Business-Analyst-II_R-01348977-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Product Manager |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Business-Analyst-II_R-01356289) |
 
 ## About This Role
 
-This business analyst position at Thermo Fisher Scientific was posted on 2026-04-28.
+This product manager position at Thermo Fisher Scientific was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

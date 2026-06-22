@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Project Manager |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000118309706-business-operations-associate-manager) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000132118304-business-operations-associate-manager) |
 
 ## About This Role
 
-This project manager position at WISE was posted on 2026-04-02.
+This project manager position at WISE was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

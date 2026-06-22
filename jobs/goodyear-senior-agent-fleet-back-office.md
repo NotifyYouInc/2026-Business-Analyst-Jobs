@@ -1,16 +1,16 @@
-# Senior Agent, Fleet Back Office at Goodyear
+# Senior Agent Fleet Back Office at Goodyear
 
 | Field | Details |
 |-------|---------|
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Romania |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/RO-Romania-SRL/Senior-Agent--Fleet-Back-Office_JR-40108934) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/RO-Romania-SRL/Senior-Agent-Fleet-Back-Office_JR-40109905-1) |
 
 ## About This Role
 
-This business analyst position at Goodyear was posted on 2026-05-25.
+This business analyst position at Goodyear was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
