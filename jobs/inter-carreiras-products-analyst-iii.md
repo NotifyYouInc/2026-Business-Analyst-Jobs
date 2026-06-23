@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inter Carreiras](https://scoutify.ai/companies/inter-carreiras?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Belo Horizonte, Minas Gerais, Brazil |
-| Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4676975005?gh_jid=4676975005) |
+| Category | Product Manager |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://boards.greenhouse.io/inter/jobs/4676971005?gh_jid=4676971005) |
 
 ## About This Role
 
-This business analyst position at Inter Carreiras was posted on 2026-04-16.
+This product manager position at Inter Carreiras was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

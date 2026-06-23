@@ -5,12 +5,12 @@
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hartford, Connecticut, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Revenue-and-CDM-Optimization-Liaison_00660729) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Francis-Hospital---Hartford-CT/Revenue-and-CDM-Optimization-Liaison_00674096) |
 
 ## About This Role
 
-This business analyst position at Trinity Health was posted on 2026-04-15.
+This business analyst position at Trinity Health was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

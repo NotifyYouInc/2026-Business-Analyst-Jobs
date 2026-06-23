@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Senior Communities](https://scoutify.ai/companies/american-senior-communities?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | DeKalb, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/ame1091asen/JobBoard/92ca1d4b-eaf6-482c-82b7-bb3bc300b9dd/OpportunityDetail?opportunityId=820bcdf5-dcff-43a0-b7e7-7a43d0605d9c) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/ame1091asen/JobBoard/92ca1d4b-eaf6-482c-82b7-bb3bc300b9dd/OpportunityDetail?opportunityId=8a842903-584d-4be1-b672-82a17119a33c) |
 
 ## About This Role
 
-This business analyst position at American Senior Communities was posted on 2026-05-23.
+This business analyst position at American Senior Communities was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

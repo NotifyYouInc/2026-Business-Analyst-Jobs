@@ -1,16 +1,16 @@
-# Research Support Officer  at Griffith University
+# Research Support Officer at Griffith University
 
 | Field | Details |
 |-------|---------|
 | Company | [Griffith University](https://scoutify.ai/companies/griffith-university?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nathan, Queensland, Australia |
 | Category | Business Analyst |
-| Posted | 2026-05-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/griffithuniversity/744000128041369-research-support-officer) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/griffithuniversity/744000132296459-research-support-officer) |
 
 ## About This Role
 
-This business analyst position at Griffith University was posted on 2026-05-24.
+This business analyst position at Griffith University was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

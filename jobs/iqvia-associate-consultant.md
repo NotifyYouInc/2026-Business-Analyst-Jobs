@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Wayne, New Jersey, United States |
+| Location | Parsippany, New Jersey, United States |
 | Category | Strategy / Management Consulting |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Wayne-PA-United-States-of-America/Associate-Consultant_R1532726-1) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Parsippany-New-Jersey-United-States-of-America/Associate-Consultant_R1545340) |
 
 ## About This Role
 
-This strategy / management consulting position at IQVIA was posted on 2026-05-19.
+This strategy / management consulting position at IQVIA was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

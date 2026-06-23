@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
-| Category | Sales Leadership |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000130257059-director-business-development) |
+| Location | 2 locations |
+| Category | Account Manager |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000132326719-director-business-development) |
 
 ## About This Role
 
-This sales leadership position at Psi Cro was posted on 2026-06-04.
+This account manager position at Psi Cro was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

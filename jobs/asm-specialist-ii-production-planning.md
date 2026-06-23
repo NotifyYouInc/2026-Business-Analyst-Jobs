@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASM](https://scoutify.ai/companies/asm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | South Korea |
 | Category | Business Analyst |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4874350101) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://www.asm.com/open-vacancies/?gh_jid=4875662101) |
 
 ## About This Role
 
-This business analyst position at ASM was posted on 2026-05-26.
+This business analyst position at ASM was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

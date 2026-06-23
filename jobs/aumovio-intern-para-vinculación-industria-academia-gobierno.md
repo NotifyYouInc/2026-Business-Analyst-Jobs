@@ -5,12 +5,12 @@
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000121055807-intern-para-vinculacion-industria-academia-gobierno) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000132273879-intern-para-vinculacion-industria-academia-gobierno) |
 
 ## About This Role
 
-This business analyst position at Aumovio was posted on 2026-04-15.
+This business analyst position at Aumovio was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

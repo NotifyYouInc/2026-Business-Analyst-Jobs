@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aptia Group](https://scoutify.ai/companies/aptia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://aptiagroup.wd3.myworkdayjobs.com/opportunities/job/India-Gurgaon/Analyst---Pension-Administration_JR105425) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://aptiagroup.wd3.myworkdayjobs.com/opportunities/job/India-Mumbai/Analyst---Pension-Administration_JR105613) |
 
 ## About This Role
 
-This business analyst position at Aptia Group was posted on 2026-05-07.
+This business analyst position at Aptia Group was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

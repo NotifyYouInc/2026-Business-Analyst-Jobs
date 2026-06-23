@@ -1,16 +1,16 @@
-# Geschäftsführer (w/m/d)  at EterniTeam GmbH
+# Geschäftsführer (w/m(d) at EterniTeam GmbH
 
 | Field | Details |
 |-------|---------|
 | Company | [EterniTeam GmbH](https://scoutify.ai/companies/eterniteam-gmbh?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bad Sobernheim, Rheinland-Pfalz, Germany |
-| Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/eterniteamgmbh/jobs/4809437101) |
+| Location | Riesa, Saxony, Germany |
+| Category | Leadership Development Program |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/eterniteamgmbh/jobs/4757219101) |
 
 ## About This Role
 
-This business analyst position at EterniTeam GmbH was posted on 2026-03-19.
+This leadership development program position at EterniTeam GmbH was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

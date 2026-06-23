@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Newrez](https://scoutify.ai/companies/newrez?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Coppell, Texas, United States |
-| Category | Project Manager |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/Senior-Principal-Business-Analyst_R9649) |
+| Category | Business Analyst |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/Senior-Principal-Business-Analyst_R9912-1) |
 
 ## About This Role
 
-This project manager position at Newrez was posted on 2026-04-03.
+This business analyst position at Newrez was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

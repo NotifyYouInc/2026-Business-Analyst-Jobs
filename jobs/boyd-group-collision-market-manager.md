@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boyd Group](https://scoutify.ai/companies/boyd-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Buffalo, New York, United States |
+| Location | South Charleston, West Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/NY-Buffalo-Delaware-Ave---146002/Collision-Market-Manager_R060119) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://boydgroup.wd1.myworkdayjobs.com/boydcareers/job/So-Charleston-West-Virginia/Collision-Market-Manager_R061386) |
 
 ## About This Role
 
-This business analyst position at Boyd Group was posted on 2026-05-28.
+This business analyst position at Boyd Group was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

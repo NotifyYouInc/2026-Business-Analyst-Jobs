@@ -5,12 +5,12 @@
 | Company | [nVent](https://scoutify.ai/companies/nvent?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Anoka, Minnesota, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Production-Planner_R22109) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Production-Planner_R21748) |
 
 ## About This Role
 
-This business analyst position at nVent was posted on 2026-06-03.
+This business analyst position at nVent was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

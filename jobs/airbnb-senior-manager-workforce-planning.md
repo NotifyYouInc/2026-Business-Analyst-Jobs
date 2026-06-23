@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbnb](https://scoutify.ai/companies/airbnb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Canada |
 | Category | Human Resources / People Ops |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://careers.airbnb.com/positions/7975447?gh_jid=7975447) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://careers.airbnb.com/positions/8002012?gh_jid=8002012) |
 
 ## About This Role
 
-This human resources / people ops position at Airbnb was posted on 2026-06-02.
+This human resources / people ops position at Airbnb was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

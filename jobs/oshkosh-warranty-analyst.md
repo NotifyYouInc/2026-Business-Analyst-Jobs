@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oshkosh](https://scoutify.ai/companies/oshkoshcorporation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dodge Center, Minnesota, United States |
+| Location | Oshkosh, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Warranty-Analyst_R47091) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Warranty-Analyst_R47543) |
 
 ## About This Role
 
-This business analyst position at Oshkosh was posted on 2026-05-29.
+This business analyst position at Oshkosh was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000119203552-analista-de-solucoes-junior-vaga-exclusiva-para-pessoas-com-deficiencia) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000132293397-analista-de-solucoes-junior-vaga-exclusiva-para-pessoas-com-deficiencia) |
 
 ## About This Role
 
-This business analyst position at Experian was posted on 2026-04-07.
+This business analyst position at Experian was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

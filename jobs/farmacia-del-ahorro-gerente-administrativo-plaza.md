@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Farmacia del Ahorro](https://scoutify.ai/companies/farmacia-del-ahorro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Morelia, Michoacán, Mexico |
+| Location | Tijuana, Baja California, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/CD-MORELIA-CDML/GERENTE-ADMINISTRATIVO--PLAZA-_JR162349) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/TIJUANA-BAJA-CALIFORNIA/GERENTE-ADMINISTRATIVO--PLAZA-_JR167800) |
 
 ## About This Role
 
-This business analyst position at Farmacia del Ahorro was posted on 2026-05-28.
+This business analyst position at Farmacia del Ahorro was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

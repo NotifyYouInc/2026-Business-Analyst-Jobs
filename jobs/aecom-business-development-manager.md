@@ -5,12 +5,12 @@
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Engineering Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000128124095-business-development-manager) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000132325569-business-development-manager) |
 
 ## About This Role
 
-This engineering manager position at AECOM was posted on 2026-05-25.
+This engineering manager position at AECOM was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

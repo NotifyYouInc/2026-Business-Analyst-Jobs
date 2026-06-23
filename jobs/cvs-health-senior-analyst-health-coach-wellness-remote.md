@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pennsylvania, US |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Senior-Analyst--Health-Coach-Wellness---Remote_R0882778) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/PA---Work-from-home/Senior-Analyst--Health-Coach-Wellness---Remote_R0936225) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-04-29.
+This business analyst position at CVS Health was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Francisco, California, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/5c50f198-1134-48d8-bb99-9775ebd79ebe) |
+| Location | New York City, New York, United States |
+| Category | Operations |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/2416982f-cba8-4530-a56d-9cfc3f13a805) |
 
 ## About This Role
 
-This strategy & operations position at Jerry.ai was posted on 2026-06-11.
+This operations position at Jerry.ai was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

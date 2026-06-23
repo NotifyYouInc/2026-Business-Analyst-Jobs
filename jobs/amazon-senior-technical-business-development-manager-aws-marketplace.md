@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Seattle, Washington, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432059/senior-technical-business-development-manager-aws-marketplace) |
+| Category | Business Development |
+| Posted | 2026-06-01 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10435923/senior-technical-business-development-manager-aws-marketplace) |
 
 ## About This Role
 
-This engineering manager position at Amazon was posted on 2026-05-27.
+This business development position at Amazon was posted on 2026-06-01.
 
 ## Get Real-Time Alerts
 

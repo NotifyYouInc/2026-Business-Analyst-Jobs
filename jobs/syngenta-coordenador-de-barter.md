@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Londrina, Paraná, Brazil |
+| Location | Goiânia, Goiás, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000126370069-coordenador-de-barter) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000132280634-coordenador-de-barter) |
 
 ## About This Role
 
-This business analyst position at Syngenta was posted on 2026-05-13.
+This business analyst position at Syngenta was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

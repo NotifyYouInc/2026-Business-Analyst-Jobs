@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Business-Management-V_R2619662) |
+| Location | Santa Clara, California, United States |
+| Category | Account Manager |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Business-Management-V_R2622034) |
 
 ## About This Role
 
-This business analyst position at Applied Materials was posted on 2026-05-14.
+This account manager position at Applied Materials was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

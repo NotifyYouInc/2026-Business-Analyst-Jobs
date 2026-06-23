@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [EterniTeam GmbH](https://scoutify.ai/companies/eterniteam-gmbh?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Aurich, Lower Saxony, Germany |
+| Location | Mainz, Rheinland-Pfalz, Germany |
 | Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/eterniteamgmbh/jobs/4792781101) |
+| Posted | 2026-06-02 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/eterniteamgmbh/jobs/4819756101) |
 
 ## About This Role
 
-This business analyst position at EterniTeam GmbH was posted on 2026-04-02.
+This business analyst position at EterniTeam GmbH was posted on 2026-06-02.
 
 ## Get Real-Time Alerts
 

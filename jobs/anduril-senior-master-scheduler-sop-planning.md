@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Morrisville, North Carolina, United States |
+| Location | Costa Mesa, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5095043007?gh_jid=5095043007) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5165247007?gh_jid=5165247007) |
 
 ## About This Role
 
-This business analyst position at Anduril was posted on 2026-05-06.
+This business analyst position at Anduril was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

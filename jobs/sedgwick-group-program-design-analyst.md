@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sedgwick Group](https://scoutify.ai/companies/sedgwick-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tennessee, US |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Telecommuter-TN/Program-Design-Analyst_R72062) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://sedgwick.wd1.myworkdayjobs.com/sedgwick/job/Memphis-TN/Program-Design-Analyst_R74603-1) |
 
 ## About This Role
 
-This business analyst position at Sedgwick Group was posted on 2026-04-03.
+This business analyst position at Sedgwick Group was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | Columbus, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Remote-Location/Business-Transactions-and-Services-Senior-Coordinator_R144954) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/University-Hospital/Business-Transactions-and-Services-Senior-Coordinator_R152832-2) |
 
 ## About This Role
 
-This business analyst position at The Ohio State University was posted on 2026-02-17.
+This business analyst position at The Ohio State University was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 
