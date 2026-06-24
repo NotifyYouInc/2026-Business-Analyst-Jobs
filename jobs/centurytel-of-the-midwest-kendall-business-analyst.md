@@ -1,16 +1,16 @@
-# Business Analyst at CenturyTel of the Midwest-Kendall
+# Business  Analyst at CenturyTel of the Midwest-Kendall
 
 | Field | Details |
 |-------|---------|
 | Company | [CenturyTel of the Midwest-Kendall](https://scoutify.ai/companies/centurytelofthemidwestkendall?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Brightspeed/744000109803600-business-analyst) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Brightspeed/744000132487599-business-analyst) |
 
 ## About This Role
 
-This business analyst position at CenturyTel of the Midwest-Kendall was posted on 2026-02-17.
+This business analyst position at CenturyTel of the Midwest-Kendall was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

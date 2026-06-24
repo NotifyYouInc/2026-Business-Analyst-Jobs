@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York, US |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Derivative-Margins-Cash-and-Collateral-Management-Intermediate-Analyst_26951797) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Getzville-New-York-United-States/Derivative-Margins-Cash-and-Collateral-Management-Intermediate-Analyst_26972330) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-06.
+This business analyst position at Citigroup was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

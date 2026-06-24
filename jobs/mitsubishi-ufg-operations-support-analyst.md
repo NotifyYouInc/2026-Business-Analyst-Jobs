@@ -5,12 +5,12 @@
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tampa-FL/Operations-Support-Analyst_10075962-WD) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Tampa-FL/Operations-Support-Analyst_10077078-WD-1) |
 
 ## About This Role
 
-This business analyst position at Mitsubishi UFG was posted on 2026-04-23.
+This business analyst position at Mitsubishi UFG was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

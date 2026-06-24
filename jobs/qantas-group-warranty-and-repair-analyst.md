@@ -6,7 +6,7 @@
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
 | Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001157680-warranty-and-repair-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001158998-warranty-and-repair-analyst) |
 
 ## About This Role
 

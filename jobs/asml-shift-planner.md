@@ -5,12 +5,12 @@
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | San Diego, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Shift-Planner_J-00336825-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Shift-Planner_J-00344950-1) |
 
 ## About This Role
 
-This business analyst position at ASML was posted on 2026-04-24.
+This business analyst position at ASML was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

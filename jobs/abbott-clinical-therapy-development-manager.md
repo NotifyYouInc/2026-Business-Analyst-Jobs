@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Engineering Manager |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/India---Mumbai/Clinical---Therapy-Development-Manager_31149457) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Business Analyst |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/INDIA---KARNATAKA---BANGALORE/Clinical---Therapy-Development-Manager_31153719) |
 
 ## About This Role
 
-This engineering manager position at Abbott was posted on 2026-05-11.
+This business analyst position at Abbott was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

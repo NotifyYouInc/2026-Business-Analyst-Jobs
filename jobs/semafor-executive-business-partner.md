@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Semafor](https://scoutify.ai/companies/semafor?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/semafor/jobs/4689159005) |
+| Category | Business Analyst |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/semafor/jobs/4706680005) |
 
 ## About This Role
 
-This strategy & operations position at Semafor was posted on 2026-04-28.
+This business analyst position at Semafor was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

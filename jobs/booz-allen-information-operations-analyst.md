@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Information-Operations-Analyst_R0237763) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Information-Operations-Analyst_R0242412-1) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-04-14.
+This business analyst position at Booz Allen was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

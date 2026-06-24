@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Sales Leadership |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013260526-business-development-director-rolling-stock-components) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990013646886-business-development-director-rolling-stock-components) |
 
 ## About This Role
 
-This sales leadership position at Wabtec was posted on 2026-05-21.
+This sales leadership position at Wabtec was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

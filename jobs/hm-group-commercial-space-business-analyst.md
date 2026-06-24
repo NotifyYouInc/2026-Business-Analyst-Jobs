@@ -1,16 +1,16 @@
-# Commercial Space Business Analyst at H&M Group
+# COMMERCIAL SPACE BUSINESS ANALYST at H&M Group
 
 | Field | Details |
 |-------|---------|
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Chile |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000131952534-commercial-space-business-analyst) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000132493860-commercial-space-business-analyst) |
 
 ## About This Role
 
-This business analyst position at H&M Group was posted on 2026-06-12.
+This business analyst position at H&M Group was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

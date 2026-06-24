@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/3207442/expansion-transaction-manager-apac-data-center-supply-solutions) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10451034/expansion-transaction-manager-apac-data-center-supply-solutions) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-18.
+This business analyst position at Amazon was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

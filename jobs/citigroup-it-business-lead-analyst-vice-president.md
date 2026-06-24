@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Canada |
-| Category | Program Manager |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ontario-Canada/IT-Business-Lead-Analyst---Vice-President_26962742-1) |
+| Location | Missouri, US |
+| Category | Business Analyst |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ofallon-Missouri-United-States/IT-Business-Lead-Analyst---Vice-President_26965367-1) |
 
 ## About This Role
 
-This program manager position at Citigroup was posted on 2026-05-25.
+This business analyst position at Citigroup was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

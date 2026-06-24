@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
-| Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Manager--Provider-Data-Automation--Analysis---Audit_1637844) |
+| Location | Florida, US |
+| Category | Project Manager |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Manager--Provider-Data-Automation--Analysis---Audit_1642209) |
 
 ## About This Role
 
-This business analyst position at Centene was posted on 2026-04-16.
+This project manager position at Centene was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

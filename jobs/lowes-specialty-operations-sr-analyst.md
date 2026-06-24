@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mooresville, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Specialty-Operations-Sr-Analyst_JR-02554367) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Specialty-Operations-Sr-Analyst_JR-02553854) |
 
 ## About This Role
 
-This business analyst position at Lowe's was posted on 2026-06-08.
+This business analyst position at Lowe's was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

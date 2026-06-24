@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Grand Prairie, Texas, United States |
+| Location | Miami, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/TX-GRAND-PRAIRIE-2505-N-HWY-360-STE-300/Systems-Analyst-Senior_JR191708-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-MIAMI-11430-NW-20TH-ST-STE-200--300/Systems-Analyst-Senior_JR194959) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-05-27.
+This business analyst position at Elevance Health was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

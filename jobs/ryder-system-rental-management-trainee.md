@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mississauga, Ontario, Canada |
-| Category | Leadership Development Program |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/CAN---Mississauga-ON-L5N-7Y2/Rental-Management-Trainee_R174113) |
+| Location | Calgary, Alberta, Canada |
+| Category | Business Analyst |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/CAN---Calgary-AB-T2B-3N7/Rental-Management-Trainee_R175266) |
 
 ## About This Role
 
-This leadership development program position at Ryder System was posted on 2026-06-03.
+This business analyst position at Ryder System was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

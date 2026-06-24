@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tullamarine, Victoria, Australia |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tullamarine-Victoria/Business-Process-Analyst_R0000371164) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Monterrey-Nuevo-Len/Business-Process-Analyst_R0000368457) |
 
 ## About This Role
 
-This business analyst position at Caterpillar Inc. was posted on 2026-05-26.
+This business analyst position at Caterpillar Inc. was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

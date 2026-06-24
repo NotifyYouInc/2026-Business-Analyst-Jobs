@@ -5,12 +5,12 @@
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Rhode Island, US |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Cdr-Resource-Planning_R0909244-1) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Work-from-home/Cdr-Resource-Planning_R0933511) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-05-15.
+This business analyst position at CVS Health was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

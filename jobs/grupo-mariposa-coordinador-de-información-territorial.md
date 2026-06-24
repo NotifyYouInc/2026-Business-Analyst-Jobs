@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Grupo Mariposa](https://scoutify.ai/companies/grupomariposa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | San Salvador, San Salvador Department, El Salvador |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990011876246-coordinador-de-informacion-territorial) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GrupoMariposa1/3743990013654366-coordinador-de-informacion-territorial) |
 
 ## About This Role
 
-This business analyst position at Grupo Mariposa was posted on 2026-02-26.
+This business analyst position at Grupo Mariposa was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 

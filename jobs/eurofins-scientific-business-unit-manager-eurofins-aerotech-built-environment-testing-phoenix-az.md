@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000130860649-business-unit-manager-eurofins-aerotech-built-environment-testing-phoenix-az) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000132517975-business-unit-manager-eurofins-aerotech-built-environment-testing-phoenix-az) |
 
 ## About This Role
 
-This business analyst position at Eurofins Scientific was posted on 2026-06-08.
+This business analyst position at Eurofins Scientific was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

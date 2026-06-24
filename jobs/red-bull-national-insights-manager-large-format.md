@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Santa Monica, California, United States |
 | Category | Operations |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000131218561-national-insights-manager-large-format) |
+| Posted | 2026-06-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000132509218-national-insights-manager-large-format) |
 
 ## About This Role
 
-This operations position at Red Bull was posted on 2026-06-09.
+This operations position at Red Bull was posted on 2026-06-16.
 
 ## Get Real-Time Alerts
 
