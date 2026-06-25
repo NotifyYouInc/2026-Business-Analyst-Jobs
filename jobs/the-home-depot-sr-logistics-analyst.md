@@ -1,16 +1,16 @@
-# SR LOGISTICS ANALYST at The Home Depot
+# Sr. Logistics Analyst at The Home Depot
 
 | Field | Details |
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Program Manager |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/SR-LOGISTICS-ANALYST_Req171405) |
+| Category | Business Analyst |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Logistics-Analyst_Req184111) |
 
 ## About This Role
 
-This program manager position at The Home Depot was posted on 2026-03-12.
+This business analyst position at The Home Depot was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

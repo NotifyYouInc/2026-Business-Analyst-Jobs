@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Metropolis](https://scoutify.ai/companies/metropolis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Project Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/metropolis/jobs/7772060003) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/metropolis/jobs/7772057003) |
 
 ## About This Role
 
-This project manager position at Metropolis was posted on 2026-06-16.
+This project manager position at Metropolis was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

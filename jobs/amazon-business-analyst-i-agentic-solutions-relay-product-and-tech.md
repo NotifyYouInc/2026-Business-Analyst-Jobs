@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412096/business-analyst-i-agentic-solutions-relay-product-and-tech) |
+| Posted | 2026-05-20 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10425044/business-analyst-i-agentic-solutions-relay-product-and-tech) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-05-06.
+This business analyst position at Amazon was posted on 2026-05-20.
 
 ## Get Real-Time Alerts
 

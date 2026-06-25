@@ -5,12 +5,12 @@
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Portfolio-Planning-Intern_JR-202604656) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Portfolio-Planning-Intern_JR-202612759) |
 
 ## About This Role
 
-This business analyst position at General Motors was posted on 2026-03-10.
+This business analyst position at General Motors was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

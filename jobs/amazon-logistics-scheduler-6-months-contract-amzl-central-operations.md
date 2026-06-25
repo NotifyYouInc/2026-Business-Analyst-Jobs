@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Business Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10437180/logistics-scheduler-6-months-contract-amzl-central-operations) |
+| Posted | 2026-06-03 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10438946/logistics-scheduler-6-months-contract-amzl-central-operations) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-06-02.
+This business analyst position at Amazon was posted on 2026-06-03.
 
 ## Get Real-Time Alerts
 

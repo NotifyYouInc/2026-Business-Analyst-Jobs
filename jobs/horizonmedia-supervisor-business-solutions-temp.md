@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Horizonmedia](https://scoutify.ai/companies/horizonmedia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://horizonmedia.wd1.myworkdayjobs.com/careeropportunities/job/New-York-New-York/Supervisor--Business-Solutions--Temp-_R0016873) |
+| Category | Account Manager |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://horizonmedia.wd1.myworkdayjobs.com/careeropportunities/job/New-York-New-York/Supervisor--Business-Solutions--Temp-_R0017086) |
 
 ## About This Role
 
-This business analyst position at Horizonmedia was posted on 2026-05-01.
+This account manager position at Horizonmedia was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

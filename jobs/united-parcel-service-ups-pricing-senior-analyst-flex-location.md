@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Pricing-Senior-Analyst--Flex-Location_R26011280-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/Pricing-Senior-Analyst--Flex-Location_R26018986-1) |
 
 ## About This Role
 
-This business analyst position at United Parcel Service (UPS) was posted on 2026-05-06.
+This business analyst position at United Parcel Service (UPS) was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

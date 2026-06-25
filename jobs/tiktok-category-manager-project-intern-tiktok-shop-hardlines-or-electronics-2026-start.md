@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | Project Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7594750706635376901/detail) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Business Analyst |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7652452017592060213/detail) |
 
 ## About This Role
 
-This project manager position at TikTok was posted on 2026-06-04.
+This business analyst position at TikTok was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

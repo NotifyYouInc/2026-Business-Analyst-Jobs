@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TAPI](https://scoutify.ai/companies/tapi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Debrecen, Hajdú-Bihar, Hungary |
 | Category | Project Manager |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TAPI/3743990012130667-business-application-manager) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TAPI/3743990013678186-business-application-manager) |
 
 ## About This Role
 
-This project manager position at TAPI was posted on 2026-03-13.
+This project manager position at TAPI was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

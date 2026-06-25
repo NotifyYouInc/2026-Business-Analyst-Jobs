@@ -1,16 +1,16 @@
-# Systems Analyst II - Commercial Card at Commerce Bank
+# Systems Analyst II – Commercial Card at Commerce Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Commerce Bank](https://scoutify.ai/companies/commercebank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Customer Success |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Bank-Building-1000-Walnut-64106/Systems-Analyst-II---Commercial-Card_37679) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Bank-Building-1000-Walnut-64106/Systems-Analyst-II---Commercial-Card_38097) |
 
 ## About This Role
 
-This customer success position at Commerce Bank was posted on 2026-03-09.
+This customer success position at Commerce Bank was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

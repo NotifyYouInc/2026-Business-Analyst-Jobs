@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lucknow, Uttar Pradesh, India |
+| Location | Ahmedabad, Gujarat, India |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Lucknow-India/Associate-MPS_R562057) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Ahmedabad-India/Associate-MPS_R561983) |
 
 ## About This Role
 
-This business analyst position at Stryker was posted on 2026-06-16.
+This business analyst position at Stryker was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aaon](https://scoutify.ai/companies/aaon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Longview, Texas, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://aaon.wd108.myworkdayjobs.com/aaon/job/Longview-TX/Continuous-Improvement-Specialist-I_JR102231) |
+| Location | Tulsa, Oklahoma, United States |
+| Category | Business Analyst |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://aaon.wd108.myworkdayjobs.com/aaon/job/Tulsa-OK/Continuous-Improvement-Specialist-I_JR102538) |
 
 ## About This Role
 
-This strategy & operations position at Aaon was posted on 2026-05-29.
+This business analyst position at Aaon was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

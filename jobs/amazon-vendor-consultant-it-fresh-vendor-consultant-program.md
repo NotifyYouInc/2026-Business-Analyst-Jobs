@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Customer Success |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10436580/vendor-consultant-it-fresh-vendor-consultant-program) |
+| Category | Program Manager |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10452408/vendor-consultant-it-fresh-vendor-consultant-program) |
 
 ## About This Role
 
-This customer success position at Amazon was posted on 2026-06-02.
+This program manager position at Amazon was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

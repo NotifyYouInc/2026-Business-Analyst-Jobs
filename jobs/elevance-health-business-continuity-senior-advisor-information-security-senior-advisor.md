@@ -5,12 +5,12 @@
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | Security Engineer |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Business-Continuity-Senior-Advisor--Information-Security-Senior-Advisor-_JR191875) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Business-Continuity-Senior-Advisor--Information-Security-Senior-Advisor-_JR196783) |
 
 ## About This Role
 
-This security engineer position at Elevance Health was posted on 2026-06-04.
+This security engineer position at Elevance Health was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

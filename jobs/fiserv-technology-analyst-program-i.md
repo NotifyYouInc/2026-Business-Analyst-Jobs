@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
-| Category | AI / ML Research |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Buenos-Aires-Argentina/Technology---Analyst-Program-I_R-10390221) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Business Analyst |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Carrera-11A-Bogota-Colombia/Technology---Analyst-Program-I_R-10390220) |
 
 ## About This Role
 
-This ai / ml research position at Fiserv was posted on 2026-06-12.
+This business analyst position at Fiserv was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

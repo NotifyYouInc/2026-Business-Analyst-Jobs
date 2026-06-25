@@ -5,12 +5,12 @@
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001157869-oracle-hcm-business-analyst) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001163190-oracle-hcm-business-analyst) |
 
 ## About This Role
 
-This business analyst position at NCS Australia was posted on 2026-06-16.
+This business analyst position at NCS Australia was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

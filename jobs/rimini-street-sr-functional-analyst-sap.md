@@ -5,12 +5,12 @@
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-United-States/Sr-Functional-Analyst--SAP_R-102140) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Remote-United-States/Sr-Functional-Analyst--SAP_R-102261) |
 
 ## About This Role
 
-This business analyst position at Rimini Street was posted on 2026-04-08.
+This business analyst position at Rimini Street was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7634293358617823541/detail) |
+| Location | Los Angeles, California, United States |
+| Category | Account Manager |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7650261589351074101/detail) |
 
 ## About This Role
 
-This engineering manager position at TikTok was posted on 2026-06-08.
+This account manager position at TikTok was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

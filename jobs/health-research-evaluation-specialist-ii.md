@@ -5,12 +5,12 @@
 | Company | [Health Research](https://scoutify.ai/companies/healthresearch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Albany, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Evaluation-Specialist-II_JR-0002094-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://healthresearch.wd1.myworkdayjobs.com/hri_careers/job/Albany-NY/Evaluation-Specialist-II_JR-0002189) |
 
 ## About This Role
 
-This business analyst position at Health Research was posted on 2026-04-15.
+This business analyst position at Health Research was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

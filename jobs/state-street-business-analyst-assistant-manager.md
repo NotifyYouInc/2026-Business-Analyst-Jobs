@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Business-Analyst---Assistant-Manager_R-790611) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Business-Analyst---Assistant-Manager_R-792314) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-05-18.
+This business analyst position at State Street was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

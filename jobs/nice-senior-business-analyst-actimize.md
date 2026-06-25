@@ -1,16 +1,16 @@
-# Senior Business Analyst, Actimize  at NiCE
+# Senior Business Analyst, Actimize at NiCE
 
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4811291101?gh_jid=4811291101) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4900598101?gh_jid=4900598101) |
 
 ## About This Role
 
-This business analyst position at NiCE was posted on 2026-03-19.
+This business analyst position at NiCE was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

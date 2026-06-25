@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Program Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Technology-Lead-Business-Analyst---Vice-President_26969666) |
+| Location | Rutherford, New Jersey, United States |
+| Category | Business Analyst |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/Technology-Lead-Business-Analyst---Vice-President_26967032) |
 
 ## About This Role
 
-This program manager position at Citigroup was posted on 2026-06-16.
+This business analyst position at Citigroup was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

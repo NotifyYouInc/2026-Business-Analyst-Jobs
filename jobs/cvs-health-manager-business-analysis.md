@@ -1,16 +1,16 @@
-# Manager Business Analysis at CVS Health
+# Manager - Business Analysis at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hartford, Connecticut, United States |
-| Category | Project Manager |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Manager-Business-Analysis_R0909836) |
+| Location | Illinois, US |
+| Category | Business Analyst |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Work-from-home/Manager---Business-Analysis_R0922788) |
 
 ## About This Role
 
-This project manager position at CVS Health was posted on 2026-06-16.
+This business analyst position at CVS Health was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

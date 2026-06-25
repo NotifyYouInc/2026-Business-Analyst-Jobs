@@ -5,12 +5,12 @@
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Buffalo, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Business-Systems-Analyst_R85257) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Business-Systems-Analyst_R84770-1) |
 
 ## About This Role
 
-This business analyst position at M&T Bank was posted on 2026-04-27.
+This business analyst position at M&T Bank was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [International Flavors & Fragrances](https://scoutify.ai/companies/international-flavors-fragrances?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | St. Louis, Missouri, United States |
+| Location | Beloit, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/St-Louis-MO-USA/Plant-Planner_R4602-1) |
+| Posted | 2026-06-17 |
+| Apply | [View on company site](https://iff.wd5.myworkdayjobs.com/iff_careers/job/Beloit-WI-USA/Plant-Planner_R18878) |
 
 ## About This Role
 
-This business analyst position at International Flavors & Fragrances was posted on 2026-05-19.
+This business analyst position at International Flavors & Fragrances was posted on 2026-06-17.
 
 ## Get Real-Time Alerts
 
