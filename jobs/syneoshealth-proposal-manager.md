@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/SRB-Belgrade-Hybrid/Proposal-Manager_25109330-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/SGP-Singapore-Hybrid/Proposal-Manager_25109419) |
 
 ## About This Role
 
-This business analyst position at Syneoshealth was posted on 2026-06-12.
+This business analyst position at Syneoshealth was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

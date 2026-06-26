@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Endeavour Group Careers](https://scoutify.ai/companies/endeavourgroupcareers?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000132780879-technical-functional-lead-ukg-payroll) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EndeavourGroupCareers/744000132991479-technical-functional-lead-ukg-payroll) |
 
 ## About This Role
 
-This business analyst position at Endeavour Group Careers was posted on 2026-06-18.
+This business analyst position at Endeavour Group Careers was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

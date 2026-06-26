@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Genuine Parts Company](https://scoutify.ai/companies/genpt?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Victoria, AU |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/USA-GPC-Windy-Hill/Business-Analyst_R26_0000012054) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://genpt.wd1.myworkdayjobs.com/Careers/job/South-Dandenong-Victoria-Australia/Business-Analyst_R26_0000019916) |
 
 ## About This Role
 
-This business analyst position at Genuine Parts Company was posted on 2026-04-14.
+This business analyst position at Genuine Parts Company was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

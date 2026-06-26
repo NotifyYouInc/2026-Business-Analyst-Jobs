@@ -5,12 +5,12 @@
 | Company | [UMass Memorial Health Care](https://scoutify.ai/companies/umass-memorial-health-care?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Worcester, Massachusetts, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://ummh.wd1.myworkdayjobs.com/careers/job/Worcester-MA-Worcester-Business-Center/Utilization-Management-Support-Coordinator_R26106176) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://ummh.wd1.myworkdayjobs.com/careers/job/Worcester-MA-Worcester-Business-Center/Utilization-Management-Support-Coordinator_R26106103) |
 
 ## About This Role
 
-This business analyst position at UMass Memorial Health Care was posted on 2026-06-16.
+This business analyst position at UMass Memorial Health Care was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

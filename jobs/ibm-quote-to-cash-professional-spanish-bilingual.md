@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
-| Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=110436) |
+| Category | Account Executive |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=121718) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-04-20.
+This account executive position at IBM was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Trianon, South Province, New Caledonia |
 | Category | Business Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Senior-Executive_JR-0023916) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Trianon/Senior-Executive_JR-0023918) |
 
 ## About This Role
 
-This business analyst position at Apex Fund Services was posted on 2026-06-15.
+This business analyst position at Apex Fund Services was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

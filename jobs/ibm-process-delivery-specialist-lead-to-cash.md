@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=119872) |
+| Location | Gurugram, Haryana, India |
+| Category | Corporate Finance |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=121369) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-06-18.
+This corporate finance position at IBM was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

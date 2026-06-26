@@ -5,12 +5,12 @@
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PL---WROCLAW-GLOBAL-BUSINESS-SERVICES---GBS-PLWCW/Administrator-ds-Danych-Importowych--m-k-x-_R26016278) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PL---WROCLAW-GLOBAL-BUSINESS-SERVICES---GBS-PLWCW/Administrator-ds-Danych-Importowych--m-k-x-_R26016282) |
 
 ## About This Role
 
-This business analyst position at United Parcel Service (UPS) was posted on 2026-05-20.
+This business analyst position at United Parcel Service (UPS) was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

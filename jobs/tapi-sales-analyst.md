@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TAPI](https://scoutify.ai/companies/tapi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TAPI/3743990013343006-sales-analyst) |
+| Category | Sales Leadership |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TAPI/3743990013700396-sales-analyst) |
 
 ## About This Role
 
-This corporate finance position at TAPI was posted on 2026-05-28.
+This sales leadership position at TAPI was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

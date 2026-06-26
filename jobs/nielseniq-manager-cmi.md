@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000122588579-manager-cmi) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000132983379-manager-cmi) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-04-24.
+This business analyst position at NielsenIQ was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

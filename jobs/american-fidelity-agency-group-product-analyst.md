@@ -5,12 +5,12 @@
 | Company | [American Fidelity](https://scoutify.ai/companies/americanfidelity?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Oklahoma City, Oklahoma, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Agency-Group-Product-Analyst_JR543) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Agency-Group-Product-Analyst_JR849) |
 
 ## About This Role
 
-This business analyst position at American Fidelity was posted on 2026-03-02.
+This business analyst position at American Fidelity was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

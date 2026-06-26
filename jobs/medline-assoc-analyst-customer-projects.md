@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Northfield, Minnesota, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Assoc-Analyst-Customer-Projects_R2607924) |
+| Category | Project Manager |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Northfield-Illinois/Assoc-Analyst-Customer-Projects_R2608342) |
 
 ## About This Role
 
-This business analyst position at Medline was posted on 2026-05-18.
+This project manager position at Medline was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

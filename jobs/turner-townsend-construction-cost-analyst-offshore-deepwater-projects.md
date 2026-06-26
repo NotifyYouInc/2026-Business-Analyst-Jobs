@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Houston, Texas, United States |
-| Category | Financial Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000127950111-construction-cost-analyst-offshore-deepwater-projects) |
+| Category | Business Analyst |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000132940069-construction-cost-analyst-offshore-deepwater-projects) |
 
 ## About This Role
 
-This financial analyst position at Turner & Townsend was posted on 2026-05-22.
+This business analyst position at Turner & Townsend was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

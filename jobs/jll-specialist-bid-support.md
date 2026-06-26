@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Specialist--Bid-Support_REQ512766) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Specialist--Bid-Support_REQ514221) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-06-10.
+This business analyst position at JLL was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

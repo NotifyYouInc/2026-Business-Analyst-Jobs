@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Rutherford, New Jersey, United States |
+| Location | Irving, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Rutherford-New-Jersey-United-States/Technology-Lead-Business-Analyst---Vice-President_26967032) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology-Lead-Business-Analyst---Vice-President_26960099) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-06-17.
+This business analyst position at Citigroup was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

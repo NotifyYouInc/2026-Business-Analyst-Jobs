@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Yakima, Washington, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-WA-Yakima/Sr-Administrative-Business-Partner_JR106633) |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/USA-IL-Chicago-205-N-Michigan-Ave/Sr-Administrative-Business-Partner_JR106806) |
 
 ## About This Role
 
-This business analyst position at Bakertilly was posted on 2026-06-01.
+This business analyst position at Bakertilly was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 

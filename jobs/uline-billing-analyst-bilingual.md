@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pleasant Prairie, Wisconsin, United States |
-| Category | Accounting |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Billing-Analyst---Bilingual_R263537-2) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-06-18 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Waukegan-IL/Billing-Analyst---Bilingual_R264601-1) |
 
 ## About This Role
 
-This accounting position at Uline was posted on 2026-05-07.
+This business analyst position at Uline was posted on 2026-06-18.
 
 ## Get Real-Time Alerts
 
