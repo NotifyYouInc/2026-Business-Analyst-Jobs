@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Beneva](https://scoutify.ai/companies/beneva?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Longueuil, Quebec, Canada |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Quebec-Quebec/Analyste-de-solutions_R15574) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://beneva.wd10.myworkdayjobs.com/benevasite_carriere/job/Quebec-Quebec/Analyste-solution_R16954) |
 
 ## About This Role
 
-This business analyst position at Beneva was posted on 2026-03-30.
+This business analyst position at Beneva was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

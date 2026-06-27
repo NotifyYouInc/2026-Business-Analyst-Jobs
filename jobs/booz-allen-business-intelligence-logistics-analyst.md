@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Warner Robins, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Warner-Robins-GA/Business-Intelligence---Logistics-Analyst_R0238564) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Warner-Robins-GA/Business-Intelligence---Logistics-Analyst_R0242631) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-04-23.
+This business analyst position at Booz Allen was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

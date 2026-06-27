@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | San Bernardino, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/T-C-INTERNAL-CROSS-ANALYST_JR00101866-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/01010-SAN-BERNARDINO-Distrito-Capital/T-C-INTERNAL-CROSS-ANALYST_JR00107022) |
 
 ## About This Role
 
-This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-04-21.
+This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

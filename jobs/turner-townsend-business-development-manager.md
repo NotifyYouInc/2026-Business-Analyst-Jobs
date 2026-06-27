@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
-| Category | Engineering Manager |
-| Posted | 2026-06-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000132036459-business-development-manager) |
+| Category | Business Analyst |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000133065069-business-development-manager) |
 
 ## About This Role
 
-This engineering manager position at Turner & Townsend was posted on 2026-06-13.
+This business analyst position at Turner & Townsend was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000115032857-hr-ai-business-analyst) |
+| Location | Lyon, Rhône-Alpes, France |
+| Category | Human Resources / People Ops |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000133058690-hr-ai-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Louis Dreyfus was posted on 2026-03-16.
+This human resources / people ops position at Louis Dreyfus was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

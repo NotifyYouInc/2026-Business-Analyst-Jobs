@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 6 locations |
-| Category | Program Manager |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-IIIII/Director--Business-and-Data-Analytics_R0114750) |
+| Location | 3 locations |
+| Category | Business Analyst |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-IIIII/Director--Business-and-Data-Analytics_R0118154) |
 
 ## About This Role
 
-This program manager position at USAA was posted on 2026-02-25.
+This business analyst position at USAA was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

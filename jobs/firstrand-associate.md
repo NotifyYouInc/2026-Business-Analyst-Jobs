@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mossel Bay, Western Cape, South Africa |
+| Location | Pretoria, Gauteng, South Africa |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Mossel-Bay/Associate_R46143) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Pretoria/Associate_R50683) |
 
 ## About This Role
 
-This business analyst position at FirstRand was posted on 2026-05-13.
+This business analyst position at FirstRand was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

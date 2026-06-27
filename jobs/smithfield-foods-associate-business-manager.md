@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Smithfield Foods](https://scoutify.ai/companies/smithfield-foods?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Smithfield, Rhode Island, United States |
-| Category | Business Analyst |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Smithfield-VA/Associate-Business-Manager_R-2026-5347) |
+| Category | Operations |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Smithfield-VA/Associate-Business-Manager_R-2026-8152) |
 
 ## About This Role
 
-This business analyst position at Smithfield Foods was posted on 2026-04-26.
+This operations position at Smithfield Foods was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

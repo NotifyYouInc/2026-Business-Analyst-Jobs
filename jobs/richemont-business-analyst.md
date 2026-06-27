@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Paris, Île-de-France, France |
+| Location | Portugal |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/PARIS/Business-Analyst_JR127359-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/MOSCAVIDE/Business-Analyst_JR130312) |
 
 ## About This Role
 
-This business analyst position at Richemont was posted on 2026-04-15.
+This business analyst position at Richemont was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

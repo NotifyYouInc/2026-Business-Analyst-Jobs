@@ -6,7 +6,7 @@
 | Location | Melbourne, Victoria, Australia |
 | Category | Legal |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mauriceblackburnlawyers1/6000000001167503-legal-engineer) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mauriceblackburnlawyers1/6000000001167585-legal-engineer) |
 
 ## About This Role
 

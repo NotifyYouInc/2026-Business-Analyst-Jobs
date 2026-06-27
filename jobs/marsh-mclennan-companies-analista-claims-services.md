@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Medellín, Antioquia, Colombia |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Bogota---Eldorado/Analista-Claims-Services_R_348745) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Medellin---Poblado/Analista-Claims-Services_R_355230) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-04-30.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

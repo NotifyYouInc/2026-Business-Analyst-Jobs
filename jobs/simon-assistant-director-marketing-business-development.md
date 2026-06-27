@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Simon](https://scoutify.ai/companies/simon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Las Vegas, Nevada, United States |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://simon.wd1.myworkdayjobs.com/Simon/job/Las-Vegas-NV/Assistant-Director--Marketing---Business-Development_R13623) |
+| Location | Boston, Massachusetts, United States |
+| Category | Marketing |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://simon.wd1.myworkdayjobs.com/Simon/job/Boston-MA/Assistant-Director--Marketing---Business-Development_R13656) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Simon was posted on 2026-06-15.
+This marketing position at Simon was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

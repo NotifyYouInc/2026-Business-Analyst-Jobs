@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Goleta, California, United States |
+| Location | Tucson, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-B03--75-Coromar-Dr--BLDG-B03/Sr-Analyst--Materials-Planning--SIOP_01846636) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-9022--9022-S-Rita-Rd--BLDG-9022/Sr-Analyst--Materials-Planning--SIOP_01853134) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-06-17.
+This business analyst position at RTX was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

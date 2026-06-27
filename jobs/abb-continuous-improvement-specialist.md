@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Beijing, Beijing, China |
-| Category | Strategy & Operations |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Beijing-Beijing-China/Continuous-Improvement-Specialist_JR00035461) |
+| Location | Singapore, Singapore |
+| Category | Business Analyst |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Singapore-Central-Singapore-Singapore/Continuous-Improvement-Specialist_JR00038877) |
 
 ## About This Role
 
-This strategy & operations position at ABB was posted on 2026-05-28.
+This business analyst position at ABB was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

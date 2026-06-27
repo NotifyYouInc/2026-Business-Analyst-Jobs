@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Bogota/Business-Systems-Specialist_31153447) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Colombia---Bogota/Business-Systems-Specialist_31153607) |
 
 ## About This Role
 
-This business analyst position at Abbott was posted on 2026-06-18.
+This business analyst position at Abbott was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

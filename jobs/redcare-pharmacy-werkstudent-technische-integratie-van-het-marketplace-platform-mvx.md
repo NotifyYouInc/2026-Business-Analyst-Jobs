@@ -5,12 +5,12 @@
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tongeren, Flanders, Belgium |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000131933782-werkstudent-technische-integratie-van-het-marketplace-platform-mvx) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000133086876-werkstudent-technische-integratie-van-het-marketplace-platform-mvx) |
 
 ## About This Role
 
-This business analyst position at Redcare Pharmacy was posted on 2026-06-12.
+This business analyst position at Redcare Pharmacy was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

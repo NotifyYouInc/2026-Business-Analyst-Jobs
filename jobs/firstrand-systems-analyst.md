@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FirstRand](https://scoutify.ai/companies/firstrand?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Windhoek, Khomas Region, Namibia |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Johannesburg/Systems-Analyst_R49287) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://firstrand.wd3.myworkdayjobs.com/frb/job/Windhoek/Systems-Analyst_R50680-1) |
 
 ## About This Role
 
-This business analyst position at FirstRand was posted on 2026-04-28.
+This business analyst position at FirstRand was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

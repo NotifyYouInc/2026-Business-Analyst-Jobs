@@ -5,12 +5,12 @@
 | Company | [R R Donnelley & Sons](https://scoutify.ai/companies/rrdonnelleysons?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Legal |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000132715555-sr-ebilling-analyst-legal) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RRDonnelley/744000133108291-sr-ebilling-analyst-legal) |
 
 ## About This Role
 
-This legal position at R R Donnelley & Sons was posted on 2026-06-17.
+This legal position at R R Donnelley & Sons was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

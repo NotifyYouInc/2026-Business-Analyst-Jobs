@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Strategy & Operations |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Business-Operations-Analyst_2015672-1) |
+| Location | North Carolina, US |
+| Category | Business Analyst |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Business-Operations-Analyst_2016056-1) |
 
 ## About This Role
 
-This strategy & operations position at Cisco was posted on 2026-06-15.
+This business analyst position at Cisco was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

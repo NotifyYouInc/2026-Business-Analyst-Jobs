@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Psi Cro](https://scoutify.ai/companies/psicro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tbilisi, Tbilisi, Georgia |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000122697680-grants-expense-coordinator) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PSICRO/744000133043830-grants-expense-coordinator) |
 
 ## About This Role
 
-This business analyst position at Psi Cro was posted on 2026-04-24.
+This business analyst position at Psi Cro was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

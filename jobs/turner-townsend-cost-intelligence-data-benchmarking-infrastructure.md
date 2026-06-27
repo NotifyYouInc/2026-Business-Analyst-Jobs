@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Newcastle upon Tyne, England, United Kingdom |
+| Location | Leeds, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000126630599-cost-intelligence-data-benchmarking-infrastructure) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000133040518-cost-intelligence-data-benchmarking-infrastructure) |
 
 ## About This Role
 
-This business analyst position at Turner & Townsend was posted on 2026-05-15.
+This business analyst position at Turner & Townsend was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

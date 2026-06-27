@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [World Vision International](https://scoutify.ai/companies/world-vision-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Luis Acatlán, Guerrero, Mexico |
+| Location | Tabasco, Zacatecas, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://worldvision.wd1.myworkdayjobs.com/worldvisioninternational/job/VisionFund-Office-San-Luis-Acatlan-Mxico/ASESOR-DE-NEGOCIO_JR50490) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://worldvision.wd1.myworkdayjobs.com/worldvisioninternational/job/VisionFund-Office-Tabasco-Mexico/ASESOR-DE-NEGOCIO_JR50667) |
 
 ## About This Role
 
-This business analyst position at World Vision International was posted on 2026-06-09.
+This business analyst position at World Vision International was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

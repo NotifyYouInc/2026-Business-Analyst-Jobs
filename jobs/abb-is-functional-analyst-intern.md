@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Arraiján, Panamá Oeste Province, Panama |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Bogota-Cundinamarca-Colombia/IS-Functional-Analyst-Intern_JR00033748) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Arraijan-Panam-Oeste-Panama/IS-Functional-Analyst-Intern_JR00036563) |
 
 ## About This Role
 
-This business analyst position at ABB was posted on 2026-05-13.
+This business analyst position at ABB was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

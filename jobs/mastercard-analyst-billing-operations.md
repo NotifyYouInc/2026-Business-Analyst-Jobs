@@ -1,16 +1,16 @@
-# Analyst, Billing Operations at Mastercard
+# Analyst Billing Operations. at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia-Bldg-978/Analyst--Billing-Operations_R-277602) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Analyst-Billing-Operations_R-276467) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-05-07.
+This business analyst position at Mastercard was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

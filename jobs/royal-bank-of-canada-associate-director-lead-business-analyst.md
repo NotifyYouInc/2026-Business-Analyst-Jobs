@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Jersey-City-New-Jersey-United-States-of-America/Associate-Director--Lead-Business-Analyst_R-0000165780-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Associate-Director--Lead-Business-Analyst_R-0000176276-1) |
 
 ## About This Role
 
-This business analyst position at Royal Bank of Canada was posted on 2026-04-16.
+This business analyst position at Royal Bank of Canada was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

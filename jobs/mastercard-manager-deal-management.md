@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
-| Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Gurgaon-India/Manager--Deal-Management_R-275334) |
+| Location | 2 locations |
+| Category | Account Manager |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Manager--Deal-Management_R-280327) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-05-05.
+This account manager position at Mastercard was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

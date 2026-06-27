@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Lévis, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Agent-ou-agente--Travail-de-bureau-et-aux-oprations_R2607139) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Coordonnateur-ou-coordonnatrice--Traitement-numrique_R2608160) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-05-25.
+This business analyst position at Desjardins was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

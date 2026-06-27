@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tres Ríos, Cartago Province, Costa Rica |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Costa-Rica---Cartago---Tres-Rios/Demand-Planner_544665-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Turkey---Istanbul/Demand-Planner_545387) |
 
 ## About This Role
 
-This business analyst position at Haleon was posted on 2026-06-03.
+This business analyst position at Haleon was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

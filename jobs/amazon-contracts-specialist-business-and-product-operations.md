@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Legal |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10412062/contracts-specialist-business-and-product-operations) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10453707/contracts-specialist-business-and-product-operations) |
 
 ## About This Role
 
-This legal position at Amazon was posted on 2026-05-06.
+This legal position at Amazon was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

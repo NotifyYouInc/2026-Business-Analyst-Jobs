@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Missouri, US |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ofallon-Missouri-United-States/IT-Business-Lead-Analyst---Vice-President_26965367-1) |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/IT-Business-Lead-Analyst---Vice-President_26968478) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-06-16.
+This business analyst position at Citigroup was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

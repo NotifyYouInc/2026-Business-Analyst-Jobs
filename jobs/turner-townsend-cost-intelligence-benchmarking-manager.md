@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Project Manager |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000130156089-cost-intelligence-benchmarking-manager) |
+| Category | Business Analyst |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000133040439-cost-intelligence-benchmarking-manager) |
 
 ## About This Role
 
-This project manager position at Turner & Townsend was posted on 2026-06-04.
+This business analyst position at Turner & Townsend was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

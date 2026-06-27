@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Buôn Ma Thuột, Dak Lak, Vietnam |
-| Category | ESG / Sustainability |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000131591539-commercial-trainee-green-coffee-full-time-position) |
+| Location | Vietnam |
+| Category | Business Analyst |
+| Posted | 2026-06-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000133059732-commercial-trainee-green-coffee-full-time-position) |
 
 ## About This Role
 
-This esg / sustainability position at Louis Dreyfus was posted on 2026-06-11.
+This business analyst position at Louis Dreyfus was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 
