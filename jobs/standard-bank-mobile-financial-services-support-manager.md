@@ -1,16 +1,16 @@
-# Manager,  Business Analytics at CVS Health
+# Mobile Financial Services Support Manager at Standard Bank
 
 | Field | Details |
 |-------|---------|
-| Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Woonsocket, Rhode Island, United States |
+| Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Lagos, Lagos, Nigeria |
 | Category | Business Analyst |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Manager---Business-Analytics_R0942430) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000133189739-mobile-financial-services-support-manager) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-06-20.
+This business analyst position at Standard Bank was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

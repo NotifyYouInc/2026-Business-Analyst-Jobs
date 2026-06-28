@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Measurement---Report-Specialist_AIOC-S01651324-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Measurement---Report-Specialist_AIOC-S01651332-1) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | San Francisco, California, United States |
 | Category | Marketing |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10431937/sr-worldwide-gtm-specialist-genai-amazon-bedrock-data-ai-gtm) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428564/sr-worldwide-gtm-specialist-genai-amazon-bedrock-data-ai-gtm) |
 
 ## About This Role
 
-This marketing position at Amazon was posted on 2026-05-27.
+This marketing position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

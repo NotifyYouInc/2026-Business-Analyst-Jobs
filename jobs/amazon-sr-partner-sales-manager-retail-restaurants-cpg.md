@@ -1,16 +1,16 @@
-# Production Planning Analyst, Production Planning Team at Amazon
+# Sr. Partner Sales Manager, Retail, Restaurants, CPG at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428883/production-planning-analyst-production-planning-team) |
+| Location | Chicago, Illinois, United States |
+| Category | Channel / Partner Sales |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428819/sr-partner-sales-manager-retail-restaurants-cpg) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-05-23.
+This channel / partner sales position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

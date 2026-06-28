@@ -1,16 +1,16 @@
-# Analista Operações Logísticas, AMZL at Amazon
+# Business Office Supervisor at Pbjcal
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Osasco, São Paulo, Brazil |
+| Company | [Pbjcal](https://scoutify.ai/companies/pbjcal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428561/analista-operacoes-logisticas-amzl) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://pbjcal.wd503.myworkdayjobs.com/jobsquest/job/Merit-System/Business-Office-Supervisor_R0015495) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-05-22.
+This business analyst position at Pbjcal was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Production Planning Analyst, Production Planning Team at Amazon
+# Sr. WW GTM Specialist, Agentic AI - Kiro & Frontier Agents, Data & AI GTM at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428883/production-planning-analyst-production-planning-team) |
+| Location | Herndon, Virginia, United States |
+| Category | Sales Leadership |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428698/sr-ww-gtm-specialist-agentic-ai-kiro-frontier-agents-data-ai-gtm) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-05-23.
+This sales leadership position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

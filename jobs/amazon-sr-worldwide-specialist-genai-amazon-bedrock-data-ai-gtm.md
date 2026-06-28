@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Francisco, California, United States |
+| Location | Seattle, Washington, United States |
 | Category | Product Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10406599/sr-worldwide-specialist-genai-amazon-bedrock-data-ai-gtm) |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428568/sr-worldwide-specialist-genai-amazon-bedrock-data-ai-gtm) |
 
 ## About This Role
 
-This product manager position at Amazon was posted on 2026-04-29.
+This product manager position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

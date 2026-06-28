@@ -1,16 +1,16 @@
-# Manager,  Business Analytics at CVS Health
+# Sr. Manager, Financial Operations at CVS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Woonsocket, Rhode Island, United States |
-| Category | Business Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Manager---Business-Analytics_R0942430) |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Manager--Financial-Operations_R0942438) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-06-20.
+This corporate finance position at CVS Health was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

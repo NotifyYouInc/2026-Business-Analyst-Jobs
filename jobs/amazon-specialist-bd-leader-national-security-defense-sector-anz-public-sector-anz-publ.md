@@ -1,16 +1,16 @@
-# Production Planning Analyst, Production Planning Team at Amazon
+# Specialist BD Leader – National Security & Defense Sector, ANZ Public Sector, ANZ Public Sector at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428883/production-planning-analyst-production-planning-team) |
+| Location | Sydney, New South Wales, Australia |
+| Category | Sales Leadership |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10441090/specialist-bd-leader-national-security-defense-sector-anz-public-sector-anz-public-sector) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-05-23.
+This sales leadership position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

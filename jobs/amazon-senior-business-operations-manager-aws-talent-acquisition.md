@@ -1,16 +1,16 @@
-# Production Planning Analyst, Production Planning Team at Amazon
+# Senior Business Operations Manager, AWS Talent Acquisition at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428883/production-planning-analyst-production-planning-team) |
+| Location | Seattle, Washington, United States |
+| Category | Program Manager |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10427969/senior-business-operations-manager-aws-talent-acquisition) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-05-23.
+This program manager position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

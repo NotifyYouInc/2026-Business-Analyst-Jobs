@@ -1,16 +1,16 @@
-# Production Planning Analyst, Production Planning Team at Amazon
+# Channel Team Lead, OTR, AMZL at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428883/production-planning-analyst-production-planning-team) |
+| Location | Osaka, Osaka, Japan |
+| Category | Channel / Partner Sales |
+| Posted | 2026-06-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10440704/channel-team-lead-otr-amzl) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-05-23.
+This channel / partner sales position at Amazon was posted on 2026-06-05.
 
 ## Get Real-Time Alerts
 

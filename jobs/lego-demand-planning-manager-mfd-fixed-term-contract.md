@@ -1,16 +1,16 @@
-# Manager,  Business Analytics at CVS Health
+# Demand Planning Manager (m/f/d) - fixed-term contract at LEGO
 
 | Field | Details |
 |-------|---------|
-| Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Woonsocket, Rhode Island, United States |
+| Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Munich, Bavaria, Germany |
 | Category | Business Analyst |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Manager---Business-Analytics_R0942430) |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Munich/Demand-Planning-Manager--m-f-d----fixed-term-contract_0000035629) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-06-20.
+This business analyst position at LEGO was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

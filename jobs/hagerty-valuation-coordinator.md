@@ -1,16 +1,16 @@
-# Analista Operações Logísticas, AMZL at Amazon
+# Valuation Coordinator at Hagerty
 
 | Field | Details |
 |-------|---------|
-| Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Osasco, São Paulo, Brazil |
+| Company | [Hagerty](https://scoutify.ai/companies/hagerty?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428561/analista-operacoes-logisticas-amzl) |
+| Posted | 2026-06-20 |
+| Apply | [View on company site](https://hagerty.wd5.myworkdayjobs.com/hagerty/job/United-States/Valuation-Coordinator_R5279) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-05-22.
+This business analyst position at Hagerty was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

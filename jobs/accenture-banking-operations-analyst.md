@@ -6,7 +6,7 @@
 | Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Banking-Operations-Analyst_AIOC-S01651307-1) |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Banking-Operations-Analyst_AIOC-S01651350-1) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# OPS ENG ANALYST I at Banco Bilbao Vizcaya Argentaria
+# Asistente de Control Documentario at The Weir Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [The Weir Group](https://scoutify.ai/companies/weir?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Business Analyst |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/OPS-ENG-ANALYST-I_JR00107212) |
+| Apply | [View on company site](https://weir.wd3.myworkdayjobs.com/weir_external_careers/job/Lima/Asistente-de-Control-Documentario_R0037675) |
 
 ## About This Role
 
-This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-06-20.
+This business analyst position at The Weir Group was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Manager,  Business Analytics at CVS Health
+# Specialist, LCS Product Business Analyst at Merck
 
 | Field | Details |
 |-------|---------|
-| Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Woonsocket, Rhode Island, United States |
+| Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
 | Posted | 2026-06-20 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Manager---Business-Analytics_R0942430) |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-HITEC-City/Specialist--LCS-Product-Business-Analyst_R401619-1) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-06-20.
+This business analyst position at Merck was posted on 2026-06-20.
 
 ## Get Real-Time Alerts
 

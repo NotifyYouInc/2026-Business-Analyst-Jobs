@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Germany |
-| Category | Business Analyst |
+| Location | 5 locations |
+| Category | Strategy / Management Consulting |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013701606-commercial-vehicle-business-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990013701636-commercial-vehicle-business-manager) |
 
 ## About This Role
 
-This business analyst position at MSX International was posted on 2026-06-19.
+This strategy / management consulting position at MSX International was posted on 2026-06-19.
 
 ## Get Real-Time Alerts
 

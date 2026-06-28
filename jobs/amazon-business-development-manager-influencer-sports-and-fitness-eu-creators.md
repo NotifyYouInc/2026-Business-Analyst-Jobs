@@ -1,16 +1,16 @@
-# Production Planning Analyst, Production Planning Team at Amazon
+# Business Development Manager, Influencer Sports and Fitness, EU Creators at Amazon
 
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428883/production-planning-analyst-production-planning-team) |
+| Location | London, England, United Kingdom |
+| Category | Business Development |
+| Posted | 2026-05-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10428332/business-development-manager-influencer-sports-and-fitness-eu-creators) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-05-23.
+This business development position at Amazon was posted on 2026-05-22.
 
 ## Get Real-Time Alerts
 

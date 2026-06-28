@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Maryland, US |
-| Category | Operations |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-MD-Annapolis-Junction/Business-Process-Analyst-Senior_RQ214048-1) |
+| Location | United States |
+| Category | Business Analyst |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Business-Process-Analyst-Senior_RQ222809) |
 
 ## About This Role
 
-This operations position at General Dynamics Information Technology was posted on 2026-02-03.
+This business analyst position at General Dynamics Information Technology was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 
