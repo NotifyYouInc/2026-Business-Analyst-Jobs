@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE Vernova](https://scoutify.ai/companies/ge-vernova?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Greenville, North Carolina, United States |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Greenville/Lead-Specialist---NCR-Triage_R5043378-3) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Remote/Lead-Specialist---NCR-Triage_R5038403-3) |
 
 ## About This Role
 
-This business analyst position at GE Vernova was posted on 2026-06-11.
+This business analyst position at GE Vernova was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

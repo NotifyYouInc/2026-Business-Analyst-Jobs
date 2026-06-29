@@ -5,12 +5,12 @@
 | Company | [Sika](https://scoutify.ai/companies/sika?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hanoi, Hanoi, Vietnam |
 | Category | Project Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000127565422-kpm-manager-chinese-speaking) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SikaAG/744000133255149-kpm-manager-chinese-speaking) |
 
 ## About This Role
 
-This project manager position at Sika was posted on 2026-05-21.
+This project manager position at Sika was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

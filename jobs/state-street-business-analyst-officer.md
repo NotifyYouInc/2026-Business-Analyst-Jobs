@@ -1,16 +1,16 @@
-# Business Analyst - Officer at State Street
+# Business Analyst, Officer at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Business Analyst |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Business-Analyst---Officer_R-791843) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Business-Analyst--Officer_R-792719) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-06-14.
+This business analyst position at State Street was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

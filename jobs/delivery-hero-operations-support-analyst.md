@@ -6,7 +6,7 @@
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Analyst |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133078080-operations-support-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133115314-operations-support-analyst) |
 
 ## About This Role
 

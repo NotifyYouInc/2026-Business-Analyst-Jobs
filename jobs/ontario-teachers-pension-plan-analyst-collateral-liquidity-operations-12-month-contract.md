@@ -5,12 +5,12 @@
 | Company | [Ontario Teachers' Pension Plan](https://scoutify.ai/companies/otppb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Analyst--Collateral---Liquidity-Operations---12-month-contract_7075) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Analyst--Collateral---Liquidity-Operations---12-month-contract_7086) |
 
 ## About This Role
 
-This business analyst position at Ontario Teachers' Pension Plan was posted on 2026-06-12.
+This business analyst position at Ontario Teachers' Pension Plan was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

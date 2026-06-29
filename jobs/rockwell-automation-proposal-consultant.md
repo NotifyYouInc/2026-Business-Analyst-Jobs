@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Nashville-Tennessee-United-States/Proposal-Consultant_R26-4166) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mexico-City-Mexico/Proposal-Consultant_R26-1938) |
 
 ## About This Role
 
-This business analyst position at Rockwell Automation was posted on 2026-06-18.
+This business analyst position at Rockwell Automation was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [flash-security](https://scoutify.ai/companies/flashsecurity?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Business Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000132119869-werkstudent-mwd-verwaltung-buro-kaufmannischer-bereich) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HRDpt/744000133264179-werkstudent-mwd-verwaltung-buro-kaufmannischer-bereich) |
 
 ## About This Role
 
-This business analyst position at flash-security was posted on 2026-06-15.
+This business analyst position at flash-security was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brussels, Brussels Capital, Belgium |
+| Location | Belgium |
 | Category | Account Manager |
 | Posted | 2026-06-19 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Dusseldorf-Germany/Senior-Manager--Business-Development--Clinical-Solutions---EMEA_R1311688-1) |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/BEL---Remote/Senior-Manager--Business-Development--Clinical-Solutions---EMEA_R1313895) |
 
 ## About This Role
 

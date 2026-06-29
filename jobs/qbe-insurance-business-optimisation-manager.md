@@ -5,12 +5,12 @@
 | Company | [QBE Insurance](https://scoutify.ai/companies/qbe?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/AUS---NSW---Sydney/Business-Optimisation-Manager_352663-1) |
+| Posted | 2026-06-21 |
+| Apply | [View on company site](https://qbe.wd3.myworkdayjobs.com/qbe-careers/job/AUS---NSW---Sydney/Business-Optimisation-Manager_357343-1) |
 
 ## About This Role
 
-This business analyst position at QBE Insurance was posted on 2026-03-23.
+This business analyst position at QBE Insurance was posted on 2026-06-21.
 
 ## Get Real-Time Alerts
 

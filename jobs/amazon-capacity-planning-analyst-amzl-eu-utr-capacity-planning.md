@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449023/capacity-planning-analyst-amzl-eu-utr-capacity-planning) |
+| Category | Business Analyst |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10454665/capacity-planning-analyst-amzl-eu-utr-capacity-planning) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Amazon was posted on 2026-06-15.
+This business analyst position at Amazon was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

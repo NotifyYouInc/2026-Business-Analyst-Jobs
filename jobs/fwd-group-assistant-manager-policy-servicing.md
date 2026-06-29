@@ -5,12 +5,12 @@
 | Company | [FWD Group](https://scoutify.ai/companies/fwd-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://fwd.wd3.myworkdayjobs.com/fwdcareersite/job/Malaysia---KL-Eco-City/Assistant-Manager--Policy-Servicing_JR-0026918) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://fwd.wd3.myworkdayjobs.com/fwdcareersite/job/Malaysia---KL-Eco-City/Assistant-Manager--Policy-Servicing_JR-0027217) |
 
 ## About This Role
 
-This business analyst position at FWD Group was posted on 2026-05-19.
+This business analyst position at FWD Group was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

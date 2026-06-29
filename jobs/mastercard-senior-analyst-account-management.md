@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
-| Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Sao-Paulo-Brazil/Senior-Analyst--Account-Management_R-271618-1) |
+| Location | Australia |
+| Category | Account Manager |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/St-Leonards-Australia/Senior-Analyst--Account-Management_R-278996) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-03-03.
+This account manager position at Mastercard was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
