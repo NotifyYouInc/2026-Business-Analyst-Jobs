@@ -5,12 +5,12 @@
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Analista-I--S3-_Req1588345) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/Analista-I--S3-_Req1588545) |
 
 ## About This Role
 
-This business analyst position at Santander was posted on 2026-06-19.
+This business analyst position at Santander was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

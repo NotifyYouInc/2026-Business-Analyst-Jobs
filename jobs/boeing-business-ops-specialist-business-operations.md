@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Auburn, Washington, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Auburn-WA/Business-Ops-Specialist--Business-Operations-_JR2026490963-1) |
+| Location | Seal Beach, California, United States |
+| Category | Program Manager |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Business-Ops-Specialist--Business-Operations-_JR2026514348-1) |
 
 ## About This Role
 
-This business analyst position at Boeing was posted on 2026-03-12.
+This program manager position at Boeing was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

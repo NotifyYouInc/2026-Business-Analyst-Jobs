@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Canberra, Australian Capital Territory, Australia |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Canberra-ACT/Occupancy-Planner_REQ512713) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Minneapolis-MN/Occupancy-Planner_REQ514707) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-06-03.
+This business analyst position at JLL was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tijuana, Baja California, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Analista-de-Aseg-de-Conf--12-meses-_R64372-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Analista-de-Aseg-de-Conf--12-meses-_R68764-1) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-04-15.
+This business analyst position at Medtronic was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Operations-Analyst_R2120639) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-DC-Metro-Area/Operations-Analyst_R2107938) |
 
 ## About This Role
 
-This business analyst position at KBR was posted on 2026-03-18.
+This business analyst position at KBR was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

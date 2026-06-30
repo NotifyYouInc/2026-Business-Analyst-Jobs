@@ -5,12 +5,12 @@
 | Company | [American Century Investments](https://scoutify.ai/companies/americancentury?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Business-Solutions-Associate_R0005641) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Business-Solutions-Associate_R0005663) |
 
 ## About This Role
 
-This business analyst position at American Century Investments was posted on 2026-05-21.
+This business analyst position at American Century Investments was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

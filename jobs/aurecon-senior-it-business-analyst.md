@@ -5,12 +5,12 @@
 | Company | [Aurecon](https://scoutify.ai/companies/aurecon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Scrum Master & Agile Coach |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://aurecongroup.wd3.myworkdayjobs.com/aurecon/job/Manila/Senior-IT-Business-Analyst_R32533-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://aurecongroup.wd3.myworkdayjobs.com/aurecon/job/Manila/Senior-IT-Business-Analyst_R32876) |
 
 ## About This Role
 
-This scrum master & agile coach position at Aurecon was posted on 2026-05-26.
+This scrum master & agile coach position at Aurecon was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

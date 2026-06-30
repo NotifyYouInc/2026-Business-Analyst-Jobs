@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stream Realty Partners](https://scoutify.ai/companies/streamrealtypartners?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | Houston, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StreamRealty/744000130582099-brokerage-analyst-industrial) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StreamRealty/744000133455314-brokerage-analyst-industrial) |
 
 ## About This Role
 
-This business analyst position at Stream Realty Partners was posted on 2026-06-05.
+This business analyst position at Stream Realty Partners was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Winnipeg-Manitoba/Business-Development-Consultant_JR00124793) |
+| Location | Montréal, Quebec, Canada |
+| Category | Sales Leadership |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Montreal-Quebec/Business-Development-Consultant_JR00125181) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Sun Life was posted on 2026-06-08.
+This sales leadership position at Sun Life was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

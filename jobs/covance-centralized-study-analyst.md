@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Centralized-Study-Analyst_262483) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Sofia/Centralized-Study-Analyst_263414) |
 
 ## About This Role
 
-This business analyst position at Covance was posted on 2026-05-25.
+This business analyst position at Covance was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

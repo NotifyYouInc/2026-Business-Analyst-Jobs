@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Engineering Manager |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Sydney-New-South-Wales-Australia/Business-Development_WD30267480) |
+| Location | Montréal, Quebec, Canada |
+| Category | Account Manager |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Montral-Qubec-Canada/Business-Development-Manager_WD30272140) |
 
 ## About This Role
 
-This engineering manager position at Johnson Controls was posted on 2026-05-18.
+This account manager position at Johnson Controls was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

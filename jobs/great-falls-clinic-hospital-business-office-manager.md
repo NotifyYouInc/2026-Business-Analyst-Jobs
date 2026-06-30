@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Great Falls Clinic Hospital](https://scoutify.ai/companies/great-falls-clinic-hospital?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://recruiting.ultipro.com/sur1004srgy/JobBoard/aa616d8f-f2a8-46c2-8f8e-1ca56e162ffd/OpportunityDetail?opportunityId=ce01cb36-790f-4991-b115-e290b89cd481) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://recruiting.ultipro.com/sur1004srgy/JobBoard/aa616d8f-f2a8-46c2-8f8e-1ca56e162ffd/OpportunityDetail?opportunityId=7b806674-90d2-446c-993e-c8538f9183b7) |
 
 ## About This Role
 
-This business analyst position at Great Falls Clinic Hospital was posted on 2026-06-09.
+This business analyst position at Great Falls Clinic Hospital was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

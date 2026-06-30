@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Memphis, Tennessee, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TN-Memphis/Business-Systems-Analyst_WD222862) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Suzhou/Business-Systems-Analyst_WD222640) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-06-12.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

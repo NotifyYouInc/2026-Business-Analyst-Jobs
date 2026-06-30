@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chile |
 | Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Las-Condes-Santiago-Region-Metropolitana-de-Santiago-Chile/LATAM-Administration---Secretarial_R-074376-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Las-Condes-Santiago-Region-Metropolitana-de-Santiago-Chile/LATAM-Administration---Secretarial_R-082319-1) |
 
 ## About This Role
 
-This business analyst position at Johnson & Johnson was posted on 2026-05-21.
+This business analyst position at Johnson & Johnson was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

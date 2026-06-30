@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Project Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132553219-commercial-projects-analytics-trainee-6-months) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133496899-commercial-projects-analytics-trainee-6-months) |
 
 ## About This Role
 
-This project manager position at Delivery Hero was posted on 2026-06-17.
+This project manager position at Delivery Hero was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://flix.careers/job/8574406002?gh_jid=8574406002) |
+| Category | Business Development |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://flix.careers/job/8603428002?gh_jid=8603428002) |
 
 ## About This Role
 
-This engineering manager position at Flix was posted on 2026-06-02.
+This business development position at Flix was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

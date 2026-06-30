@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, Ontario, Canada |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/London-Ontario/Business-Development-Consultant_JR00124905) |
+| Location | Montréal, Quebec, Canada |
+| Category | Sales Leadership |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Montreal-Quebec/Business-Development-Consultant_JR00125181) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Sun Life Financial was posted on 2026-06-15.
+This sales leadership position at Sun Life Financial was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

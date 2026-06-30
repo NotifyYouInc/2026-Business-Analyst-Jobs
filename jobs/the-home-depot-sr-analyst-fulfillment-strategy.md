@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Analyst--Fulfillment-Strategy_Req179622) |
+| Category | Business Analyst |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Sr-Analyst--Fulfillment-Strategy_Req184627) |
 
 ## About This Role
 
-This strategy & operations position at The Home Depot was posted on 2026-05-11.
+This business analyst position at The Home Depot was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

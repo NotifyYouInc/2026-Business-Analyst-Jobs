@@ -5,12 +5,12 @@
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Operations |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/2416982f-cba8-4530-a56d-9cfc3f13a805) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/919883ad-ee5f-481c-8bc7-cb61bb3d6640) |
 
 ## About This Role
 
-This operations position at Jerry.ai was posted on 2026-06-15.
+This operations position at Jerry.ai was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

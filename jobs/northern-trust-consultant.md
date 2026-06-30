@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Consultant_R155098-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Pune-India/Consultant_R156200-1) |
 
 ## About This Role
 
-This business analyst position at Northern Trust was posted on 2026-06-15.
+This business analyst position at Northern Trust was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

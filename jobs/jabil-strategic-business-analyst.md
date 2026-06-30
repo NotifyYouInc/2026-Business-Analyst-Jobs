@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Singapore/Strategic-Business-Analyst_J2439840) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Strategic-Business-Analyst_J2454833) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-02-20.
+This business analyst position at Jabil was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

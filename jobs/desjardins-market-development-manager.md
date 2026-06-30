@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Business Analyst |
 | Posted | 2026-06-22 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/East-Angus/Directeur-ou-directrice--Dveloppement-de-march_R2608143-2) |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Farnham/Directeur-ou-directrice--Dveloppement-de-march_R2608220) |
 
 ## About This Role
 

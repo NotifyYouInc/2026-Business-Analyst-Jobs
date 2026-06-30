@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [McGee Air Services](https://scoutify.ai/companies/mcgee-air-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Renton, Washington, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/mcgeeairservices/3743990012862963-resource-planning-analyst) |
+| Category | Business Analyst |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/mcgeeairservices/3743990013730766-resource-planning-analyst) |
 
 ## About This Role
 
-This fp&a / strategic finance position at McGee Air Services was posted on 2026-04-28.
+This business analyst position at McGee Air Services was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Planner II (B2) at Applied Materials
+# Planner II - (B2) at Applied Materials
 
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Planner-II--B2-_R2618968) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Planner-II----B2-_R2622087) |
 
 ## About This Role
 
-This business analyst position at Applied Materials was posted on 2026-05-07.
+This business analyst position at Applied Materials was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

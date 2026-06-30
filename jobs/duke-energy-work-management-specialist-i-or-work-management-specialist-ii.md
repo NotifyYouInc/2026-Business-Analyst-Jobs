@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Duke Energy](https://scoutify.ai/companies/dukeenergy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | St. Petersburg, Florida, United States |
+| Location | Franklin, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/St-Petersburg-FL/Work-Management-Specialist-I-or-Work-Management-Specialist-II_R39387-1) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://dukeenergy.wd1.myworkdayjobs.com/search/job/Franklin-IN/Work-Management-Specialist-I-or-Work-Management-Specialist-II_R40224) |
 
 ## About This Role
 
-This business analyst position at Duke Energy was posted on 2026-04-23.
+This business analyst position at Duke Energy was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

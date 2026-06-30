@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Technology / IT Consulting |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Pune/Business-Architect_ATCI-5592581-S2031314-1) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Architect_ATCI-5626959-S2031400) |
 
 ## About This Role
 
-This technology / it consulting position at Accenture was posted on 2026-06-22.
+This business analyst position at Accenture was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

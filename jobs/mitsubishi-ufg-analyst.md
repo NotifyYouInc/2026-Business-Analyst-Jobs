@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Yangon, Yangon, Myanmar |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Analyst_10077086-WD-1) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Yangon-Branch/Analyst_10077377-WD-4) |
 
 ## About This Role
 
-This business analyst position at Mitsubishi UFG was posted on 2026-06-10.
+This business analyst position at Mitsubishi UFG was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

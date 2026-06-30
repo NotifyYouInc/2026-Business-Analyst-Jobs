@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Menasha Corporation](https://scoutify.ai/companies/menasha?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Normal, Illinois, United States |
+| Location | Brampton, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Normal-IL/Inventory-Control-Analyst_R13516) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Brampton-Ontario/Inventory-Control-Analyst_R14523) |
 
 ## About This Role
 
-This business analyst position at Menasha Corporation was posted on 2026-04-14.
+This business analyst position at Menasha Corporation was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 

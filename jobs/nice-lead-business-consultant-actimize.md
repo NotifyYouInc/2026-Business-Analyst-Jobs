@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiCE](https://scoutify.ai/companies/nice?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hoboken, New Jersey, United States |
+| Location | 2 locations |
 | Category | Financial Crimes & AML |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4788631101?gh_jid=4788631101) |
+| Posted | 2026-06-22 |
+| Apply | [View on company site](https://boards.eu.greenhouse.io/nice/jobs/4905347101?gh_jid=4905347101) |
 
 ## About This Role
 
-This financial crimes & aml position at NiCE was posted on 2026-04-10.
+This financial crimes & aml position at NiCE was posted on 2026-06-22.
 
 ## Get Real-Time Alerts
 
