@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Rolling Meadows, Illinois, United States |
+| Location | Sykesville, Maryland, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Manufacturing-Analyst_R10237062) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/Manufacturing-Analyst_R10237054) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-06-19.
+This business analyst position at Northrop Grumman was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

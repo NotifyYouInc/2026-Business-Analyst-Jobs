@@ -5,12 +5,12 @@
 | Company | [Blue Care](https://scoutify.ai/companies/blue-care?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Brisbane/Rostering-and-Scheduling-Specialist_JR119003) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://unitingcareqld.wd105.myworkdayjobs.com/unitingcarecareers/job/Brisbane/Rostering-and-Scheduling-Specialist_JR122043) |
 
 ## About This Role
 
-This business analyst position at Blue Care was posted on 2026-02-19.
+This business analyst position at Blue Care was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

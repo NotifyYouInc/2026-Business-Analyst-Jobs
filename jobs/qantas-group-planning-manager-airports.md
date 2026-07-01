@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001167173-planning-manager-airports) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001178888-planning-manager-airports) |
 
 ## About This Role
 
-This business analyst position at Qantas Group was posted on 2026-06-19.
+This business analyst position at Qantas Group was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Shenzhen, Guangdong, China |
-| Category | Revenue / Sales Operations |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Sales-Operations-Officer_R242264) |
+| Category | Business Analyst |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Shenzhen-Guangdong/Sales-Operations-Officer_R245328) |
 
 ## About This Role
 
-This revenue / sales operations position at Arrow Electronics was posted on 2026-04-14.
+This business analyst position at Arrow Electronics was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

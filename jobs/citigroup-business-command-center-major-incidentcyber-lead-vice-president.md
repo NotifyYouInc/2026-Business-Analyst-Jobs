@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Irving, Texas, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-04 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Business-Command-Center-Major-Incident-Cyber-Lead---Vice-President_26956825) |
+| Location | Tampa, Florida, United States |
+| Category | Program Manager |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Business-Command-Center-Major-Incident-Cyber-Lead---Vice-President_26966886) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-04.
+This program manager position at Citigroup was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

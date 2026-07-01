@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Philippines |
-| Category | Strategy & Operations |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000130679699-business-operations-analyst-ii-supplier-master-organization) |
+| Category | Business Analyst |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000133709989-business-operations-analyst-ii-supplier-master-organization) |
 
 ## About This Role
 
-This strategy & operations position at Western Digital was posted on 2026-06-08.
+This business analyst position at Western Digital was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

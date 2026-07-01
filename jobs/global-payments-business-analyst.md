@@ -1,16 +1,16 @@
-# business analyst at Global Payments
+# Business Analyst at Global Payments
 
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/CHENGDU-SICHAUN-CHINA/business-analyst_R0070996) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/CHICAGO-ILLINOIS/Business-Analyst_R0072004) |
 
 ## About This Role
 
-This business analyst position at Global Payments was posted on 2026-06-16.
+This business analyst position at Global Payments was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

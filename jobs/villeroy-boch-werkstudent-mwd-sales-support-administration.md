@@ -1,0 +1,22 @@
+# Werkstudent (m/w/d) Sales Support & Administration at Villeroy & Boch
+
+| Field | Details |
+|-------|---------|
+| Company | [Villeroy & Boch](https://scoutify.ai/companies/villeroy-boch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Mettlach, Saarland, Germany |
+| Category | Business Development |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://villeroyboch.wd3.myworkdayjobs.com/careers/job/Mettlach/Werkstudent--m-w-d--Sales-Support---Administration_JR_9166) |
+
+## About This Role
+
+This business development position at Villeroy & Boch was posted on 2026-06-24.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

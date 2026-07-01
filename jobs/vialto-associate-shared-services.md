@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vialto](https://scoutify.ai/companies/vialto?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Kolkata, West Bengal, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Kolkata-VVN/Associate---Shared-Services_REQ907978) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://vialto.wd107.myworkdayjobs.com/vialtoexternalcareers/job/Bengaluru-VVN/Associate---Shared-Services_REQ908358) |
 
 ## About This Role
 
-This business analyst position at Vialto was posted on 2026-04-21.
+This business analyst position at Vialto was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

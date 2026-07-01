@@ -1,16 +1,16 @@
-# Business Manager - Canopy at Citrus Park  at Olympus Property
+# Business Manager - Canopy at Citrus Park at Olympus Property
 
 | Field | Details |
 |-------|---------|
 | Company | [Olympus Property](https://scoutify.ai/companies/olympus-property-olympusproperty?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/olympusproperty/jobs/7740563003) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/olympusproperty/jobs/7782434003) |
 
 ## About This Role
 
-This business analyst position at Olympus Property was posted on 2026-05-20.
+This business analyst position at Olympus Property was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

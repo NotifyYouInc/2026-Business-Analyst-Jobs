@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Product Marketing |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Market-Intelligence-Analyst-I_R-01345828-1) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Business Analyst |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/So-Paulo-Brazil/Market-Intelligence-Analyst-I_R-01357039) |
 
 ## About This Role
 
-This product marketing position at Thermo Fisher Scientific was posted on 2026-03-12.
+This business analyst position at Thermo Fisher Scientific was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Varian](https://scoutify.ai/companies/onehealthineers?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Malvern, Arkansas, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/MLV-GV/Sales-Support-Professional_R-29033) |
+| Location | Greece |
+| Category | Business Analyst |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CYA-GR/Sales-Support-Professional_R-29293) |
 
 ## About This Role
 
-This corporate finance position at Varian was posted on 2026-06-10.
+This business analyst position at Varian was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

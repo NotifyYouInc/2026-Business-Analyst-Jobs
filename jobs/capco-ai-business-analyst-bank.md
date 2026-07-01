@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | China |
-| Category | Product Manager |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/7948445) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8025151) |
 
 ## About This Role
 
-This product manager position at Capco was posted on 2026-05-21.
+This technology / it consulting position at Capco was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

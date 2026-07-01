@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000132729969-peyantias-chile-programa-de-practicas-profesionales-agosto-2026) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133675895-peyantias-chile-programa-de-practicas-profesionales-agosto-2026) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-06-17.
+This business analyst position at Delivery Hero was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

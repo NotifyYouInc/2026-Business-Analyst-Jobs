@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
-| Category | Implementation / Professional Services |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Principal-Business-Functional-Consultant--Transformation_JR112705-1) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Principal-Business-Functional-Consultant--Transformation_JR113542-2) |
 
 ## About This Role
 
-This implementation / professional services position at Xcel Energy was posted on 2026-02-18.
+This business analyst position at Xcel Energy was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Unisys](https://scoutify.ai/companies/unisys?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Pennsylvania, US |
 | Category | Business Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Bangalore-KA-India/Senior-Business-Analyst_REQ572241-2) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://unisys.wd5.myworkdayjobs.com/External/job/Remote-PA-United-States-of-America/Senior-Business-Analyst_REQ573624) |
 
 ## About This Role
 
-This business analyst position at Unisys was posted on 2026-03-31.
+This business analyst position at Unisys was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nashville, Tennessee, United States |
+| Location | Irvine, California, United States |
 | Category | Program Manager |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10394235/senior-business-coach-delivery-service-partner-program) |
+| Posted | 2026-04-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10382493/senior-business-coach-delivery-service-partner-program) |
 
 ## About This Role
 
-This program manager position at Amazon was posted on 2026-04-16.
+This program manager position at Amazon was posted on 2026-04-02.
 
 ## Get Real-Time Alerts
 

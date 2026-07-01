@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Memphis, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Inventory-Control-Analyst_J2442592) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Inventory-Control-Analyst_J2454494) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-03-17.
+This business analyst position at Jabil was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

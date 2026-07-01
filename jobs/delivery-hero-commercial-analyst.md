@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
-| Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000129225469-commercial-analyst) |
+| Location | Miraflores, Lima region, Peru |
+| Category | Growth Marketing |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133685949-commercial-analyst) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-05-29.
+This growth marketing position at Delivery Hero was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

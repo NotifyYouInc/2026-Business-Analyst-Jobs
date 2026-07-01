@@ -5,12 +5,12 @@
 | Company | [Menasha Corporation](https://scoutify.ai/companies/menasha?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Minooka, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Minooka-Illinois/SAP-Inventory-Insider_R14480) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Minooka-Illinois/SAP-Inventory-Insider_R14507) |
 
 ## About This Role
 
-This business analyst position at Menasha Corporation was posted on 2026-06-22.
+This business analyst position at Menasha Corporation was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

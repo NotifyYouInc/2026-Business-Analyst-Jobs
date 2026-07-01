@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eiffage Energie Systemes](https://scoutify.ai/companies/eiffage-energie-systemes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Normandy, FR |
+| Location | Lille, Hauts-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://eiffage.wd3.myworkdayjobs.com/eiffage_careers/job/Cherbourg-en-Cotentin/Charg-d-tudes-de-prix-F-H_JR2026-1570) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://eiffage.wd3.myworkdayjobs.com/eiffage_careers/job/Lille/Charg-d-tudes-de-prix-F-H_JR2026-3623) |
 
 ## About This Role
 
-This business analyst position at Eiffage Energie Systemes was posted on 2026-06-06.
+This business analyst position at Eiffage Energie Systemes was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

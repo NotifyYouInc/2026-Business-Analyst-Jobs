@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Horizonmedia](https://scoutify.ai/companies/horizonmedia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Operations |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://horizonmedia.wd1.myworkdayjobs.com/careeropportunities/job/New-York-New-York/Director--Business-Solutions--Temp-_R0017100) |
+| Category | Business Analyst |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://horizonmedia.wd1.myworkdayjobs.com/careeropportunities/job/New-York-New-York/Director--Business-Solutions--Temp-_R0017102) |
 
 ## About This Role
 
-This operations position at Horizonmedia was posted on 2026-06-18.
+This business analyst position at Horizonmedia was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

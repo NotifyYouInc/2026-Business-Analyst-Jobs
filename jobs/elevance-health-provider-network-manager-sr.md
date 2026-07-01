@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Miami, Florida, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/FL-MIAMI-11430-NW-20TH-ST-STE-300/Provider-Network-Manager-Sr_JR194080) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/DE-WILMINGTON-123-S-JUSTISON-ST-STE-200/Provider-Network-Manager-Sr_JR195968) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-06-01.
+This business analyst position at Elevance Health was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

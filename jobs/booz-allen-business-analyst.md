@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Beavercreek, Ohio, United States |
+| Location | McLean, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Beavercreek-OH/Business-Analyst_R0242613) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Business-Analyst_R0242758) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-06-16.
+This business analyst position at Booz Allen was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

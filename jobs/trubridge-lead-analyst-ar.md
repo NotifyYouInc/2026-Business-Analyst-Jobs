@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TruBridge](https://scoutify.ai/companies/trubridge?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Accounting |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://cpsi.wd1.myworkdayjobs.com/cpsi/job/Chennai---Office/Lead-Analyst-AR_JR102250) |
+| Category | Business Analyst |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cpsi.wd1.myworkdayjobs.com/cpsi/job/Chennai---Office/Lead-Analyst-AR_JR102252) |
 
 ## About This Role
 
-This accounting position at TruBridge was posted on 2026-04-29.
+This business analyst position at TruBridge was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

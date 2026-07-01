@@ -5,12 +5,12 @@
 | Company | [Nationwide](https://scoutify.ai/companies/nationwide?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Columbus, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Technology-Analyst_098283-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Specialist--Technology-Analyst_098421) |
 
 ## About This Role
 
-This business analyst position at Nationwide was posted on 2026-06-01.
+This business analyst position at Nationwide was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

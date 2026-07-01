@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Customer Success |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/Associate-Manager-ERP-Package-Applications_51582789) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---VIC---MELBOURNE/Associate-Manager-ERP-Package-Applications_51583747) |
 
 ## About This Role
 
-This customer success position at DXC Technology was posted on 2026-06-22.
+This customer success position at DXC Technology was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Muntinlupa, Calabarzon, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000132548859-gbs-specialist) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000133856029-gbs-specialist) |
 
 ## About This Role
 
-This business analyst position at SGS was posted on 2026-06-17.
+This business analyst position at SGS was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

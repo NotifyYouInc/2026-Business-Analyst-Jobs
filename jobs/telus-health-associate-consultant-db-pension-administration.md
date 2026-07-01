@@ -1,16 +1,16 @@
-# Associate consultant, DB Pension Administration at TELUS Health
+# Associate consultant, DB pension administration at TELUS Health
 
 | Field | Details |
 |-------|---------|
 | Company | [TELUS Health](https://scoutify.ai/companies/telus-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/External/job/Montreal-Quebec-Canada/Associate-consultant--DB-Pension-Administration_R-20777) |
+| Category | Business Analyst |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/External/job/Montreal-Quebec-Canada/Associate-Client-Service-Mgr-TH_R-22408) |
 
 ## About This Role
 
-This strategy / management consulting position at TELUS Health was posted on 2026-04-26.
+This business analyst position at TELUS Health was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

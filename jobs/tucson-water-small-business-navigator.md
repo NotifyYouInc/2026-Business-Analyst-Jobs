@@ -5,12 +5,12 @@
 | Company | [Tucson Water](https://scoutify.ai/companies/tucson-water?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tucson, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://tucsonaz.wd1.myworkdayjobs.com/tucson_talent/job/City-Hall/Small-Business-Navigator_JR-1002856) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://tucsonaz.wd1.myworkdayjobs.com/tucson_talent/job/City-Hall/Small-Business-Navigator_JR-1003116) |
 
 ## About This Role
 
-This business analyst position at Tucson Water was posted on 2026-04-21.
+This business analyst position at Tucson Water was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

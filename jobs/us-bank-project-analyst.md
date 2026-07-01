@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Charlotte, North Carolina, United States |
 | Category | Project Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/Project-Analyst_2026-0017645) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/Project-Analyst_2026-0017651) |
 
 ## About This Role
 
-This project manager position at U.S. Bank was posted on 2026-06-22.
+This project manager position at U.S. Bank was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

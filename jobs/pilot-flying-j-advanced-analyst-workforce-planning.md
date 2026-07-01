@@ -5,12 +5,12 @@
 | Company | [Pilot Flying J](https://scoutify.ai/companies/pilotflyingj?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Knoxville, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000132717778-advanced-analyst-workforce-planning) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PilotCompany/744000133698289-advanced-analyst-workforce-planning) |
 
 ## About This Role
 
-This business analyst position at Pilot Flying J was posted on 2026-06-17.
+This business analyst position at Pilot Flying J was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

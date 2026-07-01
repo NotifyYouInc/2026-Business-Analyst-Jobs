@@ -5,12 +5,12 @@
 | Company | [MicroStrategy](https://scoutify.ai/companies/microstrategy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Virginia, US |
 | Category | Operations |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000130280269-operations-analyst) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MicroStrategy1/744000133664050-operations-analyst) |
 
 ## About This Role
 
-This operations position at MicroStrategy was posted on 2026-06-04.
+This operations position at MicroStrategy was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

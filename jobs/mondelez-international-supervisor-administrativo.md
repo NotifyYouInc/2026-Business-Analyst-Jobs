@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Toluca, México, Mexico |
+| Location | Oaxaca, Oaxaca, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Toluca-Mexico/Supervisor-Administrativo_R-163634) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Oaxaca-Mexico/Supervisor-Administrativo_R-171400) |
 
 ## About This Role
 
-This business analyst position at Mondelez International was posted on 2026-04-01.
+This business analyst position at Mondelez International was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

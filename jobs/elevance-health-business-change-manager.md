@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Indianapolis, Indiana, United States |
+| Location | 7 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Business-Change-Manager_JR189918) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Business-Change-Manager_JR197026) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-05-06.
+This business analyst position at Elevance Health was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

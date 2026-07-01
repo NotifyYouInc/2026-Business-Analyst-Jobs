@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Boeing](https://scoutify.ai/companies/boeing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Auburn, Washington, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Auburn-WA/Supply-Chain-Management-Analyst_JR2026508187-2) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Supply-Chain-Management-Analyst_JR2026514932-1) |
 
 ## About This Role
 
-This business analyst position at Boeing was posted on 2026-06-22.
+This business analyst position at Boeing was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

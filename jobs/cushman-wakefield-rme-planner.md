@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fort Wayne, Indiana, United States |
+| Location | Pataskala, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---IN---Fort-Wayne---9798-Smith-Road/RME-Planner_R323837) |
+| Posted | 2026-06-23 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Client-Site---USA---OH---Pataskala---Beech-Rd--State-Rt-161/RME-Planner_R325509) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-06-09.
+This business analyst position at Cushman & Wakefield was posted on 2026-06-23.
 
 ## Get Real-Time Alerts
 

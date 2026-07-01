@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Taiwan |
-| Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Xinzhuang-BO-TW-0L40/Product---Productivity-Planning-Specialist_JR-2026-19290) |
+| Category | Project Manager |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Xinzhuang-New-Taipei-City/Product---Productivity-Planning-Specialist_JR-2026-20813) |
 
 ## About This Role
 
-This business analyst position at Air Products was posted on 2026-04-24.
+This project manager position at Air Products was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
