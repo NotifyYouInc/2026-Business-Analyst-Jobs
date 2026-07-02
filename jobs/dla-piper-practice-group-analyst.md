@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DLA Piper](https://scoutify.ai/companies/dla-piper?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Palo Alto, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/Palo-Alto-CA/Practice-Group-Analyst_R2026-2503) |
+| Category | Corporate Finance |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://dlapiper.wd1.myworkdayjobs.com/dlapiper/job/Palo-Alto-CA/Practice-Group-Analyst_R2026-2645) |
 
 ## About This Role
 
-This business analyst position at DLA Piper was posted on 2026-05-22.
+This corporate finance position at DLA Piper was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

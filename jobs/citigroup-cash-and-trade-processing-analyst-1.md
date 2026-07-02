@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Malaysia |
-| Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Penang-Pulau-Pinang-penang-Malaysia/Cash-and-Trade-Processing-Analyst-1_26964720) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Corporate Finance |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Cash-and-Trade-Processing-Analyst-1_26972734) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-20.
+This corporate finance position at Citigroup was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

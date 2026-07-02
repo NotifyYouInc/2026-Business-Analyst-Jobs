@@ -5,12 +5,12 @@
 | Company | [Wellstar](https://scoutify.ai/companies/wellstar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Georgia, US |
 | Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://wellstar.wd1.myworkdayjobs.com/wellstarcareers/job/VIRTUAL-GA/Acct-Resolution-Rep-II_JR-64055-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://wellstar.wd1.myworkdayjobs.com/wellstarcareers/job/VIRTUAL-GA/Acct-Resolution-Rep-II_JR-65688-1) |
 
 ## About This Role
 
-This corporate finance position at Wellstar was posted on 2026-05-27.
+This corporate finance position at Wellstar was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

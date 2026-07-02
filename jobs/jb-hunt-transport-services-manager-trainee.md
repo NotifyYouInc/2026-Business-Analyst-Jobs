@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [J.B. Hunt Transport Services](https://scoutify.ai/companies/j-b-hunt-transport-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Milford, Connecticut, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jbhunt.wd501.myworkdayjobs.com/careers/job/Portland-OR---5703-N-Marine-Drive/Manager-Trainee_00625783) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jbhunt.wd501.myworkdayjobs.com/careers/job/Milford-DE---255-North-Rehoboth-Boulevard/Manager-Trainee_00631293) |
 
 ## About This Role
 
-This business analyst position at J.B. Hunt Transport Services was posted on 2026-06-10.
+This business analyst position at J.B. Hunt Transport Services was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

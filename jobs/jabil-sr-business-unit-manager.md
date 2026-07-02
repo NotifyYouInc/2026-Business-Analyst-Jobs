@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Account Manager |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Sr-Business-Unit-Manager_J2453110) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Sr-Business-Unit-Manager_J2454248) |
 
 ## About This Role
 
-This account manager position at Jabil was posted on 2026-06-05.
+This account manager position at Jabil was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Sales-Coordinator_REQ502377-1) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Sales-Coordinator_REQ517418) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-28.
+This business analyst position at JLL was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

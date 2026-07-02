@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Santa Monica, California, United States |
-| Category | Engineering Manager |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000132254673-category-development-manager) |
+| Location | 5 locations |
+| Category | Business Analyst |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000134021222-category-development-manager) |
 
 ## About This Role
 
-This engineering manager position at Red Bull was posted on 2026-06-15.
+This business analyst position at Red Bull was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

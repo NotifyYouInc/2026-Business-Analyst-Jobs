@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Farmacia del Ahorro](https://scoutify.ai/companies/farmacia-del-ahorro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Oaxaca, Oaxaca, Mexico |
+| Location | Cuernavaca, Morelos, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/OAXACA-OAXACA/ANALISTA-TORRE-DE-CONTROL_JR168558) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://fahorro.wd3.myworkdayjobs.com/oportunidades_fdahorro/job/CD-CUERNAVACA-CDCR/ANALISTA-TORRE-DE-CONTROL_JR169907) |
 
 ## About This Role
 
-This business analyst position at Farmacia del Ahorro was posted on 2026-06-03.
+This business analyst position at Farmacia del Ahorro was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

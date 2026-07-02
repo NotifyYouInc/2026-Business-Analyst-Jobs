@@ -6,7 +6,7 @@
 | Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-3/Senior-Analyst_JR110826) |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/DLF-Downtown-Sector-25A-Phase-3-Block-4/Senior-Analyst_JR119748) |
 
 ## About This Role
 

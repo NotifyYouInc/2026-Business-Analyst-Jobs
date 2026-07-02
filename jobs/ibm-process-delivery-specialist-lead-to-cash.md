@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=121568) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=122397) |
 
 ## About This Role
 
-This business analyst position at IBM was posted on 2026-06-22.
+This business analyst position at IBM was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

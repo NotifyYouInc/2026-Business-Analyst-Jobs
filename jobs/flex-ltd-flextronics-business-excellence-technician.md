@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-TX-Austin/Business-Excellence-Technician_WD221373) |
+| Location | Columbia, South Carolina, United States |
+| Category | Business Analyst |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-SC-Columbia/Business-Excellence-Technician_WD223813) |
 
 ## About This Role
 
-This strategy & operations position at FLEX LTD. Flextronics was posted on 2026-05-18.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

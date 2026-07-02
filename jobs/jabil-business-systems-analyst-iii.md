@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Florence, Alabama, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Business-Systems-Analyst-III_J2444963) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Business-Systems-Analyst-III_J2455183) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-04-24.
+This business analyst position at Jabil was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

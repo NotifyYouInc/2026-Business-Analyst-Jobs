@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FOX](https://scoutify.ai/companies/foxfactory?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Scotts Valley, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://foxfactory.wd1.myworkdayjobs.com/FOX/job/US-NC-Fletcher/Demand-Planner_JR112566) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://foxfactory.wd1.myworkdayjobs.com/FOX/job/US-CA-Scotts-Valley/Demand-Planner_JR112663) |
 
 ## About This Role
 
-This business analyst position at FOX was posted on 2026-06-23.
+This business analyst position at FOX was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

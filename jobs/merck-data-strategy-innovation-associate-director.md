@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tokyo, Tokyo, Japan |
-| Category | Program Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/JPN---Tokyo---Chiyoda/Data-Strategy---Innovation-Associate-Director_R353815) |
+| Location | North Wales, Pennsylvania, United States |
+| Category | Business Analyst |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/Data-Strategy---Innovation-Associate-Director_R402387-1) |
 
 ## About This Role
 
-This program manager position at Merck was posted on 2026-02-26.
+This business analyst position at Merck was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

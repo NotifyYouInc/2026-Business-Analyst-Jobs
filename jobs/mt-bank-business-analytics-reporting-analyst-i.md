@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [M&T Bank](https://scoutify.ai/companies/m-t-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Williamsville, New York, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Williamsville-NY/Business-Analytics---Reporting-Analyst-I_R85822) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://mtb.wd5.myworkdayjobs.com/MTB/job/Williamsville-NY/Business-Analytics---Reporting-Analyst-I_R87083) |
 
 ## About This Role
 
-This business analyst position at M&T Bank was posted on 2026-05-08.
+This business analyst position at M&T Bank was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

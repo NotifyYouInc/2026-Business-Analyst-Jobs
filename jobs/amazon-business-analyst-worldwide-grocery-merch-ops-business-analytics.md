@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Seattle, Washington, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10423892/business-analyst-worldwide-grocery-merch-ops-business-analytics) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10458216/business-analyst-worldwide-grocery-merch-ops-business-analytics) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-05-19.
+This business analyst position at Amazon was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

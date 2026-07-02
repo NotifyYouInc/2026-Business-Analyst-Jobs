@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Prague, Prague, Czechia |
-| Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-Five/Product-Analyst_R398277-1) |
+| Category | Product Manager |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-Five/Product-Analyst_R403645) |
 
 ## About This Role
 
-This business analyst position at Merck was posted on 2026-05-18.
+This product manager position at Merck was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

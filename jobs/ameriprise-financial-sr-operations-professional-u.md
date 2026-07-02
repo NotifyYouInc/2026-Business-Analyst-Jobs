@@ -5,12 +5,12 @@
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Sr-Operations-Professional-U_R26_1543) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Sr-Operations-Professional-U_R26_2141-1) |
 
 ## About This Role
 
-This business analyst position at Ameriprise Financial was posted on 2026-04-28.
+This business analyst position at Ameriprise Financial was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

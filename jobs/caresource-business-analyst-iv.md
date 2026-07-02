@@ -5,12 +5,12 @@
 | Company | [CareSource](https://scoutify.ai/companies/caresource?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Business-Analyst-IV_R12698) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Business-Analyst-IV_R12995-1) |
 
 ## About This Role
 
-This business analyst position at CareSource was posted on 2026-05-07.
+This business analyst position at CareSource was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

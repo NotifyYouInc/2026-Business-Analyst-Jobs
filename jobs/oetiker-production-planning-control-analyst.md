@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Oetiker](https://scoutify.ai/companies/oetiker?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Marlette, Michigan, United States |
+| Location | Troy, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/oetiker/744000133447768-production-planning-control-analyst) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/oetiker/744000134016073-production-planning-control-analyst) |
 
 ## About This Role
 
-This business analyst position at Oetiker was posted on 2026-06-22.
+This business analyst position at Oetiker was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

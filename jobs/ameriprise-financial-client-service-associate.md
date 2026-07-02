@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Texas, US |
-| Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Houston-Clear-Lake-Texas/Client-Service-Associate_R26_2318) |
+| Location | Midvale, Utah, United States |
+| Category | Customer Success |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Midvale-Utah/Client-Service-Associate_R26_2448) |
 
 ## About This Role
 
-This business analyst position at Ameriprise Financial was posted on 2026-06-23.
+This customer success position at Ameriprise Financial was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

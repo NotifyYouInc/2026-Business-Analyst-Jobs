@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mississauga, Ontario, Canada |
-| Category | Financial Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/CAONMississauga2251-Speakman-Drive/Risk-Analyst_R-154852-1) |
+| Category | Business Analyst |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/CAONMississauga2285-Speakman-Drive/Risk-Analyst_R-157891-1) |
 
 ## About This Role
 
-This financial analyst position at SNC-Lavalin was posted on 2026-05-12.
+This business analyst position at SNC-Lavalin was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

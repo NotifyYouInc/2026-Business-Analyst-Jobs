@@ -5,12 +5,12 @@
 | Company | [Boq](https://scoutify.ai/companies/boq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://boq.wd3.myworkdayjobs.com/careers-at-boqgroup/job/Sydney-Office---George-Street/Junior-Business-Analyst_JR101495) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://boq.wd3.myworkdayjobs.com/careers-at-boqgroup/job/Sydney-Office---George-Street/Junior-Business-Analyst_JR101595) |
 
 ## About This Role
 
-This business analyst position at Boq was posted on 2026-06-10.
+This business analyst position at Boq was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Torreón, Coahuila, Mexico |
+| Location | Ciénega de Flores, Nuevo León, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Torreon-Coahuila/Demand---Orders-Analyst_R0000362280) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Cienega-de-Flores-Nuevo-Len/Demand---Orders-Analyst_R0000375153) |
 
 ## About This Role
 
-This business analyst position at Caterpillar Inc. was posted on 2026-05-26.
+This business analyst position at Caterpillar Inc. was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Campinas, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000133696069-analista-de-gestao-contratual) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000134022262-analista-de-gestao-contratual) |
 
 ## About This Role
 
-This business analyst position at Turner & Townsend was posted on 2026-06-23.
+This business analyst position at Turner & Townsend was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

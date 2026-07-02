@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Business-Operations-Analyst_R62796) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Business-Operations-Analyst_R66247) |
 
 ## About This Role
 
-This strategy & operations position at Motorola Solutions was posted on 2026-04-06.
+This business analyst position at Motorola Solutions was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 
