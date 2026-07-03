@@ -5,12 +5,12 @@
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Senior-Business-Analyst_R00293479-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Karnataka---Bangalore---EDC/Senior-Business-Analyst_R00297475) |
 
 ## About This Role
 
-This business analyst position at Ecolab was posted on 2026-05-29.
+This business analyst position at Ecolab was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

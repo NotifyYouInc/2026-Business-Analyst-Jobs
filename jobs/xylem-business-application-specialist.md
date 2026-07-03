@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xylem](https://scoutify.ai/companies/xylem?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Sundbyberg, Stockholm, Sweden |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Charlotte-North-Carolina/Business-Application-Specialist_R47017) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://xylem.wd5.myworkdayjobs.com/xylem-careers/job/Sundbyberg/Business-Application-Specialist_R48904-1) |
 
 ## About This Role
 
-This business analyst position at Xylem was posted on 2026-03-27.
+This business analyst position at Xylem was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business Support Associate Personal Care Services at Elara Caring
+# Business Support Associate – Personal Care Services at Elara Caring
 
 | Field | Details |
 |-------|---------|
 | Company | [Elara Caring](https://scoutify.ai/companies/elara-caring?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | South Orange, New Jersey, United States |
+| Location | Paterson, New Jersey, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/South-Orange---NJ/Business-Support-Associate-Personal-Care-Services_JR-134615-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://elara.wd5.myworkdayjobs.com/external/job/Paterson---NJ/Business-Support-Associate_JR-134731) |
 
 ## About This Role
 
-This business analyst position at Elara Caring was posted on 2026-05-06.
+This business analyst position at Elara Caring was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

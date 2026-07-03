@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Cork, Munster, Ireland |
 | Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Lead-Analyst--Demand-Planning_R565068) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cork-Ireland/Lead-Analyst--Demand-Planning_R567557) |
 
 ## About This Role
 
-This business analyst position at Stryker was posted on 2026-05-11.
+This business analyst position at Stryker was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

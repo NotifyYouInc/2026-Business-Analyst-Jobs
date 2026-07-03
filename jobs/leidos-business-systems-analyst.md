@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fort Worth, Texas, United States |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Worth-TX/Business-Systems-Analyst_R-00183072) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Business-Systems-Analyst_R-00186132) |
 
 ## About This Role
 
-This business analyst position at Leidos was posted on 2026-05-12.
+This business analyst position at Leidos was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

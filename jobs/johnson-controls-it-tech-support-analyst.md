@@ -5,12 +5,12 @@
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/IT-Tech-Support-Analyst_WD30262808) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/IT-Tech-Support-Analyst_WD30273094) |
 
 ## About This Role
 
-This business analyst position at Johnson Controls was posted on 2026-03-04.
+This business analyst position at Johnson Controls was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

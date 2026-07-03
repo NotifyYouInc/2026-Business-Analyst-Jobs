@@ -5,12 +5,12 @@
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Newark, New Jersey, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/DE-CLIENT-STATE/Case-Review-Analyst_R7912) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/DE-CLIENT-STATE/Case-Review-Analyst_R7993) |
 
 ## About This Role
 
-This business analyst position at CAI was posted on 2026-06-16.
+This business analyst position at CAI was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

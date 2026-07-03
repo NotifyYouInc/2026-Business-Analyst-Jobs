@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Dallas-Innovation-Center---Luna-Rd-TX270/Senior-Business-Systems-Analyst_R223728-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Senior-Business-Systems-Analyst_R226883) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-06-24.
+This business analyst position at PNC Financial was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

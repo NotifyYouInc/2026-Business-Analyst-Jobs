@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/Business-Analyst-II_WD30263994-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Business-Analyst_WD30272863) |
 
 ## About This Role
 
-This business analyst position at Johnson Controls was posted on 2026-04-17.
+This business analyst position at Johnson Controls was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

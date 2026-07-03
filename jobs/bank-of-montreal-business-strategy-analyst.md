@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Naples, Florida, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Naples-FL-USA/Business-Strategy-Analyst_R260016801-1) |
+| Category | Business Analyst |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Naples-FL-USA/Business-Strategy-Analyst_R260018686-2) |
 
 ## About This Role
 
-This strategy & operations position at Bank of Montreal was posted on 2026-06-03.
+This business analyst position at Bank of Montreal was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Herzliya, Tel Aviv, Israel |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Herzliya-Tel-Aviv-Israel/Principal-Reimbursement-Analyst_R59450-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Principal-Reimbursement-Analyst_R69723-2) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-04-16.
+This business analyst position at Medtronic was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

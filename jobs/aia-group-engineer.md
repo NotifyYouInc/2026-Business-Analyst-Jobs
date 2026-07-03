@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | China |
+| Location | Guangzhou, Guangdong, China |
 | Category | Business Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-M-Plaza/Engineer_JR-67798) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Guangzhou-CN-AIA-Shared-Services-China/Engineer_JR-67825) |
 
 ## About This Role
 
-This business analyst position at AIA Group was posted on 2026-06-24.
+This business analyst position at AIA Group was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

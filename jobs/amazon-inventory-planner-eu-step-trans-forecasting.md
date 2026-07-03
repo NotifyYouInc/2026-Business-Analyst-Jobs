@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Business Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10449323/inventory-planner-eu-step-trans-forecasting) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10459578/inventory-planner-eu-step-trans-forecasting) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-06-15.
+This business analyst position at Amazon was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

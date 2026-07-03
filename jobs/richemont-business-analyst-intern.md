@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | Bellevue, Geneva, Switzerland |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Business-Analyst-Intern_JR124442-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/BELLEVUE/Business-Analyst-Intern_JR130546) |
 
 ## About This Role
 
-This business analyst position at Richemont was posted on 2026-02-23.
+This business analyst position at Richemont was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Lead-Business-Analyst_RQ207291-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Lead-Business-Analyst_RQ223155) |
 
 ## About This Role
 
-This business analyst position at General Dynamics Information Technology was posted on 2026-02-13.
+This business analyst position at General Dynamics Information Technology was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

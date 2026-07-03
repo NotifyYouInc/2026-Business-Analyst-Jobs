@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/New-York-NY/Associate_R264828) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Atlanta-GA/Associate_R264884) |
 
 ## About This Role
 
-This business analyst position at Blackrock was posted on 2026-06-19.
+This business analyst position at Blackrock was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

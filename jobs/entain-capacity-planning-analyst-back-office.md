@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000131043804-capacity-planning-analyst-back-office) |
+| Category | Business Analyst |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000134210034-capacity-planning-analyst-back-office) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Entain was posted on 2026-06-09.
+This business analyst position at Entain was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

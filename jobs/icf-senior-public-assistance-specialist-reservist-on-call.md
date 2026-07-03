@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Baton Rouge, Louisiana, United States |
+| Location | Austin, Texas, United States |
 | Category | Business Analyst |
 | Posted | 2026-06-24 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Baton-Rouge-LA/Senior-Public-Assistance-Specialist---Reservist-On-Call_R2602224) |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Austin-TX/Senior-Public-Assistance-Specialist---Reservist-On-Call_R2602225) |
 
 ## About This Role
 

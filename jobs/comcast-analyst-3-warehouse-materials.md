@@ -5,12 +5,12 @@
 | Company | [Comcast](https://scoutify.ai/companies/comcast?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/GA---Atlanta-2605-Circle-75-Pkwy-SE/Analyst-3--Warehouse---Materials_R433546) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/GA---Atlanta-2605-Circle-75-Pkwy-SE/Analyst-3--Warehouse---Materials_R438489) |
 
 ## About This Role
 
-This business analyst position at Comcast was posted on 2026-03-18.
+This business analyst position at Comcast was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

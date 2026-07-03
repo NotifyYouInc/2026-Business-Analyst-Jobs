@@ -1,16 +1,16 @@
-# Ordonnanceur F/H  at Veolia
+# Ordonnanceur F/H at Veolia
 
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ollioules, Provence-Alpes-Côte d'Azur, France |
+| Location | Marseille, Provence-Alpes-Côte d'Azur, France |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000131936807-ordonnanceur-fh) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000134408139-ordonnanceur-fh) |
 
 ## About This Role
 
-This business analyst position at Veolia was posted on 2026-06-12.
+This business analyst position at Veolia was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

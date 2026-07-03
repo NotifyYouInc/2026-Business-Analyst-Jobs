@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uasys](https://scoutify.ai/companies/uasys?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Little Rock, Arkansas, United States |
-| Category | Accounting |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://uasys.wd5.myworkdayjobs.com/uams_all_careers/job/Little-Rock/Billing-Analyst---Estimates_R0082086) |
+| Category | Business Analyst |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://uasys.wd5.myworkdayjobs.com/uams_all_careers/job/Little-Rock/Billing-Analyst---Estimates_R0087534) |
 
 ## About This Role
 
-This accounting position at Uasys was posted on 2026-04-15.
+This business analyst position at Uasys was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 6 locations |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Bus-Systems-Analyst-Conslt_R215019-1) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Bus-Systems-Analyst-Conslt_R226882-1) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-06-09.
+This business analyst position at PNC Financial was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Raron, Valais, Switzerland |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Raron/Master-Planner_J2452092) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Master-Planner_J2454260-1) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-05-28.
+This business analyst position at Jabil was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Breeze Airways](https://scoutify.ai/companies/breezeairways?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fort Lauderdale, Florida, United States |
-| Category | Operations |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/breezeairways/jobs/7783984003) |
+| Location | Windsor Locks, Connecticut, United States |
+| Category | Business Analyst |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/breezeairways/jobs/7785945003) |
 
 ## About This Role
 
-This operations position at Breeze Airways was posted on 2026-06-24.
+This business analyst position at Breeze Airways was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

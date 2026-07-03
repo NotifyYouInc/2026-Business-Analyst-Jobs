@@ -5,12 +5,12 @@
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Philippines |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Taguig-City-Philippines/Associate-Professional--Pricing_R-115264-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Taguig-City-Philippines/Associate-Professional--Pricing_R-115270) |
 
 ## About This Role
 
-This business analyst position at Ingram Micro was posted on 2026-06-03.
+This business analyst position at Ingram Micro was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

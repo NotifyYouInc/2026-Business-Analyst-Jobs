@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Belo Horizonte, Minas Gerais, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000122594359-it-functional-analyst) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000134228335-it-functional-analyst) |
 
 ## About This Role
 
-This business analyst position at Eurofins Scientific was posted on 2026-04-24.
+This business analyst position at Eurofins Scientific was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 

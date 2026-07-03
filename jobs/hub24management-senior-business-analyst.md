@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-01 |
-| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Sydney/Senior-Business-Analyst_JR100484) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Brisbane/Senior-Business-Analyst_JR100828) |
 
 ## About This Role
 
-This business analyst position at Hub24management was posted on 2026-03-01.
+This business analyst position at Hub24management was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

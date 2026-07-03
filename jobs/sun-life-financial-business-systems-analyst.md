@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Business---Systems-Analyst_JR00121442) |
+| Posted | 2026-06-25 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Business---Systems-Analyst_JR00125350-1) |
 
 ## About This Role
 
-This business analyst position at Sun Life Financial was posted on 2026-03-19.
+This business analyst position at Sun Life Financial was posted on 2026-06-25.
 
 ## Get Real-Time Alerts
 
