@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Strategy & Operations |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Chicago-IL/Analyst--Business-Unite---Sales-Strategy_R-101917) |
+| Category | Business Analyst |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Chicago-IL/Analyst--Business-Unit---Sales-Strategy_R-102915-1) |
 
 ## About This Role
 
-This strategy & operations position at Heinz was posted on 2026-04-14.
+This business analyst position at Heinz was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

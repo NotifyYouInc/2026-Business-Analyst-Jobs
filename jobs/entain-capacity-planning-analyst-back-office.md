@@ -5,12 +5,12 @@
 | Company | [Entain](https://scoutify.ai/companies/entain?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000134210034-capacity-planning-analyst-back-office) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Entain/744000134433609-capacity-planning-analyst-back-office) |
 
 ## About This Role
 
-This business analyst position at Entain was posted on 2026-06-25.
+This business analyst position at Entain was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

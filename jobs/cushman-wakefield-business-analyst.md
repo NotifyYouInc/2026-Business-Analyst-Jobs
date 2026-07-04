@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Raleigh, North Carolina, United States |
 | Category | Business Analyst |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Melbourne-Australia/Business-Analyst_R325220) |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Raleigh-North-Carolina-USA/Business-Analyst_R324198-1) |
 
 ## About This Role
 

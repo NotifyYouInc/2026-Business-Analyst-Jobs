@@ -6,7 +6,7 @@
 | Location | Nanterre, Île-de-France, France |
 | Category | Business Analyst |
 | Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000134209214-stage-charge-danalyses-et-de-projets-satisfaction-clients-fh) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000134263607-stage-charge-danalyses-et-de-projets-satisfaction-clients-fh) |
 
 ## About This Role
 

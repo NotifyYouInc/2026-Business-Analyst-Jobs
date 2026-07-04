@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AppLovin](https://scoutify.ai/companies/applovin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://boards.greenhouse.io/applovin/jobs/4657241006?gh_jid=4657241006) |
+| Location | Beijing, Beijing, China |
+| Category | Business Analyst |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://boards.greenhouse.io/applovin/jobs/4692408006?gh_jid=4692408006) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at AppLovin was posted on 2026-02-25.
+This business analyst position at AppLovin was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

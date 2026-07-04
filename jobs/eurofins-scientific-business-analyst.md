@@ -1,16 +1,16 @@
-# Business Analyst  at Eurofins Scientific
+# Business Analyst at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lancaster, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000121019757-business-analyst) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000134450230-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Eurofins Scientific was posted on 2026-04-15.
+This business analyst position at Eurofins Scientific was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

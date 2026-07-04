@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alphabe Insight Inc](https://scoutify.ai/companies/alphabe-insight-inc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Washington, US |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/alphabeinsightinc/744000133463628-business-development-assistant) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/alphabeinsightinc/744000134456872-business-development-assistant) |
 
 ## About This Role
 
-This business analyst position at Alphabe Insight Inc was posted on 2026-06-22.
+This business analyst position at Alphabe Insight Inc was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

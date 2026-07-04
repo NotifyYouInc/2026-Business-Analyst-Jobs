@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | 5 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Manager---Enterprise-Arbitration--Enterprise-Consumer-Product_R234387-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Manager---Enterprise-Arbitration--Enterprise-Consumer-Product_R245407-1) |
 
 ## About This Role
 
-This business analyst position at Capital One was posted on 2026-02-19.
+This business analyst position at Capital One was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Edinburgh, Scotland, United Kingdom |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Business Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Edinburgh-Scotland/Supply-Chain-Analyst_JR118354-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Vilnius-Lithuania/Supply-Chain-Analyst_JR119347-2) |
 
 ## About This Role
 
-This business analyst position at Dexcom was posted on 2026-05-01.
+This business analyst position at Dexcom was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

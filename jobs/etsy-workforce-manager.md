@@ -5,12 +5,12 @@
 | Company | [Etsy](https://scoutify.ai/companies/etsy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Ciudad-de-Mxico-CDMX-Mexico/Workforce-Manager_JR5535-2) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://etsy.wd5.myworkdayjobs.com/Etsy_Careers/job/Ciudad-de-Mxico-CDMX-Mexico/Workforce-Manager_JR5578-1) |
 
 ## About This Role
 
-This business analyst position at Etsy was posted on 2026-05-06.
+This business analyst position at Etsy was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 
