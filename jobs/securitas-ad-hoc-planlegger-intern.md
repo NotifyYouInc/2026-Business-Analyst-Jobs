@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Stavanger, Rogaland, Norway |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000131384809-ad-hoc-planlegger-intern) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000134705254-ad-hoc-planlegger-intern) |
 
 ## About This Role
 
-This business analyst position at Securitas was posted on 2026-06-10.
+This business analyst position at Securitas was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

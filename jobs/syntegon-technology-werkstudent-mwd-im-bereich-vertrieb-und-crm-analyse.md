@@ -5,12 +5,12 @@
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Frankfurt am Main, Hesse, Germany |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000134175629-werkstudent-mwd-im-bereich-vertrieb-und-crm-analyse) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000134704796-werkstudent-mwd-im-bereich-vertrieb-und-crm-analyse) |
 
 ## About This Role
 
-This business analyst position at Syntegon Technology was posted on 2026-06-25.
+This business analyst position at Syntegon Technology was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allens](https://scoutify.ai/companies/allens?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Melbourne, Victoria, Australia |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://allens.wd3.myworkdayjobs.com/allens/job/Sydney/Team-Executive_JR00001193) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://allens.wd3.myworkdayjobs.com/allens/job/Melbourne/Team-Executive_JR00001302-1) |
 
 ## About This Role
 
-This business analyst position at Allens was posted on 2026-04-16.
+This business analyst position at Allens was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

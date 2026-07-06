@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life](https://scoutify.ai/companies/sun-life?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Business---Systems-Analyst_JR00125350-1) |
+| Posted | 2026-06-26 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/Experienced-Jobs/job/Toronto-Ontario/Business---Systems-Analyst_JR00125431) |
 
 ## About This Role
 
-This business analyst position at Sun Life was posted on 2026-06-25.
+This business analyst position at Sun Life was posted on 2026-06-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chengdu, Sichuan, China |
-| Category | Venture Capital |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Principal-Specialist--Business-Analyst_JR-64262-1) |
+| Category | Business Analyst |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Principal-Specialist--Business-Analyst_JR-67847-1) |
 
 ## About This Role
 
-This venture capital position at AIA Group was posted on 2026-02-13.
+This business analyst position at AIA Group was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

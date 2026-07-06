@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10373222/business-analyst-amazon-pay) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10460726/business-analyst-amazon-pay) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-03-23.
+This business analyst position at Amazon was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

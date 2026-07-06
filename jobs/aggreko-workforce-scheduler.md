@@ -1,16 +1,16 @@
-# Workforce Scheduler at Aggreko
+# Workforce scheduler at Aggreko
 
 | Field | Details |
 |-------|---------|
 | Company | [Aggreko](https://scoutify.ai/companies/aggreko?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Odessa, Texas, United States |
+| Location | Brisbane, Queensland, Australia |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Odessa-TX/Workforce-Scheduler_JR19935) |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://aggreko.wd3.myworkdayjobs.com/aggreko_careers_1/job/Brisbane/Workforce-scheduler_JR20755) |
 
 ## About This Role
 
-This business analyst position at Aggreko was posted on 2026-04-20.
+This business analyst position at Aggreko was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 

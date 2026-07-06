@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sensata](https://scoutify.ai/companies/sensata?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Subang Jaya, Selangor, Malaysia |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Subang-Jaya-Malaysia/Production-Planning-Analyst_IRC97238) |
+| Location | Wuhu, Anhui, China |
+| Category | Business Analyst |
+| Posted | 2026-06-29 |
+| Apply | [View on company site](https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Sensata-Wuhu-CN/Production-Planning-Analyst_IRC97837) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Sensata was posted on 2026-05-11.
+This business analyst position at Sensata was posted on 2026-06-29.
 
 ## Get Real-Time Alerts
 
