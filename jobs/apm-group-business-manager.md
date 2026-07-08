@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mirrabooka, Western Australia, Australia |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001181500-business-manager) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001198412-business-manager) |
 
 ## About This Role
 
-This business analyst position at APM Group was posted on 2026-06-25.
+This business analyst position at APM Group was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

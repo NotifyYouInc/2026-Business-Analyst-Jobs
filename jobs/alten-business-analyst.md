@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Rabat, Rabat-Salé-Kénitra, Morocco |
+| Location | Dakar, Dakar, Senegal |
 | Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115008468-business-analyst) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000135255385-business-analyst) |
 
 ## About This Role
 
-This business analyst position at ALTEN was posted on 2026-03-16.
+This business analyst position at ALTEN was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

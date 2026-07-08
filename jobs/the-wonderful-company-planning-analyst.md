@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Del Rey, California, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000129583659-planning-analyst) |
+| Category | Business Analyst |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000135113804-planning-analyst) |
 
 ## About This Role
 
-This fp&a / strategic finance position at The Wonderful Company was posted on 2026-06-01.
+This business analyst position at The Wonderful Company was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

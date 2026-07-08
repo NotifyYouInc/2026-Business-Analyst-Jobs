@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Clearwater, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Smoky-Mountains-Sales/Coordinator--Business-Operations-I_R-123865) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Clearwater/Coordinator--Business-Operations-I_R-124951-8) |
 
 ## About This Role
 
-This business analyst position at Travel + Leisure Co. was posted on 2026-06-09.
+This business analyst position at Travel + Leisure Co. was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

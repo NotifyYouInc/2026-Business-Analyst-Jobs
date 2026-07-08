@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/New-York---1166/Senior-IT-Business-Analyst_R_354546-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Singapore---Marina-View/Senior-IT-Business-Analyst_R_354115) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-06-22.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

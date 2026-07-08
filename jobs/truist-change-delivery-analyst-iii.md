@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 4 locations |
+| Location | 3 locations |
 | Category | Project Manager |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/Change-Delivery-Analyst-III_R0113697) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Change-Delivery-Analyst-III_R0116177) |
 
 ## About This Role
 
-This project manager position at Truist was posted on 2026-04-22.
+This project manager position at Truist was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

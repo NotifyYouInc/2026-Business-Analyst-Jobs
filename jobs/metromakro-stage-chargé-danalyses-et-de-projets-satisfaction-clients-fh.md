@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nanterre, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000134263607-stage-charge-danalyses-et-de-projets-satisfaction-clients-fh) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000135214480-stage-charge-danalyses-et-de-projets-satisfaction-clients-fh) |
 
 ## About This Role
 
-This business analyst position at METRO/MAKRO was posted on 2026-06-25.
+This business analyst position at METRO/MAKRO was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

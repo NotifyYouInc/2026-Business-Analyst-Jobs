@@ -5,12 +5,12 @@
 | Company | [Kimberly-Clark](https://scoutify.ai/companies/kimberly-clark?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Rogers, Arkansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/USA-AR-Rogers/Field-Sales-Analyst_884863-2) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/USA-AR-Rogers/Field-Sales-Analyst--Sam-s-Club-Team_886156-2) |
 
 ## About This Role
 
-This business analyst position at Kimberly-Clark was posted on 2026-04-16.
+This business analyst position at Kimberly-Clark was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

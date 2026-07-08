@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Huntsville, Alabama, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/Business-Analyst_R0242758) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Huntsville-AL/Business-Analyst_R0243350) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-06-23.
+This business analyst position at Booz Allen was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

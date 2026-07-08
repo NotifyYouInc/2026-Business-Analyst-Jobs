@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moog](https://scoutify.ai/companies/moog?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Christiansburg, Virginia, United States |
+| Location | Blacksburg, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Christiansburg-VA/Master-Scheduler_R-26-17107) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Master-Scheduler_R-26-18609) |
 
 ## About This Role
 
-This business analyst position at Moog was posted on 2026-04-24.
+This business analyst position at Moog was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

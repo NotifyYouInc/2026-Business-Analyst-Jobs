@@ -5,12 +5,12 @@
 | Company | [Anton Paar](https://scoutify.ai/companies/antonpaar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Graz, Styria, Austria |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000131816010-employee-in-production-planning-fmx) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AntonPaar1/744000134950826-employee-in-production-planning-fmx) |
 
 ## About This Role
 
-This business analyst position at Anton Paar was posted on 2026-06-12.
+This business analyst position at Anton Paar was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

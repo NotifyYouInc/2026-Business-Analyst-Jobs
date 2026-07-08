@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Irving, Texas, United States |
+| Location | West Des Moines, Iowa, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/IRVING-TX/Business-Execution-Consultant---Incident-Management_R-538638-1) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/WEST-DES-MOINES-IA/Business-Execution-Consultant---Incident-Management_R-554596) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-04-23.
+This business analyst position at Wells Fargo was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

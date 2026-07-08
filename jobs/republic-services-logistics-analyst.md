@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Jefferson City, Missouri, United States |
+| Location | Tyngsboro, Massachusetts, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Jefferson-City-MO-USA/Logistics-Analyst_R-177469) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Tyngsboro-MA-USA/Logistics-Analyst_R-178765) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-06-11.
+This business analyst position at Republic Services was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

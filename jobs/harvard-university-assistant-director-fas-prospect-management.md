@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013353871-assistant-director-fas-prospect-management) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013888446-assistant-director-fas-prospect-management) |
 
 ## About This Role
 
-This business analyst position at Harvard University was posted on 2026-05-28.
+This business analyst position at Harvard University was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

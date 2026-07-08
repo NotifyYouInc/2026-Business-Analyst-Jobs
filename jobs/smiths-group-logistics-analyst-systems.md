@@ -5,12 +5,12 @@
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000133054309-logistics-analyst-systems) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000135239906-logistics-analyst-systems) |
 
 ## About This Role
 
-This business analyst position at Smiths Group was posted on 2026-06-19.
+This business analyst position at Smiths Group was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

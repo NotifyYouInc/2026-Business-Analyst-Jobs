@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TMX Group](https://scoutify.ai/companies/tmx-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Montreal---1190-av-des-Canadiens-de-Montreal/Senior-Business-Analyst_R-5998) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Senior-Business-Analyst_R-6199) |
 
 ## About This Role
 
-This business analyst position at TMX Group was posted on 2026-05-14.
+This business analyst position at TMX Group was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

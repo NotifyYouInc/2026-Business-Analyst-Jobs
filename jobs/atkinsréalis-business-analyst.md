@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AtkinsRéalis](https://scoutify.ai/companies/slihrms?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Tallahassee, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/GBCheltenhamCheltenham-House/Business-Analyst_R-150602) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/careers/job/USFLTallahassee3522-Thomasville-Rd/Business-Analyst_R-158842-1) |
 
 ## About This Role
 
-This business analyst position at AtkinsRéalis was posted on 2026-03-11.
+This business analyst position at AtkinsRéalis was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

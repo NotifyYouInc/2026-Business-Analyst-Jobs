@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Burlington, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analyst_R-791270) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Business-Analyst_R-791273) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-06-02.
+This business analyst position at State Street was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

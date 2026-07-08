@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Johannesburg, Gauteng, South Africa |
 | Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990011549301-business-analyst) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990013872486-business-analyst) |
 
 ## About This Role
 
-This business analyst position at HelloKindred was posted on 2026-02-05.
+This business analyst position at HelloKindred was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

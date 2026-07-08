@@ -1,16 +1,16 @@
-# Business Analyst- Transport at Toll Group
+# Business Analyst - Transport at Toll Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Toll Group](https://scoutify.ai/companies/toll-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Moorebank, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Moorebank-New-South-Wales-Australia/Business-Analyst--Transport_R000076757) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://tollgroup.wd5.myworkdayjobs.com/tollgroup/job/Moorebank-New-South-Wales-Australia/Business-Analyst---Transport_R000076910-1) |
 
 ## About This Role
 
-This business analyst position at Toll Group was posted on 2026-06-03.
+This business analyst position at Toll Group was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

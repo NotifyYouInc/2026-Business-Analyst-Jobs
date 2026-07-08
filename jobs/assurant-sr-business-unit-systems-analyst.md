@@ -1,16 +1,16 @@
-# SR Business Unit Systems Analyst at Assurant
+# Sr Business Unit Systems Analyst at Assurant
 
 | Field | Details |
 |-------|---------|
 | Company | [Assurant](https://scoutify.ai/companies/assurant?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Argentina |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Argentina-Virtual/SR-Business-Unit-Systems-Analyst_R-113468-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Atlanta-GA/Sr-Business-Unit-Systems-Analyst_R-114003-1) |
 
 ## About This Role
 
-This business analyst position at Assurant was posted on 2026-04-29.
+This business analyst position at Assurant was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

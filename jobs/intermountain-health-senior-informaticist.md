@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Murray, Utah, United States |
+| Location | Broomfield, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/SelectHealth---Murray/Senior-Informaticist_R170478) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Peaks-Regional-Office/Senior-Informaticist_R176035) |
 
 ## About This Role
 
-This business analyst position at Intermountain Health was posted on 2026-05-06.
+This business analyst position at Intermountain Health was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

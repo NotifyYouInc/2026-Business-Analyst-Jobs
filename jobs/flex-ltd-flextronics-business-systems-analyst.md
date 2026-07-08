@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Shah Alam, Selangor, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/China-Suzhou/Business-Systems-Analyst_WD222640) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Selangor/Business-Systems-Analyst_WD222641-1) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-06-23.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

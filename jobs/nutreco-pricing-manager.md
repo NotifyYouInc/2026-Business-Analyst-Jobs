@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nutreco](https://scoutify.ai/companies/nutreco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Okotoks, Alberta, Canada |
+| Location | Ashbourne, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://nutreco.wd3.myworkdayjobs.com/nutreco_external/job/Okotoks--Alberta/Pricing-Manager_VAC28836-1) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://nutreco.wd3.myworkdayjobs.com/nutreco_external/job/Ashbourne-Derbyshire/Pricing-Manager_VAC28719-1) |
 
 ## About This Role
 
-This business analyst position at Nutreco was posted on 2026-06-16.
+This business analyst position at Nutreco was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

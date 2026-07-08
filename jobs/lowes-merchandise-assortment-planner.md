@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mooresville, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandise-Assortment-Planner_JR-02417572) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Merchandise-Assortment-Planner_JR-02568679) |
 
 ## About This Role
 
-This business analyst position at Lowe's was posted on 2026-03-24.
+This business analyst position at Lowe's was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

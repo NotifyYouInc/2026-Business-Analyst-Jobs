@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Palmdale, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Logistics-Management-Analyst_R10231373) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Logistics-Management-Analyst_R10238455) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-04-30.
+This business analyst position at Northrop Grumman was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

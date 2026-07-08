@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
-| Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Customer-Journey-Expert_REQ-10116865) |
+| Location | Amsterdam, North Holland, The Netherlands |
+| Category | Business Analyst |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/ACT-Amsterdam---Acanthus/Customer-Journey-Expert_REQ-10117442) |
 
 ## About This Role
 
-This product manager position at ING was posted on 2026-06-22.
+This business analyst position at ING was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

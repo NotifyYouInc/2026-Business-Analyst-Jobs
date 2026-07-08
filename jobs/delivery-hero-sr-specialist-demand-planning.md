@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
-| Category | Data Engineer |
-| Posted | 2026-06-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000133222409-sr-specialist-demand-planning) |
+| Location | Manama, Manama, Bahrain |
+| Category | Business Analyst |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000134963042-sr-specialist-demand-planning) |
 
 ## About This Role
 
-This data engineer position at Delivery Hero was posted on 2026-06-21.
+This business analyst position at Delivery Hero was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

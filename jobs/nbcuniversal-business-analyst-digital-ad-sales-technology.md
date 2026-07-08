@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | North Hollywood, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000131533389-business-analyst-digital-ad-sales-technology) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000135074234-business-analyst-digital-ad-sales-technology) |
 
 ## About This Role
 
-This business analyst position at NBCUniversal was posted on 2026-06-10.
+This business analyst position at NBCUniversal was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-03-21 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Singapore-Singapore/Parts-Order-Analyst_R0000358737) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Parts-Order-Analyst_R0000379394) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-03-21.
+This business analyst position at Caterpillar was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

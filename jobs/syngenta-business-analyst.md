@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | İzmir, İzmir Province, Turkey |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000111537175-business-analyst) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000135191759-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Syngenta was posted on 2026-02-26.
+This business analyst position at Syngenta was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Accounting |
-| Posted | 2026-04-12 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Tax-Analyst_RQ108424) |
+| Category | Business Analyst |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Tax-Analyst_RQ108430) |
 
 ## About This Role
 
-This accounting position at BP was posted on 2026-04-12.
+This business analyst position at BP was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

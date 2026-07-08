@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Tallahassee, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/CAONToronto185-The-West-Mall/Business-Analyst_R-157899) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/USFLTallahassee3522-Thomasville-Rd/Business-Analyst_R-158842-1) |
 
 ## About This Role
 
-This business analyst position at SNC-Lavalin was posted on 2026-06-18.
+This business analyst position at SNC-Lavalin was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 
