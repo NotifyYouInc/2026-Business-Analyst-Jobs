@@ -5,12 +5,12 @@
 | Company | [RaceTrac](https://scoutify.ai/companies/racetrac?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://racetrac.wd5.myworkdayjobs.com/ssc/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/ServiceNow-Business-Analyst_R10009707) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://racetrac.wd5.myworkdayjobs.com/ssc/job/200-Galleria-Parkway-SE-Suite-900-Atlanta-GA-30339/ServiceNow-Business-Analyst_R10014633) |
 
 ## About This Role
 
-This business analyst position at RaceTrac was posted on 2026-03-26.
+This business analyst position at RaceTrac was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

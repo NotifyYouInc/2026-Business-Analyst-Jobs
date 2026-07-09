@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10429136/business-analyst-support-in-consumer-inputs) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464533/business-analyst-support-in-consumer-inputs) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-05-25.
+This business analyst position at Amazon was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

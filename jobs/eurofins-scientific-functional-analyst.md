@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000134977149-functional-analyst) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000135414809-functional-analyst) |
 
 ## About This Role
 
-This business analyst position at Eurofins Scientific was posted on 2026-06-30.
+This business analyst position at Eurofins Scientific was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

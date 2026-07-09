@@ -5,12 +5,12 @@
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/FOO-Analyst-I--Platform-Management-APAC_R-13093) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hyderabad-Telangana/Business-Trainee_R-14445) |
 
 ## About This Role
 
-This business analyst position at Invesco was posted on 2026-04-26.
+This business analyst position at Invesco was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

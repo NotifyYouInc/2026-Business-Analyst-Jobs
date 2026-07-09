@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Customer Success |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000132297069-logistics-business-support-bilingual-korean-english) |
+| Category | Business Analyst |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000135303535-logistics-business-support-bilingual-korean-english) |
 
 ## About This Role
 
-This customer success position at Woongjin was posted on 2026-06-15.
+This business analyst position at Woongjin was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

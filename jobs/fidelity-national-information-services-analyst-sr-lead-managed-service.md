@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/AUS-SYDN-55/Analyst-Sr-Lead--Managed-Service_JR0306530) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/AUS-MLBN-Virtual/Analyst-Sr-Lead--Managed-Service_JR0307715) |
 
 ## About This Role
 
-This business analyst position at Fidelity National Information Services was posted on 2026-04-24.
+This business analyst position at Fidelity National Information Services was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

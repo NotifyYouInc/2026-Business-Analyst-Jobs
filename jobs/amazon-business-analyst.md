@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Luxembourg, Luxembourg, Luxembourg |
 | Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10447796/business-analyst) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10432699/business-analyst) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-06-17.
+This business analyst position at Amazon was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

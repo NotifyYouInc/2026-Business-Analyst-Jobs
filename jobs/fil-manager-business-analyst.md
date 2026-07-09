@@ -5,12 +5,12 @@
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Manager-Business-Analyst_J66984-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Manager-Business-Analyst_J63324-1) |
 
 ## About This Role
 
-This business analyst position at Fil was posted on 2026-06-01.
+This business analyst position at Fil was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
