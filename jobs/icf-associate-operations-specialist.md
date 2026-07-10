@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tempe, Arizona, United States |
+| Location | Reston, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Tempe-Arizona/Associate-Operations-Specialist_R2601182) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Associate-Operations-Specialist_R2602278-1) |
 
 ## About This Role
 
-This business analyst position at ICF was posted on 2026-04-01.
+This business analyst position at ICF was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

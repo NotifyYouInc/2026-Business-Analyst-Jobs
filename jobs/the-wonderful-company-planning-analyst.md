@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Del Rey, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000135113804-planning-analyst) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000135565069-planning-analyst) |
 
 ## About This Role
 
-This business analyst position at The Wonderful Company was posted on 2026-06-30.
+This business analyst position at The Wonderful Company was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

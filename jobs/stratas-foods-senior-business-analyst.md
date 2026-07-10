@@ -5,12 +5,12 @@
 | Company | [Stratas Foods](https://scoutify.ai/companies/stratas-foods?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cordova, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/stratasfoods/744000135111269-senior-business-analyst) |
+| Posted | 2026-07-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/stratasfoods/744000135352809-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Stratas Foods was posted on 2026-06-30.
+This business analyst position at Stratas Foods was posted on 2026-07-01.
 
 ## Get Real-Time Alerts
 

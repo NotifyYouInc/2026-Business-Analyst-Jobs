@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Hampshire, US |
+| Location | Georgia, US |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Remote-Worker---Massachusetts-USA/Market-Analyst_R-162501) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Remote-Worker---Georgia-USA/Market-Analyst_R-170439-1) |
 
 ## About This Role
 
-This business analyst position at Mondelez International was posted on 2026-03-17.
+This business analyst position at Mondelez International was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

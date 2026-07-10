@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philippines |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Alabang-Muntinlupa-City-Metro-Manila-PHL/Business-Analyst_R0247200) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Bengaluru-KA/Business-Analyst_R0257073) |
 
 ## About This Role
 
-This business analyst position at Fresenius Medical Care was posted on 2026-06-08.
+This business analyst position at Fresenius Medical Care was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

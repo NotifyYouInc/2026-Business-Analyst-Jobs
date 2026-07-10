@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Malvern, Arkansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01553---New-York-Remote/Sr-Analyst--Business--ROPS-_R0464802) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/00760---Team-Liberty-Malvern-Business-Office/Sr-Analyst--Business--ROPS-_R0466557) |
 
 ## About This Role
 
-This business analyst position at DaVita was posted on 2026-06-19.
+This business analyst position at DaVita was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

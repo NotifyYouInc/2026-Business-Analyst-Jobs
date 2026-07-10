@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Seoul, Seoul, South Korea |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/South-Korea---Seoul/IP-Renewals-Analyst_JREQ135267) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/R271--Noida/IP-Renewals-Analyst_JREQ135750) |
 
 ## About This Role
 
-This business analyst position at Clarivate was posted on 2026-03-30.
+This business analyst position at Clarivate was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

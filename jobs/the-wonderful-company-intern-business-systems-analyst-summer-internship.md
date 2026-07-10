@@ -6,7 +6,7 @@
 | Location | 2 locations |
 | Category | Business Analyst |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000135288710-intern-business-systems-analyst-summer-internship) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000135343439-intern-business-systems-analyst-summer-internship) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Monroe, Louisiana, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/USA-Monroe-NC/Production-Planning-Analyst_R01166042-1) |
+| Location | Knoxville, Tennessee, United States |
+| Category | Business Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Iowa-Knoxville/Production-Planning-Analyst_R01164584) |
 
 ## About This Role
 
-This fp&a / strategic finance position at 3M Company was posted on 2026-06-08.
+This business analyst position at 3M Company was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

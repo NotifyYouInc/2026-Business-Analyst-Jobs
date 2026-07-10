@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LA28 (Web)](https://scoutify.ai/companies/la28-web?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Human Resources / People Ops |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/la28careers/jobs/7742217003) |
+| Category | Business Analyst |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/la28careers/jobs/7712590003) |
 
 ## About This Role
 
-This human resources / people ops position at LA28 (Web) was posted on 2026-05-20.
+This business analyst position at LA28 (Web) was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

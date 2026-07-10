@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Logistics-Analyst_R2123654) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Phoenix-Arizona/Logistics-Analyst_R2125970) |
 
 ## About This Role
 
-This business analyst position at KBR was posted on 2026-05-14.
+This business analyst position at KBR was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

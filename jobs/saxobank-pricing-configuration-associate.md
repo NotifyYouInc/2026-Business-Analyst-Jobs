@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Saxobank](https://scoutify.ai/companies/saxobank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://saxobank.wd3.myworkdayjobs.com/careeratsaxobank/job/Gurugram/Pricing-Configuration-Associate_R-18822-1) |
+| Category | Business Analyst |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://saxobank.wd3.myworkdayjobs.com/careeratsaxobank/job/Gurugram/Pricing-Configuration-Associate_R-18986-1) |
 
 ## About This Role
 
-This corporate finance position at Saxobank was posted on 2026-05-27.
+This business analyst position at Saxobank was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

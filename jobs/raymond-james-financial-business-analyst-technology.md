@@ -5,12 +5,12 @@
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Florida, US |
 | Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Analyst--Technology_R-0011408-1) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Business-Analyst--Technology_R-0011871) |
 
 ## About This Role
 
-This business analyst position at Raymond James Financial was posted on 2026-06-04.
+This business analyst position at Raymond James Financial was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 

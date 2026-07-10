@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Carrollton, Texas, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-CARROLLTON-2816-CUST--2816-Commodore-Dr--COMMODORE-External-Site/Inventory-Analyst_01838435) |
+| Posted | 2026-07-02 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NH-MANCHESTER-333-CUST--333-Harvey-Rd--HARVEY-External-Site/Inventory-Analyst_01855047) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-05-05.
+This business analyst position at RTX was posted on 2026-07-02.
 
 ## Get Real-Time Alerts
 
