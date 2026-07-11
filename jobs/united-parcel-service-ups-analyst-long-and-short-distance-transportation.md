@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Louisville, Kentucky, United States |
+| Location | Kentucky, US |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---WORLDPORT-FREIGHT-FACILITY-KYSVL/Analyst--Long-and-Short-Distance-Transportation_R26019295) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---WORLDPORT-FREIGHT-FACILITY-KYSVL/Analyst--Long-and-Short-Distance-Transportation_R26023013) |
 
 ## About This Role
 
-This business analyst position at United Parcel Service (UPS) was posted on 2026-06-03.
+This business analyst position at United Parcel Service (UPS) was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

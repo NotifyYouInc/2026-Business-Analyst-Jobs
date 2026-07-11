@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Penang, MY |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Penang/Supply-Chain-Analyst_WD222026-1) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/India-Chennai/Supply-Chain-Analyst_WD224338) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-06-10.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

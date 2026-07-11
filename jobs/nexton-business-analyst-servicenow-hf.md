@@ -5,12 +5,12 @@
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000107753409-business-analyst-servicenow-hf) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000135728402-business-analyst-servicenow-hf) |
 
 ## About This Role
 
-This business analyst position at Nexton was posted on 2026-02-06.
+This business analyst position at Nexton was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 
