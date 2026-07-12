@@ -6,7 +6,7 @@
 | Location | Callao, Callao, Peru |
 | Category | Business Analyst |
 | Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000135354680-practicante-profesional-comercial) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000135360909-practicante-profesional-comercial) |
 
 ## About This Role
 

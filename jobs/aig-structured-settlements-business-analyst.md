@@ -1,16 +1,16 @@
-# Workplace Planning Coordinator at NBCUniversal
+# Structured Settlements Business Analyst at AIG
 
 | Field | Details |
 |-------|---------|
-| Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [AIG](https://scoutify.ai/companies/aig?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Jersey City, New Jersey, United States |
 | Category | Business Analyst |
 | Posted | 2026-07-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000135822609-workplace-planning-coordinator) |
+| Apply | [View on company site](https://aig.wd1.myworkdayjobs.com/aig/job/NJ-Jersey-City/Structured-Settlements-Business-Analyst_JR2602452-1) |
 
 ## About This Role
 
-This business analyst position at NBCUniversal was posted on 2026-07-04.
+This business analyst position at AIG was posted on 2026-07-04.
 
 ## Get Real-Time Alerts
 

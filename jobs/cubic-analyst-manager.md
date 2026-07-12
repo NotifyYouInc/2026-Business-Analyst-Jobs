@@ -1,16 +1,16 @@
-# Associate Planning Manager at Ecolab
+# Analyst Manager at Cubic
 
 | Field | Details |
 |-------|---------|
-| Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Company | [Cubic](https://scoutify.ai/companies/cubic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
 | Posted | 2026-07-05 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/IND---Maharashtra---Pune/Associate-Planning-Manager_R00296698) |
+| Apply | [View on company site](https://cubic.wd1.myworkdayjobs.com/cubic_global_careers/job/IND-Hyderabad-Aparna/Analyst-Manager_REQ_48339-3) |
 
 ## About This Role
 
-This business analyst position at Ecolab was posted on 2026-07-05.
+This business analyst position at Cubic was posted on 2026-07-05.
 
 ## Get Real-Time Alerts
 
