@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200669140/supply-demand-planner) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200621521/supply-demand-planner) |
 
 ## About This Role
 
-This business analyst position at Apple was posted on 2026-06-25.
+This business analyst position at Apple was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

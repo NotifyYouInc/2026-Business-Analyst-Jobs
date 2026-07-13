@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 7 locations |
-| Category | Strategy & Operations |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/Phoenix-Campus-Main/Business-Strategy-Analyst-Senior_R0115061-1) |
+| Location | 6 locations |
+| Category | Business Analyst |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Business-Strategy-Analyst-Senior_R0118753) |
 
 ## About This Role
 
-This strategy & operations position at USAA was posted on 2026-03-03.
+This business analyst position at USAA was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

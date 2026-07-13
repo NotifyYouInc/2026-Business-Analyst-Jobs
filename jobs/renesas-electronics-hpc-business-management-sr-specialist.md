@@ -5,12 +5,12 @@
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toyosu, Tokyo, Japan |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000135143820-hpc-business-management-sr-specialist) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000135915359-hpc-business-management-sr-specialist) |
 
 ## About This Role
 
-This business analyst position at Renesas Electronics was posted on 2026-07-01.
+This business analyst position at Renesas Electronics was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alliaxis](https://scoutify.ai/companies/aliaxis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Jigani, Karnataka, India |
-| Category | Marketing Operations |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/IN-KA---CSO---Jigani/Analyst---Central-Lead-Management-Team_R-55307) |
+| Location | Karnataka, IN |
+| Category | Business Analyst |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://aliaxis.wd3.myworkdayjobs.com/aliaxis/job/IN-KA---Ecity-Corporate/Analyst---Central-Lead-Management-Team_R-57119) |
 
 ## About This Role
 
-This marketing operations position at Alliaxis was posted on 2026-03-02.
+This business analyst position at Alliaxis was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

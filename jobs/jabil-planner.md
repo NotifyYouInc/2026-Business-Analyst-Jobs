@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Elmira, New York, United States |
+| Location | Singapore |
 | Category | Business Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Elmira-NY/Planner_J2455886) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Singapore/Planner_J2456565) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-06-30.
+This business analyst position at Jabil was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 
