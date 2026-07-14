@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/IT-Business-Lead-Analyst---Vice-President_26968478) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Chennai-Tamil-Nadu-India/IT-Business-Lead-Analyst---Vice-President_26976546) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-06-19.
+This business analyst position at Citigroup was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

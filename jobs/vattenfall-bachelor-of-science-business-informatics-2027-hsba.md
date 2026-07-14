@@ -5,12 +5,12 @@
 | Company | [Vattenfall](https://scoutify.ai/companies/vattenfall?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000135426340-bachelor-of-science-business-informatics-2027-hsba) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Vattenfall/744000135965744-bachelor-of-science-business-informatics-2027-hsba) |
 
 ## About This Role
 
-This business analyst position at Vattenfall was posted on 2026-07-02.
+This business analyst position at Vattenfall was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

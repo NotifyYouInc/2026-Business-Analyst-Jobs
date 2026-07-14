@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Customer Success |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Australia-NSW-North-Sydney/Sr-Financials-Functional-Consultant_JR-0106361) |
+| Location | Singapore, Singapore |
+| Category | Business Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Singapore/Sr-Financials-Functional-Consultant_JR-0108676) |
 
 ## About This Role
 
-This customer success position at Workday was posted on 2026-04-24.
+This business analyst position at Workday was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

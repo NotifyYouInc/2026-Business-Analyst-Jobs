@@ -5,12 +5,12 @@
 | Company | [Avera Health](https://scoutify.ai/companies/avera-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sioux Falls, South Dakota, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://avera.wd5.myworkdayjobs.com/avera-careers/job/Sioux-Falls-SD/Configuration-Analyst_R-260020781) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://avera.wd5.myworkdayjobs.com/avera-careers/job/Sioux-Falls-SD/Health-Plan-Configuration-Analyst_R-250017313) |
 
 ## About This Role
 
-This business analyst position at Avera Health was posted on 2026-04-01.
+This business analyst position at Avera Health was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

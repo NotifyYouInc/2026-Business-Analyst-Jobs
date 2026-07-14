@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pasig City, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000125310095-manager-business-management) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000136074310-manager-business-management) |
 
 ## About This Role
 
-This business analyst position at IQ-EQ was posted on 2026-05-08.
+This business analyst position at IQ-EQ was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

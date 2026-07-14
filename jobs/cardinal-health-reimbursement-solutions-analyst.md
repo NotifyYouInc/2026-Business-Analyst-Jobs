@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Oak Ridge, Tennessee, United States |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TN-Oak-Ridge-Methodist-MedCtr/Reimbursement-Solutions-Analyst_20183049) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/US-Nationwide-FIELD/Reimbursement-Solutions-Analyst_20183309) |
 
 ## About This Role
 
-This business analyst position at Cardinal Health was posted on 2026-06-26.
+This business analyst position at Cardinal Health was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

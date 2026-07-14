@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Santo Domingo, Nacional, Dominican Republic |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Master-Planner_J2456245-1) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Santo-Domingo/Master-Planner_J2456205) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-07-02.
+This business analyst position at Jabil was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

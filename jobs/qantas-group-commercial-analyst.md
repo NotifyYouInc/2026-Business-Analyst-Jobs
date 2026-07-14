@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001096798-commercial-analyst) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001215085-commercial-analyst) |
 
 ## About This Role
 
-This business analyst position at Qantas Group was posted on 2026-05-22.
+This business analyst position at Qantas Group was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

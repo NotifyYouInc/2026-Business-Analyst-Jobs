@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000135004175-analista-de-processos-ii) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000136089079-analista-de-processos-ii) |
 
 ## About This Role
 
-This business analyst position at Experian was posted on 2026-06-30.
+This business analyst position at Experian was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Odenton, Maryland, United States |
-| Category | Program Manager |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Knowledge-Management-Analyst_R-00177403) |
+| Category | Business Analyst |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Knowledge-Management-Analyst_R-00186743) |
 
 ## About This Role
 
-This program manager position at Leidos was posted on 2026-03-03.
+This business analyst position at Leidos was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

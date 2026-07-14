@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nanjing, Jiangsu, China |
-| Category | Project Manager |
-| Posted | 2026-03-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000114790887-senior-logistic-planner-ma) |
+| Category | Business Analyst |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000135964579-senior-logistic-planner-ma) |
 
 ## About This Role
 
-This project manager position at Robert Bosch was posted on 2026-03-14.
+This business analyst position at Robert Bosch was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

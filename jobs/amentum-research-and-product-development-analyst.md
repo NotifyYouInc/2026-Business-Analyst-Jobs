@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Spokane, Washington, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-WA-Spokane/Research-and-Product-Development-Analyst_R0159556) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-WA-Spokane/Research-and-Product-Development-Analyst_R0164876) |
 
 ## About This Role
 
-This business analyst position at Amentum was posted on 2026-04-20.
+This business analyst position at Amentum was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

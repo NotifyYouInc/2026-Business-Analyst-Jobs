@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/POL---MZ---WARSAW/Business-Analyst---Automotive-with-English_51567505) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/POL---MZ---WARSAW/Business-Analyst---Automotive-with-English_51584549-1) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-07-01.
+This business analyst position at DXC Technology was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

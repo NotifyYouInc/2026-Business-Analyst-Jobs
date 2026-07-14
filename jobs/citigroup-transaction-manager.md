@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Irving, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/NC-CHARLOTTE-BALLANTYNE/Transaction-Manager_26966308) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Transaction-Manager_26975716) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-29.
+This business analyst position at Citigroup was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

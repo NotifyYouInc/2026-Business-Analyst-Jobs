@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [City & County Healthcare Group](https://scoutify.ai/companies/citycountyhealthcaregroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | St Albans, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CityCountyHealthcareGroupLtd/744000117260307-service-improvement-officer) |
+| Posted | 2026-06-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CityCountyHealthcareGroupLtd/744000134998932-service-improvement-officer) |
 
 ## About This Role
 
-This business analyst position at City & County Healthcare Group was posted on 2026-03-27.
+This business analyst position at City & County Healthcare Group was posted on 2026-06-30.
 
 ## Get Real-Time Alerts
 

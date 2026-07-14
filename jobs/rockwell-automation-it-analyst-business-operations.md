@@ -5,12 +5,12 @@
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Milwaukee-Wisconsin-United-States/IT-Analyst---Business-Operations_R26-1664) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/IT-Analyst---Business-Operations_R26-5052) |
 
 ## About This Role
 
-This business analyst position at Rockwell Automation was posted on 2026-03-20.
+This business analyst position at Rockwell Automation was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

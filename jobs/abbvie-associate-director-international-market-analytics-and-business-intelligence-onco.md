@@ -1,16 +1,16 @@
-# Associate Director, International Market Analytics and Business Intelligence, Oncology - Elahere at AbbVie
+# Associate Director, International Market Analytics and Business Intelligence, Oncology - AML Venclexta at AbbVie
 
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013193544-associate-director-international-market-analytics-and-business-intelligence-oncology-elahere) |
+| Posted | 2026-07-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013939116-associate-director-international-market-analytics-and-business-intelligence-oncology-aml-venclexta) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-05-18.
+This business analyst position at AbbVie was posted on 2026-07-06.
 
 ## Get Real-Time Alerts
 

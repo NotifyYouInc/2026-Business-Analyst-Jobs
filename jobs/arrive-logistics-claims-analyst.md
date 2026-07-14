@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrive Logistics](https://scoutify.ai/companies/arrivelogistics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Phoenix, Arizona, United States |
+| Location | Chicago, Illinois, United States |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.lever.co/arrivelogistics/5e39b2ca-9f47-47fa-bb25-daf372e592bb) |
+| Posted | 2024-05-10 |
+| Apply | [View on company site](https://jobs.lever.co/arrivelogistics/7e5b508c-74c0-4452-a573-ede2a6e456cc) |
 
 ## About This Role
 
-This actuary / insurance analytics position at Arrive Logistics was posted on 2026-04-24.
+This actuary / insurance analytics position at Arrive Logistics was posted on 2024-05-10.
 
 ## Get Real-Time Alerts
 
