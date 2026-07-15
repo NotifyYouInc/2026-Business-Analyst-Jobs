@@ -1,16 +1,16 @@
-# Analista de Operações - Middle Retail at BTG Pactual
+# Analista de Operações | Middle Retail at BTG Pactual
 
 | Field | Details |
 |-------|---------|
 | Company | [BTG Pactual](https://scoutify.ai/companies/btg-pactual?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=5826167004) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://carreiras.btgpactual.com/vagas?gh_jid=6110514004) |
 
 ## About This Role
 
-This business analyst position at BTG Pactual was posted on 2026-03-12.
+This business analyst position at BTG Pactual was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

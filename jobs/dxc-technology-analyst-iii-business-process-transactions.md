@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Sant Cugat del Vallès, Catalonia, Spain |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---HR---NOIDA/Analyst-III-Business-Process-Transactions_51564545) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/ESP---CT---SANT-CUGAT-DEL-VALLE/Analyst-III-Business-Process-Transactions_51584620) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-02-19.
+This business analyst position at DXC Technology was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

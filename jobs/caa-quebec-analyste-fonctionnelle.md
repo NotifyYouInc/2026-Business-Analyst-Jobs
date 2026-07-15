@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAA Quebec](https://scoutify.ai/companies/caa-quebec?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://caaquebec.wd3.myworkdayjobs.com/carrierescaa-quebec/job/Qubec/Analyste-fonctionnel-le-_CAA100959) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://caaquebec.wd3.myworkdayjobs.com/carrierescaa-quebec/job/Qubec/Analyste-fonctionnel-le-_CAA101083) |
 
 ## About This Role
 
-This business analyst position at CAA Quebec was posted on 2026-03-24.
+This business analyst position at CAA Quebec was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

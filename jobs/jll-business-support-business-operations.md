@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Business-Support--Business-Operations_REQ506033) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Business-Support--Business-Operations_REQ519308) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-06-02.
+This business analyst position at JLL was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

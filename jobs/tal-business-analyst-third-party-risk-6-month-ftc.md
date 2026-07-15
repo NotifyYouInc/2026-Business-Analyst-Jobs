@@ -5,12 +5,12 @@
 | Company | [TAL](https://scoutify.ai/companies/tal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000136110999-business-analyst-third-party-risk-6-month-ftc) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/tal/744000136387899-business-analyst-third-party-risk-6-month-ftc) |
 
 ## About This Role
 
-This business analyst position at TAL was posted on 2026-07-06.
+This business analyst position at TAL was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

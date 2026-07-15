@@ -5,12 +5,12 @@
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Aix-en-Provence, Provence-Alpes-Côte d'Azur, France |
 | Category | Business Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000135686148-business-analyst-bancaire-senior-hf) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000136166598-business-analyst-bancaire-senior-hf) |
 
 ## About This Role
 
-This business analyst position at Meritis was posted on 2026-07-03.
+This business analyst position at Meritis was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Strategy & Operations |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000129186559-intern-commercial-strategy-analyst) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000136217349-intern-commercial-strategy-analyst) |
 
 ## About This Role
 
-This strategy & operations position at Delivery Hero was posted on 2026-05-29.
+This strategy & operations position at Delivery Hero was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

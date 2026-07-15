@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bebedouro, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000119684247-analista-planejamento-logistica-pleno) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000136285267-analista-planejamento-logistica-pleno) |
 
 ## About This Role
 
-This business analyst position at Louis Dreyfus was posted on 2026-04-09.
+This business analyst position at Louis Dreyfus was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

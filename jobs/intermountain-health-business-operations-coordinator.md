@@ -5,12 +5,12 @@
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Murray, Utah, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/SelectHealth---Murray/Business-Operations-Coordinator_R171952) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Employee-Service-Center/Business-Operations-Coordinator_R176703) |
 
 ## About This Role
 
-This business analyst position at Intermountain Health was posted on 2026-06-09.
+This business analyst position at Intermountain Health was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

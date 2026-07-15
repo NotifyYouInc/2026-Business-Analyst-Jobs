@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Senior-Business-Analyst_JR-0000095618-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Senior-Business-Analyst_JR-0000115245-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-04-21.
+This business analyst position at Barclays was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

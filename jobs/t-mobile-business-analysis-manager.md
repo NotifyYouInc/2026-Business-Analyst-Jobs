@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bellevue, Washington, United States |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Business-Analysis-Manager_REQ347218-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Business-Analysis-Manager_REQ362430) |
 
 ## About This Role
 
-This business analyst position at T-Mobile was posted on 2026-02-27.
+This business analyst position at T-Mobile was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

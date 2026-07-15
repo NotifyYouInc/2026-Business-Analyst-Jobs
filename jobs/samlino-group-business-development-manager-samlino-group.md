@@ -5,12 +5,12 @@
 | Company | [Samlino Group](https://scoutify.ai/companies/samlino-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Engineering Manager |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/ceg/jobs/7727173003) |
+| Posted | 2026-07-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/ceg/jobs/7794801003) |
 
 ## About This Role
 
-This engineering manager position at Samlino Group was posted on 2026-05-07.
+This engineering manager position at Samlino Group was posted on 2026-07-03.
 
 ## Get Real-Time Alerts
 

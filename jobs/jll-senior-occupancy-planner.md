@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | China |
+| Location | Tysons, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hong-Kong-SAR-China/Senior-Occupancy-Planner_REQ508753-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tysons-VA/Senior-Occupancy-Planner_REQ520571) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-05-29.
+This business analyst position at JLL was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

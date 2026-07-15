@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Adelaide, South Australia, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001186092-business-analyst) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001218877-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Qantas Group was posted on 2026-06-26.
+This business analyst position at Qantas Group was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

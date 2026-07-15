@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000126750308-it-business-analyst-global-market) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000136306580-it-business-analyst-global-market) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-05-15.
+This business analyst position at Talan was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

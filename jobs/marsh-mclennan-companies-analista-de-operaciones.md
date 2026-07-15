@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Bogota---Carrera-58B/Analista-de-Operaciones_R_353878) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Mexico-City---Paseo/Analista-de-Operaciones_R_350871) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-06-24.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

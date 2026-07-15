@@ -5,12 +5,12 @@
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/India---Maharashtra--Pune---Baner---Amar-Madhuban-Tech-Park/Senior-Business-Analyst_R1112812-3) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Pune---Kharadi-EON-Free-Zone/Senior-Business-Analyst_R1126980-1) |
 
 ## About This Role
 
-This business analyst position at Dentsu was posted on 2026-02-12.
+This business analyst position at Dentsu was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

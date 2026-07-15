@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United Kingdom |
-| Category | Operations |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000130533210-manager-business-intelligence-and-market-insights) |
+| Location | Dublin, Leinster, Ireland |
+| Category | Business Analyst |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000136239524-manager-business-intelligence-and-market-insights) |
 
 ## About This Role
 
-This operations position at Legal & General was posted on 2026-06-05.
+This business analyst position at Legal & General was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

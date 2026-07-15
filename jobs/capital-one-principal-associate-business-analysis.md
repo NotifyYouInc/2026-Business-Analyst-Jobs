@@ -5,12 +5,12 @@
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate--Business-Analysis_R245992-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Bangalore-In/Principal-Associate--Business-Analysis_R246057-1) |
 
 ## About This Role
 
-This business analyst position at Capital One was posted on 2026-07-02.
+This business analyst position at Capital One was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

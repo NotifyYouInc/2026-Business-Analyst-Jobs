@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Process-Analyst-II_R0114407) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Process-Analyst-II_R0116197) |
 
 ## About This Role
 
-This business analyst position at Truist was posted on 2026-05-19.
+This business analyst position at Truist was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

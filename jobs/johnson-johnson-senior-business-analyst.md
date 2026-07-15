@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Raritan, New Jersey, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Senior-Business-Analyst_R-072590-1) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Bangalore-Karnataka-India/Senior-Business-Analyst_R-086407) |
 
 ## About This Role
 
-This business analyst position at Johnson & Johnson was posted on 2026-05-06.
+This business analyst position at Johnson & Johnson was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

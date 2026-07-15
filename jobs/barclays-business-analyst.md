@@ -5,12 +5,12 @@
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Business-Analyst_JR-0000113307-3) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Business-Analyst_JR-0000096618) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-06-30.
+This business analyst position at Barclays was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

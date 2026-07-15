@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Allegromicro](https://scoutify.ai/companies/allegromicro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philippines |
+| Location | Paranaque City, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Alabang-Muntinlupa-City-Philippines/Lead-Master-Scheduler_R5785) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://allegromicro.wd5.myworkdayjobs.com/allegrocareers/job/Paranaque-City-National-Capital-Region-Manila-Philippines/Lead-Master-Scheduler_R6650) |
 
 ## About This Role
 
-This business analyst position at Allegromicro was posted on 2026-04-13.
+This business analyst position at Allegromicro was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 

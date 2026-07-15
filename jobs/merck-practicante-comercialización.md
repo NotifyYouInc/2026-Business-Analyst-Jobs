@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/COL---Cundinamarca---Bogot-Colpatria/Practicante-Comercializacin_R404689) |
+| Posted | 2026-07-07 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/COL---Cundinamarca---Bogot-Colpatria/Practicante-Comercializacin_R406960) |
 
 ## About This Role
 
-This business analyst position at Merck was posted on 2026-06-24.
+This business analyst position at Merck was posted on 2026-07-07.
 
 ## Get Real-Time Alerts
 
