@@ -1,16 +1,16 @@
-# Associate Staff Engineer, Workday HCM Functional Consultant – L1 Support at Nagarro
+# Associate Staff Engineer, Workday HCM Functional Consultant (L1 Support) at Nagarro
 
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | India |
 | Category | Software Engineer |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000136211929-associate-staff-engineer-workday-hcm-functional-consultant-l1-support) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000136740019-associate-staff-engineer-workday-hcm-functional-consultant-l1-support) |
 
 ## About This Role
 
-This software engineer position at Nagarro was posted on 2026-07-07.
+This software engineer position at Nagarro was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

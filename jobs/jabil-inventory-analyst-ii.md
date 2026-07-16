@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Malaysia |
+| Location | Chihuahua, Chihuahua, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Inventory-Analyst-II_J2453554) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Inventory-Analyst-II_J2456393) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-06-25.
+This business analyst position at Jabil was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

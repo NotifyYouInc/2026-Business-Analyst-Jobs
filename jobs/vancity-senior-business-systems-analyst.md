@@ -5,12 +5,12 @@
 | Company | [Vancity](https://scoutify.ai/companies/vancity?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Vancouver, British Columbia, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://recruiting.ultipro.com/van5000vcscu/JobBoard/a46cbdaa-ca2c-49b6-8d2b-e0ceaafa0e25/OpportunityDetail?opportunityId=6bde077d-7489-4e9b-bc32-9bbddb492635) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://recruiting.ultipro.com/van5000vcscu/JobBoard/a46cbdaa-ca2c-49b6-8d2b-e0ceaafa0e25/OpportunityDetail?opportunityId=f4f64cba-832d-489f-bbec-707f764fa9fd) |
 
 ## About This Role
 
-This business analyst position at Vancity was posted on 2026-05-13.
+This business analyst position at Vancity was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

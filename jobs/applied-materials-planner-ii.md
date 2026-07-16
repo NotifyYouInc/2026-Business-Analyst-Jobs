@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gloucester, Massachusetts, United States |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/Planner-II_R2616407) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/TokyoJPN/Planner-II_R2622896) |
 
 ## About This Role
 
-This business analyst position at Applied Materials was posted on 2026-04-06.
+This business analyst position at Applied Materials was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

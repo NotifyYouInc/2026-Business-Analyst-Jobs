@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scotts Miracle-Gro](https://scoutify.ai/companies/scotts-miracle-gro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ohio, US |
-| Category | Project Manager |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://scottsmiraclegro.wd5.myworkdayjobs.com/smgexternal/job/Ohio---Field/Transportation-Sr-Analyst_R25259) |
+| Location | Marysville, Washington, United States |
+| Category | Business Analyst |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://scottsmiraclegro.wd5.myworkdayjobs.com/smgexternal/job/Marysville-OH/Transportation-Sr-Analyst_R26128) |
 
 ## About This Role
 
-This project manager position at Scotts Miracle-Gro was posted on 2026-03-18.
+This business analyst position at Scotts Miracle-Gro was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

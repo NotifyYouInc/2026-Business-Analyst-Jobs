@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Whippany, New Jersey, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Business-Analyst_JR-0000096618) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-400-Whippany-Campus-Jefferson-Park/Business-Analyst_JR-0000122187) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-07-07.
+This business analyst position at Barclays was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

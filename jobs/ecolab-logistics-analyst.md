@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cuautitlán Izcalli, México, Mexico |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/MEX---Estado-de-Mexico---Cuautitlan-Izcalli/Logistics-Analyst_R00294693-1) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/ARG---Provincia-de-Buenos-Aires---Buenos-Aires/Logistics-Analyst_R00299496) |
 
 ## About This Role
 
-This business analyst position at Ecolab was posted on 2026-06-08.
+This business analyst position at Ecolab was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

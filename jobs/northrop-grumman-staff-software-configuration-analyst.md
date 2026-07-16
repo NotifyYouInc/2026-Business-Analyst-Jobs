@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Palmdale, California, United States |
-| Category | Software Engineer |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Staff-Software-Configuration-Analyst_R10229804) |
+| Location | Huntsville, Alabama, United States |
+| Category | Business Analyst |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Staff-Software-Configuration-Analyst_R10239161) |
 
 ## About This Role
 
-This software engineer position at Northrop Grumman was posted on 2026-04-23.
+This business analyst position at Northrop Grumman was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

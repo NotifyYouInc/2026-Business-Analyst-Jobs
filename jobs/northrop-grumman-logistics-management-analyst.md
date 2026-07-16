@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Palmdale, California, United States |
+| Location | Port Hueneme, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Logistics-Management-Analyst_R10238455) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Port-Hueneme/Logistics-Management-Analyst_R10239502-1) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-07-01.
+This business analyst position at Northrop Grumman was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

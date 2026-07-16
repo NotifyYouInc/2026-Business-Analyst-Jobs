@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tencent](https://scoutify.ai/companies/tencent?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Corporate Finance |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/France-Paris/Senior-Business-System-Analyst--Workday-Financials-_R107634) |
+| Category | Business Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/France-Paris/Senior-Business-System-Analyst--Workday-Financials-_R107757) |
 
 ## About This Role
 
-This corporate finance position at Tencent was posted on 2026-06-12.
+This business analyst position at Tencent was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

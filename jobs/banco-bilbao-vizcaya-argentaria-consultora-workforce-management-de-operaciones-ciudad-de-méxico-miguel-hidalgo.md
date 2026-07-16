@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Consultor-a-Workforce-Management-de-Operaciones--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00103950-1) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Consultor-a-Workforce-Management-de-Operaciones--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00108750) |
 
 ## About This Role
 
-This human resources / people ops position at Banco Bilbao Vizcaya Argentaria was posted on 2026-05-21.
+This human resources / people ops position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 
