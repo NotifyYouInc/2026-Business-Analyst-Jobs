@@ -1,16 +1,16 @@
-# Middle Office - Senior Associate at State Street
+# Middle Office, Senior Associate at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Hangzhou, Zhejiang, China |
 | Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hyderabad-India/Middle-Office---Senior-Associate_R-790242) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Middle-Office--Senior-Associate_R-786965) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-06-19.
+This business analyst position at State Street was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

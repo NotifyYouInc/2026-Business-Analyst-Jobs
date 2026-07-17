@@ -1,16 +1,16 @@
-# Analyst, Real Time Management at Concentrix
+# Analyst- Real Time Management at Concentrix
 
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Gurugram---2nd-3rd-and-4th-Flrs-RMZ-Infinity/Analyst--Real-Time-Management_R1683893) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore/Analyst--Real-Time-Management_R1731371) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-04-08.
+This business analyst position at Concentrix was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

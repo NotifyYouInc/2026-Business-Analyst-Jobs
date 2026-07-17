@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Canva](https://scoutify.ai/companies/canva?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | San Francisco, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001200985-sales-systems-business-analyst) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Canva/6000000001223030-sales-systems-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Canva was posted on 2026-07-01.
+This business analyst position at Canva was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

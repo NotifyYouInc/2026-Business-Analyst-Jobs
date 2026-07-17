@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Colombia |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000114085006-intraday-coordinator) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000136826899-intraday-coordinator) |
 
 ## About This Role
 
-This business analyst position at bet365 was posted on 2026-03-11.
+This business analyst position at bet365 was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Morrisville, North Carolina, United States |
+| Location | Belgrade, Central Serbia, Serbia |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-NC-Morrisville-Hybrid/Proposal-Analyst_25108199-1) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/SRB-Belgrade-Hybrid/Proposal-Analyst_25110113) |
 
 ## About This Role
 
-This business analyst position at Syneoshealth was posted on 2026-05-07.
+This business analyst position at Syneoshealth was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

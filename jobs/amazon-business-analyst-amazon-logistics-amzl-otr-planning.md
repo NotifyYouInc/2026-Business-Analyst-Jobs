@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10403023/business-analyst-amazon-logistics-amzl-otr-planning) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10470746/business-analyst-amazon-logistics-amzl-otr-planning) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-04-24.
+This business analyst position at Amazon was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

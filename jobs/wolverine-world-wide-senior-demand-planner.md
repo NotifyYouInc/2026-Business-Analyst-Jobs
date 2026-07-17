@@ -5,12 +5,12 @@
 | Company | [Wolverine World Wide](https://scoutify.ai/companies/wolverine-world-wide?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Rockford, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://wwwinc.wd1.myworkdayjobs.com/www/job/Rockford-MI/Senior-Demand-Planner_2026-10407) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://wwwinc.wd1.myworkdayjobs.com/www/job/Rockford-MI/Senior-Demand-Planner_2026-10926) |
 
 ## About This Role
 
-This business analyst position at Wolverine World Wide was posted on 2026-04-01.
+This business analyst position at Wolverine World Wide was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
 | Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000136719179-business-continuity-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Endava/744000136795199-business-continuity-analyst) |
 
 ## About This Role
 

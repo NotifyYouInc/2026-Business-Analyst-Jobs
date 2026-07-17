@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000133431108-risk-analyst) |
+| Category | Financial Analyst |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000136887188-risk-analyst) |
 
 ## About This Role
 
-This business analyst position at AECOM was posted on 2026-06-22.
+This financial analyst position at AECOM was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

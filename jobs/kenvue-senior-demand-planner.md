@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Maroúsi, Attica, Greece |
+| Location | Summit, New Jersey, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/EuropeMiddle-EastAfrica-Greece-Attica-Marousi/Senior-Demand-Planner_2607044342W) |
+| Posted | 2026-07-08 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/North-America-United-States-New-Jersey-Summit/Senior-Demand-Planner_2607047199W) |
 
 ## About This Role
 
-This business analyst position at Kenvue was posted on 2026-03-10.
+This business analyst position at Kenvue was posted on 2026-07-08.
 
 ## Get Real-Time Alerts
 

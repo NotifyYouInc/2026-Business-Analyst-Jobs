@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Colombia |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Senior-IT-Business-Analyst_R60159) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Singapore-Singapore-Singapore/Senior-IT-Business-Analyst_R70508-1) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-03-06.
+This business analyst position at Medtronic was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

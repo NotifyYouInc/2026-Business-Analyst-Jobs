@@ -1,16 +1,16 @@
-# Associate, Real Time Management at Concentrix
+# Associate- Real Time Management at Concentrix
 
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Montego Bay, Saint James Parish, Jamaica |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/JAM-Montego-Bay---Free-Trade-Zone/Associate--Real-Time-Management_R1726454-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore/Associate--Real-Time-Management_R1740631) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-06-12.
+This business analyst position at Concentrix was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

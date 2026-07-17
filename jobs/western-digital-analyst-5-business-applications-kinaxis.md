@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
 | Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000136721839-analyst-5-business-applications-kinaxis) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000136786735-analyst-5-business-applications-kinaxis) |
 
 ## About This Role
 

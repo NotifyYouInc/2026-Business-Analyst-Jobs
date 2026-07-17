@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Saint-Ouen, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000112727548-business-analyst-servicenow-hf) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000136795457-business-analyst-servicenow-hf) |
 
 ## About This Role
 
-This business analyst position at Inetum was posted on 2026-03-04.
+This business analyst position at Inetum was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

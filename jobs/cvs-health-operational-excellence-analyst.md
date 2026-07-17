@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Waverly, Michigan, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---Waverly/Operational-Excellence-Analyst_R0951277) |
+| Location | Kansas City, Missouri, United States |
+| Category | Strategy & Operations |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MO---Kansas-City/Operational-Excellence-Analyst_R0970283) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-06-22.
+This strategy & operations position at CVS Health was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 
