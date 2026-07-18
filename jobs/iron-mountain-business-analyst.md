@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iron Mountain](https://scoutify.ai/companies/ironmountain?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Slough, England, United Kingdom |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/UK--Slough--724--729-Dundee-Road/Business-Analyst_J0096162) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/IND--Bangalore--Level-10-CITRINE-Block-WTC-4-Bagmane-World-Technology-Center/Business-Analyst_J0104126) |
 
 ## About This Role
 
-This business analyst position at Iron Mountain was posted on 2026-04-06.
+This business analyst position at Iron Mountain was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

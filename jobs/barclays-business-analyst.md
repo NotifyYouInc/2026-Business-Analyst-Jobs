@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Whippany, New Jersey, United States |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Building-300-Whippany-Campus-Jefferson-Park/Business-Analyst_JR-0000115851-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Business-Analyst_JR-0000111878-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-07-09.
+This business analyst position at Barclays was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

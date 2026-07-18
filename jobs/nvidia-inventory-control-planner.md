@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nvidia](https://scoutify.ai/companies/nvidia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | Hong Kong, Hong Kong |
 | Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Inventory-Control-Planner_JR2014228) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Hong-Kong-STP/Inventory-Control-Planner_JR2020698) |
 
 ## About This Role
 
-This business analyst position at Nvidia was posted on 2026-03-09.
+This business analyst position at Nvidia was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

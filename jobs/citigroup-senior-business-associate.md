@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Senior-Business-Associate_26969879) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Senior-Business-Associate_26976817-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-06-10.
+This business analyst position at Citigroup was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

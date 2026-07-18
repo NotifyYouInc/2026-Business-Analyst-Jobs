@@ -1,16 +1,16 @@
-# Senior  Business Analyst at Fil
+# Senior Business Analyst at Fil
 
 | Field | Details |
 |-------|---------|
 | Company | [Fil](https://scoutify.ai/companies/fil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Senior--Business-Analyst_J67605-1) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://fil.wd3.myworkdayjobs.com/001/job/Gurgaon-Office/Senior-Business-Analyst_J68983-1) |
 
 ## About This Role
 
-This business analyst position at Fil was posted on 2026-07-03.
+This business analyst position at Fil was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

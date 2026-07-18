@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Melbourne, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal-Proposal-Analyst_R10225926) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Proposal-Analyst_R10239834) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-03-18.
+This business analyst position at Northrop Grumman was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

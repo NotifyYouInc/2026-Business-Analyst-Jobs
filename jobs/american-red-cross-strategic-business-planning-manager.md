@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Red Cross](https://scoutify.ai/companies/americanredcross?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Texas, US |
+| Location | 2 locations |
 | Category | Strategy & Operations |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Statewide-TX/Strategic-Business-Planning-Manager_RC89018) |
+| Posted | 2026-07-10 |
+| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Fort-Wayne-IN/Strategic-Business-Planning-Manager_RC89733) |
 
 ## About This Role
 
-This strategy & operations position at American Red Cross was posted on 2026-06-03.
+This strategy & operations position at American Red Cross was posted on 2026-07-10.
 
 ## Get Real-Time Alerts
 

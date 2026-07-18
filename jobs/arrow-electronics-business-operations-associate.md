@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tlaquepaque, Jalisco, Mexico |
+| Location | Córdoba, Andalusia, Spain |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Tlaquepaque-Mexico/Business-Operations-Associate_R242691) |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/ES-Cordoba-Spain-Cl-Imprenta-De-La-Alborada/Business-Operations-Associate_R245471) |
 
 ## About This Role
 
-This business analyst position at Arrow Electronics was posted on 2026-04-28.
+This business analyst position at Arrow Electronics was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 
