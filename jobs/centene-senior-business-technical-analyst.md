@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Florida, US |
-| Category | Business Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Business-Technical-Analyst_1635505) |
+| Location | Missouri, US |
+| Category | Data Engineer |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Senior-Business-Technical-Analyst_1643046-1) |
 
 ## About This Role
 
-This business analyst position at Centene was posted on 2026-03-31.
+This data engineer position at Centene was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

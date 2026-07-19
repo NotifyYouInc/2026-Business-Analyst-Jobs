@@ -1,16 +1,16 @@
-# MES Business Analyst at North Point Technology
+# MES- Business Analyst at North Point Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [North Point Technology](https://scoutify.ai/companies/north-point-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
-| Category | Industrial Automation |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8572391002) |
+| Location | Novi, Michigan, United States |
+| Category | Business Analyst |
+| Posted | 2026-07-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/northpointtechnology/jobs/8629376002) |
 
 ## About This Role
 
-This industrial automation position at North Point Technology was posted on 2026-06-01.
+This business analyst position at North Point Technology was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

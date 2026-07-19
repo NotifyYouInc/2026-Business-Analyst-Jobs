@@ -1,16 +1,16 @@
-# KBS Business Partnering Consultant at Kone
+# Business Analyst (Supply Chain) at Fractal
 
 | Field | Details |
 |-------|---------|
-| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [Fractal](https://scoutify.ai/companies/fractal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 7 locations |
 | Category | Business Analyst |
 | Posted | 2026-07-11 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/KBS-Business-Partnering-Consultant_R0662391) |
+| Apply | [View on company site](https://fractal.wd1.myworkdayjobs.com/Careers/job/Bengaluru/Business-Analyst--Supply-Chain-_SR-43948) |
 
 ## About This Role
 
-This business analyst position at Kone was posted on 2026-07-11.
+This business analyst position at Fractal was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 

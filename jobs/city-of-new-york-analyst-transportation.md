@@ -1,16 +1,16 @@
-# KBS Business Partnering Consultant at Kone
+# Analyst -  Transportation at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [Kone](https://scoutify.ai/companies/kone?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-07-11 |
-| Apply | [View on company site](https://kone.wd3.myworkdayjobs.com/careers/job/Chennai-ITECKBS/KBS-Business-Partnering-Consultant_R0662391) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014047616-analyst-transportation) |
 
 ## About This Role
 
-This business analyst position at Kone was posted on 2026-07-11.
+This business analyst position at City of New York was posted on 2026-07-11.
 
 ## Get Real-Time Alerts
 
