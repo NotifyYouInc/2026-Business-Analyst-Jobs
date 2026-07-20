@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Senior Associate- Operations Acq at Mashreq
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Mashreq](https://scoutify.ai/companies/em2-cx-oj68872?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://hcld.fa.em2.oraclecloud.com/jobs/#6026) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at Mashreq was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

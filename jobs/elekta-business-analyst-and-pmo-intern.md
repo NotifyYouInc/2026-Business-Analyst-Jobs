@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Business Analyst and PMO Intern at Elekta
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Elekta](https://scoutify.ai/companies/elekta?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://elekta.wd3.myworkdayjobs.com/Elekta_Careers/job/Stockholm/Business-Analyst-and-PMO-Intern_R2026-1167) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at Elekta was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

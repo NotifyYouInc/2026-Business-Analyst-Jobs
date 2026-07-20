@@ -1,16 +1,16 @@
-# Intern, Enterprise Solutions at AIA Group
+# Intern for VOS, Technology Digital Solution in Kuala Lumpur at PETRONAS
 
 | Field | Details |
 |-------|---------|
-| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-AIA-Digital-Malaysia/Intern--Enterprise-Solutions_JR-68258-1) |
+| Posted | 2025-03-26 |
+| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#23663) |
 
 ## About This Role
 
-This business analyst position at AIA Group was posted on 2026-07-13.
+This business analyst position at PETRONAS was posted on 2025-03-26.
 
 ## Get Real-Time Alerts
 

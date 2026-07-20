@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Analyst - Client Service Officer at Mitsubishi UFG
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Hanoi-Branch/Analyst---Client-Service-Officer_10077820-WD) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at Mitsubishi UFG was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

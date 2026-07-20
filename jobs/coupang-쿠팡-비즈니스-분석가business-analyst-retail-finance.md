@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# [쿠팡] 비즈니스 분석가(Business Analyst_Retail Finance) at Coupang
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Seoul, Seoul, South Korea |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8059306) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at Coupang was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

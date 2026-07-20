@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
-| Category | Implementation / Professional Services |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000128185879-oracle-fusion-hcm-techno-functional-consultant) |
+| Category | Business Analyst |
+| Posted | 2026-07-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000137305999-oracle-fusion-hcm-techno-functional-consultant) |
 
 ## About This Role
 
-This implementation / professional services position at VAM Systems was posted on 2026-05-25.
+This business analyst position at VAM Systems was posted on 2026-07-12.
 
 ## Get Real-Time Alerts
 

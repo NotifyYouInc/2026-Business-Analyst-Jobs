@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Creator Strategist, Business Analysis & New Initiatives Project Intern (TikTok Shop) - 2026 Start (BS/MS) at TikTok
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://careers.tiktok.com/position/7661871740453996805/detail) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at TikTok was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

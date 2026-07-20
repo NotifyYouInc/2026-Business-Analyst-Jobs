@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Senior Business Analyst at Clarus
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Clarus](https://scoutify.ai/companies/firstgas?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 2 locations |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Firstgas/744000137357650-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at Clarus was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Supply and Demand Planning Specialist at Synagie
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Synagie](https://scoutify.ai/companies/synagieinc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Thailand |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Posted | 2025-12-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SynagieInc/744000096744305-supply-and-demand-planning-specialist) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at Synagie was posted on 2025-12-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+#  CX業務推進（業務管理・改善推進担当） at PayPay
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [PayPay](https://scoutify.ai/companies/paypay?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Japan |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/paypay/jobs/6114316004) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at PayPay was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

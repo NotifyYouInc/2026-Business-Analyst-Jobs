@@ -1,16 +1,16 @@
-# Analyst at Northern Trust
+# Market Intelligence Manager at GE HealthCare
 
 | Field | Details |
 |-------|---------|
-| Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
+| Category | Product Marketing |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Bangalore-India/Analyst_R158049) |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Shanghai/Market-Intelligence-Manager_R4043266-2) |
 
 ## About This Role
 
-This business analyst position at Northern Trust was posted on 2026-07-13.
+This product marketing position at GE HealthCare was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

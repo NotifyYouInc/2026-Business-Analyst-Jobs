@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Venture Development Analyst (w/m/d) at enpal
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [enpal](https://scoutify.ai/companies/enpal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Berlin, State of Berlin, Germany |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/9b4bb645-6045-4996-ac19-c0f3975e8216) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at enpal was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

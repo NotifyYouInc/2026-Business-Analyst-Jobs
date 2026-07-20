@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Student Worker - Graphic Process Support at LEGO
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Billund, South Denmark, Denmark |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Billund/Student-Worker---Graphic-Process-Support_0000036465) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at LEGO was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

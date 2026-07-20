@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Finance and Systems Analyst at Precision Medicine Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Precision Medicine Group](https://scoutify.ai/companies/precision-medicine-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | India |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6114325004) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at Precision Medicine Group was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Business Analyst Internship at HRTechX at HRtechX
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [HRtechX](https://scoutify.ai/companies/hrtechx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Posted | 2026-07-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/hrtechx/jobs/5934462003) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at HRtechX was posted on 2026-07-09.
 
 ## Get Real-Time Alerts
 

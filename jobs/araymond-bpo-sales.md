@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# BPO Sales at ARaymond
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [ARaymond](https://scoutify.ai/companies/em3-cx-oj5597?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | France |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Posted | 2026-06-15 |
+| Apply | [View on company site](https://hdex.fa.em3.oraclecloud.com/jobs/#857) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at ARaymond was posted on 2026-06-15.
 
 ## Get Real-Time Alerts
 

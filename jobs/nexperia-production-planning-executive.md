@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Production Planning Executive at Nexperia
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Nexperia](https://scoutify.ai/companies/nexperia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Seremban, Negeri Sembilan, Malaysia |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://nexperia.wd3.myworkdayjobs.com/careers/job/Seremban/Order-Fulfillment_R-20015015) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at Nexperia was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

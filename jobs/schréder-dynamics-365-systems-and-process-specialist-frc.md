@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Dynamics 365 Systems and Process Specialist (FRC) at Schréder
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Schréder](https://scoutify.ai/companies/schrder?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Ternopil, Ternopil, Ukraine |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Schrder/744000137369959-dynamics-365-systems-and-process-specialist-frc) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at Schréder was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

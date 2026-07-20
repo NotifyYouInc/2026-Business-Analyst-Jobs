@@ -1,16 +1,16 @@
-# Business Systems Analyst at Pure Storage
+# Business Analyst  (Role is based in Bangalore - India) at Emirates NBD
 
 | Field | Details |
 |-------|---------|
-| Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [Emirates NBD](https://scoutify.ai/companies/ocs-cx-oj33984?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8053007) |
+| Posted | 2026-06-09 |
+| Apply | [View on company site](https://fa-evlo-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#63945) |
 
 ## About This Role
 
-This business analyst position at Pure Storage was posted on 2026-07-13.
+This business analyst position at Emirates NBD was posted on 2026-06-09.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business Systems Analyst at Pure Storage
+# PA26SWCOFFQ3004  - Business Anayst at SS&C Technologies
 
 | Field | Details |
 |-------|---------|
-| Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [SS&C Technologies](https://scoutify.ai/companies/ss-c-technologies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8053007) |
+| Apply | [View on company site](https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/WeWork-Bengaluru/PA26SWCOFFQ3004----Business-Anayst_R43791) |
 
 ## About This Role
 
-This business analyst position at Pure Storage was posted on 2026-07-13.
+This business analyst position at SS&C Technologies was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# PCI IT Business Analyst Specialist at Samudera Indonesia
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Samudera Indonesia](https://scoutify.ai/companies/samudera-indonesia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Indonesia |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://samudera.wd3.myworkdayjobs.com/careers/job/Jakarta-Barat/PCI-IT-Business-Analyst-Specialist_JR101941) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at Samudera Indonesia was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

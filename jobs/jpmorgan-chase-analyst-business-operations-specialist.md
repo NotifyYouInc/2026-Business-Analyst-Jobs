@@ -1,16 +1,16 @@
-# Business Systems Analyst at Pure Storage
+# Analyst - Business & Operations Specialist at JPMorgan Chase
 
 | Field | Details |
 |-------|---------|
-| Company | [Pure Storage](https://scoutify.ai/companies/pure-storage?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/purestorage/jobs/8053007) |
+| Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210767945) |
 
 ## About This Role
 
-This business analyst position at Pure Storage was posted on 2026-07-13.
+This data analyst position at JPMorgan Chase was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

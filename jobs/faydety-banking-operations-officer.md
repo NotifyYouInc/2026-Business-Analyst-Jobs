@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Banking Operations Officer at Faydety
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Faydety](https://scoutify.ai/companies/faydety?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Egypt |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Posted | 2022-06-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Faydety/743999835040817-banking-operations-officer) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at Faydety was posted on 2022-06-27.
 
 ## Get Real-Time Alerts
 

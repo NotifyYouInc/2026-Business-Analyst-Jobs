@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Business Architect at Telenet
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Telenet](https://scoutify.ai/companies/em2-cx-oj105850?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Mechelen, Flanders, Belgium |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://ebza.fa.em2.oraclecloud.com/jobs/#5767) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at Telenet was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

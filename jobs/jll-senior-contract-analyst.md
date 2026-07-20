@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Senior Contract Analyst at JLL
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Business Analyst |
+| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Gurugram, Haryana, India |
+| Category | Legal |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Senior-Contract-Analyst_REQ521140-1) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This legal position at JLL was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

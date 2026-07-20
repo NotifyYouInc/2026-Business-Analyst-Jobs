@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Senior Business Analyst - Digital Channels at Emirates NBD
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Emirates NBD](https://scoutify.ai/companies/ocs-cx-oj33984?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | India |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Posted | 2026-06-04 |
+| Apply | [View on company site](https://fa-evlo-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#64289) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at Emirates NBD was posted on 2026-06-04.
 
 ## Get Real-Time Alerts
 

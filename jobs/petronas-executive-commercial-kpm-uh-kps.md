@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Executive (Commercial - KPM, UH, KPS) at PETRONAS
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Posted | 2026-05-21 |
+| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#27944) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at PETRONAS was posted on 2026-05-21.
 
 ## Get Real-Time Alerts
 

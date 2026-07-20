@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Growth & Operations Analyst (w/m/d) at enpal
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Business Analyst |
+| Company | [enpal](https://scoutify.ai/companies/enpal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Berlin, State of Berlin, Germany |
+| Category | Data Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://jobs.ashbyhq.com/enpal/94e50db6-7638-4d63-a07a-78c30412cd34) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This data analyst position at enpal was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Analyst IT - BA at Mattel
+# Praktikum in der Kundenplanung at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Germany |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000137368995-analyst-it-ba) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137364579-praktikum-in-der-kundenplanung) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-07-13.
+This business analyst position at Robert Bosch was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
