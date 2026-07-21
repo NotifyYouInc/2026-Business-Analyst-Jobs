@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/CAONMississauga2251-Speakman-Drive/Commercial-Analyst_R-155590-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/INMumbaiEmbassy-247-Park/Commercial-Analyst_R-155900) |
 
 ## About This Role
 
-This business analyst position at SNC-Lavalin was posted on 2026-05-27.
+This business analyst position at SNC-Lavalin was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

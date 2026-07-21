@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Manulife](https://scoutify.ai/companies/manulife?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Toronto-Ontario/Senior-IT-Business-Analyst_JR25101799) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://manulife.wd3.myworkdayjobs.com/MFCJH_AdminJobs/job/Hatsudai-Head-Office/Senior-IT-Business-Analyst_JR26070309-1) |
 
 ## About This Role
 
-This business analyst position at Manulife was posted on 2026-03-13.
+This business analyst position at Manulife was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

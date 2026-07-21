@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Purchase, New York, United States |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Lima-Peru/Senior-Analyst--Business-Development_R-275628) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Senior-Analyst--Business-Development_R-281207-1) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Mastercard was posted on 2026-04-21.
+This sales development (sdr / bdr) position at Mastercard was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

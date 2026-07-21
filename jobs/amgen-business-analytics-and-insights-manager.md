@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
-| Category | Marketing |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/Australia---New-South-Wales---Sydney/Business-Analytics-and-Insights-Manager_R-246346-1) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | UX Researcher |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/Taiwan---Taipei/Business-Analytics-and-Insights-Manager_R-249444) |
 
 ## About This Role
 
-This marketing position at Amgen was posted on 2026-05-28.
+This ux researcher position at Amgen was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Leiden, South Holland, The Netherlands |
 | Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000118403837-business-support-officer) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000137411399-business-support-officer) |
 
 ## About This Role
 
-This business analyst position at Eurofins Scientific was posted on 2026-04-02.
+This business analyst position at Eurofins Scientific was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

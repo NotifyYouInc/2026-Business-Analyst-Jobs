@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Senior-Business-Associate---Vice-President_26957529-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Senior-Business-Associate---Vice-President_26976819-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-23.
+This business analyst position at Citigroup was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

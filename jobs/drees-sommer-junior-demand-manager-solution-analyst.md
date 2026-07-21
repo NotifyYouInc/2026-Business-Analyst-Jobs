@@ -5,12 +5,12 @@
 | Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Málaga, Andalusia, Spain |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000135491279-junior-demand-manager-solution-analyst) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000137417937-junior-demand-manager-solution-analyst) |
 
 ## About This Role
 
-This business analyst position at Drees & Sommer was posted on 2026-07-02.
+This business analyst position at Drees & Sommer was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

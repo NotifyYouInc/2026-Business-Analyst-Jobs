@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 7 locations |
+| Location | Farmers Branch, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Systems-Analyst-Consultant_R227593-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/TX---Farmers-Branch/Business-Systems-Analyst-Consultant_R228957-1) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-07-08.
+This business analyst position at PNC Financial was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

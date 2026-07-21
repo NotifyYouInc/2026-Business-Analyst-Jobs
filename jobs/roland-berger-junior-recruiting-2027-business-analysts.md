@@ -5,12 +5,12 @@
 | Company | [Roland Berger](https://scoutify.ai/companies/rolandberger?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Talent Acquisition / Recruiting |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000136557839-junior-recruiting-2027-business-analysts) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RolandBerger/744000137522019-junior-recruiting-2027-business-analysts) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Roland Berger was posted on 2026-07-08.
+This talent acquisition / recruiting position at Roland Berger was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

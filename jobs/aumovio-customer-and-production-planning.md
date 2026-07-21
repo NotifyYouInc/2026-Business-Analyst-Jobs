@@ -1,16 +1,16 @@
-# Customer and Production Planning at Aumovio
+# Customer and Production Planning    at Aumovio
 
 | Field | Details |
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000133422974-customer-and-production-planning) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000137506769-customer-and-production-planning) |
 
 ## About This Role
 
-This business analyst position at Aumovio was posted on 2026-06-22.
+This business analyst position at Aumovio was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

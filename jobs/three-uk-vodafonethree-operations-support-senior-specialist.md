@@ -5,12 +5,12 @@
 | Company | [Three UK](https://scoutify.ai/companies/threeuk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Stoke-on-Trent, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000135434629-vodafonethree-operations-support-senior-specialist) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000137467659-vodafonethree-operations-support-senior-specialist) |
 
 ## About This Role
 
-This business analyst position at Three UK was posted on 2026-07-02.
+This business analyst position at Three UK was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
-| Category | Customer Success |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Lithuania---Vilnius/Senior-Functional-Analyst-in-Trade-Surveillance-Operations_R0026090) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Business Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Mexico-City--Mariano-Escobedo/Senior-Functional-Analyst-in-Trade-Surveillance-Operations_R0026372) |
 
 ## About This Role
 
-This customer success position at Nasdaq was posted on 2026-05-21.
+This business analyst position at Nasdaq was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

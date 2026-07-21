@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Product Manager |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Intelligence-Automation-Business-Analyst_R0242034) |
+| Category | Business Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Intelligence-Automation-Business-Analyst_R0244258) |
 
 ## About This Role
 
-This product manager position at Booz Allen was posted on 2026-06-11.
+This business analyst position at Booz Allen was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

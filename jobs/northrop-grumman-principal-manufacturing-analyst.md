@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Elkridge, Maryland, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/Principal-Manufacturing-Analyst_R10238517) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/Principal-Manufacturing-Analyst_R10240042) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-07-02.
+This business analyst position at Northrop Grumman was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

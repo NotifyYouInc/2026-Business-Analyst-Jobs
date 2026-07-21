@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Salesforce-Business-Analyst_R00122942) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Salesforce-Business-Analyst_14552222) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-05-07.
+This business analyst position at Accenture was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

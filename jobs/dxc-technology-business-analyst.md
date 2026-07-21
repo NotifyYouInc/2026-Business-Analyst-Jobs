@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/VNM---HO-CHI-MINH-CITY/Business-Analyst_51584535) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/TWN---TPE---TAIPEI/Business-Analyst_51584954) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-07-06.
+This business analyst position at DXC Technology was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

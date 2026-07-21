@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TELUS Health](https://scoutify.ai/companies/telus-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
-| Category | Customer Success |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/External/job/Toronto-Ontario-Canada/Systems-Analyst-II_R-22308) |
+| Location | 5 locations |
+| Category | Business Analyst |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/External/job/Toronto-Ontario-Canada/Systems-Analyst-II_R-22509) |
 
 ## About This Role
 
-This customer success position at TELUS Health was posted on 2026-06-04.
+This business analyst position at TELUS Health was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

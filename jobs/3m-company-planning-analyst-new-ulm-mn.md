@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New Ulm, Minnesota, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-New-Ulm/Planning-Analyst---New-Ulm--MN-_R01166383-1) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-New-Ulm/Planning-Analyst---New-Ulm--MN-_R01167863) |
 
 ## About This Role
 
-This business analyst position at 3M Company was posted on 2026-06-16.
+This fp&a / strategic finance position at 3M Company was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

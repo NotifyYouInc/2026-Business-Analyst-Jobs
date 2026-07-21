@@ -5,12 +5,12 @@
 | Company | [Industrial Alliance](https://scoutify.ai/companies/industrial-alliance?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Quebec-Quebec/Analyste-d-affaires_JR10027022) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ia.wd3.myworkdayjobs.com/professional/job/Quebec-Quebec/Analyste-d-affaires_JR10027083) |
 
 ## About This Role
 
-This business analyst position at Industrial Alliance was posted on 2026-07-02.
+This business analyst position at Industrial Alliance was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# IT- Business Analyst at Thermo Fisher Scientific
+# IT Business Analyst at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Grand Island, Nebraska, United States |
+| Location | Loughborough, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Grand-Island-New-York-USA/IT--Business-Analyst_R-01346449) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Loughborough-United-Kingdom/IT-Business-Analyst_R-01357782-1) |
 
 ## About This Role
 
-This business analyst position at Thermo Fisher Scientific was posted on 2026-03-25.
+This business analyst position at Thermo Fisher Scientific was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Apex Fund Services](https://scoutify.ai/companies/apex-fund-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Auckland/Business-Analyst_JR-0021114) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://theapexgroup.wd3.myworkdayjobs.com/apexgroupcareers/job/Pune---East/Business-Analyst_JR-0020407) |
 
 ## About This Role
 
-This business analyst position at Apex Fund Services was posted on 2026-06-23.
+This business analyst position at Apex Fund Services was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

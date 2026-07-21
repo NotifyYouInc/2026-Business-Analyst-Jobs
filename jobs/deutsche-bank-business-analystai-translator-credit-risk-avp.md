@@ -1,16 +1,16 @@
-# Business Analyst/AI Translator, Credit Risk - AVP at Deutsche Bank
+# Business Analyst/AI Translator, Credit Risk, AVP at Deutsche Bank
 
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Project Manager |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Knowledge-Pk-B1/Business-Analyst-AI-Translator--Credit-Risk---AVP_R0421259) |
+| Category | Business Analyst |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Business-Analyst-AI-Translator--Credit-Risk--AVP_R0439835-1) |
 
 ## About This Role
 
-This project manager position at Deutsche Bank was posted on 2026-02-18.
+This business analyst position at Deutsche Bank was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

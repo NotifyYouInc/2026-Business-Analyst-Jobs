@@ -1,16 +1,16 @@
-# Proposal Analyst (Level 2 or 3) at Northrop Grumman
+# Proposal Analyst - Level 2 or 3 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | Aurora, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Proposal-Analyst--Level-2-or-3-_R10226352) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Proposal-Analyst---Level-2-or-3_R10240016) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-03-18.
+This business analyst position at Northrop Grumman was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 
