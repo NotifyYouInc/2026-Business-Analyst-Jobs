@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nanterre, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000137387599-previsionniste-boucherie-au-011026-fh) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000137804424-previsionniste-boucherie-au-011026-fh) |
 
 ## About This Role
 
-This business analyst position at METRO/MAKRO was posted on 2026-07-13.
+This business analyst position at METRO/MAKRO was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

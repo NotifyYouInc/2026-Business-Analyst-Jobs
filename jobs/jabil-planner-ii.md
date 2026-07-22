@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Malaysia |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Penang/Planner-II_J2452396) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Planner-II_J2454009) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-06-25.
+This business analyst position at Jabil was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

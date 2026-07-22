@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chengdu, Sichuan, China |
+| Location | China |
 | Category | Business Analyst |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-OCG-International-Center-Cheng-Du/Principal-Specialist--Business-Analyst_JR-67847-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/CN-M-Plaza/Principal-Specialist--Business-Analyst_JR-68347-1) |
 
 ## About This Role
 
-This business analyst position at AIA Group was posted on 2026-06-29.
+This business analyst position at AIA Group was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

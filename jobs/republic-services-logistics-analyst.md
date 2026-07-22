@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Florida, US |
+| Location | Metairie, Louisiana, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Ft-Lauderdale-FL-USA/Logistics-Analyst_R-178942-1) |
+| Posted | 2026-07-13 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Metairie-LA-USA/Logistics-Analyst_R-179509) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-07-06.
+This business analyst position at Republic Services was posted on 2026-07-13.
 
 ## Get Real-Time Alerts
 

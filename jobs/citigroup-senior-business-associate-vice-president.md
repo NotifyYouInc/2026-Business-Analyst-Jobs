@@ -1,16 +1,16 @@
-# Senior Business Associate - Vice President at Citigroup
+# Senior Business Associate, Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Senior-Business-Associate---Vice-President_26976819-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Senior-Business-Associate--Vice-President_26975410-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-07-13.
+This business analyst position at Citigroup was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

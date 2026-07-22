@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Senior-Data-Management-Analyst_R-532241) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Data-Management-Analyst_R-559765) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-04-02.
+This business analyst position at Wells Fargo was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

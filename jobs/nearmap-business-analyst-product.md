@@ -6,7 +6,7 @@
 | Location | Lehi, Utah, United States |
 | Category | Business Analyst |
 | Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000137514269-business-analyst-product) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nearmap/744000137548659-business-analyst-product) |
 
 ## About This Role
 

@@ -5,12 +5,12 @@
 | Company | [Klick](https://scoutify.ai/companies/klick?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/klick1/744000124725485-senior-business-analyst) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/klick1/744000137720299-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Klick was posted on 2026-05-05.
+This business analyst position at Klick was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

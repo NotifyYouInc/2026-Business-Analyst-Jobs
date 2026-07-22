@@ -5,12 +5,12 @@
 | Company | [Conagra Brands](https://scoutify.ai/companies/conagrabrands?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Business-Services-Analyst---Data-Management-Organization_Req-037734) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Business-Services-Analyst---Data-Management-Organization_Req-039162-1) |
 
 ## About This Role
 
-This business analyst position at Conagra Brands was posted on 2026-04-27.
+This business analyst position at Conagra Brands was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

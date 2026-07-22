@@ -5,12 +5,12 @@
 | Company | [University of Wisconsin-River Falls](https://scoutify.ai/companies/university-of-wisconsin-river-falls?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Madison, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://wisconsin.wd1.myworkdayjobs.com/uw_comprehensives/job/Madison-WI/Business-Process-Specialist_JR10012004) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://wisconsin.wd1.myworkdayjobs.com/uw_comprehensives/job/Madison-WI/Business-Process-Specialist_JR10013018-1) |
 
 ## About This Role
 
-This business analyst position at University of Wisconsin-River Falls was posted on 2026-06-10.
+This business analyst position at University of Wisconsin-River Falls was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

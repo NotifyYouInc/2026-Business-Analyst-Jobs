@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Madrid, Madrid, Spain |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000135942469-business-analyst-con-frances) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000137674790-business-analyst-con-frances) |
 
 ## About This Role
 
-This business analyst position at Sopra Steria was posted on 2026-07-06.
+This business analyst position at Sopra Steria was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

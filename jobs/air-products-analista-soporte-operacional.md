@@ -5,12 +5,12 @@
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chile |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Cerrillos-Chile/Analista-Soporte-Operacional_JR-2026-20851) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Cerrillos-Chile/Analista-Soporte-Operacional_JR-2026-21209) |
 
 ## About This Role
 
-This business analyst position at Air Products was posted on 2026-06-16.
+This business analyst position at Air Products was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

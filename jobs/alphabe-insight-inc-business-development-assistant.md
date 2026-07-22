@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alphabe Insight Inc](https://scoutify.ai/companies/alphabe-insight-inc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Washington, US |
-| Category | Business Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/alphabeinsightinc/744000134456872-business-development-assistant) |
+| Location | Hartford, Connecticut, United States |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/alphabeinsightinc/744000137762319-business-development-assistant) |
 
 ## About This Role
 
-This business analyst position at Alphabe Insight Inc was posted on 2026-06-26.
+This sales development (sdr / bdr) position at Alphabe Insight Inc was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

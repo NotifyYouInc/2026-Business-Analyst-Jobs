@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Downer Group](https://scoutify.ai/companies/ocs-cx-oj31911?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Australia |
+| Location | Tamworth, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#733355) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#734702) |
 
 ## About This Role
 
-This business analyst position at Downer Group was posted on 2026-06-19.
+This business analyst position at Downer Group was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

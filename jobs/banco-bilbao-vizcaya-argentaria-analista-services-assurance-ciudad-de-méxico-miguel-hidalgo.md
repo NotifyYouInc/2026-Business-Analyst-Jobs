@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Analista-Services-Assurance--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00108077) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Miguel-Hidalgo-11320/Analista-Services-Assurance--Ciudad-de-Mxico--Miguel-Hidalgo-_JR00109330) |
 
 ## About This Role
 
-This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-09.
+This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

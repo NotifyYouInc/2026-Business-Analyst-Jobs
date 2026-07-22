@@ -5,12 +5,12 @@
 | Company | [Solenis](https://scoutify.ai/companies/solenis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Philippines |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Makati-Philippines/Demand---Supply-Planning-Lead_R0027655) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://solenis.wd1.myworkdayjobs.com/solenis/job/Makati-Philippines/Demand---Supply-Planning-Lead_R0031257) |
 
 ## About This Role
 
-This business analyst position at Solenis was posted on 2026-03-10.
+This business analyst position at Solenis was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

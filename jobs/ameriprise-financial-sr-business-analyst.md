@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Minneapolis, Minnesota, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Sr-Business-Analyst_R26_2700-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Sr-Business-Analyst_R26_2617) |
 
 ## About This Role
 
-This business analyst position at Ameriprise Financial was posted on 2026-07-13.
+This business analyst position at Ameriprise Financial was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

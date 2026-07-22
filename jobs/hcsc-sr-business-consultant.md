@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Sr-Business-Consultant_R0052464) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Sr-Business-Consultant_R0048982-1) |
 
 ## About This Role
 
-This business analyst position at HCSC was posted on 2026-07-02.
+This business analyst position at HCSC was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

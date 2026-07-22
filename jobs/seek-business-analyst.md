@@ -5,12 +5,12 @@
 | Company | [SEEK](https://scoutify.ai/companies/seek?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000115578607-business-analyst) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SEEK/744000137795819-business-analyst) |
 
 ## About This Role
 
-This business analyst position at SEEK was posted on 2026-03-19.
+This business analyst position at SEEK was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

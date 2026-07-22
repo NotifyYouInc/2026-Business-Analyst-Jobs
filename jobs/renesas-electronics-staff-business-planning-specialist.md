@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Shah Alam, Selangor, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000129550339-staff-business-planning-specialist) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000137671999-staff-business-planning-specialist) |
 
 ## About This Role
 
-This business analyst position at Renesas Electronics was posted on 2026-06-01.
+This business analyst position at Renesas Electronics was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

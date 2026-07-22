@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Roseville, California, United States |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Roseville-MN-55113/IT-Portfolio-Analyst_JR114044-1) |
+| Category | Quant Research |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Roseville-MN-55113/IT-Portfolio-Analyst_JR115181-1) |
 
 ## About This Role
 
-This asset management / portfolio management position at Xcel Energy was posted on 2026-05-07.
+This quant research position at Xcel Energy was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Romania |
+| Location | Georgia, US |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/ROU-Cluj---3-5-Campul-Painii-street/Technical-Business-Analyst_R1716959) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-GA-Work-at-Home/Technical-Business-Analyst_R1746625-1) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-04-03.
+This business analyst position at Concentrix was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

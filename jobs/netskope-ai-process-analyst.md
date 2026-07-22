@@ -1,16 +1,16 @@
-# AI Process Analyst at Netskope
+# AI Process Analyst  at Netskope
 
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8049641) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8049640) |
 
 ## About This Role
 
-This business analyst position at Netskope was posted on 2026-07-08.
+This business analyst position at Netskope was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

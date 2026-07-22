@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Illescas, Castille-La Mancha, Spain |
+| Location | Broughton, Wales, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Illescas/Master-Production-Scheduler_JR10394965-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Broughton/Master-Production-Scheduler_JR10429075) |
 
 ## About This Role
 
-This business analyst position at Airbus was posted on 2026-04-23.
+This business analyst position at Airbus was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

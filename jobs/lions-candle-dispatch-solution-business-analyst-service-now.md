@@ -5,12 +5,12 @@
 | Company | [Lions Candle-Dispatch Solution](https://scoutify.ai/companies/lionscandledispatchsolution?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000114383713-business-analyst-service-now) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Miratech1/744000137647399-business-analyst-service-now) |
 
 ## About This Role
 
-This business analyst position at Lions Candle-Dispatch Solution was posted on 2026-03-12.
+This business analyst position at Lions Candle-Dispatch Solution was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

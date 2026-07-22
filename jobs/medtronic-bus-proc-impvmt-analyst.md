@@ -1,16 +1,16 @@
-# Bus Proc Impvmt Analyst at Medtronic
+# Bus Proc    Impvmt Analyst at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Bus-Proc-Impvmt-Analyst_R65005-1) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Singapore-Singapore-Singapore/Bus-Proc----Impvmt-Analyst_R71003-1) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-05-28.
+This business analyst position at Medtronic was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 

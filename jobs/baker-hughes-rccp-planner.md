@@ -1,16 +1,16 @@
-# RCCP Planner at Baker Hughes
+# RCCP -Planner at Baker Hughes
 
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-Pune-Cummins-India-Office-Campus-8th-floor-Survey-No-21-Balewadi/RCCP-Planner_R163978) |
+| Posted | 2026-07-14 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/IN-MH-Pune-Cummins-India-Office-Campus-8th-floor-Survey-No-21-Balewadi/RCCP--Planner_R163976-1) |
 
 ## About This Role
 
-This business analyst position at Baker Hughes was posted on 2026-06-25.
+This business analyst position at Baker Hughes was posted on 2026-07-14.
 
 ## Get Real-Time Alerts
 
