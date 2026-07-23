@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Demand-Planner_R2864119) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Bogota/Demand-Planner_R2862673) |
 
 ## About This Role
 
-This business analyst position at Sanofi was posted on 2026-07-09.
+This business analyst position at Sanofi was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

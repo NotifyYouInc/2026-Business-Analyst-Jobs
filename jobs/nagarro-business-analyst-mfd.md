@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Germany |
+| Location | Munich, Bavaria, Germany |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000137701110-business-analyst-mfd) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000137871489-business-analyst-mfd) |
 
 ## About This Role
 
-This business analyst position at Nagarro was posted on 2026-07-14.
+This business analyst position at Nagarro was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

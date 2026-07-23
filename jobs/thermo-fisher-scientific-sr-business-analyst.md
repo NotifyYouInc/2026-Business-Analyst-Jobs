@@ -1,16 +1,16 @@
-# Sr. Business Analyst at Thermo Fisher Scientific
+# Sr Business Analyst at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | North Carolina, US |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Sr-Business-Analyst_R-01343149-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Sr-Business-Analyst_R-01360250) |
 
 ## About This Role
 
-This business analyst position at Thermo Fisher Scientific was posted on 2026-02-27.
+This business analyst position at Thermo Fisher Scientific was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

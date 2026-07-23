@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evolution Gaming Group](https://scoutify.ai/companies/evolutiongaminggroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cape Town, Western Cape, South Africa |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000115625219-commercial-coordinator) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000137969919-commercial-coordinator) |
 
 ## About This Role
 
-This business analyst position at Evolution Gaming Group was posted on 2026-03-19.
+This business analyst position at Evolution Gaming Group was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

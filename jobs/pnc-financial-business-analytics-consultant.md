@@ -1,16 +1,16 @@
-# Business  Analytics Consultant at PNC Financial
+# Business Analytics Consultant at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
-| Category | Business Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business--Analytics-Consultant_R214066-2) |
+| Location | 2 locations |
+| Category | Technology / IT Consulting |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Brecksville/Business-Analytics-Consultant_R228137-2) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-07-03.
+This technology / it consulting position at PNC Financial was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

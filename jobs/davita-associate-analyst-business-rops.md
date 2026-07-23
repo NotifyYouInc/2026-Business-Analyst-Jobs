@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brentwood, New York, United States |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/01801---Team-Evergreen-Remote/Associate-Analyst--Business--ROPS-_R0454739-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09514---California-Remote/Associate-Analyst--Business--ROPS-_R0467785-1) |
 
 ## About This Role
 
-This business analyst position at DaVita was posted on 2026-05-01.
+This business analyst position at DaVita was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

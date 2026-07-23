@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000136816120-workforce-management-senior-specialist) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000137901949-workforce-management-senior-specialist) |
 
 ## About This Role
 
-This human resources / people ops position at Delivery Hero was posted on 2026-07-09.
+This human resources / people ops position at Delivery Hero was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

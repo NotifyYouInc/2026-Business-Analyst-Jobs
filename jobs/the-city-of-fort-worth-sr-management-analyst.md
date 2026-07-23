@@ -5,12 +5,12 @@
 | Company | [The City of Fort Worth](https://scoutify.ai/companies/cityoffortworth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Fort Worth, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/cityoffortworth/jobs/7733513003?gh_jid=7733513003) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://boards.greenhouse.io/cityoffortworth/jobs/7805856003?gh_jid=7805856003) |
 
 ## About This Role
 
-This business analyst position at The City of Fort Worth was posted on 2026-05-13.
+This business analyst position at The City of Fort Worth was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

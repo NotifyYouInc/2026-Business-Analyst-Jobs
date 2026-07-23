@@ -1,16 +1,16 @@
-# Sr Business Systems Analyst at Huntington Bancshares
+# Sr. Business Systems Analyst at Huntington Bancshares
 
 | Field | Details |
 |-------|---------|
 | Company | [Huntington Bancshares](https://scoutify.ai/companies/huntington?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tupelo, Mississippi, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Tupelo-MS/Sr-Business-Systems-Analyst_R0072882) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Sr-Business-Systems-Analyst_R0073542) |
 
 ## About This Role
 
-This business analyst position at Huntington Bancshares was posted on 2026-06-08.
+This business analyst position at Huntington Bancshares was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

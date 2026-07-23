@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Florida, US |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Florida-Work-at-Home/Contract-Senior-Analyst---CuraScript---Remote_26003473-1) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Florida-Work-at-Home/Contract-Senior-Analyst---CuraScript---Remote_26007412) |
 
 ## About This Role
 
-This business analyst position at Cigna was posted on 2026-04-09.
+This business analyst position at Cigna was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baker Hughes](https://scoutify.ai/companies/baker-hughes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
+| Location | Republica, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/BR-RJ-RIO-DE-JANEIRO-RETIC-ILHA-DO-FUNDAO-R36-2757/Proposal-Analyst_R161688-2) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://bakerhughes.wd5.myworkdayjobs.com/BakerHughes/job/BR-RJ-RIO-DE-JANEIRO-VENTURA-AV-REPUBLICA-DO-CHILE-330/Proposal-Analyst_R166688) |
 
 ## About This Role
 
-This business analyst position at Baker Hughes was posted on 2026-03-12.
+This business analyst position at Baker Hughes was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

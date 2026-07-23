@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Los Angeles, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Professional--Business-Analytics_REQ504236) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/Professional--Business-Analytics_REQ520880) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-05-08.
+This business analyst position at JLL was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

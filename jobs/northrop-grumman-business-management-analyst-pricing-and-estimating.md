@@ -1,16 +1,16 @@
-# Business Management Analyst – Pricing and Estimating at Northrop Grumman
+# Business Management Analyst - Pricing and Estimating at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Rolling Meadows, Illinois, United States |
+| Location | San Diego, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Business-Management-Analyst---Pricing-and-Estimating_R10233640) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Business-Management-Analyst---Pricing-and-Estimating_R10239474) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-05-21.
+This business analyst position at Northrop Grumman was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

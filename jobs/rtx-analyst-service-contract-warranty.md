@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philippines |
+| Location | Tanauan, Calabarzon, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/PH-BTG-TANAUAN-CITY-BQ4--First-Philippine-Industrial-Park--BLDG-Q4/Analyst--Service-Contract---Warranty_01849939) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/PH-BTG-TANAUAN-CITY-BQ4--First-Philippine-Industrial-Park--BLDG-Q4/Analyst--Service-Contract---Warranty_01859019) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-06-03.
+This business analyst position at RTX was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Florida, US |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Orlando-Corporate-Headquarters/Business-Analyst_R-117619) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Florida-USA-work-from-home/Business-Analyst_R-125374) |
 
 ## About This Role
 
-This business analyst position at Travel + Leisure Co. was posted on 2026-02-24.
+This business analyst position at Travel + Leisure Co. was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

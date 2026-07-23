@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Aperia](https://scoutify.ai/companies/aperia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Berkeley Heights, New Jersey, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/aperiasolutions/jobs/4526176007) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/aperiasolutions/jobs/5188106007) |
 
 ## About This Role
 
-This business analyst position at Aperia was posted on 2026-06-22.
+This business analyst position at Aperia was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

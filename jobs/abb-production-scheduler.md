@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Albuquerque, New Mexico, United States |
+| Location | Pinetops, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Production-Scheduler_JR00035235) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pinetops-North-Carolina-United-States-of-America/Production-Scheduler_JR00041237) |
 
 ## About This Role
 
-This business analyst position at ABB was posted on 2026-05-27.
+This business analyst position at ABB was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

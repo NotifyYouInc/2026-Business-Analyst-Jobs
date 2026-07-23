@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | France |
+| Location | Vaulx-en-Velin, Rhône-Alpes, France |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000136823239-alternant-master-2-developpement-commercial-fh) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000137860169-alternant-master-2-developpement-commercial-fh) |
 
 ## About This Role
 
-This business analyst position at Veolia was posted on 2026-07-09.
+This business analyst position at Veolia was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

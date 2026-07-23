@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Auckland, Auckland, New Zealand |
-| Category | Account Manager |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Auckland-New-Zealand/Business-Development-Manager_R-115940) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Engineering Manager |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Bengaluru-India/Business-Development-Manager_R-116025) |
 
 ## About This Role
 
-This account manager position at Ingram Micro was posted on 2026-06-18.
+This engineering manager position at Ingram Micro was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

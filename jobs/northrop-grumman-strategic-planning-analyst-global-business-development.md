@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Falls Church, Virginia, United States |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/Strategic-Planning-Analyst--Global-Business-Development-_R10232707) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/Strategic-Planning-Analyst--Global-Business-Development-_R10240678) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Northrop Grumman was posted on 2026-05-12.
+This sales development (sdr / bdr) position at Northrop Grumman was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

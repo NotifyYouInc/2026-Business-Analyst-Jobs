@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Fab-10A-Singapore/Engineer--Central-Probe-Planning_JR103702) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Hyderabad---Phoenix-Aquila-India/Engineer--Central-Probe-Planning_JR106226) |
 
 ## About This Role
 
-This business analyst position at Micron was posted on 2026-06-17.
+This business analyst position at Micron was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

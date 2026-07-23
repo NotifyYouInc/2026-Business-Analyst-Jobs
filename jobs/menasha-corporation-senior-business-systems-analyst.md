@@ -5,12 +5,12 @@
 | Company | [Menasha Corporation](https://scoutify.ai/companies/menasha?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Senior-Business-Systems-Analyst_R13040) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/Senior-Business-Systems-Analyst_R14843) |
 
 ## About This Role
 
-This business analyst position at Menasha Corporation was posted on 2026-03-04.
+This business analyst position at Menasha Corporation was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

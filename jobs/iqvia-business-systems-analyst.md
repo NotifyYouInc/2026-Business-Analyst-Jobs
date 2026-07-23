@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Kathmandu, Bagmati Province, Nepal |
 | Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Chennai-India/Business-Systems-Analyst_R1544634) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Kathmandu-Nepal/Business-Systems-Analyst_R1553576) |
 
 ## About This Role
 
-This business analyst position at IQVIA was posted on 2026-06-23.
+This business analyst position at IQVIA was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

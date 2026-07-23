@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000136764854-it-delivery-center-it-business-analyst-erpng-platforms) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000138020130-it-delivery-center-it-business-analyst-erpng-platforms) |
 
 ## About This Role
 
-This business analyst position at Eurofins Scientific was posted on 2026-07-09.
+This business analyst position at Eurofins Scientific was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

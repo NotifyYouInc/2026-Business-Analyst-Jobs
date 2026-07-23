@@ -1,16 +1,16 @@
-# Business Analyst, Lead at Booz Allen
+# Business Analyst Lead at Booz Allen
 
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Springfield, Missouri, United States |
-| Category | Program Manager |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Springfield-VA/Business-Analyst--Lead_R0241713) |
+| Location | Fayetteville, North Carolina, United States |
+| Category | Business Analyst |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Fayetteville-NC/Business-Analyst-Lead_R0244137) |
 
 ## About This Role
 
-This program manager position at Booz Allen was posted on 2026-06-08.
+This business analyst position at Booz Allen was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

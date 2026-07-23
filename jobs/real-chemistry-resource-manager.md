@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Real Chemistry](https://scoutify.ai/companies/real-chemistry?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/realchemistry/jobs/5157642008) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/realchemistry/jobs/5354889008) |
 
 ## About This Role
 
-This business analyst position at Real Chemistry was posted on 2026-05-26.
+This business analyst position at Real Chemistry was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 

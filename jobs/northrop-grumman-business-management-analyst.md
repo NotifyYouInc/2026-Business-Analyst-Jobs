@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | Buffalo, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/Business-Management-Analyst_R10238800) |
+| Posted | 2026-07-15 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-New-York-Buffalo/Business-Management-Analyst_R10237845-1) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-07-10.
+This business analyst position at Northrop Grumman was posted on 2026-07-15.
 
 ## Get Real-Time Alerts
 
