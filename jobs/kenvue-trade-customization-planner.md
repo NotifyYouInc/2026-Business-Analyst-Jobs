@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kenvue](https://scoutify.ai/companies/kenvue?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Petaling Jaya, Selangor, Malaysia |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-Malaysia-Selangor-Petaling-Jaya/Trade-Customization-Planner_2607045694W) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://kenvue.wd5.myworkdayjobs.com/kenvue/job/Asia-Pacific-Thailand-Bangkok-Bangkok/Trade-Customization-Planner_2607045748W) |
 
 ## About This Role
 
-This business analyst position at Kenvue was posted on 2026-05-06.
+This business analyst position at Kenvue was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

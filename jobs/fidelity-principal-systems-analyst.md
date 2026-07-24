@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Principal-Systems-Analyst_2121078) |
+| Location | Westlake, Ohio, United States |
+| Category | Business Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Westlake-TX/Principal-Systems-Analyst_2130712-1) |
 
 ## About This Role
 
-This technical & solutions architect position at Fidelity was posted on 2026-02-09.
+This business analyst position at Fidelity was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

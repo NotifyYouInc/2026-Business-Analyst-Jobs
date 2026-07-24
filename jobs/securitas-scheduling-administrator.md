@@ -5,12 +5,12 @@
 | Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Milton Keynes, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000135694475-scheduling-administrator) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000138131354-scheduling-administrator) |
 
 ## About This Role
 
-This business analyst position at Securitas was posted on 2026-07-03.
+This business analyst position at Securitas was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Precision Medicine Group](https://scoutify.ai/companies/precision-medicine-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | India |
-| Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6107497004) |
+| Category | Product Marketing |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/precisionmedicinegroup/jobs/6117565004) |
 
 ## About This Role
 
-This business analyst position at Precision Medicine Group was posted on 2026-07-02.
+This product marketing position at Precision Medicine Group was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

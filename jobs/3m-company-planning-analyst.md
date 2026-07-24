@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cottage Grove, Minnesota, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Cottage-Grove/Planning-Analyst_R01166877) |
+| Location | Guin, Alabama, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Alabama-Guin/Planning-Analyst_R01168003) |
 
 ## About This Role
 
-This business analyst position at 3M Company was posted on 2026-06-24.
+This fp&a / strategic finance position at 3M Company was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

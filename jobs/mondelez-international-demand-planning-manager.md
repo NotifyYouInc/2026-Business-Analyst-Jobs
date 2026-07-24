@@ -5,12 +5,12 @@
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Selangor-Malaysia/Demand-Planning-Manager_R-173097) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Selangor-Malaysia/Demand-Planning-Manager_R-173264) |
 
 ## About This Role
 
-This business analyst position at Mondelez International was posted on 2026-07-15.
+This business analyst position at Mondelez International was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

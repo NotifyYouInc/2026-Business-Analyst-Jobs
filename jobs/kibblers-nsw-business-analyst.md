@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KIBBLERS NSW](https://scoutify.ai/companies/kibblers-nsw?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Victoria, AU |
+| Location | Western Australia, AU |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://bunnings.wd3.myworkdayjobs.com/careers/job/Support-Office-VIC/Business-Analyst_R058571) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://bunnings.wd3.myworkdayjobs.com/careers/job/Support-Office-WA/Business-Analyst_R060863) |
 
 ## About This Role
 
-This business analyst position at KIBBLERS NSW was posted on 2026-02-19.
+This business analyst position at KIBBLERS NSW was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

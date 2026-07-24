@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Chennai-DLF-IT-Park/Business-Analyst_JR-0000111878-1) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Business-Analyst_JR-0000119705-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-07-10.
+This business analyst position at Barclays was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Romania |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Bucuresti/Integrated-Insights-Business-Partner_REQ-10077349) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/INSURGENTES/Integrated-Insights-Business-Partner_REQ-10083848) |
 
 ## About This Role
 
-This business analyst position at Novartis was posted on 2026-05-05.
+This business analyst position at Novartis was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

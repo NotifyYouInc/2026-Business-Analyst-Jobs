@@ -5,12 +5,12 @@
 | Company | [Drees & Sommer](https://scoutify.ai/companies/dreessommer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hannover, Lower Saxony, Germany |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000137745006-werkstudent-wmd-business-development) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DreesSommerSE/744000138105100-werkstudent-wmd-business-development) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Drees & Sommer was posted on 2026-07-14.
+This sales development (sdr / bdr) position at Drees & Sommer was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

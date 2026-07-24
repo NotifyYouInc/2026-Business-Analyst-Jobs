@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Tipico](https://scoutify.ai/companies/tipico?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Malta |
-| Category | Human Resources / People Ops |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000131939495-hr-systems-analyst-mfx) |
+| Category | Business Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000138092859-hr-systems-analyst-mfx) |
 
 ## About This Role
 
-This human resources / people ops position at Tipico was posted on 2026-06-12.
+This business analyst position at Tipico was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

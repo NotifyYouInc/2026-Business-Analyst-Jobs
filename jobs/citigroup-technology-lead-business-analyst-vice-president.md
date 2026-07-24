@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Irving, Texas, United States |
+| Location | Belfast, Northern Ireland, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology-Lead-Business-Analyst---Vice-President_26960099) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology-Lead-Business-Analyst---C13---BELFAST_26979063-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-06-18.
+This business analyst position at Citigroup was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

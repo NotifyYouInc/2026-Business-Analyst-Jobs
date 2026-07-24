@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Navegantes, Santa Catarina, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000133472848-logistics-analyst) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000138205618-logistics-analyst) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-06-23.
+This business analyst position at Mattel was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

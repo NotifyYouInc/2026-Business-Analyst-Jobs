@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hoover, Alabama, United States |
+| Location | 3 locations |
 | Category | Strategy & Operations |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Business-Transformation-Analyst_R102869) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Business-Transformation-Analyst_R104281) |
 
 ## About This Role
 
-This strategy & operations position at Regions Bank was posted on 2026-05-21.
+This strategy & operations position at Regions Bank was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

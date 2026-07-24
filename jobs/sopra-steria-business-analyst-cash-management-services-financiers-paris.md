@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Treasury & Capital Markets |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000118474946-business-analyst-cash-management-services-financiers-paris) |
+| Category | Business Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000138069314-business-analyst-cash-management-services-financiers-paris) |
 
 ## About This Role
 
-This treasury & capital markets position at Sopra Steria was posted on 2026-04-02.
+This business analyst position at Sopra Steria was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

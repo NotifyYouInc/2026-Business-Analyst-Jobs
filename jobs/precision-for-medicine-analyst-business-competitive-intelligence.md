@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Precision for Medicine](https://scoutify.ai/companies/pfm-oj86627?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | India |
-| Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pfm/jobs/6107519004) |
+| Category | Product Marketing |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pfm/jobs/6117588004) |
 
 ## About This Role
 
-This business analyst position at Precision for Medicine was posted on 2026-07-02.
+This product marketing position at Precision for Medicine was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

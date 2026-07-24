@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Baltimore, Maryland, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Sr-Principal-Computer-Systems-Analyst---Windows_R10238691) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Sr-Principal-Computer-Systems-Analyst---Windows_R10240743-1) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-07-10.
+This business analyst position at Northrop Grumman was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

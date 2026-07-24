@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10464462/senior-workforce-planner) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10477175/senior-workforce-planner) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-07-02.
+This business analyst position at Amazon was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sri Lanka |
 | Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Business-Analysis_R244827) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-LABS-----Sri-Lanka/Intern---Business-Analysis_R244996) |
 
 ## About This Role
 
-This business analyst position at Sysco was posted on 2026-04-02.
+This business analyst position at Sysco was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Demand Order Analyst at Caterpillar
+# Demand & Order Analyst at Caterpillar
 
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | Tamil Nadu, IN |
 | Category | Business Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Suzhou-Jiangsu/Demand-Order-Analyst_R0000379338) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/Demand---Order-Analyst_R0000382023) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-06-26.
+This business analyst position at Caterpillar was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

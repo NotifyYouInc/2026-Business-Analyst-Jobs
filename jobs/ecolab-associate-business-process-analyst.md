@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Northwich, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/ARG---Provincia-de-Buenos-Aires---Buenos-Aires/Associate-Business-Process-Analyst_R00290914) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/GBR---England---Northwich/Associate-Business-Process-Analyst_R00297554) |
 
 ## About This Role
 
-This business analyst position at Ecolab was posted on 2026-04-10.
+This business analyst position at Ecolab was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Business Analyst |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000134697419-business-analyst-digital-franchise-11-months-temporary-contract) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000138144404-business-analyst-digital-franchise-11-months-temporary-contract) |
 
 ## About This Role
 
-This business analyst position at H&M Group was posted on 2026-06-29.
+This business analyst position at H&M Group was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

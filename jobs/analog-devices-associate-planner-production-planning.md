@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philippines |
+| Location | Cavite, Central Luzon, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-GTC/Associate-Planner--Production-Planning_R263280) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Associate-Planner--Production-Planning_R263666-1) |
 
 ## About This Role
 
-This business analyst position at Analog Devices was posted on 2026-06-25.
+This business analyst position at Analog Devices was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

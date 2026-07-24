@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Frankfurt am Main, Hesse, Germany |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137407982-praktikum-business-operations-connected-parking) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000138043309-praktikum-business-operations-connected-parking) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-07-13.
+This business analyst position at Robert Bosch was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

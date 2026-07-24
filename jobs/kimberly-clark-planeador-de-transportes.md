@@ -5,12 +5,12 @@
 | Company | [Kimberly-Clark](https://scoutify.ai/companies/kimberly-clark?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Costa Rica |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/Costa-Rica/Planeador-de-Transportes_883896) |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/Costa-Rica/Planeador-de-Transportes_886381-1) |
 
 ## About This Role
 
-This business analyst position at Kimberly-Clark was posted on 2026-02-26.
+This business analyst position at Kimberly-Clark was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 6 locations |
-| Category | Accounting |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/ESP-SP01-2800---Madrid---Office/Senior-Payroll-Transformation-Business-Analyst_R0204214-1) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-07-16 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Wrocaw-Poland/Senior-Payroll-Transformation-Business-Analyst_R0259898) |
 
 ## About This Role
 
-This accounting position at Fresenius Medical Care was posted on 2026-02-27.
+This business analyst position at Fresenius Medical Care was posted on 2026-07-16.
 
 ## Get Real-Time Alerts
 
