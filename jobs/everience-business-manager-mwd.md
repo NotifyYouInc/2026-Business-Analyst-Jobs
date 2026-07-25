@@ -1,16 +1,16 @@
-# Business Manager (m/w/d)  at Everience
+# Business Manager (m/w/d) at Everience
 
 | Field | Details |
 |-------|---------|
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Luxembourg, Luxembourg, Luxembourg |
-| Category | Account Manager |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000122715734-business-manager-mwd) |
+| Location | Brussels, Brussels Capital, Belgium |
+| Category | Business Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000138354821-business-manager-mwd) |
 
 ## About This Role
 
-This account manager position at Everience was posted on 2026-04-24.
+This business analyst position at Everience was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

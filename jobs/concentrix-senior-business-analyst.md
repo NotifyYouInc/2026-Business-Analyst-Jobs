@@ -5,12 +5,12 @@
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/Omaha-NE-68179/Senior-Business-Analyst_R1743496-4) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/Omaha-NE-68179/Senior-Business-Analyst_R1748227-5) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-07-06.
+This business analyst position at Concentrix was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

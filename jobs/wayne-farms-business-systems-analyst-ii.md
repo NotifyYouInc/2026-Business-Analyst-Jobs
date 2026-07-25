@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wayne Farms](https://scoutify.ai/companies/wayne-farms?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Georgia, US |
+| Location | Oakwood, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://waynefarms.wd1.myworkdayjobs.com/waynefarms/job/Georgia---Oakwood-Corporate-Office/Business-Systems-Analyst-II_2026-60731) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://waynefarms.wd1.myworkdayjobs.com/waynefarms/job/Georgia---Oakwood-Corporate-Office/Business-Systems-Analyst-II_2026-65871) |
 
 ## About This Role
 
-This business analyst position at Wayne Farms was posted on 2026-03-06.
+This business analyst position at Wayne Farms was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

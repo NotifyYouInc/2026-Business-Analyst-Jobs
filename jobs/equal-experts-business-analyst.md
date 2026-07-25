@@ -1,16 +1,16 @@
-# Business Analyst  at Equal Experts
+# Business Analyst at Equal Experts
 
 | Field | Details |
 |-------|---------|
 | Company | [Equal Experts](https://scoutify.ai/companies/equal-experts?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | South Africa |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2025-04-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/equalexperts/jobs/6832829002) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/equalexperts/jobs/8634234002) |
 
 ## About This Role
 
-This business analyst position at Equal Experts was posted on 2025-04-01.
+This business analyst position at Equal Experts was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

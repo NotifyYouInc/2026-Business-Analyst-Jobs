@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 2 locations |
 | Category | Legal |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Ireland-Dublin/Contract-Analyst-I_JR152952) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Contract-Analyst-I_JR156056) |
 
 ## About This Role
 
-This legal position at ICON plc was posted on 2026-07-08.
+This legal position at ICON plc was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [HARMAN International](https://scoutify.ai/companies/harman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Pune---Maharashtra-India---Village-Mhal/Analyst--Material-Business_R-48731-2025) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://jobsearch.harman.com/en_US/careers/JobDetail/Advanced-Analyst-Material-Business/29504) |
 
 ## About This Role
 
-This business analyst position at HARMAN International was posted on 2026-05-14.
+This business analyst position at HARMAN International was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

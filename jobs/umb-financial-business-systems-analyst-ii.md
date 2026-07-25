@@ -5,12 +5,12 @@
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/Business-Systems-Analyst-II_R-8586) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Kansas-City-MO/Business-Systems-Analyst-II_R-9105) |
 
 ## About This Role
 
-This business analyst position at UMB Financial was posted on 2026-04-17.
+This business analyst position at UMB Financial was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

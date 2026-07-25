@@ -5,12 +5,12 @@
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Portland, Oregon, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/SAP-EWM-Functional-Analyst_DT-17876) |
+| Posted | 2026-07-18 |
+| Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/SAP-EWM-Functional-Analyst_DT-18845-2) |
 
 ## About This Role
 
-This business analyst position at Daimler Truck was posted on 2026-05-06.
+This business analyst position at Daimler Truck was posted on 2026-07-18.
 
 ## Get Real-Time Alerts
 

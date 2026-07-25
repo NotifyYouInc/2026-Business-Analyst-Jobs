@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Torreón, Coahuila, Mexico |
+| Location | Desford, England, United Kingdom |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Torreon-Coahuila/Logistics-Planning-Analyst_R0000372234) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Desford-United-Kingdom/Logistics-Planning-Analyst_R0000381303) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Caterpillar Inc. was posted on 2026-05-27.
+This fp&a / strategic finance position at Caterpillar Inc. was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

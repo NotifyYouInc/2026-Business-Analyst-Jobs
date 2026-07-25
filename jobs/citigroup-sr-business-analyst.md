@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Heredia, Heredia Province, Costa Rica |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Sr-Business-Analyst_26961662) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/Sr-Business-Analyst_26980234-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-12.
+This business analyst position at Citigroup was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

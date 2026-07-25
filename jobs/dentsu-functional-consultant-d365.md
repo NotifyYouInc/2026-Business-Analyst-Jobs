@@ -1,16 +1,16 @@
-# Functional Consultant - D365 at Dentsu
+# Functional Consultant D365 at Dentsu
 
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Business Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Shanghai---Haisu-Plaza/Functional-Consultant---D365_R1127222) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Shanghai---Haisu-Plaza/Functional-Consultant-D365_R1127223) |
 
 ## About This Role
 
-This business analyst position at Dentsu was posted on 2026-07-10.
+This business analyst position at Dentsu was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

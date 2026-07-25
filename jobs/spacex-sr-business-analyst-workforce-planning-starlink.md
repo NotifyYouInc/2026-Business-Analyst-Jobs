@@ -1,16 +1,16 @@
-# Sr. Business Analyst, Workforce Planning (Starlink)  at SpaceX
+# Sr. Business Analyst, Workforce Planning (Starlink)   at SpaceX
 
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Texas, US |
-| Category | Human Resources / People Ops |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8444844002?gh_jid=8444844002) |
+| Location | Redmond, Washington, United States |
+| Category | Business Analyst |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8639120002?gh_jid=8639120002) |
 
 ## About This Role
 
-This human resources / people ops position at SpaceX was posted on 2026-03-02.
+This business analyst position at SpaceX was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

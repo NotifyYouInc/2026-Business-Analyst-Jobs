@@ -5,12 +5,12 @@
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | West Valley City, Utah, United States |
 | Category | Trust & Safety |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Lake-Park-Building/Revenue-Integrity-Analyst-II_R171826) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Lake-Park-Building/Revenue-Integrity-Analyst-II_R178008) |
 
 ## About This Role
 
-This trust & safety position at Intermountain Health was posted on 2026-05-20.
+This trust & safety position at Intermountain Health was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

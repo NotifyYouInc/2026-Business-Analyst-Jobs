@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Baja, Bács-Kiskun, Hungary |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Production-Planner_J2450564) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Baja/Production-Planner_J2457081) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-05-25.
+This business analyst position at Jabil was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 
