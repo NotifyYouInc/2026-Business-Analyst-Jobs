@@ -1,16 +1,16 @@
-# Business Support at Jd
+# Business Process Optimization Specialist at Ali & Sons
 
 | Field | Details |
 |-------|---------|
-| Company | [Jd](https://scoutify.ai/companies/jd?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Urayasu, Chiba, Japan |
+| Company | [Ali & Sons](https://scoutify.ai/companies/ocs-cx-oj4055?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | United Arab Emirates |
 | Category | Business Analyst |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/JPN-Chiba-Prefecture-Urayasu-City/Business-Support_JR103268) |
+| Posted | 2026-06-24 |
+| Apply | [View on company site](https://fa-evjm-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4852) |
 
 ## About This Role
 
-This business analyst position at Jd was posted on 2026-07-18.
+This business analyst position at Ali & Sons was posted on 2026-06-24.
 
 ## Get Real-Time Alerts
 

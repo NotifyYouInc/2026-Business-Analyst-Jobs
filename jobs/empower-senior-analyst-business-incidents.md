@@ -1,16 +1,16 @@
-# Scheduling Administrator at Securitas
+# Senior Analyst Business Incidents at Empower
 
 | Field | Details |
 |-------|---------|
-| Company | [Securitas](https://scoutify.ai/companies/securitas-353271?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Milton Keynes, England, United Kingdom |
+| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | United States |
 | Category | Business Analyst |
 | Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000138260849-scheduling-administrator) |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Senior-Analyst-Business-Incidents_R0060887-1) |
 
 ## About This Role
 
-This business analyst position at Securitas was posted on 2026-07-17.
+This business analyst position at Empower was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

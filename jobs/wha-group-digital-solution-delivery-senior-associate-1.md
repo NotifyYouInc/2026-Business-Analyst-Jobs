@@ -1,16 +1,16 @@
-# Business Support at Jd
+# Digital Solution Delivery Senior Associate 1 at WHA Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Jd](https://scoutify.ai/companies/jd?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Urayasu, Chiba, Japan |
+| Company | [WHA Group](https://scoutify.ai/companies/ocs-cx-oj118111?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Thailand |
 | Category | Business Analyst |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/JPN-Chiba-Prefecture-Urayasu-City/Business-Support_JR103268) |
+| Posted | 2024-03-07 |
+| Apply | [View on company site](https://fa-evbk-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#45) |
 
 ## About This Role
 
-This business analyst position at Jd was posted on 2026-07-18.
+This business analyst position at WHA Group was posted on 2024-03-07.
 
 ## Get Real-Time Alerts
 

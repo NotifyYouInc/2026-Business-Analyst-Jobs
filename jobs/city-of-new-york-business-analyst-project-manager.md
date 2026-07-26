@@ -1,4 +1,4 @@
-# Analyst at City of New York
+# Business Analyst / Project Manager at City of New York
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-07-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014163861-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014164046-business-analyst-project-manager) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# Business Support at Jd
+# Sr Business Systems Analyst at Empower
 
 | Field | Details |
 |-------|---------|
-| Company | [Jd](https://scoutify.ai/companies/jd?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Urayasu, Chiba, Japan |
+| Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/JPN-Chiba-Prefecture-Urayasu-City/Business-Support_JR103268) |
+| Posted | 2026-07-17 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Sr-Business-Systems-Analyst_R0060855-1) |
 
 ## About This Role
 
-This business analyst position at Jd was posted on 2026-07-18.
+This business analyst position at Empower was posted on 2026-07-17.
 
 ## Get Real-Time Alerts
 

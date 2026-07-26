@@ -1,16 +1,16 @@
-# Business Support at Jd
+# Online Bidder at Xigmapro
 
 | Field | Details |
 |-------|---------|
-| Company | [Jd](https://scoutify.ai/companies/jd?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Urayasu, Chiba, Japan |
+| Company | [Xigmapro](https://scoutify.ai/companies/xigmaprosoftwarepvtltd?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Kolkata, West Bengal, India |
 | Category | Business Analyst |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://jd.wd103.myworkdayjobs.com/careers_at_jd/job/JPN-Chiba-Prefecture-Urayasu-City/Business-Support_JR103268) |
+| Posted | 2019-05-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/XigmaproSoftwarePvtLtd/743999688573000-online-bidder) |
 
 ## About This Role
 
-This business analyst position at Jd was posted on 2026-07-18.
+This business analyst position at Xigmapro was posted on 2019-05-21.
 
 ## Get Real-Time Alerts
 
