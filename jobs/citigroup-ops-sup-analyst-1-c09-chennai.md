@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Ops-Sup-Analyst-1---C09---CHENNAI_26969725) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/1124-SHIVAJI-GARDENS-MOONLI/Ops-Sup-Analyst-1---C09---CHENNAI_26977431-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-06-10.
+This business analyst position at Citigroup was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

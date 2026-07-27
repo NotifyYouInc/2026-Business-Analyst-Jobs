@@ -5,12 +5,12 @@
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Port Louis, Port Louis, Mauritius |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000137371246-senior-executive-commercial) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000138558714-senior-executive-commercial) |
 
 ## About This Role
 
-This business analyst position at IQ-EQ was posted on 2026-07-13.
+This business analyst position at IQ-EQ was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

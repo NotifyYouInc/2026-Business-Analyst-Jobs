@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nextracker](https://scoutify.ai/companies/nextracker?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Hyderabad-Telangana---IND/Sales-Analyst_NX-3814) |
+| Category | Data Analyst |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Hyderabad-Telangana---IND/Sales-Analyst_NX-4319) |
 
 ## About This Role
 
-This business analyst position at Nextracker was posted on 2026-04-29.
+This data analyst position at Nextracker was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [btranzsoftware](https://scoutify.ai/companies/btranzsoftware?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Customer Success |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000123063469-oracle-fusion-hcm-functional-consultant) |
+| Category | Business Analyst |
+| Posted | 2026-07-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000138497459-oracle-fusion-hcm-functional-consultant) |
 
 ## About This Role
 
-This customer success position at btranzsoftware was posted on 2026-04-26.
+This business analyst position at btranzsoftware was posted on 2026-07-19.
 
 ## Get Real-Time Alerts
 
