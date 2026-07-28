@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Navan](https://scoutify.ai/companies/navan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Human Resources / People Ops |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=8004462) |
+| Location | Dallas, Texas, United States |
+| Category | Business Analyst |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://navan.com/careers/openings?gh_jid=8075523) |
 
 ## About This Role
 
-This human resources / people ops position at Navan was posted on 2026-06-15.
+This business analyst position at Navan was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business Process Analyst at Rockwell Automation
+# BUSINESS PROCESS ANALYST at Rockwell Automation
 
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | New Delhi, Delhi, India |
 | Category | Business Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-New-Delhi-Noida/Business-Process-Analyst_R26-5091) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-New-Delhi-Noida/BUSINESS-PROCESS-ANALYST_R26-5058) |
 
 ## About This Role
 
-This business analyst position at Rockwell Automation was posted on 2026-07-10.
+This business analyst position at Rockwell Automation was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

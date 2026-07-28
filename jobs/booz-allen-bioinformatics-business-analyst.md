@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Bioinformatics-Business-Analyst_R0239632) |
+| Category | Bioinformatics / Computational Biology |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Atlanta-GA/Bioinformatics-Business-Analyst_R0244789) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-05-07.
+This bioinformatics / computational biology position at Booz Allen was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

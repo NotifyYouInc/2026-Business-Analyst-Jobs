@@ -5,12 +5,12 @@
 | Company | [Domino's](https://scoutify.ai/companies/dominos?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ann Arbor, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000136013086-business-process-analyst) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/dominos/744000138748579-business-process-analyst) |
 
 ## About This Role
 
-This business analyst position at Domino's was posted on 2026-07-06.
+This business analyst position at Domino's was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Absa](https://scoutify.ai/companies/absa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Johannesburg, Gauteng, South Africa |
 | Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Specialist--Business-Analysis_R-15987810) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://absa.wd3.myworkdayjobs.com/absacareersite/job/Johannesburg/Specialist--Business-Analysis_R-15989300) |
 
 ## About This Role
 
-This business analyst position at Absa was posted on 2026-06-04.
+This business analyst position at Absa was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

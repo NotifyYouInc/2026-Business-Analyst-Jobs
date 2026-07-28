@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hong Kong, Hong Kong |
 | Category | Business Analyst |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Singapore/Team-Business-Manager_r-18706-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Hong-Kong/Team-Business-Manager_r-19006-1) |
 
 ## About This Role
 
-This business analyst position at Julius Baer was posted on 2026-06-07.
+This business analyst position at Julius Baer was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000121679277-veiklos-efektyvumo-vadove-as) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000138631138-veiklos-efektyvumo-vadove-as) |
 
 ## About This Role
 
-This business analyst position at Ignitis Grupe was posted on 2026-04-20.
+This business analyst position at Ignitis Grupe was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

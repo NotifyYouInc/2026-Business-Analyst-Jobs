@@ -5,12 +5,12 @@
 | Company | [ASI](https://scoutify.ai/companies/asi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-02-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000108819283-business-analyst-confirme-banque-fh) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ASIFR/744000138673585-business-analyst-confirme-banque-fh) |
 
 ## About This Role
 
-This business analyst position at ASI was posted on 2026-02-11.
+This business analyst position at ASI was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

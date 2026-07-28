@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Launchpad Technologies](https://scoutify.ai/companies/launchpad-technologies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Not specified |
-| Category | Customer Success |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/launchpadtechnologiesinc/jobs/4679976006) |
+| Category | Business Analyst |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/launchpadtechnologiesinc/jobs/4698384006) |
 
 ## About This Role
 
-This customer success position at Launchpad Technologies was posted on 2026-05-07.
+This business analyst position at Launchpad Technologies was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

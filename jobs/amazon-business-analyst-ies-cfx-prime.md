@@ -5,12 +5,12 @@
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10465503/business-analyst-ies-cfx-prime) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10479704/business-analyst-ies-cfx-prime) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-07-03.
+This business analyst position at Amazon was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

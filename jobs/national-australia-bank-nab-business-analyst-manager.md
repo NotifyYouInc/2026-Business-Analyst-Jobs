@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Vietnam |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Business-Analyst-Manager_JR119331-2) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/15-Tran-Bach-Dang-An-Khanh-Ward/Business-Analyst-Manager_JR119937) |
 
 ## About This Role
 
-This business analyst position at National Australia Bank (NAB) was posted on 2026-06-08.
+This business analyst position at National Australia Bank (NAB) was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

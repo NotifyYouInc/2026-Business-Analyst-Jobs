@@ -5,12 +5,12 @@
 | Company | [Rio Tinto](https://scoutify.ai/companies/riotinto?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Privacy & Data Protection |
-| Posted | 2026-03-02 |
-| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Brisbane/Senior-Specialist-Data-Governance_R51293) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Brisbane/Senior-Specialist-Data-Governance_R61236-1) |
 
 ## About This Role
 
-This privacy & data protection position at Rio Tinto was posted on 2026-03-02.
+This privacy & data protection position at Rio Tinto was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

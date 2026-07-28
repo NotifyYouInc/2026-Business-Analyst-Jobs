@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Lithuania---Vilnius/Senior-Business-Analyst_R0024804-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Stockholm---Zenit/Sr-Specialist-Business-Analyst_R0026257-1) |
 
 ## About This Role
 
-This business analyst position at Nasdaq was posted on 2026-03-06.
+This business analyst position at Nasdaq was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

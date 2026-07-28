@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JYSK](https://scoutify.ai/companies/jysk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Radomsko, Łódź Voivodeship, Poland |
+| Location | Uldum, Central Jutland, Denmark |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JYSK/744000110312490-business-solution-specialist) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JYSK/744000138606259-business-solution-specialist) |
 
 ## About This Role
 
-This business analyst position at JYSK was posted on 2026-02-20.
+This business analyst position at JYSK was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

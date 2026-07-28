@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Informa](https://scoutify.ai/companies/informa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000131932775-senior-analyst) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InformaGroupPlc/744000138682569-senior-analyst) |
 
 ## About This Role
 
-This business analyst position at Informa was posted on 2026-06-12.
+This business analyst position at Informa was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 
