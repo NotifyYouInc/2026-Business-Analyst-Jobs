@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Electrolux](https://scoutify.ai/companies/electrolux?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Mississauga, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Bogota/Demand-Planner_JR77891) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://electrolux.wd3.myworkdayjobs.com/electroluxcareersite/job/Mississauga/Demand-Planner_JR79426) |
 
 ## About This Role
 
-This business analyst position at Electrolux was posted on 2026-05-18.
+This business analyst position at Electrolux was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

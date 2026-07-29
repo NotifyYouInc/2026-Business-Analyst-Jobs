@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Candor-TechSpace-Noida/Business-Manager_JR-0000099302) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Mumbai-Nirlon-Knowledge-Park-BX-9th--11-12-floor/Business-Manager_JR-0000123554-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-03-13.
+This business analyst position at Barclays was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

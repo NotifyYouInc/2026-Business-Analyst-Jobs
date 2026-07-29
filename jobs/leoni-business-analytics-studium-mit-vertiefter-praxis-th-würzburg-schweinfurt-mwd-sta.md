@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LEONI](https://scoutify.ai/companies/leoni?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Kitzingen, Bavaria, Germany |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000135484245-business-analytics-studium-mit-vertiefter-praxis-th-wurzburg-schweinfurt-mwd-start-2027) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000138842709-business-analytics-studium-mit-vertiefter-praxis-th-wurzburg-schweinfurt-mwd-start-2027) |
 
 ## About This Role
 
-This business analyst position at LEONI was posted on 2026-07-02.
+This business analyst position at LEONI was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

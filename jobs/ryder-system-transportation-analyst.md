@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Coppell, Texas, United States |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Coppell-TX-75019/Transportation-Analyst_R177576) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Cleveland-OH-44109/Transportation-Analyst_R178259) |
 
 ## About This Role
 
-This business analyst position at Ryder System was posted on 2026-07-10.
+This business analyst position at Ryder System was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

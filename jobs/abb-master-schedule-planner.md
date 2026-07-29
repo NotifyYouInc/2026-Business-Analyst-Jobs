@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nashik, Maharashtra, India |
+| Location | Nuevo León, MX |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Nashik-Maharashtra-India/Master-Schedule-Planner_JR00037141) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/Master-Schedule-Planner_JR00042299) |
 
 ## About This Role
 
-This business analyst position at ABB was posted on 2026-06-08.
+This business analyst position at ABB was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

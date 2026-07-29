@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Saint Louis, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Occupancy-Planner_R326852) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Saint-Louis-Missouri-USA/Occupancy-Planner_R328989) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-07-07.
+This business analyst position at Cushman & Wakefield was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Devoteam](https://scoutify.ai/companies/devoteam?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000136731754-business-analyst-secteur-bancaire-fh) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devoteam/744000138857019-business-analyst-secteur-bancaire-fh) |
 
 ## About This Role
 
-This business analyst position at Devoteam was posted on 2026-07-09.
+This business analyst position at Devoteam was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

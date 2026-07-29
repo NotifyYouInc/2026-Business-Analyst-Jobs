@@ -5,12 +5,12 @@
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Quito, Pichincha, Ecuador |
 | Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/ECU---Pichincha---Quito-Citiplaza-Head/Analista-Comercial-Mercado-Privado---Publico_R403854) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/ECU---Pichincha---Quito-Citiplaza-Head/Analista-Comercial-Mercado-Privado---Publico_R408744) |
 
 ## About This Role
 
-This business analyst position at Merck was posted on 2026-06-23.
+This business analyst position at Merck was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

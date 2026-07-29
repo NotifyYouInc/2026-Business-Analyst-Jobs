@@ -5,12 +5,12 @@
 | Company | [StepStone](https://scoutify.ai/companies/stepstone?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Germany |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000135291989-commercial-business-analyst-mwd-lead-management) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StepStoneGroup/744000138876101-commercial-business-analyst-mwd-lead-management) |
 
 ## About This Role
 
-This business analyst position at StepStone was posted on 2026-07-01.
+This business analyst position at StepStone was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

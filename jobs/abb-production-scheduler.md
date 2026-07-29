@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pinetops, North Carolina, United States |
+| Location | Nuevo León, MX |
 | Category | Business Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Pinetops-North-Carolina-United-States-of-America/Production-Scheduler_JR00041237) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/Production-Scheduler_JR00042033) |
 
 ## About This Role
 
-This business analyst position at ABB was posted on 2026-07-15.
+This business analyst position at ABB was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

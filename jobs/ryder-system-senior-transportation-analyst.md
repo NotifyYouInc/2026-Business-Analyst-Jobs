@@ -5,12 +5,12 @@
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Fort-Worth-TX-76177/Senior-Transportation-Analyst_R177834) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Huntsville-AL-35756/Senior-Transportation-Analyst_R177819) |
 
 ## About This Role
 
-This business analyst position at Ryder System was posted on 2026-07-15.
+This business analyst position at Ryder System was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

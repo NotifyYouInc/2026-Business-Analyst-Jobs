@@ -5,12 +5,12 @@
 | Company | [AustralianSuper](https://scoutify.ai/companies/ap1-cx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Melbourne, Victoria, Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-29 |
-| Apply | [View on company site](https://ejjl.fa.ap1.oraclecloud.com/jobs/#1005061) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ejjl.fa.ap1.oraclecloud.com/jobs/#1005204) |
 
 ## About This Role
 
-This business analyst position at AustralianSuper was posted on 2026-06-29.
+This business analyst position at AustralianSuper was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

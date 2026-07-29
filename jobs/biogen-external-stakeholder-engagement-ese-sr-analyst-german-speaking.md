@@ -5,12 +5,12 @@
 | Company | [Biogen](https://scoutify.ai/companies/biogen?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Warsaw-Poland/External-Stakeholder-Engagement--ESE--Sr-Analyst---German-Speaking_REQ22859-1) |
+| Posted | 2026-07-20 |
+| Apply | [View on company site](https://biibhr.wd3.myworkdayjobs.com/external/job/Warsaw-Poland/External-Stakeholder-Engagement--ESE--Sr-Analyst---German-Speaking_REQ23769) |
 
 ## About This Role
 
-This business analyst position at Biogen was posted on 2026-03-19.
+This business analyst position at Biogen was posted on 2026-07-20.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard Enterprise](https://scoutify.ai/companies/hewlett-packard-enterprise?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bucharest-Romania/Foundational-Data---Systems-Analyst-Business-Partner_1203931-3) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bucharest-Ilfov-Romania/Foundational-Data---Systems-Analyst-Business-Partner_1208375) |
 
 ## About This Role
 
-This business analyst position at Hewlett Packard Enterprise was posted on 2026-03-11.
+This business analyst position at Hewlett Packard Enterprise was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Diageo](https://scoutify.ai/companies/diageo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Dar es Salaam, Dar es Salaam Region, Tanzania |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Bogota-Colombia/Demand-Planner_JR1124110) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://diageo.wd3.myworkdayjobs.com/Diageo_Careers/job/Dar-es-Salaam-Tanzania/Demand-Planner_JR1127246) |
 
 ## About This Role
 
-This business analyst position at Diageo was posted on 2026-04-16.
+This business analyst position at Diageo was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

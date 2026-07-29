@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Software Engineer |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Business-Analyst---Tech-Lead_R-790489-1) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Business-Analyst---Tech-Lead_R-794064) |
 
 ## About This Role
 
-This software engineer position at State Street was posted on 2026-05-18.
+This software engineer position at State Street was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

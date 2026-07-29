@@ -5,12 +5,12 @@
 | Company | [National Australia Bank (NAB)](https://scoutify.ai/companies/national-australia-bank-nab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/Embassy-Park---Bengaluru/Analyst_JR118588) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://nab.wd3.myworkdayjobs.com/nab_careers/job/Embassy-Park---Bengaluru/Analyst_JR118576) |
 
 ## About This Role
 
-This business analyst position at National Australia Bank (NAB) was posted on 2026-07-09.
+This business analyst position at National Australia Bank (NAB) was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

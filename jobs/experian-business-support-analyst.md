@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Business Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138264279-business-support-analyst) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138840269-business-support-analyst) |
 
 ## About This Role
 
-This business analyst position at Experian was posted on 2026-07-17.
+This business analyst position at Experian was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 

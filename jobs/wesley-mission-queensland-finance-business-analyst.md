@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wesley Mission Queensland](https://scoutify.ai/companies/wesley-mission-queensland?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Australia |
-| Category | Corporate Finance |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://wmq.wd105.myworkdayjobs.com/wmq-careers/job/Chermside/Finance-Business-Analyst_JR101920-1) |
+| Location | Chermside, Queensland, Australia |
+| Category | Business Analyst |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://wmq.wd105.myworkdayjobs.com/wmq-careers/job/Chermside/Finance-Business-Analyst_JR102353) |
 
 ## About This Role
 
-This corporate finance position at Wesley Mission Queensland was posted on 2026-04-16.
+This business analyst position at Wesley Mission Queensland was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

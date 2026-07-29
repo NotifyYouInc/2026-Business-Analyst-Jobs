@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | North Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013941916-senior-analyst-business-systems) |
+| Posted | 2026-07-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014212046-senior-analyst-business-systems) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-07-06.
+This business analyst position at AbbVie was posted on 2026-07-21.
 
 ## Get Real-Time Alerts
 
