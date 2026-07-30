@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
+| Location | Eagan, Minnesota, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/Brazil-So-Paulo-So-Paulo/Business-Analyst_JREQ198485) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/United-States-of-America-Eagan-Minnesota/Business-Analyst_JREQ202336) |
 
 ## About This Role
 
-This business analyst position at Thomson Reuters was posted on 2026-02-19.
+This business analyst position at Thomson Reuters was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

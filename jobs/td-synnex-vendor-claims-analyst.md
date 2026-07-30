@@ -5,12 +5,12 @@
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Actuary / Insurance Analytics |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bogota-Colombia/Vendor-Claims-Analyst_R49893) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Bogota-Colombia/Vendor-Claims-Analyst_R53788) |
 
 ## About This Role
 
-This actuary / insurance analytics position at TD Synnex was posted on 2026-04-16.
+This actuary / insurance analytics position at TD Synnex was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

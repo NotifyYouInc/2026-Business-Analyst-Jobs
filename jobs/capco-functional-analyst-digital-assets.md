@@ -5,12 +5,12 @@
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Business Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8050404) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8081072) |
 
 ## About This Role
 
-This business analyst position at Capco was posted on 2026-07-08.
+This business analyst position at Capco was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

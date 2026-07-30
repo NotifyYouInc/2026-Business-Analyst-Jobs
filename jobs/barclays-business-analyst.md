@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
+| Location | Canary Wharf, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/Business-Analyst_JR-0000119705-1) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Business-Analyst_JR-0000123953-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-07-16.
+This business analyst position at Barclays was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

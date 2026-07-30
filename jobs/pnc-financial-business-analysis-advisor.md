@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PNC-Plaza---Raleigh-NC207/Business-Analysis-Advisor_R225830-2) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh/Business-Analysis-Advisor_R222334-2) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-07-03.
+This business analyst position at PNC Financial was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

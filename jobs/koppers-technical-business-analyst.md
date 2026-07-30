@@ -5,12 +5,12 @@
 | Company | [Koppers](https://scoutify.ai/companies/koppers?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pittsburgh, Pennsylvania, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://koppers.wd5.myworkdayjobs.com/koppers/job/Pittsburgh-PA/Technical-Business-Analyst_REQ03076) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://koppers.wd5.myworkdayjobs.com/koppers/job/Pittsburgh-PA/Technical-Business-Analyst_REQ03095) |
 
 ## About This Role
 
-This business analyst position at Koppers was posted on 2026-06-30.
+This business analyst position at Koppers was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

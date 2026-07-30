@@ -1,16 +1,16 @@
-# Analyst II - Advisory at Marsh & McLennan Companies
+# Analyst II – Advisory at Marsh & McLennan Companies
 
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Buenos-Aires---Cordoba/Analyst-II---Advisory_R_327965) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Bogota---Carrera-58B/Analyst-II---Advisory_R_355966) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-04-24.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

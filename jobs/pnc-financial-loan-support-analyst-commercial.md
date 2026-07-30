@@ -1,16 +1,16 @@
-# Loan Support Analyst - Commercial at PNC Financial
+# Loan Support Analyst (Commercial) at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Alabama, US |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15219/Loan-Support-Analyst---Commercial_R218045) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-CO-COH01/Loan-Support-Analyst--Commercial-_R229242-1) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-04-16.
+This business analyst position at PNC Financial was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

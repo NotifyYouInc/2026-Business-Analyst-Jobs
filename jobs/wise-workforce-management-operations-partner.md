@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000138020218-workforce-management-operations-partner) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139192998-workforce-management-operations-partner) |
 
 ## About This Role
 
-This human resources / people ops position at WISE was posted on 2026-07-16.
+This human resources / people ops position at WISE was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

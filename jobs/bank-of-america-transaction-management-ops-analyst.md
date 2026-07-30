@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Jacksonville/Transaction-Management-Ops-Analyst_26016923-2) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Pennington/Transaction-Management-Ops-Analyst_26024781) |
 
 ## About This Role
 
-This business analyst position at Bank of America was posted on 2026-05-19.
+This business analyst position at Bank of America was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

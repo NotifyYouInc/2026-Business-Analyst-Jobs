@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Kyivstar](https://scoutify.ai/companies/kyivstar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | Ukraine |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.lever.co/kyivstar/cfade246-1ba9-4b59-bf2f-0eaf843acbf7) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.lever.co/kyivstar/9b0bc591-dc7a-43eb-a693-da9fa7b38bb4) |
 
 ## About This Role
 
-This business analyst position at Kyivstar was posted on 2026-07-06.
+This business analyst position at Kyivstar was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

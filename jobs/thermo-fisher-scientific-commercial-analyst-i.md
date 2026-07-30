@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Suzhou, Jiangsu, China |
+| Location | United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Suzhou-China/Commercial-Analyst-I_R-01342308) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-United-Kingdom/Commerical-Analyst-I_R-01360111) |
 
 ## About This Role
 
-This business analyst position at Thermo Fisher Scientific was posted on 2026-03-16.
+This business analyst position at Thermo Fisher Scientific was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [R+V Versicherung](https://scoutify.ai/companies/rvallgemeineversicherungenag?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Wiesbaden, Hesse, Germany |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000138815195-berater-mwd-projekte-prozesse) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RVAllgemeineVersicherungenAG/744000139025429-berater-mwd-projekte-prozesse) |
 
 ## About This Role
 
-This business analyst position at R+V Versicherung was posted on 2026-07-21.
+This business analyst position at R+V Versicherung was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Takeda](https://scoutify.ai/companies/takeda?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Lead-Business-Analyst_R0175377) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://takeda.wd3.myworkdayjobs.com/external/job/IND---Bengaluru/Lead-Business-Analyst_R0185164) |
 
 ## About This Role
 
-This business analyst position at Takeda was posted on 2026-03-04.
+This business analyst position at Takeda was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 

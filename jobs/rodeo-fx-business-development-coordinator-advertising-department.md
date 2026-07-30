@@ -5,12 +5,12 @@
 | Company | [Rodeo FX](https://scoutify.ai/companies/rodeo-fx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/rodeofx/744000137531870-business-development-coordinator-advertising-department) |
+| Posted | 2026-07-22 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/rodeofx/744000139115351-business-development-coordinator-advertising-department) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Rodeo FX was posted on 2026-07-13.
+This sales development (sdr / bdr) position at Rodeo FX was posted on 2026-07-22.
 
 ## Get Real-Time Alerts
 
