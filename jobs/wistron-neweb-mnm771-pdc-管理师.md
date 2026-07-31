@@ -5,12 +5,12 @@
 | Company | [Wistron NeWeb](https://scoutify.ai/companies/wistron-neweb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Vietnam |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/---/MNM771-PdC-_REQ_260611677) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/---/MNM771-PdC-_REQ_260711834) |
 
 ## About This Role
 
-This business analyst position at Wistron NeWeb was posted on 2026-07-02.
+This business analyst position at Wistron NeWeb was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

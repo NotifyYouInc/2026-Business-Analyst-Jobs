@@ -1,16 +1,16 @@
-# Master Production Scheduler at Rockwell Automation
+# MASTER PRODUCTION SCHEDULER at Rockwell Automation
 
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Katowice, Silesia, Poland |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Master-Production-Scheduler_R26-4940) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Shanghai-China/MASTER-PRODUCTION-SCHEDULER_R26-4922) |
 
 ## About This Role
 
-This business analyst position at Rockwell Automation was posted on 2026-07-13.
+This business analyst position at Rockwell Automation was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

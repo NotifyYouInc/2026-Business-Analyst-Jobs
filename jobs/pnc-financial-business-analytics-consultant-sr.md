@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Minnesota, US |
 | Category | Technology / IT Consulting |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Madison-Avenue-NY-NY019/Business-Analytics-Consultant-Sr_R217449-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-MN-MNH01/Business-Analytics-Consultant-Sr_R229234-2) |
 
 ## About This Role
 
-This technology / it consulting position at PNC Financial was posted on 2026-04-16.
+This technology / it consulting position at PNC Financial was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

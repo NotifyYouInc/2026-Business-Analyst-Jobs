@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
-| Category | Project Manager |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000131933509-responsable-de-business-unit-fh) |
+| Location | Ivry-sur-Seine, Île-de-France, France |
+| Category | Business Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000139255369-responsable-de-business-unit-fh) |
 
 ## About This Role
 
-This project manager position at Eurofins Scientific was posted on 2026-06-12.
+This business analyst position at Eurofins Scientific was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

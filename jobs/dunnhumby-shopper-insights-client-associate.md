@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Medellín, Antioquia, Colombia |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7694124003) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7772149003) |
 
 ## About This Role
 
-This business analyst position at dunnhumby was posted on 2026-05-18.
+This business analyst position at dunnhumby was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

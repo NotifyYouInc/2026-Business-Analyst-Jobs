@@ -1,16 +1,16 @@
-# Prin IT Business Analyst. at Medtronic
+# Prin IT Business Analyst at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Prin-IT-Business-Analyst_R65553-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/Prin-IT-Business-Analyst_R72997-1) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-04-29.
+This business analyst position at Medtronic was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

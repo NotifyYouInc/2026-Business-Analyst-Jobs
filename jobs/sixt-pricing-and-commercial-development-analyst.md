@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Fort Lauderdale, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000136856220-pricing-and-commercial-development-analyst) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000139362809-pricing-and-commercial-development-analyst) |
 
 ## About This Role
 
-This business analyst position at Sixt was posted on 2026-07-09.
+This business analyst position at Sixt was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000127718064-wfm-team-lead) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000139372385-wfm-team-lead) |
 
 ## About This Role
 
-This business analyst position at WISE was posted on 2026-05-21.
+This business analyst position at WISE was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

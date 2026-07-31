@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 4 locations |
+| Location | Sunnyvale, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Business-Analyst_REQ502598) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Sunnyvale-CA/Business-Analyst_REQ520977-1) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-04-29.
+This business analyst position at JLL was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014129201-business-systems-analyst) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014253976-business-systems-analyst) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-07-16.
+This business analyst position at AbbVie was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

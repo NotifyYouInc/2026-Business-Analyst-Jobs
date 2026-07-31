@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Product Marketing |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst-Messaging_AIOC-S01635882-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Hyderabad/Business-Advisory-Analyst-Messaging_AIOC-S01656965-1) |
 
 ## About This Role
 
-This product marketing position at Accenture was posted on 2026-04-06.
+This product marketing position at Accenture was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

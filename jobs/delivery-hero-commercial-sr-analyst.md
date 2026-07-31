@@ -1,16 +1,16 @@
-# Commercial Sr Analyst at Delivery Hero
+# Commercial Sr. Analyst at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | La Paz, La Paz Department, Bolivia |
-| Category | Account Manager |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000128849379-commercial-sr-analyst) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Category | Business Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000139270484-commercial-sr-analyst) |
 
 ## About This Role
 
-This account manager position at Delivery Hero was posted on 2026-05-28.
+This business analyst position at Delivery Hero was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

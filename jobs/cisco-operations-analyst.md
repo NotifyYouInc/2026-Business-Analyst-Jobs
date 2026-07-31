@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Program Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Kuala-Lumpur-Malaysia/Operations-Analyst_2015209-1) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Data Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Seoul-Republic-of-Korea/Operations-Analyst_2016647-1) |
 
 ## About This Role
 
-This program manager position at Cisco was posted on 2026-06-17.
+This data analyst position at Cisco was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

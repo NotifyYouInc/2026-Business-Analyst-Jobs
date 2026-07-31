@@ -5,12 +5,12 @@
 | Company | [Career Team](https://scoutify.ai/companies/career-team?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/careerteam/jobs/4698566005) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/careerteam/jobs/4718061005) |
 
 ## About This Role
 
-This business analyst position at Career Team was posted on 2026-05-21.
+This business analyst position at Career Team was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

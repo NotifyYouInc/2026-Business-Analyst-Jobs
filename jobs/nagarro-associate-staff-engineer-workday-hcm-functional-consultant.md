@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nagarro](https://scoutify.ai/companies/nagarro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | India |
-| Category | Implementation / Professional Services |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000130628449-associate-staff-engineer-workday-hcm-functional-consultant) |
+| Category | Software Engineer |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Nagarro1/744000139249749-associate-staff-engineer-workday-hcm-functional-consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Nagarro was posted on 2026-06-06.
+This software engineer position at Nagarro was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

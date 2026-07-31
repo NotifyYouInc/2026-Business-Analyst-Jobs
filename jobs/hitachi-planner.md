@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | South Boston, Massachusetts, United States |
+| Location | Xiamen, Fujian, China |
 | Category | Business Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/South-Boston-Virginia-United-States-of-America/Planner_R0112762) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Xiamen-Fujian-China/Planner_R0137796) |
 
 ## About This Role
 
-This business analyst position at Hitachi was posted on 2026-04-08.
+This business analyst position at Hitachi was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

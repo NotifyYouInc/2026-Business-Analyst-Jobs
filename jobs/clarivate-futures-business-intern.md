@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clarivate](https://scoutify.ai/companies/clarivate?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
-| Category | Legal |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Remote-United-States-of-America/Futures-Business-Intern_JREQ135898) |
+| Location | China |
+| Category | Business Analyst |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://clarivate.wd3.myworkdayjobs.com/clarivate_careers/job/Remote-300--China/Futures-Business-Intern_JREQ136059-1) |
 
 ## About This Role
 
-This legal position at Clarivate was posted on 2026-06-15.
+This business analyst position at Clarivate was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

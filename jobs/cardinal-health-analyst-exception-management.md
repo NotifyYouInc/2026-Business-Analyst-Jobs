@@ -5,12 +5,12 @@
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Philippines-Bonifacio-Global-City-Taguig/Analyst--Exception-Management_20181574-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/Philippines-Bonifacio-Global-City-Taguig/Analyst--Exception-Management_20184033) |
 
 ## About This Role
 
-This business analyst position at Cardinal Health was posted on 2026-06-08.
+This business analyst position at Cardinal Health was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

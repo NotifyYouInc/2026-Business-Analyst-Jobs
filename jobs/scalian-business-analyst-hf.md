@@ -1,16 +1,16 @@
-# Business Analyst H/F at Scalian
+# Business Analyst (H/F) at Scalian
 
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brest, Brittany, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000117345343-business-analyst-hf) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000139291708-business-analyst-hf) |
 
 ## About This Role
 
-This business analyst position at Scalian was posted on 2026-03-27.
+This business analyst position at Scalian was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

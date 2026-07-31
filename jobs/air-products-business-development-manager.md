@@ -5,12 +5,12 @@
 | Company | [Air Products](https://scoutify.ai/companies/airproducts?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Engineering Manager |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Shanghai-China/Business-Development-Manager_JR-2026-19961) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Shanghai-China/Business-Development-Manager_JR-2026-21339) |
 
 ## About This Role
 
-This engineering manager position at Air Products was posted on 2026-04-13.
+This engineering manager position at Air Products was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

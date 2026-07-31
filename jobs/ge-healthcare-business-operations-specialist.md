@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Danderyd, Stockholm, Sweden |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Danderyd/Business-Operations-Specialist_R4042585-1) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Bangkok/Business-Operations-Specialist_R4043908-1) |
 
 ## About This Role
 
-This business analyst position at GE HealthCare was posted on 2026-07-06.
+This business analyst position at GE HealthCare was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

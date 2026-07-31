@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/IT-Business-Sr-Analyst---Assistant-Vice-President_26967916) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/IT-Business-Sr-Analyst---Assistant-Vice-President_26979942) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-06-05.
+This business analyst position at Citigroup was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Paterna, Valencia, Spain |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/China-Shanghai/Business-Analyst_R10092806) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Spain-Paterna/Business-Analyst_R10097204) |
 
 ## About This Role
 
-This business analyst position at Air Liquide was posted on 2026-05-28.
+This business analyst position at Air Liquide was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

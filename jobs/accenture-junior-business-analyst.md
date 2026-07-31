@@ -5,12 +5,12 @@
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Belvaux, Esch-sur-Alzette, Luxembourg |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belvaux-Naos-1/Junior-Business-Analyst_R00343223) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belvaux-Naos-1/Junior-Business-Analyst_R00346687) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-07-14.
+This business analyst position at Accenture was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

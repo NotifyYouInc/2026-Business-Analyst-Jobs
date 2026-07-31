@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Engineering Manager |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Bengaluru-India/Business-Development-Manager_R-116025) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Chennai-India/Business-Development-Manager_R-115162) |
 
 ## About This Role
 
-This engineering manager position at Ingram Micro was posted on 2026-07-16.
+This engineering manager position at Ingram Micro was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

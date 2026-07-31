@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Manassas, Virginia, United States |
+| Location | Fairfax, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Manassas-VA-USA/Logistics-Analyst_R-180249) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Fairfax-VA-USA/Logistics-Analyst_R-180340) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-07-22.
+This business analyst position at Republic Services was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Economic Development Board](https://scoutify.ai/companies/economic-development-board?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/HDB-HUB/Systems-Analyst_JR-10000053150) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://sggovterp.wd102.myworkdayjobs.com/publicservicecareers/job/HDB-HUB/Systems-Analyst_JR-10000053141) |
 
 ## About This Role
 
-This business analyst position at Economic Development Board was posted on 2026-07-14.
+This business analyst position at Economic Development Board was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 

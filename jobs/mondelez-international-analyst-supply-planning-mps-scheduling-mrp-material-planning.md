@@ -1,16 +1,16 @@
-# Analyst, Supply Planning (MPS-scheduling-MRP), Material Planning at Mondelez International
+# Analyst, Supply Planning (MPS - scheduling - MRP), Material Planning at Mondelez International
 
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | East Hanover, New Jersey, United States |
+| Location | Salinas, Veracruz, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Remote-Worker---New-Jersey-USA/Analyst--Supply-Planning--MPS-scheduling-MRP---Material-Planning_R-170294) |
+| Posted | 2026-07-23 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Salinas-Mexico/Analyst--Supply-Planning--MPS---scheduling---MRP---Material-Planning_R-172834-1) |
 
 ## About This Role
 
-This business analyst position at Mondelez International was posted on 2026-06-12.
+This business analyst position at Mondelez International was posted on 2026-07-23.
 
 ## Get Real-Time Alerts
 
