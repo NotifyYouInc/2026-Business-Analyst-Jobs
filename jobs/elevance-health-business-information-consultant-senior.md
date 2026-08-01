@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/VA-NORFOLK-5800-NORTHAMPTON-BLVD/Business-Information-Consultant-Senior_JR189177) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Business-Information-Consultant-Senior_JR201368) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-05-06.
+This business analyst position at Elevance Health was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

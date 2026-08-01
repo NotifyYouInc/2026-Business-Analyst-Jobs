@@ -5,12 +5,12 @@
 | Company | [Dr. Reddy's Laboratories](https://scoutify.ai/companies/drreddyslaboratories?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000122378728-central-planner) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DrReddysLaboratoriesLimited/744000139560211-central-planner) |
 
 ## About This Role
 
-This business analyst position at Dr. Reddy's Laboratories was posted on 2026-04-23.
+This business analyst position at Dr. Reddy's Laboratories was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | El Segundo, California, United States |
+| Location | Colorado, US |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Business-Operations-Specialist_R0245089) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Peterson-AFB-CO/Business-Operations-Specialist_R0245246) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-07-22.
+This business analyst position at Booz Allen was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

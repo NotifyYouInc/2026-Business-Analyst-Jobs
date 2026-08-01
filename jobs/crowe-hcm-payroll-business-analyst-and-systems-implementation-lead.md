@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 27 locations |
-| Category | Accounting |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Sacramento-CA-USA/HCM-Payroll-Business-Analyst-and-Systems-Implementation-Lead_R-50414-1) |
+| Location | 30 locations |
+| Category | Business Analyst |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Sacramento-CA-USA/HCM-Payroll-Business-Analyst-and-Systems-Implementation-Lead_R-51720) |
 
 ## About This Role
 
-This accounting position at Crowe was posted on 2026-03-03.
+This business analyst position at Crowe was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

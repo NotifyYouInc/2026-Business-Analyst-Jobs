@@ -5,12 +5,12 @@
 | Company | [MGM Resorts International](https://scoutify.ai/companies/mgm-resorts-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | National Harbor, Maryland, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Property---MGM-National-Harbor/Specialist-Workforce-Management---MGM-National-Harbor_274655) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Property---MGM-National-Harbor/Specialist-Workforce-Management---MGM-National-Harbor_277536-1) |
 
 ## About This Role
 
-This human resources / people ops position at MGM Resorts International was posted on 2026-04-29.
+This human resources / people ops position at MGM Resorts International was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

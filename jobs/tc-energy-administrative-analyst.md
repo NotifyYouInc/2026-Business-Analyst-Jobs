@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TC Energy](https://scoutify.ai/companies/tcenergy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sugar Grove, Illinois, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Sugar-Grove-Ohio/Administrative-Analyst_JR-10329) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Mansfield-Ohio/Administrative-Analyst_JR-10530) |
 
 ## About This Role
 
-This business analyst position at TC Energy was posted on 2026-06-23.
+This business analyst position at TC Energy was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

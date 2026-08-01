@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guatemala City, Guatemala, Guatemala |
+| Location | San José, San José, Costa Rica |
 | Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8578122002?gh_jid=8578122002) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8603459002?gh_jid=8603459002) |
 
 ## About This Role
 
-This business analyst position at VML was posted on 2026-06-04.
+This business analyst position at VML was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

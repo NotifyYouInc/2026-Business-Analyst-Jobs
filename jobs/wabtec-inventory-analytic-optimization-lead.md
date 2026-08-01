@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011983506-inventory-analytic-optimization-lead) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014265746-inventory-analytic-optimization-lead) |
 
 ## About This Role
 
-This business analyst position at Wabtec was posted on 2026-03-05.
+This business analyst position at Wabtec was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

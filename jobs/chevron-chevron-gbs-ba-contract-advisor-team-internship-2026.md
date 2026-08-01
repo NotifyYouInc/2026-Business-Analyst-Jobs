@@ -5,12 +5,12 @@
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/CHEVRON-GBS-BA---Contract-Advisor-Team-Internship-2026_R000069482) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/CHEVRON-GBS-BA---Contract-Advisor-Team-Internship-2026_R000070276) |
 
 ## About This Role
 
-This business analyst position at Chevron was posted on 2026-03-04.
+This business analyst position at Chevron was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tullamarine, Victoria, Australia |
+| Location | Peoria, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Tullamarine-Victoria/Business-Process-Analyst_R0000371164) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Business-Process-Analyst_R0000383030) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-05-25.
+This business analyst position at Caterpillar was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

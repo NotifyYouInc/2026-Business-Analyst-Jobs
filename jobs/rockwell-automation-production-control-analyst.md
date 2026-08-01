@@ -1,16 +1,16 @@
-# Production Control Analyst at Rockwell Automation
+# PRODUCTION CONTROL ANALYST at Rockwell Automation
 
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mequon, Wisconsin, United States |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Production-Control-Analyst_R26-5636) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Monterrey-Nuevo-Leon-Mexico/PRODUCTION-CONTROL-ANALYST_R26-5394) |
 
 ## About This Role
 
-This business analyst position at Rockwell Automation was posted on 2026-07-14.
+This business analyst position at Rockwell Automation was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

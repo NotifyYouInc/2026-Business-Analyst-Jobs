@@ -5,12 +5,12 @@
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Item-Onboarding-Analyst_R0000434557-1) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Item-Onboarding-Analyst_R0000442723) |
 
 ## About This Role
 
-This business analyst position at Target was posted on 2026-05-08.
+This business analyst position at Target was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
-| Category | Human Resources / People Ops |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-de-Nmina-por-Proyecto_26953388) |
+| Category | Business Analyst |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-de-Nmina-por-Proyecto_26978089) |
 
 ## About This Role
 
-This human resources / people ops position at Citigroup was posted on 2026-04-23.
+This business analyst position at Citigroup was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

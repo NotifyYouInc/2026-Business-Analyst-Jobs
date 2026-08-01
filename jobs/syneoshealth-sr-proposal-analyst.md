@@ -1,16 +1,16 @@
-# Sr. Proposal Analyst at Syneoshealth
+# Sr Proposal Analyst at Syneoshealth
 
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Morrisville, North Carolina, United States |
+| Location | Farnborough, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-NC-Morrisville-Hybrid/Sr-Proposal-Analyst_25105882) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/GBR-Farnborough-Hybrid/Proposal-Analyst_25110124) |
 
 ## About This Role
 
-This business analyst position at Syneoshealth was posted on 2026-03-19.
+This business analyst position at Syneoshealth was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

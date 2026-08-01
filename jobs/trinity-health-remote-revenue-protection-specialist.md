@@ -1,16 +1,16 @@
-# REMOTE Revenue Protection Specialist at Trinity Health
+# Remote Revenue Protection Specialist at Trinity Health
 
 | Field | Details |
 |-------|---------|
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Livonia, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Livonia-Michigan/REMOTE-Revenue-Protection-Specialist_00665386) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Livonia-Michigan/Remote-Revenue-Protection-Specialist_00676032) |
 
 ## About This Role
 
-This business analyst position at Trinity Health was posted on 2026-05-19.
+This business analyst position at Trinity Health was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

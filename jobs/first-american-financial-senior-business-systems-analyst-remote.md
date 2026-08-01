@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [First American Financial](https://scoutify.ai/companies/first-american-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | Santa Ana, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/Senior-Business-Systems-Analyst--Remote-_R057499) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Santa-Ana/Senior-Business-Systems-Analyst--Remote-_R057917) |
 
 ## About This Role
 
-This business analyst position at First American Financial was posted on 2026-07-02.
+This business analyst position at First American Financial was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

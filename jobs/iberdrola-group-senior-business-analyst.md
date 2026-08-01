@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Blantyre, Scotland, United Kingdom |
+| Location | Glasgow, Scotland, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-Kingdom-Blantyre/Senior-Business-Analyst_R-30341) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-Kingdom-Glasgow/Senior-Business-Analyst_R-29987) |
 
 ## About This Role
 
-This business analyst position at Iberdrola Group was posted on 2026-06-30.
+This business analyst position at Iberdrola Group was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wistron NeWeb](https://scoutify.ai/companies/wistron-neweb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hsinchu, Taiwan, Taiwan |
+| Location | Taiwan |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/20/C00620--_REQ_260611492) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://wnc.wd3.myworkdayjobs.com/wnc_external/job/20/C00620--_REQ_260711847) |
 
 ## About This Role
 
-This business analyst position at Wistron NeWeb was posted on 2026-06-08.
+This business analyst position at Wistron NeWeb was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

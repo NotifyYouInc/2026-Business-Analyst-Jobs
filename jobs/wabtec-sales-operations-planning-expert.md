@@ -5,12 +5,12 @@
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kąty Wrocławskie, Lower Silesia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014240956-sales-operations-planning-expert) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990014266206-sales-operations-planning-expert) |
 
 ## About This Role
 
-This business analyst position at Wabtec was posted on 2026-07-23.
+This business analyst position at Wabtec was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

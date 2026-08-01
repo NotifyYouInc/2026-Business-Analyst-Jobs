@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FCTB (nu: Deloitte Consulting)](https://scoutify.ai/companies/fctbnudeloitteconsulting?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | Utrecht, Utrecht, The Netherlands |
 | Category | Business Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000138050562-junior-resource-manager) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeloitteNetherlands/744000139554779-junior-resource-manager) |
 
 ## About This Role
 
-This business analyst position at FCTB (nu: Deloitte Consulting) was posted on 2026-07-16.
+This business analyst position at FCTB (nu: Deloitte Consulting) was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

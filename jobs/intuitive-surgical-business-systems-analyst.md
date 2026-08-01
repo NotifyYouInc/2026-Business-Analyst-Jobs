@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000108317327-business-systems-analyst) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000139644071-business-systems-analyst) |
 
 ## About This Role
 
-This business analyst position at Intuitive Surgical was posted on 2026-02-09.
+This business analyst position at Intuitive Surgical was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 
