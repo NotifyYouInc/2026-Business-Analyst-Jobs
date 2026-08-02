@@ -1,16 +1,16 @@
-# Oracle Fusion HCM - Functional Consultant at btranzsoftware
+# Business Analyst/POPM at Mattel
 
 | Field | Details |
 |-------|---------|
-| Company | [btranzsoftware](https://scoutify.ai/companies/btranzsoftware?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-07-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000139861739-oracle-fusion-hcm-functional-consultant) |
+| Posted | 2026-07-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000139827919-business-analystpopm) |
 
 ## About This Role
 
-This business analyst position at btranzsoftware was posted on 2026-07-26.
+This business analyst position at Mattel was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

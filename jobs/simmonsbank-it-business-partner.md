@@ -1,16 +1,16 @@
-# Oracle Fusion HCM - Functional Consultant at btranzsoftware
+# IT Business Partner at Simmonsbank
 
 | Field | Details |
 |-------|---------|
-| Company | [btranzsoftware](https://scoutify.ai/companies/btranzsoftware?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Simmonsbank](https://scoutify.ai/companies/simmonsbank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 7 locations |
 | Category | Business Analyst |
 | Posted | 2026-07-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000139861739-oracle-fusion-hcm-functional-consultant) |
+| Apply | [View on company site](https://simmonsbank.wd5.myworkdayjobs.com/simmonscareers/job/Little-Rock-AR/IT-Business-Partner_R115260) |
 
 ## About This Role
 
-This business analyst position at btranzsoftware was posted on 2026-07-26.
+This business analyst position at Simmonsbank was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 
