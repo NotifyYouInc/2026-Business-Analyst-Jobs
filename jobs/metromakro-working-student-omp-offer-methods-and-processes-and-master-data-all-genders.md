@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000139214639-working-student-omp-offer-methods-and-processes-and-master-data-all-genders) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000139947344-working-student-omp-offer-methods-and-processes-and-master-data-all-genders) |
 
 ## About This Role
 
-This business analyst position at METRO/MAKRO was posted on 2026-07-23.
+This business analyst position at METRO/MAKRO was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

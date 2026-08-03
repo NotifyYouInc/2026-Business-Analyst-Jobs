@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rest](https://scoutify.ai/companies/rest?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/rest1/744000137588359-senior-business-analyst-investments-12-month-ftc) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/rest1/744000139915659-senior-business-analyst-investments-12-month-ftc) |
 
 ## About This Role
 
-This business analyst position at Rest was posted on 2026-07-14.
+This business analyst position at Rest was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

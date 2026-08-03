@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Dublin, Leinster, Ireland |
 | Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Romania-Bucharest/Lead-Resource-Planning-Specialist_JR156074) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Ireland-Dublin/Lead-Resource-Planning-Specialist_JR147005) |
 
 ## About This Role
 
-This business analyst position at ICON plc was posted on 2026-07-23.
+This business analyst position at ICON plc was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business Development Coordinator - Engineering & Construction at Bantrel
+# Business Development Coordinator - Engineering & Construction  at Bantrel
 
 | Field | Details |
 |-------|---------|
 | Company | [Bantrel](https://scoutify.ai/companies/bantrelco1?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Saskatoon, Saskatchewan, Canada |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BantrelCo1/744000139361466-business-development-coordinator-engineering-construction) |
+| Posted | 2026-07-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BantrelCo1/744000139620358-business-development-coordinator-engineering-construction) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Bantrel was posted on 2026-07-23.
+This sales development (sdr / bdr) position at Bantrel was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

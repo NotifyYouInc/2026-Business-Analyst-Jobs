@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000126224519-m356-crm-business-analyst) |
+| Posted | 2026-07-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139872178-m356-crm-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-05-13.
+This business analyst position at Robert Bosch was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 
