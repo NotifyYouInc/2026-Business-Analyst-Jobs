@@ -1,16 +1,16 @@
-# Business Process Control Analyst - 2nd Shift  at Link Snacks
+# Business Process Control Analyst 2nd Shift  at Link Snacks
 
 | Field | Details |
 |-------|---------|
 | Company | [Link Snacks](https://scoutify.ai/companies/linksnacks?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Perry, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000138891520-business-process-control-analyst-2nd-shift) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/JackLinksProteinSnacks/744000140094770-business-process-control-analyst-2nd-shift) |
 
 ## About This Role
 
-This business analyst position at Link Snacks was posted on 2026-07-21.
+This business analyst position at Link Snacks was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

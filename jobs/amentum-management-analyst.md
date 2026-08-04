@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Arlington, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Arlington/Management-Analyst_R0164978) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-VA-Arlington/Management-Analyst_R0166743) |
 
 ## About This Role
 
-This business analyst position at Amentum was posted on 2026-07-14.
+This business analyst position at Amentum was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

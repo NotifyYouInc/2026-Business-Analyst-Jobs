@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MUFG Investor Services](https://scoutify.ai/companies/mufginvestorservices?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Accounting |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000137199890-private-markets-sme-nav-production-fund-accounting-and-administration) |
+| Location | Toronto, Ontario, Canada |
+| Category | Venture Capital / Private Equity |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MUFGInvestorServices/744000140043201-private-markets-sme-nav-production-fund-accounting-and-administration) |
 
 ## About This Role
 
-This accounting position at MUFG Investor Services was posted on 2026-07-10.
+This venture capital / private equity position at MUFG Investor Services was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

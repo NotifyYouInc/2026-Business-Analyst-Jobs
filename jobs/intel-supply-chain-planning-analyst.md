@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Malaysia |
+| Location | Leixlip, Leinster, Ireland |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Malaysia-Penang/Supply-Chain-Planning-Analyst_JR0283209) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/Ireland-Leixlip/Supply-Chain-Planning-Analyst_JR0285708) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Intel was posted on 2026-04-22.
+This fp&a / strategic finance position at Intel was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Richmond, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Mexico-City-Mexico/Sr-Business-Systems-Analyst_R-01357702) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Richmond-Virginia-USA/Sr-Business-Systems-Analyst_R-01356800) |
 
 ## About This Role
 
-This business analyst position at Thermo Fisher Scientific was posted on 2026-06-16.
+This business analyst position at Thermo Fisher Scientific was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

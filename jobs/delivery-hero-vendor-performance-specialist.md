@@ -1,16 +1,16 @@
-# Vendor Performance Specialist at Delivery Hero
+#  Vendor Performance Specialist at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000119464178-vendor-performance-specialist) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000140095509-vendor-performance-specialist) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-04-08.
+This business analyst position at Delivery Hero was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Charlotte-NC/Senior-Product-Analyst-Agile_R0117116-1) |
 
 ## About This Role
 
-This data analyst position at Truist was posted on 2026-07-24.
+This business analyst position at Truist was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

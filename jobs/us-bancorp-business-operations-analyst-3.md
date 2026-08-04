@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [U.S. Bancorp](https://scoutify.ai/companies/usbank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-07-24 |
 | Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Hopkins-MN/business-operations-analyst-3_2026-0020753-1) |
 
 ## About This Role
 
-This data analyst position at U.S. Bancorp was posted on 2026-07-24.
+This business analyst position at U.S. Bancorp was posted on 2026-07-24.
 
 ## Get Real-Time Alerts
 

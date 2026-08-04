@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hammondcare](https://scoutify.ai/companies/hammondcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | St Leonards, New South Wales, Australia |
-| Category | Human Resources / People Ops |
+| Category | Business Analyst |
 | Posted | 2026-07-26 |
 | Apply | [View on company site](https://hammondcare.wd105.myworkdayjobs.com/external_careers/job/St-Leonards-NSW/Workforce-Planning---Optimisation-Manager_REQ3137) |
 
 ## About This Role
 
-This human resources / people ops position at Hammondcare was posted on 2026-07-26.
+This business analyst position at Hammondcare was posted on 2026-07-26.
 
 ## Get Real-Time Alerts
 

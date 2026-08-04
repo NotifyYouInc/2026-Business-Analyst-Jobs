@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Strategy & Operations |
+| Category | Business Analyst |
 | Posted | 2026-07-25 |
 | Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/IN-KA-BENGALURU-NORTHGATE--Sy-No-22-Venkatala-Village--SY-NO-22-VENKATALA-VILLAGE-Yelahanka-Hobli/Senior-Analyst--P-WC-Leasing-Strategic-Maintenance-Planner_01861775) |
 
 ## About This Role
 
-This strategy & operations position at RTX was posted on 2026-07-25.
+This business analyst position at RTX was posted on 2026-07-25.
 
 ## Get Real-Time Alerts
 

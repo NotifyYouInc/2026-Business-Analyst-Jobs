@@ -5,12 +5,12 @@
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bethesda, Maryland, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/MD-Maryland-FIELD/Senior-Analyst---Onsite-Inventory-Management_20179962) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/MD-Maryland-FIELD/Senior-Analyst---Onsite-Inventory-Management_20184529) |
 
 ## About This Role
 
-This business analyst position at Cardinal Health was posted on 2026-04-30.
+This business analyst position at Cardinal Health was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

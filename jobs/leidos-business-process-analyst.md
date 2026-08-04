@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | Ashburn, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Washington-DC/Business-Process-Analyst_R-00181782) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Ashburn-VA/Business-Process-Analyst_R-00188158) |
 
 ## About This Role
 
-This business analyst position at Leidos was posted on 2026-04-29.
+This business analyst position at Leidos was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

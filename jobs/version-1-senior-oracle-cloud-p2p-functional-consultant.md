@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 6 locations |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000114019453-senior-oracle-cloud-p2p-functional-consultant) |
+| Category | Business Analyst |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000140089739-senior-oracle-cloud-p2p-functional-consultant) |
 
 ## About This Role
 
-This implementation / professional services position at Version 1 was posted on 2026-03-11.
+This business analyst position at Version 1 was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

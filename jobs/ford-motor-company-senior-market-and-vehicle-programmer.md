@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ford Motor Company](https://scoutify.ai/companies/em5-cx-oj40213?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Software Engineer |
+| Category | Business Analyst |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://efds.fa.em5.oraclecloud.com/jobs/#67466) |
 
 ## About This Role
 
-This software engineer position at Ford Motor Company was posted on 2026-07-27.
+This business analyst position at Ford Motor Company was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Marks and Spencer](https://scoutify.ai/companies/ocs-cx-oj69510?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United Kingdom |
-| Category | Human Resources / People Ops |
+| Category | Business Analyst |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#123255) |
 
 ## About This Role
 
-This human resources / people ops position at Marks and Spencer was posted on 2026-07-27.
+This business analyst position at Marks and Spencer was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

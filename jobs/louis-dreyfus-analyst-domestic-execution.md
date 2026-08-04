@@ -1,16 +1,16 @@
-# Analyst Domestic Execution at Louis Dreyfus
+# Analyst, Domestic Execution at Louis Dreyfus
 
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cordova, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000139108223-analyst-domestic-execution) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000140064750-analyst-domestic-execution) |
 
 ## About This Role
 
-This business analyst position at Louis Dreyfus was posted on 2026-07-22.
+This business analyst position at Louis Dreyfus was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

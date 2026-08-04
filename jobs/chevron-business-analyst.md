@@ -5,12 +5,12 @@
 | Company | [Chevron](https://scoutify.ai/companies/chevron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Business-Analyst_R000072560) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://chevron.wd5.myworkdayjobs.com/jobs/job/Buenos-Aires-Buenos-Aires-Argentina/Business-Analyst_R000072577) |
 
 ## About This Role
 
-This business analyst position at Chevron was posted on 2026-07-24.
+This business analyst position at Chevron was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

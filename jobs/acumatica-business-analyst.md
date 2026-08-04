@@ -5,12 +5,12 @@
 | Company | [Acumatica](https://scoutify.ai/companies/acumatica?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000114536867-business-analyst) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000140147829-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Acumatica was posted on 2026-03-13.
+This business analyst position at Acumatica was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

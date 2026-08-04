@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Annecy, Rhône-Alpes, France |
 | Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000139291708-business-analyst-hf) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000139991809-business-analyst-hf) |
 
 ## About This Role
 
-This business analyst position at Scalian was posted on 2026-07-23.
+This business analyst position at Scalian was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

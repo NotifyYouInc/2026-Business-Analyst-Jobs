@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000120534145-it-business-analyst-global-brand-teams-commercial) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000140095659-it-business-analyst-global-brand-teams-commercial) |
 
 ## About This Role
 
-This business analyst position at Mattel was posted on 2026-04-13.
+This business analyst position at Mattel was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

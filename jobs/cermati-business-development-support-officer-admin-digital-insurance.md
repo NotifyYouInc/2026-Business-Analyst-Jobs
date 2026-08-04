@@ -5,12 +5,12 @@
 | Company | [Cermati](https://scoutify.ai/companies/cermati?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Indonesia |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000118312280-business-development-support-officer-admin-digital-insurance) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Cermaticom/744000140144909-business-development-support-officer-admin-digital-insurance) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Cermati was posted on 2026-04-02.
+This sales development (sdr / bdr) position at Cermati was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

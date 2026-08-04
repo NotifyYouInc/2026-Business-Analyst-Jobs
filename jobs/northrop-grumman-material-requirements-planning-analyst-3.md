@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ridgecrest, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Ridgecrest/Material-Requirements-Planning-Analyst-3_R10237381-1) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Ridgecrest/Material-Requirements-Planning-Analyst-3_R10242027) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-07-01.
+This fp&a / strategic finance position at Northrop Grumman was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

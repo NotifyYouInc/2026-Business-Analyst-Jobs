@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Birmingham, England, United Kingdom |
+| Location | Leeds, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000138835560-business-analyst) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000140024260-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Netcompany was posted on 2026-07-21.
+This business analyst position at Netcompany was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

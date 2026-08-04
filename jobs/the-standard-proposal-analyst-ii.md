@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Standard](https://scoutify.ai/companies/standard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | Portland, Oregon, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://standard.wd1.myworkdayjobs.com/Search/job/Jacksonville-FL/Proposal-Analyst-II_REQ006598) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://standard.wd1.myworkdayjobs.com/Search/job/Portland-OR/Proposal-Analyst-II_REQ006823) |
 
 ## About This Role
 
-This business analyst position at The Standard was posted on 2026-05-14.
+This business analyst position at The Standard was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

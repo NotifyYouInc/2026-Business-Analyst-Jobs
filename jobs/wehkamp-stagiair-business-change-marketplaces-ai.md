@@ -5,12 +5,12 @@
 | Company | [wehkamp](https://scoutify.ai/companies/wehkamp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Zwolle, Overijssel, The Netherlands |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/wehkamp/744000134180885-stagiair-business-change-marketplaces-ai) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/wehkamp/744000140004783-stagiair-business-change-marketplaces-ai) |
 
 ## About This Role
 
-This business analyst position at wehkamp was posted on 2026-06-25.
+This business analyst position at wehkamp was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

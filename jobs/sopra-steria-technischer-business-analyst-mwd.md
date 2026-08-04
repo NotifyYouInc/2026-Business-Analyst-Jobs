@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Germany |
 | Category | Business Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134440869-technischer-business-analyst-mwd) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000139984786-technischer-business-analyst-mwd) |
 
 ## About This Role
 
-This business analyst position at Sopra Steria was posted on 2026-06-26.
+This business analyst position at Sopra Steria was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

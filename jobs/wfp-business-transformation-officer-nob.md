@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wfp](https://scoutify.ai/companies/wfp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kigali, Kigali, Rwanda |
-| Category | Strategy & Operations |
+| Category | Business Analyst |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://wfp.wd3.myworkdayjobs.com/job_openings/job/Kigali-Rwanda-The-Republic-Of/Business-Transformation-Officer--NOB_JR125175) |
 
 ## About This Role
 
-This strategy & operations position at Wfp was posted on 2026-07-27.
+This business analyst position at Wfp was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

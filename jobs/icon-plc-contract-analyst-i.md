@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Legal |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Contract-Analyst-I_JR156056) |
+| Location | São Paulo, São Paulo, Brazil |
+| Category | Business Analyst |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Brazil-Sao-Paulo/Contract-Analyst-I_JR152968) |
 
 ## About This Role
 
-This legal position at ICON plc was posted on 2026-07-17.
+This business analyst position at ICON plc was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

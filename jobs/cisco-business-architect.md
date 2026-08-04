@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Pune-India/Business-Architect_2014243) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Business-Architect_2019665) |
 
 ## About This Role
 
-This business analyst position at Cisco was posted on 2026-06-02.
+This business analyst position at Cisco was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

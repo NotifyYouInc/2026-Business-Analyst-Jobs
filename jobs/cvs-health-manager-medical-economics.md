@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CVS Health](https://scoutify.ai/companies/cvshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Arkansas, US |
+| Location | Hartford, Connecticut, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Work-from-home/Manager--Medical-Economics_R0890985-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Manager--Medical-Economics_R0887022-1) |
 
 ## About This Role
 
-This business analyst position at CVS Health was posted on 2026-05-22.
+This business analyst position at CVS Health was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

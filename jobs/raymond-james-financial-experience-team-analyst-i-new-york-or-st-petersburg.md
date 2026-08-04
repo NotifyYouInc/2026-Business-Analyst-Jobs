@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Raymond James Financial](https://scoutify.ai/companies/raymondjames?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
-| Category | Operations |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/New-York-New-York---United-States/Experience-Team-Analyst-I--New-York-or-St-Petersburg-_R-0010713-1) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/New-York-New-York---United-States/Experience-Team-Analyst-I--New-York-or-St-Petersburg-_R-0012239) |
 
 ## About This Role
 
-This operations position at Raymond James Financial was posted on 2026-04-21.
+This business analyst position at Raymond James Financial was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

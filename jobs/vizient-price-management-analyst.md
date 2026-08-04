@@ -5,12 +5,12 @@
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Irving, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Price-Management-Analyst_33324R) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Price-Management-Analyst_34604R-1) |
 
 ## About This Role
 
-This business analyst position at Vizient was posted on 2026-04-16.
+This business analyst position at Vizient was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

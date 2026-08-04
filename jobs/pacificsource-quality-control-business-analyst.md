@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacificsource](https://scoutify.ai/companies/pacificsource?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Springfield, Missouri, United States |
+| Location | Missouri, US |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://pacificsource.wd5.myworkdayjobs.com/pacificsource/job/Springfield-OR/Quality-Control-Business-Analyst_2026-811-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://pacificsource.wd5.myworkdayjobs.com/pacificsource/job/WFH-MO/Quality-Control-Business-Analyst_2026-841-1) |
 
 ## About This Role
 
-This business analyst position at Pacificsource was posted on 2026-07-22.
+This business analyst position at Pacificsource was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

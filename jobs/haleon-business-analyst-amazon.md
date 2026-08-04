@@ -5,12 +5,12 @@
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Warren, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Warren-NJ/Business-Analyst--Amazon_540152-1) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/USA---New-Jersey---Warren/Business-Analyst--Amazon_546388) |
 
 ## About This Role
 
-This business analyst position at Haleon was posted on 2026-02-19.
+This business analyst position at Haleon was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

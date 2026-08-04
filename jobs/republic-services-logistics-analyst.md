@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fairfax, Virginia, United States |
+| Location | Wisconsin, US |
 | Category | Business Analyst |
 | Posted | 2026-07-24 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Fairfax-VA-USA/Logistics-Analyst_R-180340) |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Sarona-WI-USA/Logistics-Analyst_R-180397) |
 
 ## About This Role
 

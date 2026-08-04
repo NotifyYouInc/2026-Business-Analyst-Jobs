@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Human Resources / People Ops |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000122757259-workforce-management-specialist) |
+| Category | Business Analyst |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000140064348-workforce-management-specialist) |
 
 ## About This Role
 
-This human resources / people ops position at WISE was posted on 2026-04-24.
+This business analyst position at WISE was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
