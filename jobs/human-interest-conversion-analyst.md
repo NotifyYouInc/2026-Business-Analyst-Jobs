@@ -5,12 +5,12 @@
 | Company | [Human Interest](https://scoutify.ai/companies/human-interest?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/humaninterest/jobs/7699724) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/humaninterest/jobs/8089511) |
 
 ## About This Role
 
-This business analyst position at Human Interest was posted on 2026-03-10.
+This business analyst position at Human Interest was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

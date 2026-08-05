@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Chubb](https://scoutify.ai/companies/ocs-cx-oj28119?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Malaysia |
-| Category | Project Manager |
+| Category | Business Analyst |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#35287) |
 
 ## About This Role
 
-This project manager position at Chubb was posted on 2026-07-28.
+This business analyst position at Chubb was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

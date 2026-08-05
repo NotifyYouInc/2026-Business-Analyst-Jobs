@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Solventum](https://scoutify.ai/companies/solventum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Irvine, California, United States |
+| Location | Brookings, South Dakota, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/US-California-Irvine/Supply-Chain-Analyst_R01132064) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://healthcare.wd1.myworkdayjobs.com/search/job/US-South-Dakota-Brookings/Supply-Chain-Analyst_R01132508) |
 
 ## About This Role
 
-This business analyst position at Solventum was posted on 2026-07-16.
+This business analyst position at Solventum was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

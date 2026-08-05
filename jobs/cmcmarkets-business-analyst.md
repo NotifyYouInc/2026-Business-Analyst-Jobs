@@ -5,12 +5,12 @@
 | Company | [Cmcmarkets](https://scoutify.ai/companies/cmcmarkets?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://cmcmarkets.wd3.myworkdayjobs.com/cmc_markets_careers/job/London/Business-Analyst_CMC5524) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://cmcmarkets.wd3.myworkdayjobs.com/cmc_markets_careers/job/London/Business-Analyst_CMC5586) |
 
 ## About This Role
 
-This business analyst position at Cmcmarkets was posted on 2026-07-02.
+This business analyst position at Cmcmarkets was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

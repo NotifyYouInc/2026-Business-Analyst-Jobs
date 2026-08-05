@@ -5,12 +5,12 @@
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | California, US |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-Pendleton-CA/Maintenance-Management-Analyst_R0242702) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Camp-Pendleton-CA/Maintenance-Management-Analyst_R0245512) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-06-22.
+This business analyst position at Booz Allen was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

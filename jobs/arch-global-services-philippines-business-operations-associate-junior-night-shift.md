@@ -1,16 +1,16 @@
-# Business Operations Associate - Junior (Night Shift) at Arch Global Services (Philippines)
+# Business Operations Associate-Junior (Night Shift) at Arch Global Services (Philippines)
 
 | Field | Details |
 |-------|---------|
 | Company | [Arch Global Services (Philippines)](https://scoutify.ai/companies/archglobalservicesphilippines?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ArchGlobalServicesPhilippinesInc/744000137831654-business-operations-associate-junior-night-shift) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ArchGlobalServicesPhilippinesInc/744000140182749-business-operations-associate-junior-night-shift) |
 
 ## About This Role
 
-This business analyst position at Arch Global Services (Philippines) was posted on 2026-07-15.
+This business analyst position at Arch Global Services (Philippines) was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

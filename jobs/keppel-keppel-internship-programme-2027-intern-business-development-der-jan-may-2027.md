@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Keppel](https://scoutify.ai/companies/keppel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
-| Category | Sales Development (SDR / BDR) |
+| Category | Business Analyst |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://keppel.wd3.myworkdayjobs.com/keppelcareers/job/Singapore/XMLNAME--Keppel-Internship-Programme-2027--Intern--Business-Development--DER--Jan---May-2027-_10016358) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Keppel was posted on 2026-07-28.
+This business analyst position at Keppel was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

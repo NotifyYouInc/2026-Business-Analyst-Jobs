@@ -5,12 +5,12 @@
 | Company | [Ikano-Retail](https://scoutify.ai/companies/ikano-retail?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Thailand |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ikanoretail/744000135412959-staff-planning-specialist-ikea-bangna) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ikanoretail/744000140391429-staff-planning-specialist-ikea-bangna) |
 
 ## About This Role
 
-This business analyst position at Ikano-Retail was posted on 2026-07-02.
+This business analyst position at Ikano-Retail was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sutherland](https://scoutify.ai/companies/sutherland?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Philippines |
 | Category | Business Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000140010939-director-infrastructure-contact-center-business-analyst) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sutherland/744000140213319-director-infrastructure-contact-center-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Sutherland was posted on 2026-07-27.
+This business analyst position at Sutherland was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

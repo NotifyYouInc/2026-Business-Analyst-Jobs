@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Finning](https://scoutify.ai/companies/finning?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Edmonton, Alberta, Canada |
+| Location | Edmonton, Kentucky, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://finning.wd3.myworkdayjobs.com/External/job/Edmonton-AB-CA/Exchange-Planner_R-2026-2130) |
+| Posted | 2026-07-27 |
+| Apply | [View on company site](https://finning.wd3.myworkdayjobs.com/External/job/Edmonton-AB-CA/Exchange-Planner_R-2026-3470) |
 
 ## About This Role
 
-This business analyst position at Finning was posted on 2026-05-29.
+This business analyst position at Finning was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

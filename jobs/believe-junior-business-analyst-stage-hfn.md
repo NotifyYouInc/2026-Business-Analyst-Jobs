@@ -5,12 +5,12 @@
 | Company | [Believe](https://scoutify.ai/companies/believe?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000115441373-junior-business-analyst-stage-hfn) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Believe/744000140183449-junior-business-analyst-stage-hfn) |
 
 ## About This Role
 
-This business analyst position at Believe was posted on 2026-03-18.
+This business analyst position at Believe was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

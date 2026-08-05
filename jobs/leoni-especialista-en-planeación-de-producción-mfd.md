@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LEONI](https://scoutify.ai/companies/leoni?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico |
+| Location | Durango, MX |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000128812799-especialista-en-planeacion-de-produccion-mfd) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000140330290-especialista-en-planeacion-de-produccion-mfd) |
 
 ## About This Role
 
-This business analyst position at LEONI was posted on 2026-05-27.
+This business analyst position at LEONI was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

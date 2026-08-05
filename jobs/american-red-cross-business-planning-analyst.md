@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [American Red Cross](https://scoutify.ai/companies/americanredcross?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | District of Columbia, US |
-| Category | FP&A / Strategic Finance |
+| Category | Business Analyst |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Statewide-DC/Business-Planning-Analyst_RC90095) |
 
 ## About This Role
 
-This fp&a / strategic finance position at American Red Cross was posted on 2026-07-27.
+This business analyst position at American Red Cross was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

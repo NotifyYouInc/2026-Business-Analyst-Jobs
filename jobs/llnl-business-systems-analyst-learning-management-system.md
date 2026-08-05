@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LLNL](https://scoutify.ai/companies/llnl?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Livermore, California, United States |
-| Category | Learning & Development |
+| Category | Business Analyst |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/llnl/3743990014307336-business-systems-analyst-learning-management-system) |
 
 ## About This Role
 
-This learning & development position at LLNL was posted on 2026-07-27.
+This business analyst position at LLNL was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

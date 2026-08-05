@@ -5,12 +5,12 @@
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | San Francisco, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013144466-associate-director-emerging-channel-insights-analytics-market-access-patient-services) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014316396-associate-director-emerging-channel-insights-analytics-market-access-patient-services) |
 
 ## About This Role
 
-This business analyst position at AbbVie was posted on 2026-05-14.
+This business analyst position at AbbVie was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

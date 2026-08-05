@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Gold Coast, Queensland, Australia |
 | Category | Business Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000139380037-business-generation-manager) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000140374069-business-generation-manager) |
 
 ## About This Role
 
-This business analyst position at Turner & Townsend was posted on 2026-07-24.
+This business analyst position at Turner & Townsend was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Manager-Business Development at A.P. Moller - Maersk
+# Manager - Business Development at A.P. Moller - Maersk
 
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shah Alam, Selangor, Malaysia |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Malaysia-Selangor-Shah-Alam-40400/Manager-Business-Development_R181291-1) |
+| Location | Jakarta, Jakarta, Indonesia |
+| Category | Business Analyst |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/Indonesia-Jakarta-12920/Manager---Business-Development_R189976-1) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at A.P. Moller - Maersk was posted on 2026-05-12.
+This business analyst position at A.P. Moller - Maersk was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

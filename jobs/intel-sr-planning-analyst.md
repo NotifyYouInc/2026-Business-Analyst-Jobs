@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intel](https://scoutify.ai/companies/intel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Phoenix, Arizona, United States |
-| Category | FP&A / Strategic Finance |
+| Category | Business Analyst |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Sr-Planning-Analyst_JR0285706) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Intel was posted on 2026-07-27.
+This business analyst position at Intel was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Business Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7657410043649804597/detail) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7667522667452320053/detail) |
 
 ## About This Role
 
-This business analyst position at TikTok was posted on 2026-07-07.
+This business analyst position at TikTok was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Richardson, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C07--1707-Cityline-Dr--CITYLINE-C07/Labor-Analyst-II--Hybrid-_01860250) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C07--1707-Cityline-Dr--CITYLINE-C07/Labor-Analyst-II--Hybrid-_01861448) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-07-21.
+This business analyst position at RTX was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

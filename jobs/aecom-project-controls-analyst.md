@@ -1,16 +1,16 @@
-# Project Controls Analyst at AECOM
+# Project Controls Analyst  at AECOM
 
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tampa, Florida, United States |
-| Category | Compliance & Risk Management |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000120778167-project-controls-analyst) |
+| Location | Bucharest, București, Romania |
+| Category | Business Analyst |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000140239019-project-controls-analyst) |
 
 ## About This Role
 
-This compliance & risk management position at AECOM was posted on 2026-04-14.
+This business analyst position at AECOM was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

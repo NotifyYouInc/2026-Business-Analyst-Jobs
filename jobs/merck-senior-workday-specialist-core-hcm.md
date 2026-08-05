@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Prague, Prague, Czechia |
-| Category | Human Resources / People Ops |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/CZE---Central-Bohemian---Prague-Five/Senior-Workday-Specialist---Core-HCM_R393820-1) |
+| Location | Hyderabad, Telangana, India |
+| Category | Business Analyst |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Senior-Workday-Specialist---Core-HCM_R408685-1) |
 
 ## About This Role
 
-This human resources / people ops position at Merck was posted on 2026-04-22.
+This business analyst position at Merck was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

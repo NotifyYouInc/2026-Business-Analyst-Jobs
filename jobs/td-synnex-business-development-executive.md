@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TD Synnex](https://scoutify.ai/companies/synnex?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chessy, Île-de-France, France |
-| Category | Sales Development (SDR / BDR) |
+| Category | Business Analyst |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Chessy-France/Business-development-executive_R54146) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at TD Synnex was posted on 2026-07-28.
+This business analyst position at TD Synnex was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

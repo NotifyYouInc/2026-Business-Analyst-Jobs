@@ -5,12 +5,12 @@
 | Company | [Northwestern Medicine](https://scoutify.ai/companies/northwesternmedicine?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000136082834-analyst-revenue-integrity) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NorthwesternMedicine/744000140300872-analyst-revenue-integrity) |
 
 ## About This Role
 
-This business analyst position at Northwestern Medicine was posted on 2026-07-06.
+This business analyst position at Northwestern Medicine was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

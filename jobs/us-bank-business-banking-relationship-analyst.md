@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 4 locations |
+| Location | Omaha, Nebraska, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Coeur-dAlene-ID/Business-Banking-Relationship-Analyst_2026-0019337) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Omaha-NE/Business-Banking-Relationship-Analyst_2026-0022475) |
 
 ## About This Role
 
-This business analyst position at U.S. Bank was posted on 2026-07-01.
+This business analyst position at U.S. Bank was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

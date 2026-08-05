@@ -5,12 +5,12 @@
 | Company | [Experian](https://scoutify.ai/companies/experian?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cyberjaya, Selangor, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000138554712-bids-and-tenders-administrator-anz) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Experian/744000140412379-bids-and-tenders-administrator-anz) |
 
 ## About This Role
 
-This business analyst position at Experian was posted on 2026-07-20.
+This business analyst position at Experian was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

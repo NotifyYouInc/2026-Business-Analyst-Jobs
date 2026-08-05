@@ -5,12 +5,12 @@
 | Company | [Home Instead UK](https://scoutify.ai/companies/homeinsteaduk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Yeovil, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HomeInsteadCare/744000139976381-workforce-planning-care-coordinator) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HomeInsteadCare/744000140169271-workforce-planning-care-coordinator) |
 
 ## About This Role
 
-This business analyst position at Home Instead UK was posted on 2026-07-27.
+This business analyst position at Home Instead UK was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

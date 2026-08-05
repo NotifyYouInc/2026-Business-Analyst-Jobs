@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brasília, Federal District, Brazil |
+| Location | Salvador, Bahia, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/Brazil-Braslia/Analista-de-Controle-e-Gesto-Pleno_R-27544-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/Brazil-Salvador/Analista-de-Controle-e-Gesto-Pleno_R-31546-1) |
 
 ## About This Role
 
-This business analyst position at Iberdrola Group was posted on 2026-05-11.
+This business analyst position at Iberdrola Group was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

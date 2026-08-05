@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Julius Baer](https://scoutify.ai/companies/julius-baer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Switzerland |
-| Category | Sales Development (SDR / BDR) |
+| Category | Business Analyst |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://juliusbaer.wd3.myworkdayjobs.com/external/job/Zurich/Business-Development---Region-Emerging-Markets-100---f-m-d-_r-19175-2) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Julius Baer was posted on 2026-07-27.
+This business analyst position at Julius Baer was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
