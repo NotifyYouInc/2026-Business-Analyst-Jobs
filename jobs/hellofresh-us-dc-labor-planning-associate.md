@@ -5,12 +5,12 @@
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7905711?gh_jid=7905711) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/7931110?gh_jid=7931110) |
 
 ## About This Role
 
-This business analyst position at HelloFresh was posted on 2026-05-11.
+This business analyst position at HelloFresh was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [SC Johnson](https://scoutify.ai/companies/scj?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---IL---Chicago/Senior-Analyst--Supply-Planning_33411) |
+| Posted | 2026-07-28 |
+| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---IL---Chicago/Senior-Analyst--Supply-Planning_33633) |
 
 ## About This Role
 
-This business analyst position at SC Johnson was posted on 2026-06-30.
+This business analyst position at SC Johnson was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

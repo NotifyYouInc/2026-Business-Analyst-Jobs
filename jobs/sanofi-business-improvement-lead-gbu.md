@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Business-Improvement-Lead--GBU_R2865876) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Hyderabad/Business-Improvement-Lead--GBU_R2866549-1) |
 
 ## About This Role
 
-This business analyst position at Sanofi was posted on 2026-07-22.
+This business analyst position at Sanofi was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/IND-Demand-Planner_JR-02539114-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/IND-Demand-Planner_JR-02556978) |
 
 ## About This Role
 
-This business analyst position at Lowe's was posted on 2026-06-25.
+This business analyst position at Lowe's was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

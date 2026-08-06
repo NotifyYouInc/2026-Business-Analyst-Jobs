@@ -5,12 +5,12 @@
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Guyancourt, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000140282704-charge-de-planification-apollo-hf) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000140430075-charge-de-planification-apollo-hf) |
 
 ## About This Role
 
-This business analyst position at SOCOTEC was posted on 2026-07-28.
+This business analyst position at SOCOTEC was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

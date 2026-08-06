@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Probe CX](https://scoutify.ai/companies/probe-cx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Makati City, National Capital Region, Philippines |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://probegroup.wd3.myworkdayjobs.com/careers/job/Makati-City-MNL-Philippines/Workforce-Supervisor_JR13752) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://probegroup.wd3.myworkdayjobs.com/careers/job/Quezon-City-MNL-Philippines/Workforce-Supervisor_JR14226-1) |
 
 ## About This Role
 
-This business analyst position at Probe CX was posted on 2026-05-15.
+This business analyst position at Probe CX was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

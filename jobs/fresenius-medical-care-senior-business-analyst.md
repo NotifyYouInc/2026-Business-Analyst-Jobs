@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fresenius Medical Care](https://scoutify.ai/companies/freseniusmedicalcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Waltham, Massachusetts, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Waltham-MA-USA/Senior-Business-Analyst_R0237581-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Atlanta-Galleria-Suite-502-Atlanta-GA-USA/Senior-Business-Analyst_R0259627-1) |
 
 ## About This Role
 
-This business analyst position at Fresenius Medical Care was posted on 2026-02-13.
+This business analyst position at Fresenius Medical Care was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

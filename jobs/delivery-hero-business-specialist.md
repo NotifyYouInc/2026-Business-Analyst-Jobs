@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Panama |
+| Location | Managua, Managua Department, Nicaragua |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000125202749-business-specialist) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000140545419-business-specialist) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-05-07.
+This business analyst position at Delivery Hero was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Toyota](https://scoutify.ai/companies/toyota?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Plano, Texas, United States |
-| Category | Business Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Analyst---Retail-Transformation_10332079) |
 
 ## About This Role
 
-This business analyst position at Toyota was posted on 2026-07-28.
+This strategy & operations position at Toyota was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

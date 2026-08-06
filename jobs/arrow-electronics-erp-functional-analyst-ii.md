@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/ERP-Functional-Analyst-II_R240186) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/ERP-Functional-Analyst-II_R246268) |
 
 ## About This Role
 
-This business analyst position at Arrow Electronics was posted on 2026-02-12.
+This business analyst position at Arrow Electronics was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

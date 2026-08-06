@@ -5,12 +5,12 @@
 | Company | [Zooplus](https://scoutify.ai/companies/zooplusse?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ZooplusSE/744000137645429-working-student-marketplace-all-genders) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ZooplusSE/744000140611737-working-student-marketplace-all-genders) |
 
 ## About This Role
 
-This business analyst position at Zooplus was posted on 2026-07-14.
+This business analyst position at Zooplus was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

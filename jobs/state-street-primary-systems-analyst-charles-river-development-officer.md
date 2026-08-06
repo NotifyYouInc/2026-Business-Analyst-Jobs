@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Database Administration |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Primary-Systems-Analyst--Charles-River-Development--Officer_R-785296) |
+| Location | London, England, United Kingdom |
+| Category | Business Analyst |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/London-England/Primary-Systems-Analyst--Charles-River-Development--Officer_R-794261) |
 
 ## About This Role
 
-This database administration position at State Street was posted on 2026-03-06.
+This business analyst position at State Street was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

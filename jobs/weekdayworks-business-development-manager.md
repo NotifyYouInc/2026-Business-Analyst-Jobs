@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Weekdayworks](https://scoutify.ai/companies/weekdayworks?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Engineering Manager |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.lever.co/weekdayworks/d5583519-d0f6-4cb2-8139-c99aabe95e95) |
+| Location | Navi Mumbai, Maharashtra, India |
+| Category | Business Analyst |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://jobs.lever.co/weekdayworks/539afb54-9958-423e-adc9-5c1697ffda3c) |
 
 ## About This Role
 
-This engineering manager position at Weekdayworks was posted on 2026-07-13.
+This business analyst position at Weekdayworks was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

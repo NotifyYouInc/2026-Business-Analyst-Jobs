@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Boise, Idaho, United States |
-| Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Staff-Revenue-Operations-Business-Analyst_JR106187) |
+| Category | Operations |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Staff-Revenue-Operations-Business-Analyst_JR106815) |
 
 ## About This Role
 
-This business analyst position at Micron was posted on 2026-07-14.
+This operations position at Micron was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

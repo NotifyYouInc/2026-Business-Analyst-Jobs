@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | St. Louis, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/CHN-Beijing-Zhong-Guan-Cun-No1/Principal-Technical-Business-Analyst-Position_R0118858-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/USA-St-Louis-795-Office-Pkwy/Principal-Technical-Business-Analyst_R0119345-1) |
 
 ## About This Role
 
-This business analyst position at LSEG was posted on 2026-05-18.
+This business analyst position at LSEG was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

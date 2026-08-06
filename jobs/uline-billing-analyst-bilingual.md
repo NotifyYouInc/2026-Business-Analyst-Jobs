@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Waukegan-IL/Billing-Analyst---Bilingual_R264601-1) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Billing-Analyst---Bilingual_R266019-1) |
 
 ## About This Role
 
-This business analyst position at Uline was posted on 2026-06-18.
+This business analyst position at Uline was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

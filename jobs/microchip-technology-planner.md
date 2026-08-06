@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Garden Grove, California, United States |
+| Location | Philippines |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CA---Garden-Grove/Planner_R958-25) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/Philippines---Mphil-3/Planner_R2964-26) |
 
 ## About This Role
 
-This business analyst position at Microchip Technology was posted on 2026-04-07.
+This business analyst position at Microchip Technology was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

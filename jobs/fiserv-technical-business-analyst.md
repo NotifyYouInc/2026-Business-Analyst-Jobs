@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Alpharetta, Georgia, United States |
-| Category | Project Manager |
-| Posted | 2026-04-01 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Technical-Business-Analyst_R-10390348) |
+| Location | 4 locations |
+| Category | Business Analyst |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/Technical-Business-Analyst_R-10382092) |
 
 ## About This Role
 
-This project manager position at Fiserv was posted on 2026-04-01.
+This business analyst position at Fiserv was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

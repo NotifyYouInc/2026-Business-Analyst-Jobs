@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Daimler Truck](https://scoutify.ai/companies/dtna?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Fort Mill, South Carolina, United States |
-| Category | Business Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-07-28 |
 | Apply | [View on company site](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Fort-Mill-SC-US/Pricing-Strategy-and-Planning-Analyst-I_DT-19026) |
 
 ## About This Role
 
-This business analyst position at Daimler Truck was posted on 2026-07-28.
+This strategy & operations position at Daimler Truck was posted on 2026-07-28.
 
 ## Get Real-Time Alerts
 

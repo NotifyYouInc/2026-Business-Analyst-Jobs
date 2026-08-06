@@ -5,12 +5,12 @@
 | Company | [Creditacceptance](https://scoutify.ai/companies/creditacceptance?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | India |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://creditacceptance.wd5.myworkdayjobs.com/credit_acceptance/job/India---Remote/Staff-Business-Analyst--Employer-of-Record-_R13708) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://creditacceptance.wd5.myworkdayjobs.com/credit_acceptance/job/India---Remote/Staff-Business-Analyst--Employer-of-Record-_R13709) |
 
 ## About This Role
 
-This business analyst position at Creditacceptance was posted on 2026-06-25.
+This business analyst position at Creditacceptance was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

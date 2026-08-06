@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Compassion International](https://scoutify.ai/companies/compassion?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Colorado Springs, Colorado, United States |
-| Category | Business Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-07-27 |
 | Apply | [View on company site](https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/Colorado-Springs-CO/Business-Support-Specialist-II---Operational-Excellence_R8303-1) |
 
 ## About This Role
 
-This business analyst position at Compassion International was posted on 2026-07-27.
+This strategy & operations position at Compassion International was posted on 2026-07-27.
 
 ## Get Real-Time Alerts
 
