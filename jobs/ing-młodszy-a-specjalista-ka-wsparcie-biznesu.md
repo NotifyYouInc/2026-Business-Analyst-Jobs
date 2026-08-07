@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
+| Location | Katowice, Silesia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/PB_DetKorp_Gdask-Al-Grunwaldzka-415/Modszy-a-Specjalista-ka---Wsparcie-Biznesu_REQ-10118968) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/PB_Cen_Katowice-ul-Sokolska-34/Modszy-a-Specjalista-ka---Wsparcie-Biznesu_REQ-10119202) |
 
 ## About This Role
 
-This business analyst position at ING was posted on 2026-07-27.
+This business analyst position at ING was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

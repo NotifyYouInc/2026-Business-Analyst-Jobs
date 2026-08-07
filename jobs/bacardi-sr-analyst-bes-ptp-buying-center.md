@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bacardi](https://scoutify.ai/companies/bacardi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://bacardi.wd3.myworkdayjobs.com/jobs_bacardi/job/Escazu-San-Jose/Sr-Analyst--BES--PTP--Buying-Center_R26_00668) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://bacardi.wd3.myworkdayjobs.com/jobs_bacardi/job/Warsaw/Sr-Analyst--BES--PTP--Buying-Center_R26_01327) |
 
 ## About This Role
 
-This business analyst position at Bacardi was posted on 2026-05-12.
+This business analyst position at Bacardi was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

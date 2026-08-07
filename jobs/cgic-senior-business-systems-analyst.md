@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CGIC](https://scoutify.ai/companies/cgic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://recruiting.ultipro.com/coo5000coop/JobBoard/609ec056-be55-474e-9859-a522bc040aca/OpportunityDetail?opportunityId=cad4c552-26b1-4d3b-80e0-14aafcee6dbc) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://recruiting.ultipro.com/coo5000coop/JobBoard/609ec056-be55-474e-9859-a522bc040aca/OpportunityDetail?opportunityId=6f9f79b8-c96b-4f1d-8834-9683b5a267ba) |
 
 ## About This Role
 
-This business analyst position at CGIC was posted on 2026-05-01.
+This business analyst position at CGIC was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

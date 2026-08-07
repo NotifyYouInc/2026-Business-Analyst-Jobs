@@ -6,7 +6,7 @@
 | Location | Cairo, Cairo, Egypt |
 | Category | Business Analyst |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo/ETIC--Resource-Manager---Senior-Associate_745773WD) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo/ETIC--Resource-Manager---Senior-Associate_745063WD) |
 
 ## About This Role
 

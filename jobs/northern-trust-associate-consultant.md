@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Northern Trust](https://scoutify.ai/companies/northern-trust?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Manila, National Capital Region, Philippines |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Manila-Philippines/Associate-Consultant_R155981) |
+| Category | Business Analyst |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Manila-Philippines/Associate-Consultant_R158328) |
 
 ## About This Role
 
-This strategy / management consulting position at Northern Trust was posted on 2026-06-15.
+This business analyst position at Northern Trust was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

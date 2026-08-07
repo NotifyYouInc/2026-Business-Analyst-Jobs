@@ -1,16 +1,16 @@
-# Sr. Business Analyst, HR Technology at Western Digital
+# Sr. Business Analyst, HR Technology  at Western Digital
 
 | Field | Details |
 |-------|---------|
 | Company | [Western Digital](https://scoutify.ai/companies/westerndigital?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | San Jose, California, United States |
-| Category | Human Resources / People Ops |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000126594609-sr-business-analyst-hr-technology) |
+| Category | Business Analyst |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WesternDigital/744000140744679-sr-business-analyst-hr-technology) |
 
 ## About This Role
 
-This human resources / people ops position at Western Digital was posted on 2026-05-14.
+This business analyst position at Western Digital was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

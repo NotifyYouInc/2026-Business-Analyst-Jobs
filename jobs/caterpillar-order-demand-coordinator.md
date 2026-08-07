@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Miramar, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Miramar-Florida/Order---Demand-Coordinator_R0000353067) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Miramar-Florida/Order---Demand-Coordinator_R0000385643) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-02-23.
+This business analyst position at Caterpillar was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

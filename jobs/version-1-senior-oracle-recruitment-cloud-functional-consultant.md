@@ -6,7 +6,7 @@
 | Location | 6 locations |
 | Category | Business Analyst |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000140497229-senior-oracle-recruitment-cloud-functional-consultant) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000140500449-senior-oracle-recruitment-cloud-functional-consultant) |
 
 ## About This Role
 

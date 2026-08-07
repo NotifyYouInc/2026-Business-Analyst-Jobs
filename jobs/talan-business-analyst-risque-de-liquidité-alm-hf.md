@@ -6,7 +6,7 @@
 | Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000140405550-business-analyst-risque-de-liquidite-alm-hf) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000140524149-business-analyst-risque-de-liquidite-alm-hf) |
 
 ## About This Role
 

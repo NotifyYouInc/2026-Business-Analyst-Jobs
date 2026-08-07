@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stripe](https://scoutify.ai/companies/stripe?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dublin, Leinster, Ireland |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=7769829) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://stripe.com/jobs/search?gh_jid=8079783) |
 
 ## About This Role
 
-This business analyst position at Stripe was posted on 2026-04-03.
+This business analyst position at Stripe was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

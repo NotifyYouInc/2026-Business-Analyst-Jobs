@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Operations-Excellence-Analyst--Hybrid-_R65222) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Operations-Excellence-Analyst--Hybrid-_R67246) |
 
 ## About This Role
 
-This business analyst position at Motorola Solutions was posted on 2026-06-22.
+This business analyst position at Motorola Solutions was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

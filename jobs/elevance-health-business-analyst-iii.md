@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Latham, New York, United States |
+| Location | 8 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/NY-LATHAM-15-PLAZA-DR/Business-Analyst-III_JR197608) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Business-Analyst-III_JR199858) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-07-09.
+This business analyst position at Elevance Health was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

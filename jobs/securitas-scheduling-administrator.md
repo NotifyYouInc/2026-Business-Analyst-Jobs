@@ -6,7 +6,7 @@
 | Location | Milton Keynes, England, United Kingdom |
 | Category | Business Analyst |
 | Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000140496679-scheduling-administrator) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/securitas/744000140497861-scheduling-administrator) |
 
 ## About This Role
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Oceanside, California, United States |
+| Location | Branson, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Oceanside-Pier/Business-Operations-Coordinator-I_R-124252) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Branson-Meadow-Sales/Business-Operations-Coordinator-I_R-126405-1) |
 
 ## About This Role
 
-This business analyst position at Travel + Leisure Co. was posted on 2026-06-16.
+This business analyst position at Travel + Leisure Co. was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business execution Associate at Wells Fargo
+# Business execution associate at Wells Fargo
 
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Business-execution-Associate_R-553172) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Business-execution-associate_R-559832) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-07-09.
+This business analyst position at Wells Fargo was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

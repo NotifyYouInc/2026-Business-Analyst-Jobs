@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Apodaca-Mexico/Manufacturing-Planner-Scheduler-II_R-01357022) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Manufacturing-Planner-Scheduler-II_R-01361210) |
 
 ## About This Role
 
-This business analyst position at Thermo Fisher Scientific was posted on 2026-06-12.
+This business analyst position at Thermo Fisher Scientific was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

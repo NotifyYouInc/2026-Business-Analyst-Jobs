@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thinkahead](https://scoutify.ai/companies/thinkahead?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.lever.co/thinkahead/10e43087-6155-47a6-91b8-f80817a244ea) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.lever.co/thinkahead/d32be80a-11fa-4c1e-bb93-bda7007f84f0) |
 
 ## About This Role
 
-This business analyst position at Thinkahead was posted on 2026-06-01.
+This business analyst position at Thinkahead was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

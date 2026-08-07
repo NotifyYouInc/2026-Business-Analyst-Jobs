@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Pacific Life](https://scoutify.ai/companies/pacificlife?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Newport Beach, California, United States |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-700/Systems-Analyst-II_R17405) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://pacificlife.wd1.myworkdayjobs.com/PacificLifeCareers/job/Newport-Beach-CA-800/Systems-Analyst-II_R17407) |
 
 ## About This Role
 
-This business analyst position at Pacific Life was posted on 2026-07-23.
+This business analyst position at Pacific Life was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Little Rock, Arkansas, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/AR-LITTLE-ROCK-650-S-SHACKLEFORD-RD-STE-440/Business-Consultant_JR200719) |
+| Posted | 2026-07-29 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/OH-SEVEN-HILLS-6000-LOMBARDO-CENTER-STE-200/Business-Consultant_JR199874) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-07-28.
+This business analyst position at Elevance Health was posted on 2026-07-29.
 
 ## Get Real-Time Alerts
 

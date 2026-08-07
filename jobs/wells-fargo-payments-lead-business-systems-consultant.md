@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/PHOENIX-AZ/Payments-Lead-business-Systems-Consultant_R-545549) |
+| Location | Charlotte, North Carolina, United States |
+| Category | Business Analyst |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Payments-Lead-business-Systems-Consultant_R-564211) |
 
 ## About This Role
 
-This technology / it consulting position at Wells Fargo was posted on 2026-05-14.
+This business analyst position at Wells Fargo was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

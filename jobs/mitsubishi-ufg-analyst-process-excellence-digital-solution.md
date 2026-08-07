@@ -5,12 +5,12 @@
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Strategy & Operations |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Analyst--Process-Excellence---Digital-Solution_10078076-WD) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Analyst--Process-Excellence---Digital-Solution_10078073-WD-2) |
 
 ## About This Role
 
-This strategy & operations position at Mitsubishi UFG was posted on 2026-07-17.
+This strategy & operations position at Mitsubishi UFG was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Coolblue](https://scoutify.ai/companies/coolblue?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Rotterdam, South Holland, The Netherlands |
 | Category | Business Analyst |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coolblue/744000116964647-junior-business-analist) |
+| Posted | 2026-07-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coolblue/744000140676218-junior-business-analist) |
 
 ## About This Role
 
-This business analyst position at Coolblue was posted on 2026-03-26.
+This business analyst position at Coolblue was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 
