@@ -5,12 +5,12 @@
 | Company | [Inter Ikea Systems](https://scoutify.ai/companies/interikeasystems?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Malmö, Skåne, Sweden |
 | Category | Business Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000139976650-business-process-partner-process-capabilities-operations-management) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InterIKEAGroup/744000140859419-business-process-partner-process-capabilities-operations-management) |
 
 ## About This Role
 
-This business analyst position at Inter Ikea Systems was posted on 2026-07-27.
+This business analyst position at Inter Ikea Systems was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

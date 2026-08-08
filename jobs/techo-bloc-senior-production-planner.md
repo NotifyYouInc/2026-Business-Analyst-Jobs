@@ -5,12 +5,12 @@
 | Company | [Techo-Bloc](https://scoutify.ai/companies/techobloc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Saint-Hubert, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000137435769-senior-production-planner) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000140886825-senior-production-planner) |
 
 ## About This Role
 
-This business analyst position at Techo-Bloc was posted on 2026-07-13.
+This business analyst position at Techo-Bloc was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

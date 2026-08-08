@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQ-EQ](https://scoutify.ai/companies/iqeq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Sales Leadership |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000129267459-director-business-development) |
+| Category | Business Analyst |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/IQEQ/744000140980639-director-business-development) |
 
 ## About This Role
 
-This sales leadership position at IQ-EQ was posted on 2026-05-29.
+This business analyst position at IQ-EQ was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

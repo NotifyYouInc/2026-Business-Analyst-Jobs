@@ -1,16 +1,16 @@
-# Associate, Business Analyst at Royal Bank of Canada
+# Associate Business Analyst at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Jersey City, New Jersey, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Jersey-City-New-Jersey-United-States-of-America/Associate--Business-Analyst_R-0000177279) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Associate-Business-Analyst_R-0000179227) |
 
 ## About This Role
 
-This business analyst position at Royal Bank of Canada was posted on 2026-07-01.
+This business analyst position at Royal Bank of Canada was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

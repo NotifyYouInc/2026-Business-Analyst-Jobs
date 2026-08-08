@@ -1,16 +1,16 @@
-# Business Systems Analyst, Senior at PNC Financial
+# Business Systems Analyst Senior at PNC Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Systems-Analyst--Senior_R224099-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Philadelphia-19103/Business-Systems-Analyst-Senior_R230860-1) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-05-22.
+This business analyst position at PNC Financial was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arhaus](https://scoutify.ai/companies/arhaus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://recruiting.ultipro.com/arh1000arh/JobBoard/e5051b40-e91f-fa81-f0bf-ed2e9361f690/OpportunityDetail?opportunityId=f3f7d2fc-fd9c-451b-9b2b-18f4c5db8efd) |
+| Location | United States |
+| Category | Business Analyst |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://recruiting.ultipro.com/arh1000arh/JobBoard/e5051b40-e91f-fa81-f0bf-ed2e9361f690/OpportunityDetail?opportunityId=75bf8e27-58fe-4f01-bed0-91d4e77717ca) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Arhaus was posted on 2026-05-07.
+This business analyst position at Arhaus was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

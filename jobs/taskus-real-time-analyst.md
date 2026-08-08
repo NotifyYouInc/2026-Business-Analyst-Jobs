@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philippines |
+| Location | Las Piñas, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Pasig-NCR-Philippines/Real-Time-Analyst_R_2605_7174) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Las-Pinas-NCR-Philippines/Real-Time-Analyst_R_2607_9960) |
 
 ## About This Role
 
-This business analyst position at TaskUs was posted on 2026-05-29.
+This business analyst position at TaskUs was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

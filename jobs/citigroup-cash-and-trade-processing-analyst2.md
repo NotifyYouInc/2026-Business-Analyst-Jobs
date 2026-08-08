@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Cash-and-Trade-Processing-Analyst2_26967519-1) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Bogota--Colombia/Cash-and-Trade-Processing-Analyst2_26982953) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-06-01.
+This business analyst position at Citigroup was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

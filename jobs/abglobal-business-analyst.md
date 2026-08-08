@@ -5,12 +5,12 @@
 | Company | [Abglobal](https://scoutify.ai/companies/abglobal-alliancebernste?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nashville, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Business-Analyst_R0018743-1) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Business-Analyst_R0019227) |
 
 ## About This Role
 
-This business analyst position at Abglobal was posted on 2026-06-16.
+This business analyst position at Abglobal was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

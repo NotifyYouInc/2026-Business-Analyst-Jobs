@@ -5,12 +5,12 @@
 | Company | [TMX Group](https://scoutify.ai/companies/tmx-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Business-Systems-Analyst_R-5741) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Business-Systems-Analyst_R-6246) |
 
 ## About This Role
 
-This business analyst position at TMX Group was posted on 2026-02-10.
+This business analyst position at TMX Group was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

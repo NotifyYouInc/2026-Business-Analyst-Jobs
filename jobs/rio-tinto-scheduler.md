@@ -5,12 +5,12 @@
 | Company | [Rio Tinto](https://scoutify.ai/companies/riotinto?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brisbane, Queensland, Australia |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Brisbane/Scheduler_R58354-1) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Brisbane/Scheduler_R62126) |
 
 ## About This Role
 
-This business analyst position at Rio Tinto was posted on 2026-05-28.
+This business analyst position at Rio Tinto was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

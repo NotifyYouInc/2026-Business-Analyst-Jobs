@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Datalabusa](https://scoutify.ai/companies/datalabusa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Germantown, Maryland, United States |
+| Location | Westminster, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.lever.co/datalabusa/cd9b69aa-5e04-4689-a3c6-ae853bd98128) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.lever.co/datalabusa/b806fb7f-addc-4722-a745-a81d9224b536) |
 
 ## About This Role
 
-This business analyst position at Datalabusa was posted on 2026-04-20.
+This business analyst position at Datalabusa was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lcmchealth](https://scoutify.ai/companies/lcmchealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Orleans, Louisiana, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://lcmchealth.wd1.myworkdayjobs.com/lcmchealth/job/LCMC-Health-Corporate/IT-Epic-Analyst--Ambulatory_JR0029212) |
+| Location | Louisiana, US |
+| Category | Business Analyst |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://lcmchealth.wd1.myworkdayjobs.com/lcmchealth/job/LCMC-Health-Corporate/IT-Systems-Analyst-EPIC-Ambulatory_JR0038899) |
 
 ## About This Role
 
-This it & systems administration position at Lcmchealth was posted on 2026-04-22.
+This business analyst position at Lcmchealth was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

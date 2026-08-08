@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nationwide Building Society](https://scoutify.ai/companies/em2-cx-oj74935?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Swindon, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://dnn.fa.em2.oraclecloud.com/jobs/#2809) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://dnn.fa.em2.oraclecloud.com/jobs/#4273) |
 
 ## About This Role
 
-This business analyst position at Nationwide Building Society was posted on 2026-07-06.
+This business analyst position at Nationwide Building Society was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

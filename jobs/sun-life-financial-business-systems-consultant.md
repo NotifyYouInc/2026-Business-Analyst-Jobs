@@ -1,16 +1,16 @@
-# Business & Systems Consultant at Sun Life Financial
+# Business Systems Consultant at Sun Life Financial
 
 | Field | Details |
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 4 locations |
-| Category | Technology / IT Consulting |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterloo-Ontario/Business---Systems-Consultant_JR00126052) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Business-Systems-Consultant_JR00126406) |
 
 ## About This Role
 
-This technology / it consulting position at Sun Life Financial was posted on 2026-07-23.
+This business analyst position at Sun Life Financial was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

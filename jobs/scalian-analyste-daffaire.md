@@ -5,12 +5,12 @@
 | Company | [Scalian](https://scoutify.ai/companies/scalian?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000110462865-analyste-daffaire) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Scalian/744000140916804-analyste-daffaire) |
 
 ## About This Role
 
-This business analyst position at Scalian was posted on 2026-02-20.
+This business analyst position at Scalian was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

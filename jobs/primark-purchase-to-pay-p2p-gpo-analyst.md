@@ -6,7 +6,7 @@
 | Location | Dublin, Leinster, Ireland |
 | Category | Business Analyst |
 | Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000140655073-purchase-to-pay-p2p-gpo-analyst) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000140709898-purchase-to-pay-p2p-gpo-analyst) |
 
 ## About This Role
 

@@ -1,16 +1,16 @@
-# ANALISTA COMERCIAL at Abbott
+# Analista Comercial at Abbott
 
 | Field | Details |
 |-------|---------|
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lima, Lima Province, Peru |
+| Location | Santiago, Santiago Metropolitan, Chile |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Peru---Lima/ANALISTA-COMERCIAL_31151485) |
+| Posted | 2026-07-31 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Chile---Santiago/Analista-Comercial_31157273) |
 
 ## About This Role
 
-This business analyst position at Abbott was posted on 2026-05-28.
+This business analyst position at Abbott was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

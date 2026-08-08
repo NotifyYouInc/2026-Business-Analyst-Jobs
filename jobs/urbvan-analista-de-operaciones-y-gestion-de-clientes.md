@@ -5,12 +5,12 @@
 | Company | [Urbvan](https://scoutify.ai/companies/urbvan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Urbvan/744000115766336-analista-de-operaciones-y-gestion-de-clientes) |
+| Posted | 2026-08-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Urbvan/744000141013889-analista-de-operaciones-y-gestion-de-clientes) |
 
 ## About This Role
 
-This business analyst position at Urbvan was posted on 2026-03-20.
+This business analyst position at Urbvan was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 
