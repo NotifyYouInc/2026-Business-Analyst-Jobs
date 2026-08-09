@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Trinity Health](https://scoutify.ai/companies/trinity-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Business Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-07-30 |
 | Apply | [View on company site](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Atlanta-Georgia/Strategic-Planning-Analyst_00683975) |
 
 ## About This Role
 
-This business analyst position at Trinity Health was posted on 2026-07-30.
+This strategy & operations position at Trinity Health was posted on 2026-07-30.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Technical Business Analyst at Leidos
+# Internship for Stakeholder Relations, PETRONAS, Kota Kinabalu, Sabah at PETRONAS
 
 | Field | Details |
 |-------|---------|
-| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Kota Kinabalu, Sabah, Malaysia |
 | Category | Business Analyst |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Baltimore-MD/Senior-Technical-Business-Analyst_R-00188442) |
+| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#29467) |
 
 ## About This Role
 
-This business analyst position at Leidos was posted on 2026-08-02.
+This business analyst position at PETRONAS was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

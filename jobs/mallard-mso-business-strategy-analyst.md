@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mallard MSO](https://scoutify.ai/companies/us2-cx-oj76032?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bethpage, New York, United States |
-| Category | Business Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-08-01 |
 | Apply | [View on company site](https://eppr.fa.us2.oraclecloud.com/jobs/#190688) |
 
 ## About This Role
 
-This business analyst position at Mallard MSO was posted on 2026-08-01.
+This strategy & operations position at Mallard MSO was posted on 2026-08-01.
 
 ## Get Real-Time Alerts
 

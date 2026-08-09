@@ -1,16 +1,16 @@
-# Business Operations Analyst at SKELAR
+# Resource Mgmt Analyst at HCSC
 
 | Field | Details |
 |-------|---------|
-| Company | [SKELAR](https://scoutify.ai/companies/skelar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
-| Category | Strategy & Operations |
+| Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 5 locations |
+| Category | Business Analyst |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/skelar/643f64b2-ba01-413e-b8da-7cadf297521c) |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/NM---Albuquerque/Resource-Mgmt-Analyst_R0055103-1) |
 
 ## About This Role
 
-This strategy & operations position at SKELAR was posted on 2026-07-31.
+This business analyst position at HCSC was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 

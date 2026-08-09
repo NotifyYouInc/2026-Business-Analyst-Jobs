@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Datalabusa](https://scoutify.ai/companies/datalabusa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Westminster, Colorado, United States |
-| Category | Business Analyst |
+| Category | IT & Systems Administration |
 | Posted | 2026-07-31 |
 | Apply | [View on company site](https://jobs.lever.co/datalabusa/b806fb7f-addc-4722-a745-a81d9224b536) |
 
 ## About This Role
 
-This business analyst position at Datalabusa was posted on 2026-07-31.
+This it & systems administration position at Datalabusa was posted on 2026-07-31.
 
 ## Get Real-Time Alerts
 
