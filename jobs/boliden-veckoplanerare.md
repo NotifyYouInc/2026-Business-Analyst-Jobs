@@ -1,16 +1,16 @@
-# Integrated Insights Business Partner at Novartis
+# Veckoplanerare at Boliden
 
 | Field | Details |
 |-------|---------|
-| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Moscow, Moscow, Russia |
+| Company | [Boliden](https://scoutify.ai/companies/boliden?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Sweden |
 | Category | Business Analyst |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Moscow-City/Integrated-Insights-Business-Partner_REQ-10084548) |
+| Apply | [View on company site](https://boliden.wd3.myworkdayjobs.com/bolidenjobs/job/Garpenberg/Veckoplanerare_JOB_015440) |
 
 ## About This Role
 
-This business analyst position at Novartis was posted on 2026-08-02.
+This business analyst position at Boliden was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Demand Planner at PPG Industries
+# Business Analyst - Developer at Avaloq
 
 | Field | Details |
 |-------|---------|
-| Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shah Alam, Selangor, Malaysia |
+| Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Makati City, National Capital Region, Philippines |
 | Category | Business Analyst |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MYS---Shah-Alam-Office/Senior-Demand-Planner_JR266284-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000141190394-business-analyst-developer) |
 
 ## About This Role
 
-This business analyst position at PPG Industries was posted on 2026-08-03.
+This business analyst position at Avaloq was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Senior Demand Planner at PPG Industries
+# DPS - Associate PM at Hitachi
 
 | Field | Details |
 |-------|---------|
-| Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shah Alam, Selangor, Malaysia |
+| Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MYS---Shah-Alam-Office/Senior-Demand-Planner_JR266284-1) |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Chennai-Tamil-Nadu-India/DPS---Associate-PM_R0137719-1) |
 
 ## About This Role
 
-This business analyst position at PPG Industries was posted on 2026-08-03.
+This business analyst position at Hitachi was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

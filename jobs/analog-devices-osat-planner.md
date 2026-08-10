@@ -1,4 +1,4 @@
-# Analyst, Supply Chain Planning at Analog Devices
+# OSAT Planner at Analog Devices
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Cavite, Central Luzon, Philippines |
 | Category | Business Analyst |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/Analyst--Supply-Chain-Planning_R264098-1) |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/Philippines-Cavite-jp/OSAT-Planner_R264214) |
 
 ## About This Role
 

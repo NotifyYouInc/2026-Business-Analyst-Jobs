@@ -1,16 +1,16 @@
-# Senior Demand Planner at PPG Industries
+#  Mérnök támogató gyakronok at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shah Alam, Selangor, Malaysia |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Hatvan, Heves County, Hungary |
 | Category | Business Analyst |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MYS---Shah-Alam-Office/Senior-Demand-Planner_JR266284-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141188069-mernok-tamogato-gyakronok) |
 
 ## About This Role
 
-This business analyst position at PPG Industries was posted on 2026-08-03.
+This business analyst position at Robert Bosch was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

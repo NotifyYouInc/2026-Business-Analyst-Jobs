@@ -1,16 +1,16 @@
-# M356 CRM Business Analyst at Robert Bosch
+# Senior Business Analyst – Commercial at Thermo Fisher Scientific
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141173558-m356-crm-business-analyst) |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Senior-Business-Analyst---Commercial_R-01363207-1) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-08-03.
+This business analyst position at Thermo Fisher Scientific was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

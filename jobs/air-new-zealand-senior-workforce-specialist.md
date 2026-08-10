@@ -1,16 +1,16 @@
-# Senior Demand Planner at PPG Industries
+# Senior Workforce Specialist at Air New Zealand
 
 | Field | Details |
 |-------|---------|
-| Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shah Alam, Selangor, Malaysia |
+| Company | [Air New Zealand](https://scoutify.ai/companies/air-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Business Analyst |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MYS---Shah-Alam-Office/Senior-Demand-Planner_JR266284-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001278254-senior-workforce-specialist) |
 
 ## About This Role
 
-This business analyst position at PPG Industries was posted on 2026-08-03.
+This business analyst position at Air New Zealand was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

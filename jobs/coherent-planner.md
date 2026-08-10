@@ -1,16 +1,16 @@
-# Senior Demand Planner at PPG Industries
+# Planner at Coherent
 
 | Field | Details |
 |-------|---------|
-| Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shah Alam, Selangor, Malaysia |
+| Company | [Coherent](https://scoutify.ai/companies/us2-cx-oj23809?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Bangkok, Bangkok, Thailand |
 | Category | Business Analyst |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MYS---Shah-Alam-Office/Senior-Demand-Planner_JR266284-1) |
+| Apply | [View on company site](https://hcwp.fa.us2.oraclecloud.com/jobs/#2012952) |
 
 ## About This Role
 
-This business analyst position at PPG Industries was posted on 2026-08-03.
+This business analyst position at Coherent was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

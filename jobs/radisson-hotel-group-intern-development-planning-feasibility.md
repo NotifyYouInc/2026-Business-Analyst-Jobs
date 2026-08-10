@@ -1,16 +1,16 @@
-# Analyst, Product Solutions & Billing at AIA Group
+# Intern, Development Planning & Feasibility at Radisson Hotel Group
 
 | Field | Details |
 |-------|---------|
-| Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [Radisson Hotel Group](https://scoutify.ai/companies/radissonhotelgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Business Analyst |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/SG-Tampines-Agency-Building/Analyst--Product-Solutions---Billing_JR-68692-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000141168359-intern-development-planning-feasibility) |
 
 ## About This Role
 
-This business analyst position at AIA Group was posted on 2026-08-03.
+This business analyst position at Radisson Hotel Group was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

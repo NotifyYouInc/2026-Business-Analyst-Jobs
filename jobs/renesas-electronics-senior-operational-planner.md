@@ -1,16 +1,16 @@
-# Senior Demand Planner at PPG Industries
+# Senior Operational Planner at Renesas Electronics
 
 | Field | Details |
 |-------|---------|
-| Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shah Alam, Selangor, Malaysia |
+| Company | [Renesas Electronics](https://scoutify.ai/companies/renesaselectronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Zhubei, Taiwan, Taiwan |
 | Category | Business Analyst |
 | Posted | 2026-08-03 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MYS---Shah-Alam-Office/Senior-Demand-Planner_JR266284-1) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RenesasElectronics/744000141170119-senior-operational-planner) |
 
 ## About This Role
 
-This business analyst position at PPG Industries was posted on 2026-08-03.
+This business analyst position at Renesas Electronics was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

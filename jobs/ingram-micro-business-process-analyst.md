@@ -1,16 +1,16 @@
-# Integrated Insights Business Partner at Novartis
+# Business Process Analyst at Ingram Micro
 
 | Field | Details |
 |-------|---------|
-| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Moscow, Moscow, Russia |
+| Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Philippines |
 | Category | Business Analyst |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Moscow-City/Integrated-Insights-Business-Partner_REQ-10084548) |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Taguig-City-Philippines/Business-Process-Analyst_R-116788) |
 
 ## About This Role
 
-This business analyst position at Novartis was posted on 2026-08-02.
+This business analyst position at Ingram Micro was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

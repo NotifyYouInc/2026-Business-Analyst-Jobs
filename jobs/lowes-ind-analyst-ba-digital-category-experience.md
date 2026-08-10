@@ -1,16 +1,16 @@
-# M356 CRM Business Analyst at Robert Bosch
+# IND-Analyst BA_Digital Category Experience at Lowe's
 
 | Field | Details |
 |-------|---------|
-| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [Lowe's](https://scoutify.ai/companies/lowes?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141173558-m356-crm-business-analyst) |
+| Posted | 2026-08-02 |
+| Apply | [View on company site](https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Bengaluru/IND-Analyst-BA-Digital-Category-Experience_JR-02595014) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-08-03.
+This business analyst position at Lowe's was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

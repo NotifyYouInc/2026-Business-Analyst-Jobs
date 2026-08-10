@@ -1,16 +1,16 @@
-# Integrated Insights Business Partner at Novartis
+# ETIC, PMIS - Business Analyst - Senior Manager at PwC
 
 | Field | Details |
 |-------|---------|
-| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Moscow, Moscow, Russia |
+| Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Cairo, Cairo, Egypt |
 | Category | Business Analyst |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Moscow-City/Integrated-Insights-Business-Partner_REQ-10084548) |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--PMIS---Business-Analyst---Senior-Manager_734729WD-1) |
 
 ## About This Role
 
-This business analyst position at Novartis was posted on 2026-08-02.
+This business analyst position at PwC was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

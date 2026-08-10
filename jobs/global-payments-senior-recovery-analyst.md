@@ -1,16 +1,16 @@
-# Integrated Insights Business Partner at Novartis
+# Senior Recovery Analyst at Global Payments
 
 | Field | Details |
 |-------|---------|
-| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Moscow, Moscow, Russia |
+| Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Quezon City, National Capital Region, Philippines |
 | Category | Business Analyst |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Moscow-City/Integrated-Insights-Business-Partner_REQ-10084548) |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/QUEZON-CITY--PHILIPPINES/Senior-Recovery-Analyst_R0074058-1) |
 
 ## About This Role
 
-This business analyst position at Novartis was posted on 2026-08-02.
+This business analyst position at Global Payments was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 

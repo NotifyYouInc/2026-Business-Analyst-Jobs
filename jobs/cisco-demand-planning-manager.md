@@ -1,16 +1,16 @@
-# Integrated Insights Business Partner at Novartis
+# Demand Planning Manager at Cisco
 
 | Field | Details |
 |-------|---------|
-| Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Moscow, Moscow, Russia |
+| Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 3 locations |
 | Category | Business Analyst |
 | Posted | 2026-08-02 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Moscow-City/Integrated-Insights-Business-Partner_REQ-10084548) |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Demand-Planning-Manager_2020109-1) |
 
 ## About This Role
 
-This business analyst position at Novartis was posted on 2026-08-02.
+This business analyst position at Cisco was posted on 2026-08-02.
 
 ## Get Real-Time Alerts
 
