@@ -6,7 +6,7 @@
 | Location | Saint-Hubert, Quebec, Canada |
 | Category | Business Analyst |
 | Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000140888410-planificateurtrice-de-production-senior) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000140975714-planificateurtrice-de-production-senior) |
 
 ## About This Role
 

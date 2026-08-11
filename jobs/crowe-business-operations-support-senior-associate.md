@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Business Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Business-Operations-Support-Senior-Associate_R-51610-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Noida-Uttar-Pradesh-India/Business-Operations-Support-Senior-Associate_R-51795) |
 
 ## About This Role
 
-This business analyst position at Crowe was posted on 2026-07-10.
+This business analyst position at Crowe was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

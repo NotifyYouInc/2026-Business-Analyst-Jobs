@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Senior-Business-Analyst_R317316) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Bengaluru-India/Senior-Business-Analyst_R325733-1) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-07-14.
+This business analyst position at Cushman & Wakefield was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

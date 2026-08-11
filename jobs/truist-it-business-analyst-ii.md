@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/IT-Business-Analyst-II_R0110973) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Atlanta-GA/IT-Business-Analyst-II_R0117450) |
 
 ## About This Role
 
-This business analyst position at Truist was posted on 2026-02-05.
+This business analyst position at Truist was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

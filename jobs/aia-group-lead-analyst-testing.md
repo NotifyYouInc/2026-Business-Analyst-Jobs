@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | QA Engineer |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-AIA-Digital-Malaysia/Lead-Analyst--Testing_JR-61270-1) |
+| Category | Business Analyst |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Kuala-Lumpur-AIA-Digital-Malaysia/Lead-Analyst--Testing_JR-68771-1) |
 
 ## About This Role
 
-This qa engineer position at AIA Group was posted on 2026-02-06.
+This business analyst position at AIA Group was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

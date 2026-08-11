@@ -5,12 +5,12 @@
 | Company | [Southwest Airlines](https://scoutify.ai/companies/swa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Network-Planning-Consultant_R-2026-66911) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Network-Planning-Consultant_R-2026-70494-1) |
 
 ## About This Role
 
-This business analyst position at Southwest Airlines was posted on 2026-04-03.
+This business analyst position at Southwest Airlines was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

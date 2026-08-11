@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KPMG Nederland](https://scoutify.ai/companies/kpmgnederland?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Rotterdam, South Holland, The Netherlands |
+| Location | Amstelveen, North Holland, The Netherlands |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000120006565-medewerker-resource-planning) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/KPMGNederland/744000141418318-medewerker-resource-planning) |
 
 ## About This Role
 
-This business analyst position at KPMG Nederland was posted on 2026-04-10.
+This business analyst position at KPMG Nederland was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

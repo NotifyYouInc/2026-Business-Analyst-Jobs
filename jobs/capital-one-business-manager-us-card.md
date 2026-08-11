@@ -1,16 +1,16 @@
-# Business Manager - U.S. Card at Capital One
+# Business Manager - US Card at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Manager---US-Card_R225418-1) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Manager---US-Card_R248340-1) |
 
 ## About This Role
 
-This business analyst position at Capital One was posted on 2026-03-17.
+This business analyst position at Capital One was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

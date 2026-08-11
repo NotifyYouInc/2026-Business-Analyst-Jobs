@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [National Vision](https://scoutify.ai/companies/nationalvision?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Duluth, Minnesota, United States |
+| Location | Lawrenceville, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000115467764-sr-technical-business-analyst-data-analytics) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000141353489-sr-technical-business-analyst-data-analytics) |
 
 ## About This Role
 
-This business analyst position at National Vision was posted on 2026-03-18.
+This business analyst position at National Vision was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

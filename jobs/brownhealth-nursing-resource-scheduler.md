@@ -5,12 +5,12 @@
 | Company | [Brownhealth](https://scoutify.ai/companies/brownhealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Providence, Rhode Island, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/Rhode-Island-Hospital/Nursing-Resource-Scheduler_JR-111052) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://brownhealth.wd12.myworkdayjobs.com/external_careers/job/The-Miriam-Hospital/Nursing-Resource-Scheduler_JR-111558) |
 
 ## About This Role
 
-This business analyst position at Brownhealth was posted on 2026-06-19.
+This business analyst position at Brownhealth was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

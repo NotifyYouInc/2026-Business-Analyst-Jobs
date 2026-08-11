@@ -1,0 +1,22 @@
+# Credit Operations & Reporting Specialist at Banc of California
+
+| Field | Details |
+|-------|---------|
+| Company | [Banc of California](https://scoutify.ai/companies/banc-of-california?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Not specified |
+| Category | Business Analyst |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://recruiting.ultipro.com/pac1009/JobBoard/37e95049-80e2-145c-b48c-f826b780e4d6/OpportunityDetail?opportunityId=a29d67ea-af93-432c-8044-72d90ec85566) |
+
+## About This Role
+
+This business analyst position at Banc of California was posted on 2026-08-03.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Antonio, Texas, United States |
+| Location | Arlington, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Business-Analyst_42327) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Business-Analyst_42474) |
 
 ## About This Role
 
-This business analyst position at Guidehouse was posted on 2026-07-28.
+This business analyst position at Guidehouse was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

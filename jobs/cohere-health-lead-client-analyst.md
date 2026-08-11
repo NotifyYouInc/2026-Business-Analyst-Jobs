@@ -5,12 +5,12 @@
 | Company | [Cohere Health](https://scoutify.ai/companies/cohere-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/coherehealth/jobs/7567934003) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/coherehealth/jobs/7823182003) |
 
 ## About This Role
 
-This business analyst position at Cohere Health was posted on 2026-05-12.
+This business analyst position at Cohere Health was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Oklahoma-City-OK/Associate-Operations-Specialist--Commercial-Energy-Efficiency-Programs_R2601735) |
+| Posted | 2026-08-03 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Oklahoma-City-OK/Associate-Operations-Specialist--Commercial-Energy-Efficiency-Programs_R2602597) |
 
 ## About This Role
 
-This business analyst position at ICF was posted on 2026-05-28.
+This business analyst position at ICF was posted on 2026-08-03.
 
 ## Get Real-Time Alerts
 

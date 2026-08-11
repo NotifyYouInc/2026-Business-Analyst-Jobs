@@ -1,16 +1,16 @@
-# Demand Planner at Avery Dennison Corporation
+# Demand Planner  at Avery Dennison Corporation
 
 | Field | Details |
 |-------|---------|
 | Company | [Avery Dennison Corporation](https://scoutify.ai/companies/averydennisoncorporation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Querétaro, Chiapas, Mexico |
+| Location | Cikarang, West Java, Indonesia |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000122342579-demand-planner) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AveryDennison/744000141368639-demand-planner) |
 
 ## About This Role
 
-This business analyst position at Avery Dennison Corporation was posted on 2026-04-22.
+This business analyst position at Avery Dennison Corporation was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
