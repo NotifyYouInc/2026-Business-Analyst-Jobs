@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Specialist-Business-Analyst_R-251959) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Specialist-Business-Analyst_R-250981) |
 
 ## About This Role
 
-This business analyst position at Amgen was posted on 2026-08-03.
+This business analyst position at Amgen was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

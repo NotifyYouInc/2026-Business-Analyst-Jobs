@@ -5,12 +5,12 @@
 | Company | [Mbda](https://scoutify.ai/companies/mbda?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Stevenage, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Senior-Operational-Analyst_R35205) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://mbda.wd3.myworkdayjobs.com/mbda-uk/job/Stevenage/Senior-Operational-Analyst_R38653) |
 
 ## About This Role
 
-This business analyst position at Mbda was posted on 2026-04-20.
+This business analyst position at Mbda was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

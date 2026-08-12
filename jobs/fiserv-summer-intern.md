@@ -1,16 +1,16 @@
-# Summer Intern​ at Fiserv
+# Summer Intern at Fiserv
 
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New Jersey, US |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Summer-Intern-_R-10385747) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Chennai-India/Summer-Intern_R-10385788) |
 
 ## About This Role
 
-This business analyst position at Fiserv was posted on 2026-03-17.
+This business analyst position at Fiserv was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

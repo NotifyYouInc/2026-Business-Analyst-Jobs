@@ -5,12 +5,12 @@
 | Company | [GSK](https://scoutify.ai/companies/gsk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Durham, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/USA---North-Carolina---Durham/ViiV-Healthcare--GSK--Business-Intelligence-Manager_438017-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://gsk.wd5.myworkdayjobs.com/gskcareers/job/Durham-Blackwell-Street/ViiV-Healthcare--GSK--Business-Intelligence-Manager_445748) |
 
 ## About This Role
 
-This business analyst position at GSK was posted on 2026-03-30.
+This business analyst position at GSK was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

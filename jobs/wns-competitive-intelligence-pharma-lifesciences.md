@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000125261909-competitive-intelligence-pharma-lifesciences) |
+| Category | Business Analyst |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000141465899-competitive-intelligence-pharma-lifesciences) |
 
 ## About This Role
 
-This strategy / management consulting position at WNS was posted on 2026-05-08.
+This business analyst position at WNS was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

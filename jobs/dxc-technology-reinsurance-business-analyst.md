@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | Charleston, South Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---NY---NEW-YORK/Reinsurance-Business-Analyst_51580800) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/USA---SC---CHARLESTON/Reinsurance-Business-Analyst_51586283) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-05-19.
+This business analyst position at DXC Technology was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Florida, US |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Remote---Florida/Business-Systems-Analyst_R26_0000001796) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Tampa-FL-USA/Business-Systems-Analyst_R26_0000002599) |
 
 ## About This Role
 
-This business analyst position at Brown & Brown Insurance was posted on 2026-05-14.
+This business analyst position at Brown & Brown Insurance was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

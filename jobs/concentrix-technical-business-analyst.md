@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Georgia, US |
+| Location | Omaha, Nebraska, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/USA-GA-Work-at-Home/Technical-Business-Analyst_R1746625-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/Omaha-NE-68122/Technical-Business-Analyst_R1752284) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-07-14.
+This business analyst position at Concentrix was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

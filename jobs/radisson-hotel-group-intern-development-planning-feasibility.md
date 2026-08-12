@@ -5,12 +5,12 @@
 | Company | [Radisson Hotel Group](https://scoutify.ai/companies/radissonhotelgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000141168359-intern-development-planning-feasibility) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RHG/744000141437856-intern-development-planning-feasibility) |
 
 ## About This Role
 
-This business analyst position at Radisson Hotel Group was posted on 2026-08-03.
+This business analyst position at Radisson Hotel Group was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

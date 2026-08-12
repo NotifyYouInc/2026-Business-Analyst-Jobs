@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-02 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-FL-JAX-347/Business-Analyst-II_JR0304875-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Business-Analyst-II_JR0308541) |
 
 ## About This Role
 
-This business analyst position at Fidelity National Information Services was posted on 2026-04-02.
+This business analyst position at Fidelity National Information Services was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

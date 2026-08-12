@@ -5,12 +5,12 @@
 | Company | [Applied Research Solutions](https://scoutify.ai/companies/recruiting-ultipro-com-oj7520?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Illinois, US |
 | Category | Business Analyst |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://recruiting.ultipro.com/app1013arss/JobBoard/d7bd66ed-d867-48a4-879e-5b0f95b51ad5/OpportunityDetail?opportunityId=5d410eac-24fc-4803-9c63-bbcf46243ce8) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://recruiting.ultipro.com/app1013arss/JobBoard/d7bd66ed-d867-48a4-879e-5b0f95b51ad5/OpportunityDetail?opportunityId=042180b8-8b61-4da0-86be-1cd1bdff25b0) |
 
 ## About This Role
 
-This business analyst position at Applied Research Solutions was posted on 2026-06-23.
+This business analyst position at Applied Research Solutions was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Procter & Gamble](https://scoutify.ai/companies/procter-gamble?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cairo, Cairo, Egypt |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/CAIRO-BUSINESS-OFFICE/Supply-Chain-Analyst_R000147313) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://pg.wd5.myworkdayjobs.com/1000/job/Cairo/Supply-Chain-Analyst_R000156324) |
 
 ## About This Role
 
-This business analyst position at Procter & Gamble was posted on 2026-03-13.
+This business analyst position at Procter & Gamble was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

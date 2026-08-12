@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Piracicaba, São Paulo, Brazil |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Business-Analyst_R0000369988) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Monterrey-Nuevo-Len/Business-Analyst_R0000386618) |
 
 ## About This Role
 
-This business analyst position at Caterpillar Inc. was posted on 2026-05-19.
+This business analyst position at Caterpillar Inc. was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

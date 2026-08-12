@@ -5,12 +5,12 @@
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Business-Execution-Consultant_R-564131) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Business-Execution-Consultant_R-564855) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-07-28.
+This business analyst position at Wells Fargo was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

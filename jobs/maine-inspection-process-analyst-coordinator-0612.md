@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Maine](https://scoutify.ai/companies/maine?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Presque Isle, Maine, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Presque-Isle-Maine/Inspection-Process-Analyst-Coordinator---0612_R26-01959) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Presque-Isle-Maine/Inspection-Process-Analyst-Coordinator---0612_R26-03236) |
 
 ## About This Role
 
-This business analyst position at Maine was posted on 2026-05-08.
+This business analyst position at Maine was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

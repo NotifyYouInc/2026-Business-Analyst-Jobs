@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Clearfield, Utah, United States |
-| Category | IT & Systems Administration |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Computer-Systems-Analyst-2-3---Secret_R10227136) |
+| Location | 7 locations |
+| Category | Business Analyst |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Computer-Systems-Analyst-2-3---Secret_R10243641) |
 
 ## About This Role
 
-This it & systems administration position at Northrop Grumman was posted on 2026-03-25.
+This business analyst position at Northrop Grumman was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

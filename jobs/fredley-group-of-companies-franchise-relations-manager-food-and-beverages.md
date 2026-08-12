@@ -5,12 +5,12 @@
 | Company | [Fredley Group of Companies](https://scoutify.ai/companies/fredleygroupofcompanies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/FredleyGroupOfCompanies/744000141187830-franchise-relations-manager-food-and-beverages) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/FredleyGroupOfCompanies/744000141403989-franchise-relations-manager-food-and-beverages) |
 
 ## About This Role
 
-This business analyst position at Fredley Group of Companies was posted on 2026-08-03.
+This business analyst position at Fredley Group of Companies was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

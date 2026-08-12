@@ -1,16 +1,16 @@
-# Sr. Analyst, WFM Planning at Concentrix
+# Sr Analyst, WFM Planning at Concentrix
 
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | San José, San José, Costa Rica |
 | Category | Business Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Gurgaon-Building-14---11F-Tower-D/Sr-Analyst--WFM-Planning_R1718536-1) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/CRI-San-Jose---Jacks/Sr-Analyst--WFM-Planning_R1751236) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-07-20.
+This business analyst position at Concentrix was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

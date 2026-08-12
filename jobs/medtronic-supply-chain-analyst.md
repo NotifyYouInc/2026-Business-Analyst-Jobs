@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Heerlen, Limburg, The Netherlands |
+| Location | Herzliya, Tel Aviv, Israel |
 | Category | Business Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Heerlen-Limburg-Netherlands/Supply-Chain-Analyst_R71915-2) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Herzliya-Tel-Aviv-Israel/Supply-Chain-Analyst_R73452-1) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-07-17.
+This business analyst position at Medtronic was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

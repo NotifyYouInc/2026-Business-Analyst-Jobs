@@ -5,12 +5,12 @@
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Demand-Planning-Manager_R26002612-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Demand-Planning-Manager_R26004115) |
 
 ## About This Role
 
-This business analyst position at HD Supply was posted on 2026-05-18.
+This business analyst position at HD Supply was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

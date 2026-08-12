@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | North Carolina, US |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-REMOTE/Business-Analyst--US-Payroll--Remote-_01858613) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-NC-REMOTE/Business-Analyst--US-Payroll--Remote-_01862369) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-07-09.
+This business analyst position at RTX was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

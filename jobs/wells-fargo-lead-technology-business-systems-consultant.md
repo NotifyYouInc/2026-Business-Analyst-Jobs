@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Charlotte, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Technology-Business-Systems-Consultant_R-528870-7) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/CHARLOTTE-NC/Lead-Technology-Business-Systems-Consultant_R-564710) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-07-29.
+This business analyst position at Wells Fargo was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stryker](https://scoutify.ai/companies/stryker?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sydney, New South Wales, Australia |
+| Location | Irvine, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Sydney-Australia/Senior-Demand-Planner_R564647) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Irvine-California/Senior-Demand-Planner_R567610) |
 
 ## About This Role
 
-This business analyst position at Stryker was posted on 2026-06-03.
+This business analyst position at Stryker was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 
