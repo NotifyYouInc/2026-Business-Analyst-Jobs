@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amazon](https://scoutify.ai/companies/amazon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Barcelona, Catalonia, Spain |
 | Category | Business Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10486906/capacity-planning-manager-mmn-capacity-planning) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://www.amazon.jobs/en/jobs/10492634/capacity-planning-manager-mmn-capacity-planning) |
 
 ## About This Role
 
-This business analyst position at Amazon was posted on 2026-07-29.
+This business analyst position at Amazon was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

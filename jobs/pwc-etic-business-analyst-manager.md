@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cairo, Cairo, Egypt |
-| Category | Product Manager |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Business-Analyst---Manager_737085WD) |
+| Category | Business Analyst |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Business-Analyst---Manager_745014WD) |
 
 ## About This Role
 
-This product manager position at PwC was posted on 2026-06-22.
+This business analyst position at PwC was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

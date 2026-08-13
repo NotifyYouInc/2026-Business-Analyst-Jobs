@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Dublin, Leinster, Ireland |
 | Category | Business Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Chennai/Senior-Business-Analyst_JR155929) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/Ireland-Dublin/Senior-Business-Analyst_JR155213) |
 
 ## About This Role
 
-This business analyst position at ICON plc was posted on 2026-07-24.
+This business analyst position at ICON plc was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

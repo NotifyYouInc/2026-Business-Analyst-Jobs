@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Salinas, California, United States |
+| Location | Quincy, Massachusetts, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Salinas-CA-USA/Logistics-Analyst_R-181076) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Quincy-IL-USA/Logistics-Analyst_R-181044) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-08-04.
+This business analyst position at Republic Services was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

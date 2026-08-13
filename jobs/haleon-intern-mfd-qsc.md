@@ -5,12 +5,12 @@
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Munich---Office/Intern--m-f-d--QSC_543231) |
+| Posted | 2026-08-04 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Munich---Office/Intern--m-f-d--QSC_546691) |
 
 ## About This Role
 
-This business analyst position at Haleon was posted on 2026-05-08.
+This business analyst position at Haleon was posted on 2026-08-04.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
-| Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Remote/Computer-Systems-Analyst_R10236714) |
+| Location | Hollywood, California, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Computer-Systems-Analyst_R10243940) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-06-17.
+This it & systems administration position at Northrop Grumman was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

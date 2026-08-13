@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syngenta](https://scoutify.ai/companies/syngenta?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nérac, Nouvelle-Aquitaine, France |
+| Location | Saint-Sauveur, Bourgogne, France |
 | Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000140924730-responsable-planification-semences-commerciales-france-freng-hf-cdi) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SyngentaGroup/744000141689656-responsable-planification-semences-commerciales-france-freng-hf-cdi) |
 
 ## About This Role
 
-This business analyst position at Syngenta was posted on 2026-07-31.
+This business analyst position at Syngenta was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

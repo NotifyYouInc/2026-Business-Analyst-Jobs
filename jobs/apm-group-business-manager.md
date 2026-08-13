@@ -1,12 +1,12 @@
-# Business Manager at APM Group
+#  Business Manager  at APM Group
 
 | Field | Details |
 |-------|---------|
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Epping, Victoria, Australia |
+| Location | Indooroopilly, Queensland, Australia |
 | Category | Business Analyst |
 | Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001281355-business-manager) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001284557-business-manager) |
 
 ## About This Role
 

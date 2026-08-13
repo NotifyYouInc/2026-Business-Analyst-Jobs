@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000141563399-senior-systems-analyst-robotic-algorithms-and-control) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000141790204-senior-systems-analyst-robotic-algorithms-and-control) |
 
 ## About This Role
 
-This business analyst position at Intuitive Surgical was posted on 2026-08-04.
+This business analyst position at Intuitive Surgical was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 6 locations |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Business-Process-Owner-Intermediate---Bank_R0118239) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-IIIII/Business-Process-Owner-Intermediate---Bank_R0119353-1) |
 
 ## About This Role
 
-This business analyst position at USAA was posted on 2026-06-25.
+This business analyst position at USAA was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

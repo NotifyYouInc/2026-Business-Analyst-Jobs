@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Singapore---Marina-View/Senior-IT-Business-Analyst_R_354115) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Toronto---Bremner/Senior-IT-Business-Analyst_R_360354) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-07-01.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Enbridge](https://scoutify.ai/companies/enbridge?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Belleville, Ontario, Canada |
-| Category | Project Manager |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Belleville-ON-CAN/Senior-Analyst-New-Business-Projects_71739-1) |
+| Location | Waterloo, Ontario, Canada |
+| Category | Business Analyst |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Waterloo-ON-CAN/Senior-Analyst-New-Business-Projects_72448-1) |
 
 ## About This Role
 
-This project manager position at Enbridge was posted on 2026-06-17.
+This business analyst position at Enbridge was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

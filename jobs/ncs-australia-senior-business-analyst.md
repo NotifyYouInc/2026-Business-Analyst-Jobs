@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Melbourne, Victoria, Australia |
+| Location | Preston, Victoria, Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001177322-senior-business-analyst) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001289235-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at NCS Australia was posted on 2026-06-24.
+This business analyst position at NCS Australia was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

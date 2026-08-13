@@ -1,16 +1,16 @@
-# [Uni – Jan till Jun 2027] Project Analyst Intern (Low Code) at NCS
+# [Uni - Jan till Jun 2027] Project Analyst Intern (Low Code) at NCS
 
 | Field | Details |
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001275787-uni-jan-till-jun-2027-project-analyst-intern-low-code) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001288241-uni-jan-till-jun-2027-project-analyst-intern-low-code) |
 
 ## About This Role
 
-This business analyst position at NCS was posted on 2026-07-31.
+This business analyst position at NCS was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

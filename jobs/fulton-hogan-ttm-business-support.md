@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fulton Hogan](https://scoutify.ai/companies/fulton-hogan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lower Hutt, Wellington Region, New Zealand |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/Lower-Hutt/TTM-Business-Support_R25433-1) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://fultonhogan.wd3.myworkdayjobs.com/fultonhogan/job/Auckland/TTM-Business-Support_R26440) |
 
 ## About This Role
 
-This business analyst position at Fulton Hogan was posted on 2026-05-18.
+This business analyst position at Fulton Hogan was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | Washington, District of Columbia, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4673201006?gh_jid=4673201006) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4683086006?gh_jid=4683086006) |
 
 ## About This Role
 
-This business analyst position at Accenture Federal Services was posted on 2026-04-14.
+This business analyst position at Accenture Federal Services was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

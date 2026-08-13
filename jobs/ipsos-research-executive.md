@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ipsos](https://scoutify.ai/companies/em2-cx-oj54720?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Indonesia |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ecqf.fa.em2.oraclecloud.com/jobs/#8466) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ecqf.fa.em2.oraclecloud.com/jobs/#9271) |
 
 ## About This Role
 
-This business analyst position at Ipsos was posted on 2026-05-06.
+This business analyst position at Ipsos was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

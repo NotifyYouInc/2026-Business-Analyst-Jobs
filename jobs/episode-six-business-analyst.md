@@ -5,12 +5,12 @@
 | Company | [Episode Six](https://scoutify.ai/companies/episode-six?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/episodesix/jobs/5839292004) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/episodesix/jobs/6135623004) |
 
 ## About This Role
 
-This business analyst position at Episode Six was posted on 2026-03-27.
+This business analyst position at Episode Six was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

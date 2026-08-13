@@ -5,12 +5,12 @@
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014379686-analista-de-programas-comerciales-e-incentivos-sector-automocion-temporal) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014444486-analista-de-programas-comerciales-e-incentivos-sector-automocion-temporal) |
 
 ## About This Role
 
-This business analyst position at MSX International was posted on 2026-07-31.
+This business analyst position at MSX International was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

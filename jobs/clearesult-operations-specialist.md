@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Portland, Oregon, United States |
+| Location | Michigan, US |
 | Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Portland-OR---2000-SW-1st-Avenue/Operations-Specialist_R0017440) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Michigan/Operations-Specialist_R0017909) |
 
 ## About This Role
 
-This business analyst position at CLEAResult was posted on 2026-05-21.
+This business analyst position at CLEAResult was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

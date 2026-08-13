@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guatemala |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000126693719-business-analyst) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000141800929-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-05-15.
+This business analyst position at Delivery Hero was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 

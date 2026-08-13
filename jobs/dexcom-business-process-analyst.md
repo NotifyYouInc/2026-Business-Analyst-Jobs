@@ -5,12 +5,12 @@
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Penang-Malaysia/Business-Process-Analyst_JR118601) |
+| Posted | 2026-08-05 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Penang-Malaysia/Business-Process-Analyst_JR120350) |
 
 ## About This Role
 
-This business analyst position at Dexcom was posted on 2026-05-14.
+This business analyst position at Dexcom was posted on 2026-08-05.
 
 ## Get Real-Time Alerts
 
