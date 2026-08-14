@@ -5,12 +5,12 @@
 | Company | [bet365](https://scoutify.ai/companies/bet365?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000136050591-workforce-planning-scheduler) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Bet3651/744000141949799-workforce-planning-scheduler) |
 
 ## About This Role
 
-This business analyst position at bet365 was posted on 2026-07-06.
+This business analyst position at bet365 was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

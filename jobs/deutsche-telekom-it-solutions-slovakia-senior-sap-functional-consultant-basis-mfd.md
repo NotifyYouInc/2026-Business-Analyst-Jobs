@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Deutsche Telekom IT Solutions Slovakia](https://scoutify.ai/companies/deutsche-telekom-it-solutions-slovakia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Košice, Košice Region, Slovakia |
-| Category | IT & Systems Administration |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000129919729-senior-sap-functional-consultant-basis-mfd) |
+| Category | Business Analyst |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deutschetelekomitsolutionsslovakia/744000141881009-senior-sap-functional-consultant-basis-mfd) |
 
 ## About This Role
 
-This it & systems administration position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-06-03.
+This business analyst position at Deutsche Telekom IT Solutions Slovakia was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

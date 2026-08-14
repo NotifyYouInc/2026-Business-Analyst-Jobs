@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Beaverton, Oregon, United States |
+| Location | Mountain View, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Beaverton-OR/Occupancy-Planner_REQ523441) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Mountain-View-CA/Occupancy-Planner_REQ527354) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-07-22.
+This business analyst position at JLL was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Brown & Brown Insurance](https://scoutify.ai/companies/bbinsurance?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Business-Analyst_R26_0000001400) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://bbinsurance.wd1.myworkdayjobs.com/careers/job/Plano-TX-USA/Business-Analyst_R26_0000002569-1) |
 
 ## About This Role
 
-This business analyst position at Brown & Brown Insurance was posted on 2026-04-16.
+This business analyst position at Brown & Brown Insurance was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Acumatica](https://scoutify.ai/companies/acumatica?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Reston, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000141781934-senior-business-analyst) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000141980384-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Acumatica was posted on 2026-08-05.
+This business analyst position at Acumatica was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

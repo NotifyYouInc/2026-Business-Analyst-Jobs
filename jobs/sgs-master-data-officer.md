@@ -5,12 +5,12 @@
 | Company | [SGS](https://scoutify.ai/companies/sgs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nairobi, Nairobi County, Kenya |
 | Category | Business Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000141481499-master-data-officer) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SGS/744000142059360-master-data-officer) |
 
 ## About This Role
 
-This business analyst position at SGS was posted on 2026-08-04.
+This business analyst position at SGS was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

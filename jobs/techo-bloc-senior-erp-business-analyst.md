@@ -5,12 +5,12 @@
 | Company | [Techo-Bloc](https://scoutify.ai/companies/techobloc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Saint-Hubert, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000126746809-senior-erp-business-analyst) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/techo-bloc/744000141997919-senior-erp-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Techo-Bloc was posted on 2026-05-15.
+This business analyst position at Techo-Bloc was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

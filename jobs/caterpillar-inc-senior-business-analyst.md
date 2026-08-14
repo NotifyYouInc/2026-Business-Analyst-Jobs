@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Košice, Košice Region, Slovakia |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kosice-Slovakia/Senior-Business-Analyst_R0000368452) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Senior-Business-Analyst_R0000376244) |
 
 ## About This Role
 
-This business analyst position at Caterpillar Inc. was posted on 2026-05-07.
+This business analyst position at Caterpillar Inc. was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Proposal Analyst (Level 2) at Northrop Grumman
+# Proposal Analyst – Level 2 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Melbourne, Florida, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Proposal-Analyst--Level-2-_R10239359) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Proposal-Analyst---Level-2_R10243822) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-07-10.
+This business analyst position at Northrop Grumman was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

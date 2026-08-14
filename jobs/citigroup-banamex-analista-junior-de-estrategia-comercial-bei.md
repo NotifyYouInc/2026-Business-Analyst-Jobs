@@ -1,16 +1,16 @@
-# Banamex Analista junior de estrategia comercial - BEI at Citigroup
+# Banamex Analista Junior de Estrategia Comercial BEI at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-junior-de-estrategia-comercial---BEI_26955197) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-Junior-de-Estrategia-Comercial-BEI_26982977) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-04-23.
+This business analyst position at Citigroup was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

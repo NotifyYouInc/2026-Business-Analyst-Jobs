@@ -5,12 +5,12 @@
 | Company | [T-Mobile](https://scoutify.ai/companies/tmobile?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Overland Park, Kansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Manager--Business-Systems-Analysis_REQ348904-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Manager--Business-Systems-Analysis_REQ364327) |
 
 ## About This Role
 
-This business analyst position at T-Mobile was posted on 2026-04-29.
+This business analyst position at T-Mobile was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

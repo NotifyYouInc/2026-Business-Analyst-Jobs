@@ -1,16 +1,16 @@
-# Business Manager - Global Payment Network at Capital One
+# Business Manager-Global Payment Network at Capital One
 
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Business-Manager---Global-Payment-Network_R238936-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Manager-Global-Payment-Network_R248593) |
 
 ## About This Role
 
-This business analyst position at Capital One was posted on 2026-03-25.
+This business analyst position at Capital One was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

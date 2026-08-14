@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [dunnhumby](https://scoutify.ai/companies/dunnhumby?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | Bentonville, Arkansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7727747003) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/dunnhumby/jobs/7826820003) |
 
 ## About This Role
 
-This business analyst position at dunnhumby was posted on 2026-05-13.
+This business analyst position at dunnhumby was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

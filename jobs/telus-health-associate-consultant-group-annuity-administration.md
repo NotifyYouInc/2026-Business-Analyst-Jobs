@@ -5,12 +5,12 @@
 | Company | [TELUS Health](https://scoutify.ai/companies/telus-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/External/job/Toronto-Ontario-Canada/Associate-Consultant---Group-Annuity-Administration_R-22306) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/External/job/Toronto-Ontario-Canada/Associate-Consultant---Group-Annuity-Administration_R-22642) |
 
 ## About This Role
 
-This business analyst position at TELUS Health was posted on 2026-06-17.
+This business analyst position at TELUS Health was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

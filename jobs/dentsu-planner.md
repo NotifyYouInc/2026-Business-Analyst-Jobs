@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Shanghai, Shanghai, China |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Bangkok/Planner_R1123232) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Shanghai---Haisu-Plaza/Planner_R1128275) |
 
 ## About This Role
 
-This business analyst position at Dentsu was posted on 2026-05-27.
+This business analyst position at Dentsu was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

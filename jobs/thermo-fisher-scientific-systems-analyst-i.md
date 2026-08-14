@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | India |
-| Category | Technical Writer |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Systems-Analyst-I_R-01343812) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-India/Systems-Analyst-I_R-01363126) |
 
 ## About This Role
 
-This technical writer position at Thermo Fisher Scientific was posted on 2026-03-06.
+This it & systems administration position at Thermo Fisher Scientific was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

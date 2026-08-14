@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Applied Materials](https://scoutify.ai/companies/applied-materials?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Santa Clara, California, United States |
-| Category | Program Manager |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Business-Manager-III_R2618868) |
+| Category | Business Analyst |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Business-Manager-III_R2625594) |
 
 ## About This Role
 
-This program manager position at Applied Materials was posted on 2026-04-29.
+This business analyst position at Applied Materials was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

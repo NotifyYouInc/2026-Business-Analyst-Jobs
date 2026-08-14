@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/India-Mumbai/Principal-Financials-Functional-Consultant_JR-0106085) |
+| Location | Singapore, Singapore |
+| Category | Business Analyst |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Singapore/Principal-Financials-Functional-Consultant_JR-0109110) |
 
 ## About This Role
 
-This customer success position at Workday was posted on 2026-04-21.
+This business analyst position at Workday was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

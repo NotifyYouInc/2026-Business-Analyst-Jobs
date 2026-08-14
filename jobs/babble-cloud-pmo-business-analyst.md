@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Babble Cloud](https://scoutify.ai/companies/babble-cloud?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pristina, Pristina, Kosovo |
-| Category | Project Manager |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/babblecloud/744000119937383-pmo-business-analyst) |
+| Category | Business Analyst |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/babblecloud/744000142016029-pmo-business-analyst) |
 
 ## About This Role
 
-This project manager position at Babble Cloud was posted on 2026-04-10.
+This business analyst position at Babble Cloud was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

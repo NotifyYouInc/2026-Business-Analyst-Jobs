@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
-| Category | Venture Capital |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Principal-Business-Analyst_2118480-1) |
+| Location | 2 locations |
+| Category | Business Analyst |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Merrimack-NH/Principal-Business-Analyst_2130925-1) |
 
 ## About This Role
 
-This venture capital position at Fidelity was posted on 2026-02-12.
+This business analyst position at Fidelity was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

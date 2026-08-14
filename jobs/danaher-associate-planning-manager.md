@@ -5,12 +5,12 @@
 | Company | [Danaher](https://scoutify.ai/companies/danaher?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Shanghai-China/Associate-Planning-Manager_R1310950) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Shanghai-China/Associate-Planning-Manager_R1316586) |
 
 ## About This Role
 
-This business analyst position at Danaher was posted on 2026-05-07.
+This business analyst position at Danaher was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

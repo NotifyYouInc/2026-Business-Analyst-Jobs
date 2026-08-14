@@ -5,12 +5,12 @@
 | Company | [Coatesgroup](https://scoutify.ai/companies/coatesgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.lever.co/coatesgroup/4ba8338e-5376-46c0-9b41-87914ad023aa) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.lever.co/coatesgroup/173708a5-7f26-47a8-aeb7-f68bea4d15c3) |
 
 ## About This Role
 
-This business analyst position at Coatesgroup was posted on 2026-06-22.
+This business analyst position at Coatesgroup was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

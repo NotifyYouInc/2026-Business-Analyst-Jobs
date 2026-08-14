@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dublin, Leinster, Ireland |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000139064985-it-reporting-documentation-analyst) |
+| Posted | 2026-08-06 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000141924489-it-reporting-documentation-analyst) |
 
 ## About This Role
 
-This business analyst position at Eurofins Scientific was posted on 2026-07-22.
+This business analyst position at Eurofins Scientific was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 
