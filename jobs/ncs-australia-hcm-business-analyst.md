@@ -5,12 +5,12 @@
 | Company | [NCS Australia](https://scoutify.ai/companies/ncs-australia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Macquarie Park, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001290564-hcm-business-analyst) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ncsaustralia/6000000001293128-hcm-business-analyst) |
 
 ## About This Role
 
-This business analyst position at NCS Australia was posted on 2026-08-06.
+This business analyst position at NCS Australia was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

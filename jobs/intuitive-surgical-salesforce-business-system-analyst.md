@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000136860379-salesforce-business-system-analyst) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000142148700-salesforce-business-system-analyst) |
 
 ## About This Role
 
-This business analyst position at Intuitive Surgical was posted on 2026-07-09.
+This business analyst position at Intuitive Surgical was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

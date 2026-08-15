@@ -5,12 +5,12 @@
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Manaus, Amazonas, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-07-08 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Manaus/ESTAGIRIO-DE-PLANEJAMENTO_J2456635) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Manaus/ESTAGIRIO-DE-PLANEJAMENTO_J2460398) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-07-08.
+This business analyst position at Jabil was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

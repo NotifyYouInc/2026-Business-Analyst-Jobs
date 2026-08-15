@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ASML](https://scoutify.ai/companies/asml?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Diego, California, United States |
+| Location | Wilton, Connecticut, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Operational-Planner_J-00339356-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Operational-Planner_J-00349523) |
 
 ## About This Role
 
-This business analyst position at ASML was posted on 2026-05-12.
+This business analyst position at ASML was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Mumbai, Maharashtra, India |
 | Category | Data Analyst |
 | Posted | 2026-08-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Banking---Business-Analytics-Analyst-1---Officer_26985114) |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Banking---Business-Analytics-Analyst-1---Officer_26985117) |
 
 ## About This Role
 

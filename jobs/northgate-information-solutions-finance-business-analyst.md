@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Chippenham, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000138583919-finance-business-analyst) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000142102279-finance-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Northgate Information Solutions was posted on 2026-07-20.
+This business analyst position at Northgate Information Solutions was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

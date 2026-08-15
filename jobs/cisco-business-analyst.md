@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | North Carolina, US |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Business-Analyst_2013474-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Vancouver-British-Columbia-Canada/Business-Analyst_2020621-1) |
 
 ## About This Role
 
-This business analyst position at Cisco was posted on 2026-05-28.
+This business analyst position at Cisco was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

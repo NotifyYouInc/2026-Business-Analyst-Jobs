@@ -1,16 +1,16 @@
-# (Senior) Technical Business Analyst Cash Operations & Payments at Avaloq
+# Senior Technical Business Analyst Cash Operations & Payments at Avaloq
 
 | Field | Details |
 |-------|---------|
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bioggio, Ticino, Switzerland |
 | Category | Business Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000141930079-senior-technical-business-analyst-cash-operations-payments) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000142058785-senior-technical-business-analyst-cash-operations-payments) |
 
 ## About This Role
 
-This business analyst position at Avaloq was posted on 2026-08-06.
+This business analyst position at Avaloq was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

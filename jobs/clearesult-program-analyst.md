@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CLEAResult](https://scoutify.ai/companies/clearesult?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ontario, CA |
+| Location | British Columbia, CA |
 | Category | Business Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---ON/Program-Analyst_R0017829) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Program-Analyst_R0017937) |
 
 ## About This Role
 
-This business analyst position at CLEAResult was posted on 2026-07-20.
+This business analyst position at CLEAResult was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

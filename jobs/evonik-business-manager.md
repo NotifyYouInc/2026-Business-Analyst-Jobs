@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evonik](https://scoutify.ai/companies/evonik?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tokyo, Tokyo, Japan |
+| Location | Taipei, Taiwan, Taiwan |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://evonik.wd3.myworkdayjobs.com/external_careers/job/Tokyo/Business-Manager_R47043-1) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://evonik.wd3.myworkdayjobs.com/external_careers/job/Taipei/Business-Manager_R47303-1) |
 
 ## About This Role
 
-This business analyst position at Evonik was posted on 2026-04-20.
+This business analyst position at Evonik was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

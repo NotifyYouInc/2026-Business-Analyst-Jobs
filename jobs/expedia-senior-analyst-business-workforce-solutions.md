@@ -5,12 +5,12 @@
 | Company | [Expedia](https://scoutify.ai/companies/expedia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/Czech-Republic---Prague/Senior-Analyst--Business-Workforce-Solutions_R-108036) |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Senior-Analyst--Business-Workforce-Solutions_R-108422-1) |
 
 ## About This Role
 
-This business analyst position at Expedia was posted on 2026-07-21.
+This business analyst position at Expedia was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Cape Town, Western Cape, South Africa |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000135911318-assistant-manager-wfm) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000142132069-assistant-manager-wfm) |
 
 ## About This Role
 
-This business analyst position at WNS was posted on 2026-07-06.
+This business analyst position at WNS was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

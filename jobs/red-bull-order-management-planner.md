@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Santa Monica, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000133432319-order-management-planner) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000142221819-order-management-planner) |
 
 ## About This Role
 
-This business analyst position at Red Bull was posted on 2026-06-22.
+This business analyst position at Red Bull was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Banking---Business-Analyst---Officer_26985113) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mumbai-Maharashtra-India/Banking---Business-Analyst---Officer_26985111) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-08-06.
+This business analyst position at Citigroup was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

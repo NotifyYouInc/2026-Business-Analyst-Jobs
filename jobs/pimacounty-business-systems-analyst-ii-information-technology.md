@@ -5,12 +5,12 @@
 | Company | [Pimacounty](https://scoutify.ai/companies/pimacounty?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tucson, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Business-Systems-Analyst-II---Information-Technology_JR103644) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Business-Systems-Analyst-II---Information-Technology_JR104124) |
 
 ## About This Role
 
-This business analyst position at Pimacounty was posted on 2026-05-29.
+This business analyst position at Pimacounty was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

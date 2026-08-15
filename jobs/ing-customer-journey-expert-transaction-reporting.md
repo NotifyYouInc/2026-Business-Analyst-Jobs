@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/TRC-Amsterdam---Treasury-Center/Customer-Journey-Expert---Transaction-Reporting_REQ-10109462-2) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/TRC-Amsterdam---Treasury-Center/Customer-Journey-Expert---Transaction-Reporting_REQ-10119088-2) |
 
 ## About This Role
 
-This business analyst position at ING was posted on 2026-02-23.
+This business analyst position at ING was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

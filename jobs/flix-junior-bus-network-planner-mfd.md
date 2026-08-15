@@ -5,12 +5,12 @@
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lisbon, Lisbon, Portugal |
 | Category | Business Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://flix.careers/job/8640260002?gh_jid=8640260002) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://flix.careers/job/8690944002?gh_jid=8690944002) |
 
 ## About This Role
 
-This business analyst position at Flix was posted on 2026-07-24.
+This business analyst position at Flix was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

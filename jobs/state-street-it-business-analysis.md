@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quincy, Massachusetts, United States |
+| Location | Massachusetts, US |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/IT-Business-Analysis_R-792959) |
+| Posted | 2026-08-07 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/North-Quincy-Massachusetts/IT-Business-Analysis_R-795779) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-06-25.
+This business analyst position at State Street was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
