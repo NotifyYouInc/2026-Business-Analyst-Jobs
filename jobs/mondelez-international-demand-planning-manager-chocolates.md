@@ -1,4 +1,4 @@
-# Demand Planner at Mondelez International
+# Demand Planning Manager - Chocolates at Mondelez International
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
 | Posted | 2026-08-08 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Mumbai-India/Demand-Planner_R-174668) |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Mumbai-India/Demand-Planning-Manager---Chocolates_R-173995-1) |
 
 ## About This Role
 

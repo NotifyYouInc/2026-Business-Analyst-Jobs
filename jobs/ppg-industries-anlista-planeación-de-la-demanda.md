@@ -1,16 +1,16 @@
-# Occupancy Planner at JLL
+# Anlista planeación de la demanda at PPG Industries
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | México, MX |
 | Category | Business Analyst |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Occupancy-Planner_REQ527018) |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/MEX---KROMA-Tultitlan-DC/Anlista-planeacin-de-la-demanda_JR268592) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-08-07.
+This business analyst position at PPG Industries was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

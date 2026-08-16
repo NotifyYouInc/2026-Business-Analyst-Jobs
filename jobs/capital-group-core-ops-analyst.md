@@ -1,16 +1,16 @@
-# Occupancy Planner at JLL
+# Core Ops Analyst at Capital Group
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Capital Group](https://scoutify.ai/companies/capgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Charlotte, North Carolina, United States |
 | Category | Business Analyst |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Occupancy-Planner_REQ527018) |
+| Apply | [View on company site](https://capgroup.wd1.myworkdayjobs.com/capitalgroupcareers/job/Charlotte/Core-Ops-Analyst_JR6952) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-08-07.
+This business analyst position at Capital Group was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Occupancy Planner at JLL
+# Analyst, T&E and Insurance at Richemont
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Shelton, Connecticut, United States |
 | Category | Business Analyst |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Occupancy-Planner_REQ527018) |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/SHELTON/Analyst--T-E-and-Insurance_JR132533) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-08-07.
+This business analyst position at Richemont was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

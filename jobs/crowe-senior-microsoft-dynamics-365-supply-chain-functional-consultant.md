@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 4 locations |
-| Category | Customer Success |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Senior-Microsoft-Dynamics-365-Supply-Chain-Functional-Consultant_R-51039) |
+| Location | 26 locations |
+| Category | Business Analyst |
+| Posted | 2026-08-08 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Senior-Microsoft-Dynamics-365-Supply-Chain-Functional-Consultant_R-51512) |
 
 ## About This Role
 
-This customer success position at Crowe was posted on 2026-04-28.
+This business analyst position at Crowe was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

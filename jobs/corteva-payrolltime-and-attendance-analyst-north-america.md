@@ -1,16 +1,16 @@
-# Occupancy Planner at JLL
+# Payroll/Time and Attendance Analyst - North America at Corteva
 
 | Field | Details |
 |-------|---------|
-| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Company | [Corteva](https://scoutify.ai/companies/corteva?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Canada |
 | Category | Business Analyst |
 | Posted | 2026-08-07 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Occupancy-Planner_REQ527018) |
+| Apply | [View on company site](https://corteva.wd5.myworkdayjobs.com/ctp/job/United-States/Payroll-Time-and-Attendance-Analyst---North-America_247870W-1) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-08-07.
+This business analyst position at Corteva was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
