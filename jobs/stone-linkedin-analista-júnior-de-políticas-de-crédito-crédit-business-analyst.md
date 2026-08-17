@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Stone - Linkedin](https://scoutify.ai/companies/stone?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Data Analyst |
+| Category | Business Analyst |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/stone/jobs/7827757003) |
 
 ## About This Role
 
-This data analyst position at Stone - Linkedin was posted on 2026-08-06.
+This business analyst position at Stone - Linkedin was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

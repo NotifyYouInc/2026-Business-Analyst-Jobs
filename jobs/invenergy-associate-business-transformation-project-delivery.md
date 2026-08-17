@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Invenergy](https://scoutify.ai/companies/invenergyllc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
-| Category | Strategy & Operations |
+| Category | Business Analyst |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Associate--Business-Transformation--Project-Delivery-_R11074-1) |
 
 ## About This Role
 
-This strategy & operations position at Invenergy was posted on 2026-08-06.
+This business analyst position at Invenergy was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

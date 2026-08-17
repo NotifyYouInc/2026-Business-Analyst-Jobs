@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ultra Intelligence & Communications](https://scoutify.ai/companies/ultra-intelligence-communications?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Maidenhead, England, United Kingdom |
-| Category | Project Manager |
+| Category | Business Analyst |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://ultra.wd3.myworkdayjobs.com/UICCareers/job/Maidenhead-GBR/Assistant-Project-Resouce-Manager_REQ-12308-1) |
 
 ## About This Role
 
-This project manager position at Ultra Intelligence & Communications was posted on 2026-08-07.
+This business analyst position at Ultra Intelligence & Communications was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

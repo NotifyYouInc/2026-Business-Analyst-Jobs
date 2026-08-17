@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Hootsuite](https://scoutify.ai/companies/hootsuite?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
-| Category | Operations |
+| Category | Business Analyst |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/hootsuite/jobs/8113328) |
 
 ## About This Role
 
-This operations position at Hootsuite was posted on 2026-08-06.
+This business analyst position at Hootsuite was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ohiohealth](https://scoutify.ai/companies/ohiohealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ohio, US |
-| Category | IT & Systems Administration |
+| Category | Business Analyst |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://ohiohealth.wd5.myworkdayjobs.com/ohiohealthjobs/job/WORK-AT-HOME---OHIO/Epic-Systems-Analyst---Sched-Reg--Grand-Central--Prelude--Cadence--Welcome-_JR156068) |
 
 ## About This Role
 
-This it & systems administration position at Ohiohealth was posted on 2026-08-06.
+This business analyst position at Ohiohealth was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
-| Category | Strategy & Operations |
+| Category | Business Analyst |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Squad-Master---Customer-Journey-Expert-for-Operational-Excellence_REQ-10118816) |
 
 ## About This Role
 
-This strategy & operations position at ING was posted on 2026-08-06.
+This business analyst position at ING was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

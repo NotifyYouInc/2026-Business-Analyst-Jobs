@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chandigarh, Chandigarh, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84316) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84517) |
 
 ## About This Role
 
-This business analyst position at eClerx was posted on 2026-07-24.
+This business analyst position at eClerx was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

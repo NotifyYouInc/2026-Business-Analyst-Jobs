@@ -5,12 +5,12 @@
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cairo, Cairo, Egypt |
 | Category | Business Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Business-Analyst---Senior-Manager_745044WD) |
+| Posted | 2026-08-09 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Cairo---ETIC/ETIC--Business-Analyst---Senior-Manager_737084WD) |
 
 ## About This Role
 
-This business analyst position at PwC was posted on 2026-07-29.
+This business analyst position at PwC was posted on 2026-08-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Copart](https://scoutify.ai/companies/copart?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Strategy & Operations |
+| Category | Business Analyst |
 | Posted | 2026-08-06 |
 | Apply | [View on company site](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Analyst---Senior-Strategic-Analyst_JR110481) |
 
 ## About This Role
 
-This strategy & operations position at Copart was posted on 2026-08-06.
+This business analyst position at Copart was posted on 2026-08-06.
 
 ## Get Real-Time Alerts
 

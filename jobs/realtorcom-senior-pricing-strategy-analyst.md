@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Realtor.com](https://scoutify.ai/companies/rdccareers?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Strategy & Operations |
+| Category | Business Analyst |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://boards.greenhouse.io/rdccareers/jobs/7836654003?gh_jid=7836654003) |
 
 ## About This Role
 
-This strategy & operations position at Realtor.com was posted on 2026-08-07.
+This business analyst position at Realtor.com was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 
