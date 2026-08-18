@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Adobe](https://scoutify.ai/companies/adobe-inc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Dublin, Leinster, Ireland |
 | Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Business-Systems-Analyst_R169010) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Dublin/Business-Systems-Analyst_R171170) |
 
 ## About This Role
 
-This business analyst position at Adobe was posted on 2026-06-17.
+This business analyst position at Adobe was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

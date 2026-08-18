@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital Technology Group](https://scoutify.ai/companies/capitaltg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
-| Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://boards.greenhouse.io/capitaltg/jobs/4368707007?gh_jid=4368707007) |
+| Category | Scrum Master & Agile Coach |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://boards.greenhouse.io/capitaltg/jobs/5206232007?gh_jid=5206232007) |
 
 ## About This Role
 
-This business analyst position at Capital Technology Group was posted on 2026-05-19.
+This scrum master & agile coach position at Capital Technology Group was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

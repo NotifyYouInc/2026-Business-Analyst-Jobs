@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Qualysoft](https://scoutify.ai/companies/qualysoft?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austria |
+| Location | Budapest, Budapest, Hungary |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.lever.co/qualysoft/4b1be8c6-b1fa-4dae-96af-a9b7e646fdc3) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.lever.co/qualysoft/625a88fd-841b-40f1-bac2-99b4ddb8f5dc) |
 
 ## About This Role
 
-This business analyst position at Qualysoft was posted on 2026-07-22.
+This business analyst position at Qualysoft was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

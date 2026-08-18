@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ridgefield Park, New Jersey, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000139343394-business-support-bilingual-koreanenglish) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000142693839-business-support-bilingual-koreanenglish) |
 
 ## About This Role
 
-This business analyst position at Woongjin was posted on 2026-07-23.
+This business analyst position at Woongjin was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

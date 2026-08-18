@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [A.P. Moller - Maersk](https://scoutify.ai/companies/a-p-moller-maersk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/IN---Pune/Business-Analyst_R179312-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://maersk.wd3.myworkdayjobs.com/maersk_careers/job/USA-North-Carolina-Charlotte-28273/Business-Analyst_R190094) |
 
 ## About This Role
 
-This business analyst position at A.P. Moller - Maersk was posted on 2026-05-12.
+This business analyst position at A.P. Moller - Maersk was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

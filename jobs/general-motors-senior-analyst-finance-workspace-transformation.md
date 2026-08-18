@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [General Motors](https://scoutify.ai/companies/general-motors?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Warren, Michigan, United States |
-| Category | Business Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-Analyst---Finance-Workspace-Transformation_JR-202616698) |
 
 ## About This Role
 
-This business analyst position at General Motors was posted on 2026-08-08.
+This strategy & operations position at General Motors was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 

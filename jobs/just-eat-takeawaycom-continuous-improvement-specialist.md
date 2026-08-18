@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Just Eat Takeaway.com](https://scoutify.ai/companies/just-eat-takeaway-com?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Winnipeg, Manitoba, Canada |
-| Category | Business Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-08-07 |
 | Apply | [View on company site](https://takeaway.wd3.myworkdayjobs.com/jet-ecs-r/job/Winnipeg-Hargrave-Street-Office/Continuous-Improvement-Specialist_R_052642-2) |
 
 ## About This Role
 
-This business analyst position at Just Eat Takeaway.com was posted on 2026-08-07.
+This strategy & operations position at Just Eat Takeaway.com was posted on 2026-08-07.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Strukton Systems](https://scoutify.ai/companies/struktonsystems?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Utrecht, Utrecht, The Netherlands |
 | Category | Business Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StruktonNederland/744000137891740-informatiemanager) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StruktonNederland/744000142599765-informatiemanager) |
 
 ## About This Role
 
-This business analyst position at Strukton Systems was posted on 2026-07-15.
+This business analyst position at Strukton Systems was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

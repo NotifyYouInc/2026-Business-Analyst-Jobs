@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Adani Group](https://scoutify.ai/companies/em2-cx-oj1865?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Navi Mumbai, Maharashtra, India |
-| Category | Business Analyst |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://eibd.fa.em2.oraclecloud.com/jobs/#56138) |
 
 ## About This Role
 
-This business analyst position at Adani Group was posted on 2026-08-10.
+This sales development (sdr / bdr) position at Adani Group was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

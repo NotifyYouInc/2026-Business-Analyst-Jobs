@@ -1,16 +1,16 @@
-#  Business Manager  at APM Group
+# Business Manager at APM Group
 
 | Field | Details |
 |-------|---------|
 | Company | [APM Group](https://scoutify.ai/companies/apmgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Indooroopilly, Queensland, Australia |
+| Location | Oaklands Park, South Australia, Australia |
 | Category | Business Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001284557-business-manager) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/APMGroup/6000000001301976-business-manager) |
 
 ## About This Role
 
-This business analyst position at APM Group was posted on 2026-08-04.
+This business analyst position at APM Group was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

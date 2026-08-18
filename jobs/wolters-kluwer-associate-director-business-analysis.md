@@ -1,16 +1,16 @@
-# Associate Director Business Analysis at Wolters Kluwer
+# Associate Director, Business Analysis at Wolters Kluwer
 
 | Field | Details |
 |-------|---------|
 | Company | [Wolters Kluwer](https://scoutify.ai/companies/wolters-kluwer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Illinois, US |
+| Location | 6 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Riverwoods-IL/Associate-Director-Business-Analysis_R0055151) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://wk.wd3.myworkdayjobs.com/External/job/USA---Chicago-IL-West-Adams-St/Associate-Director--Business-Analysis_R0059136) |
 
 ## About This Role
 
-This business analyst position at Wolters Kluwer was posted on 2026-03-04.
+This business analyst position at Wolters Kluwer was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

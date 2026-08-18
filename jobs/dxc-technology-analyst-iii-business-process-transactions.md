@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Business Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---HR---NOIDA/Analyst-III-Business-Process-Transactions_51570876) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PRT---LISBON/Analyst-III-Business-Process-Transactions_51586559) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-07-30.
+This business analyst position at DXC Technology was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

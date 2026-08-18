@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TechnoServe](https://scoutify.ai/companies/recruiting-ultipro-com-oj107398?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mbeya, Mbeya, Tanzania |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://recruiting.ultipro.com/tec1006teser/JobBoard/18180d88-ced0-4361-bd09-d5eef66dab24/OpportunityDetail?opportunityId=db60b961-3c33-481d-9a3c-92b9ad1b97b2) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://recruiting.ultipro.com/tec1006teser/JobBoard/18180d88-ced0-4361-bd09-d5eef66dab24/OpportunityDetail?opportunityId=beadc8b5-f318-496b-b62f-37bd714256c6) |
 
 ## About This Role
 
-This business analyst position at TechnoServe was posted on 2026-08-07.
+This business analyst position at TechnoServe was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

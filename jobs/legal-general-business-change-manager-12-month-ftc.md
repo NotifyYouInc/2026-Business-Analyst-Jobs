@@ -5,12 +5,12 @@
 | Company | [Legal & General](https://scoutify.ai/companies/legalgeneral?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000142065309-business-change-manager-12-month-ftc) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LegalAndGeneral/744000142684032-business-change-manager-12-month-ftc) |
 
 ## About This Role
 
-This business analyst position at Legal & General was posted on 2026-08-07.
+This business analyst position at Legal & General was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

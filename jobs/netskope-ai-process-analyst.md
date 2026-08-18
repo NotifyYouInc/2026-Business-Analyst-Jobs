@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netskope](https://scoutify.ai/companies/netskope?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8049640) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://www.netskope.com/company/careers/open-positions/?gh_jid=8119567) |
 
 ## About This Role
 
-This business analyst position at Netskope was posted on 2026-07-14.
+This business analyst position at Netskope was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

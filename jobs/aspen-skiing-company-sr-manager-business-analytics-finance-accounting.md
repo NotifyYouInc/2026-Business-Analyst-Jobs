@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aspen Skiing Company](https://scoutify.ai/companies/aspenskiingcompany?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 3 locations |
-| Category | Accounting |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000137513239-sr-manager-business-analytics-finance-accounting) |
+| Category | Business Analyst |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AspenSkiingCompany/744000142743829-sr-manager-business-analytics-finance-accounting) |
 
 ## About This Role
 
-This accounting position at Aspen Skiing Company was posted on 2026-07-13.
+This business analyst position at Aspen Skiing Company was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

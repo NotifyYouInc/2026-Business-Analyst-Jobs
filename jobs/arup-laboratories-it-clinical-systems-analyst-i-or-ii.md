@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ARUP Laboratories](https://scoutify.ai/companies/arup-laboratories?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Salt Lake City, Utah, United States |
+| Location | United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/aru1000arup/JobBoard/62cc791d-612e-42e6-909f-0de27efe2038/OpportunityDetail?opportunityId=465e84c3-660b-4dce-9fff-a7ead5421f29) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/aru1000arup/JobBoard/62cc791d-612e-42e6-909f-0de27efe2038/OpportunityDetail?opportunityId=8a4382cf-2f35-4118-9a70-fca33ef4ec1c) |
 
 ## About This Role
 
-This it & systems administration position at ARUP Laboratories was posted on 2026-05-28.
+This it & systems administration position at ARUP Laboratories was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

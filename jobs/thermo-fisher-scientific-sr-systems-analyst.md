@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Carlsbad, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Carlsbad-California-USA/Sr-Systems-Analyst_R-01342539-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bangalore-India/Sr-Systems-Analyst_R-01363130) |
 
 ## About This Role
 
-This business analyst position at Thermo Fisher Scientific was posted on 2026-03-05.
+This it & systems administration position at Thermo Fisher Scientific was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

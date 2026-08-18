@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
-| Category | Product Manager |
-| Posted | 2026-06-23 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Business-Manager_R245135-1) |
+| Location | Plano, Texas, United States |
+| Category | Business Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Sr-Business-Manager_R248923-1) |
 
 ## About This Role
 
-This product manager position at Capital One was posted on 2026-06-23.
+This business analyst position at Capital One was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

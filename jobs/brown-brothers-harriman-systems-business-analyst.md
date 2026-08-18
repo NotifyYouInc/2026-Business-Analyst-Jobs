@@ -5,12 +5,12 @@
 | Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kraków, Lesser Poland, Poland |
 | Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Krakow/Systems-Business-Analyst_69722-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Krakow/Systems-Business-Analyst_72104) |
 
 ## About This Role
 
-This business analyst position at Brown Brothers Harriman was posted on 2026-02-05.
+This business analyst position at Brown Brothers Harriman was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

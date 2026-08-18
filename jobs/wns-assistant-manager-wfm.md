@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cape Town, Western Cape, South Africa |
 | Category | Business Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000142132069-assistant-manager-wfm) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000142794050-assistant-manager-wfm) |
 
 ## About This Role
 
-This business analyst position at WNS was posted on 2026-08-07.
+This business analyst position at WNS was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

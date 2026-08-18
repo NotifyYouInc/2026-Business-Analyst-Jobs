@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MGM Resorts International](https://scoutify.ai/companies/mgm-resorts-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Las Vegas, Nevada, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Property---Bellagio/Workforce-Management-Specialist---Bellagio_276521) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Office---Bellagio/Workforce-Management-Specialist---Bellagio_278301) |
 
 ## About This Role
 
-This business analyst position at MGM Resorts International was posted on 2026-06-25.
+This human resources / people ops position at MGM Resorts International was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

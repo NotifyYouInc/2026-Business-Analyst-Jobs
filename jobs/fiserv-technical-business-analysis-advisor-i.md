@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Berkeley Heights, New Jersey, United States |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Berkeley-Heights-New-Jersey/Technical-Business-Analysis---Advisor-I_R-10398827-1) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sao-Paulo---Paulista-Brazil/Technical-Business-Analysis---Advisor-I_R-10399872) |
 
 ## About This Role
 
-This business analyst position at Fiserv was posted on 2026-07-21.
+This business analyst position at Fiserv was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

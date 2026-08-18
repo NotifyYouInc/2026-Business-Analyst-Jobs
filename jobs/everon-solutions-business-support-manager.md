@@ -5,12 +5,12 @@
 | Company | [Everon Solutions](https://scoutify.ai/companies/everon-solutions?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://everon.rec.pro.ukg.net/ADT1500ADTC/JobBoard/44f85d2d-9838-4c27-838c-c64fb8974adb/OpportunityDetail?opportunityId=d4f8f36e-c8c7-4993-8561-d456db17d2d0) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://everon.rec.pro.ukg.net/ADT1500ADTC/JobBoard/44f85d2d-9838-4c27-838c-c64fb8974adb/OpportunityDetail?opportunityId=7fcefc13-a09d-4990-a7f0-824648c9d9ec) |
 
 ## About This Role
 
-This business analyst position at Everon Solutions was posted on 2026-06-15.
+This business analyst position at Everon Solutions was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

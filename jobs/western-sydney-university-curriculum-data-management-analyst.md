@@ -5,12 +5,12 @@
 | Company | [Western Sydney University](https://scoutify.ai/companies/western-sydney-university?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Penrith, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000001294775-curriculum-data-management-analyst) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/westernsydneyuniversity/6000000001298227-curriculum-data-management-analyst) |
 
 ## About This Role
 
-This business analyst position at Western Sydney University was posted on 2026-08-07.
+This business analyst position at Western Sydney University was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

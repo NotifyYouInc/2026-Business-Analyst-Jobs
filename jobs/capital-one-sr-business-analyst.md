@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | McLean, Virginia, United States |
+| Location | Plano, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-25 |
-| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Sr-Business-Analyst_R238890-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Plano-TX/Sr-Business-Analyst_R248897) |
 
 ## About This Role
 
-This business analyst position at Capital One was posted on 2026-03-25.
+This business analyst position at Capital One was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

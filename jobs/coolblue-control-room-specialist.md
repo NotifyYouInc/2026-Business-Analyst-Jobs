@@ -5,12 +5,12 @@
 | Company | [Coolblue](https://scoutify.ai/companies/coolblue?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tilburg, North Brabant, The Netherlands |
 | Category | Business Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coolblue/744000141475429-control-room-specialist) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coolblue/744000142638859-control-room-specialist) |
 
 ## About This Role
 
-This business analyst position at Coolblue was posted on 2026-08-04.
+This business analyst position at Coolblue was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

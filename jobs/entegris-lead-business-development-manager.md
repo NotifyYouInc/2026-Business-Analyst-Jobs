@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Entegris](https://scoutify.ai/companies/entegris?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Illinois, US |
-| Category | Business Analyst |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-08-08 |
 | Apply | [View on company site](https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Remote-IL/Lead--Business-Development-Manager_REQ-13048) |
 
 ## About This Role
 
-This business analyst position at Entegris was posted on 2026-08-08.
+This sales development (sdr / bdr) position at Entegris was posted on 2026-08-08.
 
 ## Get Real-Time Alerts
 
