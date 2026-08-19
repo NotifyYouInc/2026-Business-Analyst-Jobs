@@ -5,12 +5,12 @@
 | Company | [National Vision](https://scoutify.ai/companies/nationalvision?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lawrenceville, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000141800159-sr-technical-business-analyst-data-analytics) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NationalVision1/744000142897219-sr-technical-business-analyst-data-analytics) |
 
 ## About This Role
 
-This business analyst position at National Vision was posted on 2026-08-05.
+This business analyst position at National Vision was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

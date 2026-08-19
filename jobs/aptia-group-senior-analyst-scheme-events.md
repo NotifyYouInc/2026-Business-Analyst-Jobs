@@ -5,12 +5,12 @@
 | Company | [Aptia Group](https://scoutify.ai/companies/aptia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://aptiagroup.wd3.myworkdayjobs.com/opportunities/job/India-Gurgaon/Senior-Analyst---Scheme-Events_JR105578) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://aptiagroup.wd3.myworkdayjobs.com/opportunities/job/India-Gurgaon/Senior-Analyst---Scheme-Events_JR105885) |
 
 ## About This Role
 
-This business analyst position at Aptia Group was posted on 2026-08-07.
+This business analyst position at Aptia Group was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

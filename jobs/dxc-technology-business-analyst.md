@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Mechelen, Flanders, Belgium |
 | Category | Business Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/CHN---SHANGHAI/Business-Analyst_51585745) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BEL---VAN---MECHELEN/Business-Analyst_51586760) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-07-24.
+This business analyst position at DXC Technology was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

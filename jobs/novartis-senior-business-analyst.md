@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Barcelona, Catalonia, Spain |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Barcelona-Gran-Va/Senior-Business-Analyst_REQ-10082174) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Hyderabad-Office/Senior-Business-Analyst_REQ-10084637) |
 
 ## About This Role
 
-This business analyst position at Novartis was posted on 2026-07-27.
+This business analyst position at Novartis was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

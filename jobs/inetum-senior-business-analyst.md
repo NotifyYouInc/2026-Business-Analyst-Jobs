@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Belgium |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000135215869-senior-business-analyst) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000142859879-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Inetum was posted on 2026-07-01.
+This business analyst position at Inetum was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

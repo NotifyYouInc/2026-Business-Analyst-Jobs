@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dubai, Dubai, United Arab Emirates |
 | Category | Business Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000142563719-intern) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000142840995-intern) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-08-10.
+This business analyst position at Delivery Hero was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

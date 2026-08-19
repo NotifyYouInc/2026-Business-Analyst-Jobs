@@ -5,12 +5,12 @@
 | Company | [DaVita](https://scoutify.ai/companies/davita?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09538---North-Carolina-Remote/Analyst--Business--ROPS-_R0469701) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://davita.wd1.myworkdayjobs.com/DKC_External/job/09514---California-Remote/Analyst--Business--ROPS-_R0473082) |
 
 ## About This Role
 
-This business analyst position at DaVita was posted on 2026-07-23.
+This business analyst position at DaVita was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

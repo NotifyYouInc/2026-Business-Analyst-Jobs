@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Missouri, US |
+| Location | North Carolina, US |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---North-Carolina-United-States/Tendering-and-Proposal-Specialist_R0123507) |
+| Posted | 2026-08-10 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---North-Carolina-United-States/Tendering-and-Proposal-Specialist_R0138079) |
 
 ## About This Role
 
-This business analyst position at Hitachi was posted on 2026-06-10.
+This business analyst position at Hitachi was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

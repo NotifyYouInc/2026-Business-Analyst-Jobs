@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Red Cross](https://scoutify.ai/companies/americanredcross?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Omaha, Nebraska, United States |
+| Location | Murfreesboro, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Omaha-NE/Business-Operations-Specialist_RC89765) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Murfreesboro-TN/Business-Operations-Specialist_RC90497) |
 
 ## About This Role
 
-This business analyst position at American Red Cross was posted on 2026-07-09.
+This business analyst position at American Red Cross was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

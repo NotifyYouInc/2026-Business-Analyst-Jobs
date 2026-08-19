@@ -5,12 +5,12 @@
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Analyst--Operational-Innovation_R-0000171816-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Senior-Analyst--Operational-Innovation_R-0000183903-2) |
 
 ## About This Role
 
-This business analyst position at Royal Bank of Canada was posted on 2026-05-12.
+This business analyst position at Royal Bank of Canada was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

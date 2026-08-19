@@ -5,12 +5,12 @@
 | Company | [Wabash Valley Power Alliance](https://scoutify.ai/companies/wabashvalleypoweralliance?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000142625519-systems-analyst) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000142956359-systems-analyst) |
 
 ## About This Role
 
-This it & systems administration position at Wabash Valley Power Alliance was posted on 2026-08-10.
+This it & systems administration position at Wabash Valley Power Alliance was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

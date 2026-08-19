@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | Birmingham, Alabama, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh/Business-Systems-Analyst-Sr_R229863-2) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Birmingham---Brock-AL112/Business-Systems-Analyst-Sr_R232178-1) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-07-22.
+This business analyst position at PNC Financial was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

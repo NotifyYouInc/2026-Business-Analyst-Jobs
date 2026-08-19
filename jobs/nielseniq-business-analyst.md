@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000136831419-business-analyst) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000142848625-business-analyst) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-07-09.
+This business analyst position at NielsenIQ was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

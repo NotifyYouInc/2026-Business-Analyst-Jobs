@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Project Manager |
-| Posted | 2026-02-09 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Business-Project-Lead-Analyst---HIH---Evernorth_25013341) |
+| Category | Business Analyst |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Hyderabad-India/Business-Project-Lead-Analyst---HIH---Evernorth_26008332) |
 
 ## About This Role
 
-This project manager position at Cigna was posted on 2026-02-09.
+This business analyst position at Cigna was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

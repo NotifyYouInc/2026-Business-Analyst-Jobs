@@ -1,16 +1,16 @@
-# Business Analyst  - REMOTE at General Dynamics Information Technology
+# Business Analyst - REMOTE at General Dynamics Information Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Business-Analyst----REMOTE_RQ218422-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Business-Analyst---REMOTE_RQ226153-1) |
 
 ## About This Role
 
-This business analyst position at General Dynamics Information Technology was posted on 2026-04-15.
+This business analyst position at General Dynamics Information Technology was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

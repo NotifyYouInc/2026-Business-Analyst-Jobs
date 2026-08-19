@@ -6,7 +6,7 @@
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
 | Posted | 2026-08-10 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Baan-Functional-Consultant_WD30276658-1) |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bangalore-Karnataka-India/Baan-Functional-Consultant_WD30276660) |
 
 ## About This Role
 

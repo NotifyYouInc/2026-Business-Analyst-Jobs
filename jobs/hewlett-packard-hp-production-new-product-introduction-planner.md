@@ -5,12 +5,12 @@
 | Company | [Hewlett Packard (HP)](https://scoutify.ai/companies/hp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Corvallis, Oregon, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Production---New-Product-Introduction-Planner_3164212) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Production---New-Product-Introduction-Planner_3166915-1) |
 
 ## About This Role
 
-This business analyst position at Hewlett Packard (HP) was posted on 2026-06-05.
+This business analyst position at Hewlett Packard (HP) was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

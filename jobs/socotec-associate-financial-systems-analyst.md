@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SOCOTEC](https://scoutify.ai/companies/socotec?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dallas, Texas, United States |
-| Category | Business Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000140540191-associate-financial-systems-analyst) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Socotec/744000142950934-associate-financial-systems-analyst) |
 
 ## About This Role
 
-This business analyst position at SOCOTEC was posted on 2026-07-29.
+This it & systems administration position at SOCOTEC was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

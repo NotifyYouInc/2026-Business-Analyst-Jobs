@@ -5,12 +5,12 @@
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/Senior-Risk-Business-Analyst_JR00126505) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Waterloo-Ontario/Senior-Risk-Business-Analyst_JR00126688-1) |
 
 ## About This Role
 
-This business analyst position at Sun Life Financial was posted on 2026-07-31.
+This business analyst position at Sun Life Financial was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

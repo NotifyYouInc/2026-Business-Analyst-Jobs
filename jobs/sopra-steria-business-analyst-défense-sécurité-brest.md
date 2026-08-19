@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Guipavas, Brittany, France |
 | Category | Business Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000136219493-business-analyst-defense-securite-brest) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000142898559-business-analyst-defense-securite-brest) |
 
 ## About This Role
 
-This business analyst position at Sopra Steria was posted on 2026-07-07.
+This business analyst position at Sopra Steria was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

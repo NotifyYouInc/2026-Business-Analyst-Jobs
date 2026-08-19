@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [C6 Bank](https://scoutify.ai/companies/c6-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
-| Category | Business Analyst |
+| Category | Corporate Finance |
 | Posted | 2026-08-10 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/c6bank/jobs/4722717005) |
 
 ## About This Role
 
-This business analyst position at C6 Bank was posted on 2026-08-10.
+This corporate finance position at C6 Bank was posted on 2026-08-10.
 
 ## Get Real-Time Alerts
 

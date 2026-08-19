@@ -1,16 +1,16 @@
-# Global Graduate - Demand Planning at SC Johnson
+# Global Graduate, Demand Planning at SC Johnson
 
 | Field | Details |
 |-------|---------|
 | Company | [SC Johnson](https://scoutify.ai/companies/scj?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Midrand, Gauteng, South Africa |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Business Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/South-Africa---Midrand/Global-Graduate---Demand-Planning_33725) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Turkey---Istanbul/Global-Graduate--Demand-Planning_33738-1) |
 
 ## About This Role
 
-This business analyst position at SC Johnson was posted on 2026-08-06.
+This business analyst position at SC Johnson was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Bangkok-TH-AIA-Thailand/Technology-Solutions--Specialist_JR-65266) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Bangkok-TH-AIA-Thailand/Technology-Solutions--Specialist_JR-69006) |
 
 ## About This Role
 
-This business analyst position at AIA Group was posted on 2026-03-27.
+This business analyst position at AIA Group was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

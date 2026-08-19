@@ -5,12 +5,12 @@
 | Company | [Egis](https://scoutify.ai/companies/egis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000142223889-transportation-planning-analyst) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EgisGroup/744000142940909-transportation-planning-analyst) |
 
 ## About This Role
 
-This business analyst position at Egis was posted on 2026-08-07.
+This business analyst position at Egis was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

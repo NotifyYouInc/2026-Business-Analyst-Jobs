@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Halifax, Nova Scotia, Canada |
 | Category | Business Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Business-Systems-Analyst_R-0000176270-1) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/HALIFAX-Nova-Scotia-Canada/Business-Systems-Analyst_R-0000182741-1) |
 
 ## About This Role
 
-This business analyst position at Royal Bank of Canada was posted on 2026-06-24.
+This business analyst position at Royal Bank of Canada was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

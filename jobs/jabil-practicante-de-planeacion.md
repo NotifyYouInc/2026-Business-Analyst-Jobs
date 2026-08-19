@@ -1,16 +1,16 @@
-# Practicante de planeacion at Jabil
+# Practicante de Planeacion at Jabil
 
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chihuahua, Chihuahua, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Practicante-de-planeacion_J2451823) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Practicante-de-Planeacion_J2460845) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-05-27.
+This business analyst position at Jabil was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 

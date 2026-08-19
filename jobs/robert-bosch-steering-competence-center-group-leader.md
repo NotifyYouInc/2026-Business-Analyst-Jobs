@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Fort Lauderdale, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141935410-steering-competence-center-group-leader) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000142900919-steering-competence-center-group-leader) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-08-06.
+This business analyst position at Robert Bosch was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 
