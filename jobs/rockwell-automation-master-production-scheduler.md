@@ -1,16 +1,16 @@
-# MASTER PRODUCTION SCHEDULER at Rockwell Automation
+# Master Production Scheduler at Rockwell Automation
 
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Shanghai-China/MASTER-PRODUCTION-SCHEDULER_R26-4922) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Chennai-India/Master-Production-Scheduler_R26-5341) |
 
 ## About This Role
 
-This business analyst position at Rockwell Automation was posted on 2026-07-23.
+This business analyst position at Rockwell Automation was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

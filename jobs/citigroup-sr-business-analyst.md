@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Heredia, Heredia Province, Costa Rica |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Heredia--Costa-Rica/Sr-Business-Analyst_26980234-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Sr-Business-Analyst_26986650) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-07-17.
+This business analyst position at Citigroup was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

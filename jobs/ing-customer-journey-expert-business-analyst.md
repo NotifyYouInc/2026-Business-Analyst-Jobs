@@ -5,12 +5,12 @@
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Manila, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Customer-Journey-Expert---Business-Analyst_REQ-10118343-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/Manila-One-Ayala-Tower-2/Customer-Journey-Expert---Business-Analyst_REQ-10119806) |
 
 ## About This Role
 
-This business analyst position at ING was posted on 2026-07-21.
+This business analyst position at ING was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

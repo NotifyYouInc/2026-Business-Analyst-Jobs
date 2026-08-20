@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WVUMedicine](https://scoutify.ai/companies/wvumedicine?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | West Virginia, US |
-| Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Information-Technology-Center/Associate-Systems-Analyst---Health-Plan_JR26-41005) |
+| Location | United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Information-Technology-Center/Associate-Systems-Analyst---Health-Plan_JR26-42709) |
 
 ## About This Role
 
-This business analyst position at WVUMedicine was posted on 2026-07-23.
+This it & systems administration position at WVUMedicine was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

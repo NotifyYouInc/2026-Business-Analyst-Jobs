@@ -5,12 +5,12 @@
 | Company | [Zensar](https://scoutify.ai/companies/ocs-cx-oj119068?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | India |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#146695) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#146693) |
 
 ## About This Role
 
-This business analyst position at Zensar was posted on 2026-07-14.
+This business analyst position at Zensar was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

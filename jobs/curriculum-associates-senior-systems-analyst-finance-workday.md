@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Curriculum Associates](https://scoutify.ai/companies/curriculumassociates?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://curriculumassociates.wd5.myworkdayjobs.com/External/job/Bangalore-India/Senior-Systems-Analyst_JR04637) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://curriculumassociates.wd5.myworkdayjobs.com/External/job/Bangalore-India/Senior-Systems-Analyst--Finance-Workday-_JR05538) |
 
 ## About This Role
 
-This business analyst position at Curriculum Associates was posted on 2026-06-15.
+This it & systems administration position at Curriculum Associates was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

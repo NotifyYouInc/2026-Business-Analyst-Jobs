@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WISE](https://scoutify.ai/companies/wise?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tallinn, Harjumaa, Estonia |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000135202369-wfm-operations-partner-lead) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wise/744000143109273-wfm-operations-partner-lead) |
 
 ## About This Role
 
-This business analyst position at WISE was posted on 2026-07-01.
+This business analyst position at WISE was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

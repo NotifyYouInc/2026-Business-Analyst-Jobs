@@ -1,16 +1,16 @@
-# Internship: Global Consumer Financial Services, GCFS Digital Business & Transformation - GCFS Digital Business [August - December 2026] at OCBC
+# Internship: Global Consumer Financial Services, GCFS Digital Business & Transformation - GCFS Digital Transformation [September - March 2027] at OCBC
 
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Internship--Global-Consumer-Financial-Services--GCFS-Digital-Business---Transformation---GCFS-Digital-Business--August---December-2026-_JR00007662) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Singapore/Internship--Global-Consumer-Financial-Services--GCFS-Digital-Business---Transformation---GCFS-Digital-Transformation--September---March-2027-_JR00010204) |
 
 ## About This Role
 
-This business analyst position at OCBC was posted on 2026-05-06.
+This business analyst position at OCBC was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Deloitte NZ](https://scoutify.ai/companies/deloitte-nz?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/deloittenz/6000000001112849-business-support-lead) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/deloittenz/6000000001309196-business-support-lead) |
 
 ## About This Role
 
-This business analyst position at Deloitte NZ was posted on 2026-05-28.
+This business analyst position at Deloitte NZ was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000142913173-junior-business-development-manager-mwd-in-shanghai) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000143033758-junior-business-development-manager-mwd-in-shanghai) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at CHECK24 was posted on 2026-08-11.
+This sales development (sdr / bdr) position at CHECK24 was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

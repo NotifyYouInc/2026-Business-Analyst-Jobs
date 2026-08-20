@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Orlando, Florida, United States |
-| Category | Technology / IT Consulting |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Systems-Analyst_R7233) |
+| Location | Pennsylvania, US |
+| Category | Business Analyst |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Systems-Analyst_R8328) |
 
 ## About This Role
 
-This technology / it consulting position at CAI was posted on 2026-02-25.
+This business analyst position at CAI was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

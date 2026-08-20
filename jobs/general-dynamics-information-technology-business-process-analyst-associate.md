@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bossier City, Louisiana, United States |
+| Location | Louisiana, US |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/Business-Process-Analyst-Associate_RQ221611-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Home-Office-LAHOME/Business-Process-Analyst-Associate_RQ225989) |
 
 ## About This Role
 
-This business analyst position at General Dynamics Information Technology was posted on 2026-06-08.
+This business analyst position at General Dynamics Information Technology was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

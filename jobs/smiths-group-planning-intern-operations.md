@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico |
+| Location | Cuautitlán Izcalli, México, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000119450507-planning-intern-operations) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000143132390-planning-intern-operations) |
 
 ## About This Role
 
-This business analyst position at Smiths Group was posted on 2026-04-08.
+This business analyst position at Smiths Group was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

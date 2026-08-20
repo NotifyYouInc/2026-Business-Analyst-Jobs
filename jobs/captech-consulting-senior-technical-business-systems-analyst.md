@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Salt Lake City, Utah, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000136905591-senior-technical-business-systems-analyst) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000143152027-senior-technical-business-systems-analyst) |
 
 ## About This Role
 
-This business analyst position at CapTech Consulting was posted on 2026-07-09.
+This business analyst position at CapTech Consulting was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

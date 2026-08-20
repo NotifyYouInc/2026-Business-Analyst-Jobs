@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000140186929-business-analyst-mwd) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000143054699-business-analyst-mwd) |
 
 ## About This Role
 
-This business analyst position at Everience was posted on 2026-07-28.
+This business analyst position at Everience was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

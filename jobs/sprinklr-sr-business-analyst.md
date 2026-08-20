@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sprinklr](https://scoutify.ai/companies/sprinklr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Karnataka---Bangalore/Sr-Business-Analyst_113064-JOB) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://sprinklr.wd1.myworkdayjobs.com/careers/job/India---Haryana---Gurgaon/Sr-Business-Analyst_113393-JOB) |
 
 ## About This Role
 
-This business analyst position at Sprinklr was posted on 2026-05-08.
+This business analyst position at Sprinklr was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

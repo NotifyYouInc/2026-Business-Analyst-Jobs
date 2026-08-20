@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 5 locations |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Kenosha-WI/Workforce-Forecasting-Manager_R265484) |
+| Category | Business Analyst |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Kenosha-WI/Workforce-Forecasting-Manager_R266456-1) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Uline was posted on 2026-07-23.
+This business analyst position at Uline was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

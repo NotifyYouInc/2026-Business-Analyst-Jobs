@@ -5,12 +5,12 @@
 | Company | [Wix.com](https://scoutify.ai/companies/wixcom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Business Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000142633060-business-analyst-channels) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000143109760-business-analyst-channels) |
 
 ## About This Role
 
-This business analyst position at Wix.com was posted on 2026-08-10.
+This business analyst position at Wix.com was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

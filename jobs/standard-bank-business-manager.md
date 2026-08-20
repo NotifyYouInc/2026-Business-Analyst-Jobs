@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Douglas, Douglas, Isle of Man |
+| Location | Saint Helier, St Helier, Jersey |
 | Category | Business Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000141897269-business-manager) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000143124224-business-manager) |
 
 ## About This Role
 
-This business analyst position at Standard Bank was posted on 2026-08-06.
+This business analyst position at Standard Bank was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

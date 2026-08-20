@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SIA](https://scoutify.ai/companies/sia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
-| Category | Business Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000141411956-project-manager-business-analyst) |
+| Category | Project Manager |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Sia/744000143193629-project-manager-business-analyst) |
 
 ## About This Role
 
-This business analyst position at SIA was posted on 2026-08-04.
+This project manager position at SIA was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

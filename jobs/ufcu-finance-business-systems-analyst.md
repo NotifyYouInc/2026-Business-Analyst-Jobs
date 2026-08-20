@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [UFCU](https://scoutify.ai/companies/ufcu?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://recruiting.ultipro.com/uni1053/JobBoard/9b1b7eec-8714-d785-6d27-8ee3d0405521/OpportunityDetail?opportunityId=bbe3704e-e6cb-4073-abcd-33e70c4fb984) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://recruiting.ultipro.com/uni1053/JobBoard/9b1b7eec-8714-d785-6d27-8ee3d0405521/OpportunityDetail?opportunityId=1eb05b11-f9ac-40e5-860b-55a07491c671) |
 
 ## About This Role
 
-This business analyst position at UFCU was posted on 2026-06-05.
+This business analyst position at UFCU was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

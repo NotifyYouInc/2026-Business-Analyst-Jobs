@@ -5,12 +5,12 @@
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Barueri, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000142866929-analista-operacional-pcd) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000143075394-analista-operacional-pcd) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-08-11.
+This business analyst position at NielsenIQ was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Singapore-Singapore-Singapore/Senior-IT-Business-Analyst_R70508-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-IT-Business-Analyst_R74588-1) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-07-10.
+This business analyst position at Medtronic was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

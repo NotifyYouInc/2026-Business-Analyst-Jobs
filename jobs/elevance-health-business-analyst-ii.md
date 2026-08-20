@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 6 locations |
+| Location | 10 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/NY-LATHAM-15-PLAZA-DR/Business-Analyst-II_JR194623) |
+| Posted | 2026-08-11 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Business-Analyst-II_JR202664) |
 
 ## About This Role
 
-This business analyst position at Elevance Health was posted on 2026-07-09.
+This business analyst position at Elevance Health was posted on 2026-08-11.
 
 ## Get Real-Time Alerts
 
