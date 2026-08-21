@@ -5,12 +5,12 @@
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Saint Helier, St Helier, Jersey |
 | Category | Business Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000143124224-business-manager) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000143249469-business-manager) |
 
 ## About This Role
 
-This business analyst position at Standard Bank was posted on 2026-08-12.
+This business analyst position at Standard Bank was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

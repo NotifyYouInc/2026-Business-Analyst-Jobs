@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Business-Analyst_JR10430114) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Business-Analyst_JR10434007) |
 
 ## About This Role
 
-This business analyst position at Airbus was posted on 2026-07-22.
+This business analyst position at Airbus was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

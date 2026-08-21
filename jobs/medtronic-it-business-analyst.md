@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Colombia |
+| Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Business Analyst |
-| Posted | 2026-04-17 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bogot-Bogota-Colombia/IT-Business-Analyst_R53507-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Bratislava-Bratislava-Slovakia/IT-Business-Analyst_R70427-1) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-04-17.
+This business analyst position at Medtronic was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

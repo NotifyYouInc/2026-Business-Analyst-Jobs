@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Justworks](https://scoutify.ai/companies/justworks?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://boards.greenhouse.io/justworks/jobs/7913363?gh_jid=7913363) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/justworks/jobs/8125531?gh_jid=8125531) |
 
 ## About This Role
 
-This business analyst position at Justworks was posted on 2026-05-11.
+This business analyst position at Justworks was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

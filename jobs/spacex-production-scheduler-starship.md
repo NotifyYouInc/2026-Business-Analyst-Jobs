@@ -1,16 +1,16 @@
-# Production Scheduler, Starship at SpaceX
+# Production Scheduler (Starship) at SpaceX
 
 | Field | Details |
 |-------|---------|
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hawthorne, California, United States |
+| Location | Texas, US |
 | Category | Business Analyst |
-| Posted | 2026-06-06 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8581270002?gh_jid=8581270002) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8694690002?gh_jid=8694690002) |
 
 ## About This Role
 
-This business analyst position at SpaceX was posted on 2026-06-06.
+This business analyst position at SpaceX was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

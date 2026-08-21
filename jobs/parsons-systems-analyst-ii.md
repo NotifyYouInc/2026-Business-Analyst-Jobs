@@ -5,12 +5,12 @@
 | Company | [Parsons](https://scoutify.ai/companies/parsons?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Systems-Analyst-II_R183190) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Systems-Analyst-II_R184337) |
 
 ## About This Role
 
-This business analyst position at Parsons was posted on 2026-07-14.
+This business analyst position at Parsons was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

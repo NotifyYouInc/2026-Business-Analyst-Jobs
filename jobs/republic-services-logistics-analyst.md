@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lakeland, Florida, United States |
+| Location | Pensacola, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Lakeland-FL-USA/Logistics-Analyst_R-181667-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Pensacola-FL-USA/Logistics-Analyst_R-181333) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-08-10.
+This business analyst position at Republic Services was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

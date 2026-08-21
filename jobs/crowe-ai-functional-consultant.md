@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crowe](https://scoutify.ai/companies/crowe?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Implementation / Professional Services |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Boston-MA-USA/AI-Functional-Consultant_R-51401) |
+| Location | Chicago, Illinois, United States |
+| Category | Business Analyst |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Functional-Consultant_R-71010) |
 
 ## About This Role
 
-This implementation / professional services position at Crowe was posted on 2026-06-08.
+This business analyst position at Crowe was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

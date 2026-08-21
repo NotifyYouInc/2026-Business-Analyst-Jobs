@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000118617344-business-analyst-transport-nantes) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143274488-business-analyst-transport-nantes) |
 
 ## About This Role
 
-This business analyst position at Sopra Steria was posted on 2026-04-03.
+This business analyst position at Sopra Steria was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

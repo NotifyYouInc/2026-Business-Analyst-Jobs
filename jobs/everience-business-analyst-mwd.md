@@ -6,7 +6,7 @@
 | Location | Brussels, Brussels Capital, Belgium |
 | Category | Business Analyst |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000143054699-business-analyst-mwd) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000143142600-business-analyst-mwd) |
 
 ## About This Role
 

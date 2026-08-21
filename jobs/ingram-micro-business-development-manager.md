@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
-| Category | Engineering Manager |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Chennai-India/Business-Development-Manager_R-115162) |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Chennai-India/Business-Development-Manager_R-116049) |
 
 ## About This Role
 
-This engineering manager position at Ingram Micro was posted on 2026-07-23.
+This sales development (sdr / bdr) position at Ingram Micro was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

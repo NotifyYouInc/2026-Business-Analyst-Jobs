@@ -1,16 +1,16 @@
-# Sr IT Business Analyst. at Medtronic
+# Sr IT Business Analyst at Medtronic
 
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Costa Rica |
+| Location | Tijuana, Baja California, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Sr-IT-Business-Analyst_R65571-1) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Sr-IT-Business-Analyst_R73950) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-05-19.
+This business analyst position at Medtronic was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

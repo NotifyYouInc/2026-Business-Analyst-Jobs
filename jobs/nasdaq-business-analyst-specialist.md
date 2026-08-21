@@ -5,12 +5,12 @@
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Australia---Sydney---New-South-Wales/Business-Analyst-Specialist_R0026127) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/Australia---Sydney---New-South-Wales/Business-Analyst-Specialist_R0026644) |
 
 ## About This Role
 
-This business analyst position at Nasdaq was posted on 2026-06-17.
+This business analyst position at Nasdaq was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

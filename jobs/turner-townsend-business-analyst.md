@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Edmonton, Alberta, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000127495389-business-analyst) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000143404710-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Turner & Townsend was posted on 2026-05-20.
+This business analyst position at Turner & Townsend was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lebanon, Tennessee, United States |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lebanon-Tennessee-USA/Manufacturing-Planner---Scheduler-II_R-01348243) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Singapore-Singapore/Manufacturing-Planner---Scheduler-II_R-01364140) |
 
 ## About This Role
 
-This business analyst position at Thermo Fisher Scientific was posted on 2026-04-14.
+This business analyst position at Thermo Fisher Scientific was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

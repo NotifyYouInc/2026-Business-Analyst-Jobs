@@ -5,12 +5,12 @@
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Manager---Project-Controls-Analytics---Bid-Review_R-246947) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Manager---Project-Controls-Analytics---Bid-Review_R-246946) |
 
 ## About This Role
 
-This business analyst position at Amgen was posted on 2026-07-06.
+This business analyst position at Amgen was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

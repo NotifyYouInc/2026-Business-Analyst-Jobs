@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar Inc.](https://scoutify.ai/companies/cat?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Irving, Texas, United States |
+| Location | East Peoria, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/Sales---Operations-Planning-Coordinator_R0000385966) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/East-Peoria-Illinois/Sales---Operations-Planning-Coordinator_R0000388098) |
 
 ## About This Role
 
-This business analyst position at Caterpillar Inc. was posted on 2026-07-31.
+This business analyst position at Caterpillar Inc. was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

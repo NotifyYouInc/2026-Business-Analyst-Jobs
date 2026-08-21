@@ -5,12 +5,12 @@
 | Company | [Grab](https://scoutify.ai/companies/grab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Petaling Jaya, Selangor, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000133250489-assistant-manager-platform-quality-experience) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Grab/744000143259580-assistant-manager-platform-quality-experience) |
 
 ## About This Role
 
-This business analyst position at Grab was posted on 2026-06-22.
+This business analyst position at Grab was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

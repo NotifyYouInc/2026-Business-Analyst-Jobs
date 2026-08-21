@@ -5,12 +5,12 @@
 | Company | [Zillow](https://scoutify.ai/companies/zillow?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Go To Market Engineer |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Manager--GTM-Intelligence-and-Analytics_P751078) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Remote-USA/Senior-Manager--GTM-Intelligence-and-Analytics_P751116-1) |
 
 ## About This Role
 
-This go to market engineer position at Zillow was posted on 2026-08-06.
+This go to market engineer position at Zillow was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

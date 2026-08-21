@@ -6,7 +6,7 @@
 | Location | Tel Aviv, Tel Aviv, Israel |
 | Category | Business Analyst |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000143109760-business-analyst-channels) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wix2/744000143165910-business-analyst-channels) |
 
 ## About This Role
 

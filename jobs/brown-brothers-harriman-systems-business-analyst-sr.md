@@ -1,16 +1,16 @@
-# Systems Business Analyst  Sr. at Brown Brothers Harriman
+# Systems Business Analyst Sr. at Brown Brothers Harriman
 
 | Field | Details |
 |-------|---------|
 | Company | [Brown Brothers Harriman](https://scoutify.ai/companies/bbh?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Systems-Business-Analyst--Sr_71872-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://bbh.wd5.myworkdayjobs.com/BBH/job/Boston/Systems-Business-Analyst-Sr_72183) |
 
 ## About This Role
 
-This business analyst position at Brown Brothers Harriman was posted on 2026-07-21.
+This business analyst position at Brown Brothers Harriman was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

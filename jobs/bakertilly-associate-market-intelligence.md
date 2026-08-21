@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bakertilly](https://scoutify.ai/companies/bakertilly?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Product Marketing |
+| Category | Business Analyst |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://bakertilly.wd5.myworkdayjobs.com/btcareers/job/IND-KA-Bangalore---Cherry-Hills/Associate-Market-Intelligence_JR107432) |
 
 ## About This Role
 
-This product marketing position at Bakertilly was posted on 2026-08-12.
+This business analyst position at Bakertilly was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ingram Micro](https://scoutify.ai/companies/ingram-micro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Milton Keynes, England, United Kingdom |
+| Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Milton-Keynes-United-Kingdom/Business-Manager_R-115949) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://ingrammicro.wd5.myworkdayjobs.com/ingrammicro/job/Mumbai-India/Business-Manager_R-114317) |
 
 ## About This Role
 
-This business analyst position at Ingram Micro was posted on 2026-08-03.
+This business analyst position at Ingram Micro was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

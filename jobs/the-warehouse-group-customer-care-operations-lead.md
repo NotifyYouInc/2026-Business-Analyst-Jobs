@@ -6,7 +6,7 @@
 | Location | Auckland, Auckland, New Zealand |
 | Category | Business Analyst |
 | Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/thewarehousegroup1/744000143023559-customer-care-operations-lead) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/thewarehousegroup1/744000143182419-customer-care-operations-lead) |
 
 ## About This Role
 

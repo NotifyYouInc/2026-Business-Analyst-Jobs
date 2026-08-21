@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mars](https://scoutify.ai/companies/mars?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Human Resources / People Ops |
+| Category | Business Analyst |
 | Posted | 2026-08-12 |
 | Apply | [View on company site](https://mars.wd3.myworkdayjobs.com/external/job/USA-Virginia-McLean/Director-Global-Workforce---Organizational-Effectiveness-Intelligence_R163359-2) |
 
 ## About This Role
 
-This human resources / people ops position at Mars was posted on 2026-08-12.
+This business analyst position at Mars was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 

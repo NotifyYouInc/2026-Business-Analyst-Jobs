@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Harris Computer](https://scoutify.ai/companies/harriscomputer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pennsylvania, US |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-18 |
-| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Pennsylvania-United-States/Business-Analyst_R0044343-1) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote-Pune-Baroda-India/Business-Analyst_R0045681) |
 
 ## About This Role
 
-This business analyst position at Harris Computer was posted on 2026-06-18.
+This business analyst position at Harris Computer was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

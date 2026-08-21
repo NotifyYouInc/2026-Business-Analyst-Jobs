@@ -1,16 +1,16 @@
-# Transformation & Business Analyst at JLL
+# Transformation Business Analyst at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Taguig, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Transformation---Business-Analyst_REQ507261) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Transformation-Business-Analyst_REQ528567) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-05-29.
+This business analyst position at JLL was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

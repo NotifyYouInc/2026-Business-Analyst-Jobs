@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dover, Delaware, United States |
+| Location | Manila, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/DE-CLIENT-STATE/Senior-Business-Analyst_R8222) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Manila---One-World-Square/Senior-Business-Analyst_R8329) |
 
 ## About This Role
 
-This business analyst position at CAI was posted on 2026-07-31.
+This business analyst position at CAI was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

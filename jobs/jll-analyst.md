@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
+| Location | Miami, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Analyst_REQ511924) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Miami-FL/Analyst_REQ525107) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-06-04.
+This business analyst position at JLL was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Oklahoma, US |
-| Category | Program Manager |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Tinker-AFB-OK/Program-Analyst_R0242905) |
+| Location | Lexington Park, Maryland, United States |
+| Category | Business Analyst |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-Park-MD/Program-Analyst_R0247128) |
 
 ## About This Role
 
-This program manager position at Booz Allen was posted on 2026-06-24.
+This business analyst position at Booz Allen was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

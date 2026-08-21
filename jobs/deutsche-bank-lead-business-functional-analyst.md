@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Deutsche Bank](https://scoutify.ai/companies/deutsche-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Cary, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Bucharest-Ion-Mihalache-Blvd/Lead-Business-Functional-Analyst_R0436129) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://db.wd3.myworkdayjobs.com/dbwebsite/job/Cary-3000-CentreGreen-Way/Lead-Business-Functional-Analyst_R0447504) |
 
 ## About This Role
 
-This business analyst position at Deutsche Bank was posted on 2026-07-13.
+This business analyst position at Deutsche Bank was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

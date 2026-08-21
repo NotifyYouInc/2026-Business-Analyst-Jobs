@@ -5,12 +5,12 @@
 | Company | [Pearson](https://scoutify.ai/companies/em3-cx-oj82828?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#24826) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://hccz.fa.em3.oraclecloud.com/jobs/#25407) |
 
 ## About This Role
 
-This business analyst position at Pearson was posted on 2026-06-25.
+This business analyst position at Pearson was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

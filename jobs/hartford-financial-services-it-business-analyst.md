@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hartford Financial Services](https://scoutify.ai/companies/thehartford?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT--Home-Office/IT-Business-Analyst_R2624272) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/London-UK/IT-Business-Analyst_R2626391-1) |
 
 ## About This Role
 
-This business analyst position at Hartford Financial Services was posted on 2026-03-04.
+This business analyst position at Hartford Financial Services was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

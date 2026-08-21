@@ -5,12 +5,12 @@
 | Company | [Genfar](https://scoutify.ai/companies/genfar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Genfar/744000142968920-analista-de-planeacion) |
+| Posted | 2026-08-12 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Genfar/744000143155369-analista-de-planeacion) |
 
 ## About This Role
 
-This business analyst position at Genfar was posted on 2026-08-11.
+This business analyst position at Genfar was posted on 2026-08-12.
 
 ## Get Real-Time Alerts
 
