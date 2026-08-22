@@ -5,12 +5,12 @@
 | Company | [Conagra Brands](https://scoutify.ai/companies/conagrabrands?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Omaha, Nebraska, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Transportation-Planner_Req-038291) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Transportation-Planner_Req-039702) |
 
 ## About This Role
 
-This business analyst position at Conagra Brands was posted on 2026-05-29.
+This business analyst position at Conagra Brands was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

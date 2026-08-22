@@ -5,12 +5,12 @@
 | Company | [USAA](https://scoutify.ai/companies/usaa?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 6 locations |
 | Category | Strategy & Operations |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/Business-Strategy-Analyst-Lead_R0118976) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-IIIII/Business-Strategy-Analyst-Lead_R0118410) |
 
 ## About This Role
 
-This strategy & operations position at USAA was posted on 2026-08-04.
+This strategy & operations position at USAA was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

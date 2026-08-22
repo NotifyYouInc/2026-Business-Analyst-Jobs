@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology-Lead-Business-Analyst_26961424) |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Schaumburg-Illinois-United-States/Technology-Lead-Business-Analyst_26986130) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-05-13.
+This business analyst position at Citigroup was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

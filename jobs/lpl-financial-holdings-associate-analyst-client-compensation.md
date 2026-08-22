@@ -5,12 +5,12 @@
 | Company | [LPL Financial Holdings](https://scoutify.ai/companies/lplfinancial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Tempe/Associate-Analyst-Client-Compensation_R-050562) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-Mill-SC/Associate-Analyst-Client-Compensation_R-052700-2) |
 
 ## About This Role
 
-This business analyst position at LPL Financial Holdings was posted on 2026-05-28.
+This business analyst position at LPL Financial Holdings was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSS Security](https://scoutify.ai/companies/mss-security?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brisbane, Queensland, Australia |
+| Location | Western Australia, AU |
 | Category | Business Analyst |
-| Posted | 2026-06-14 |
-| Apply | [View on company site](https://msssecurity.wd105.myworkdayjobs.com/mss/job/Queensland/Business-Manager_JR7394) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://msssecurity.wd105.myworkdayjobs.com/mss/job/Western-Australia/Business-Manager_JR7800) |
 
 ## About This Role
 
-This business analyst position at MSS Security was posted on 2026-06-14.
+This business analyst position at MSS Security was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

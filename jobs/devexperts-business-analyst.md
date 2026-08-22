@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Devexperts](https://scoutify.ai/companies/devexperts?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tbilisi, Tbilisi, Georgia |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Business Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Devexperts/744000140654699-business-analyst) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Devexperts/744000143487711-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Devexperts was posted on 2026-07-30.
+This business analyst position at Devexperts was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

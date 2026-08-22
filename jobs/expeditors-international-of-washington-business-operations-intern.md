@@ -5,12 +5,12 @@
 | Company | [Expeditors International of Washington](https://scoutify.ai/companies/expeditorsinternationalofwashington?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | San Diego, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000120816974-business-operations-intern) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Expeditors/744000143548829-business-operations-intern) |
 
 ## About This Role
 
-This business analyst position at Expeditors International of Washington was posted on 2026-04-14.
+This business analyst position at Expeditors International of Washington was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

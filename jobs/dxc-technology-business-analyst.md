@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mechelen, Flanders, Belgium |
+| Location | Valby, Capital Region, Denmark |
 | Category | Business Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/BEL---VAN---MECHELEN/Business-Analyst_51586760) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/DNK---VALBY/Business-Analyst_51587023) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-08-11.
+This business analyst position at DXC Technology was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

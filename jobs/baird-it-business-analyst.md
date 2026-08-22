@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Baird](https://scoutify.ai/companies/baird?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Milwaukee, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-16 |
-| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/IT-Business-Analyst_R2026540-2) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://baird.wd1.myworkdayjobs.com/Careers/job/WI-Milwaukee/IT-Business-Analyst_R2026879-1) |
 
 ## About This Role
 
-This business analyst position at Baird was posted on 2026-05-16.
+This business analyst position at Baird was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

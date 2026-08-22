@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flix](https://scoutify.ai/companies/flix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Zagreb, Zagreb, Croatia |
-| Category | Sales Leadership |
-| Posted | 2026-05-26 |
-| Apply | [View on company site](https://flix.careers/job/8559346002?gh_jid=8559346002) |
+| Location | Bucharest, București, Romania |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://flix.careers/job/8695505002?gh_jid=8695505002) |
 
 ## About This Role
 
-This sales leadership position at Flix was posted on 2026-05-26.
+This sales development (sdr / bdr) position at Flix was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

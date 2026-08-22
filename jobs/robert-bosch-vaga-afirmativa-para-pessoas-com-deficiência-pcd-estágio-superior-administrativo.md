@@ -1,16 +1,16 @@
-# VAGA AFIRMATIVA PARA PESSOAS COM DEFICIÊNCIA (PcD) - ESTÁGIO SUPERIOR  - ADMINISTRATIVO - GESTÃO DE DESPESAS DE VIAGENS (35293) at Robert Bosch
+# VAGA AFIRMATIVA PARA PESSOAS COM DEFICIÊNCIA (PcD) - ESTÁGIO SUPERIOR - ADMINISTRATIVO - GESTÃO DE DESPESAS DE VIAGENS (35534) at Robert Bosch
 
 | Field | Details |
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Joinville, Santa Catarina, Brazil |
+| Location | Campinas, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000137510409-vaga-afirmativa-para-pessoas-com-deficiencia-pcd-estagio-superior-administrativo-gestao-de-despesas-de-viagens-35293) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143490139-vaga-afirmativa-para-pessoas-com-deficiencia-pcd-estagio-superior-administrativo-gestao-de-despesas-de-viagens-35534) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-07-13.
+This business analyst position at Robert Bosch was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

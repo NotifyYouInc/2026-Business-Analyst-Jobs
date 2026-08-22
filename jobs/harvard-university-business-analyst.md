@@ -5,12 +5,12 @@
 | Company | [Harvard University](https://scoutify.ai/companies/harvarduniversity?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cambridge, Massachusetts, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990013892996-business-analyst) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HarvardUniversity/3743990014609826-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Harvard University was posted on 2026-07-01.
+This business analyst position at Harvard University was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AECOM](https://scoutify.ai/companies/aecom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bucharest, București, Romania |
-| Category | Compliance & Risk Management |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000114071397-project-controls-analyst-iii) |
+| Location | Roanoke, Virginia, United States |
+| Category | Business Analyst |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AECOM2/744000143596496-project-controls-analyst-iii) |
 
 ## About This Role
 
-This compliance & risk management position at AECOM was posted on 2026-03-11.
+This business analyst position at AECOM was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

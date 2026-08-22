@@ -5,12 +5,12 @@
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-IT-Business-Analyst_R74588-1) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Nanakramguda-Hyderabad-India/Senior-IT-Business-Analyst_R74007-2) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-08-12.
+This business analyst position at Medtronic was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

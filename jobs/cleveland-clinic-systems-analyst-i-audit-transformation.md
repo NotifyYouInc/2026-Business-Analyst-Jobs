@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cleveland Clinic](https://scoutify.ai/companies/ccf?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Independence, Missouri, United States |
-| Category | Data Engineer |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Independence-West-Creek/Systems-Analyst-I---Audit-Transformation_327846) |
+| Category | Software Engineer |
+| Posted | 2026-08-13 |
+| Apply | [View on company site](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Independence-West-Creek/Systems-Analyst-I---Audit-Transformation_346928-1) |
 
 ## About This Role
 
-This data engineer position at Cleveland Clinic was posted on 2026-02-03.
+This software engineer position at Cleveland Clinic was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

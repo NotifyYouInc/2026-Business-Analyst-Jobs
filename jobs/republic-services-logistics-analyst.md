@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pensacola, Florida, United States |
+| Location | Fort Collins, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Pensacola-FL-USA/Logistics-Analyst_R-181333) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Fort-Collins-CO-USA/Logistics-Analyst_R-182145) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-08-12.
+This business analyst position at Republic Services was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

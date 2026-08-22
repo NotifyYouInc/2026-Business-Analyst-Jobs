@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Zeiss](https://scoutify.ai/companies/zeissgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dresden, Saxony, Germany |
-| Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Dresden/Business-Development-Manager-Pharma---Life-Science--m-w-x-_JR_1051835) |
+| Location | Germany |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Mnchen/Business-Development-Manager-Pharma---Life-Science--m-w-x-_JR_1052270) |
 
 ## About This Role
 
-This business analyst position at Zeiss was posted on 2026-07-28.
+This sales development (sdr / bdr) position at Zeiss was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

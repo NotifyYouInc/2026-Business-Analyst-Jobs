@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Piracicaba, São Paulo, Brazil |
+| Location | Peterborough, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Piracicaba-So-Paulo/Pricing-Analyst_R0000363063) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peterborough-United-Kingdom/Pricing-Analyst_R0000386503) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-04-15.
+This business analyst position at Caterpillar was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

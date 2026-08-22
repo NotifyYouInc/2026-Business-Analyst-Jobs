@@ -6,7 +6,7 @@
 | Location | London, England, United Kingdom |
 | Category | Business Analyst |
 | Posted | 2026-08-13 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---London/Senior-Business-Analyst_RQ114122-2) |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---London/Senior-Business-Analyst_RQ114061-1) |
 
 ## About This Role
 

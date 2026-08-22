@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Prysmian Cables & Systems](https://scoutify.ai/companies/prysmian-cables-systems?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Location | Sorocaba, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Buenos-Aires/Intern_R-33545) |
+| Posted | 2026-08-14 |
+| Apply | [View on company site](https://prysmiangroup.wd3.myworkdayjobs.com/careers/job/Sorocaba/Intern_R-35844) |
 
 ## About This Role
 
-This business analyst position at Prysmian Cables & Systems was posted on 2026-05-12.
+This business analyst position at Prysmian Cables & Systems was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
