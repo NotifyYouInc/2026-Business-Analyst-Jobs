@@ -1,16 +1,16 @@
-# Senior Business Analyst at BP
+# Business Developer Automotive - OEM (m/w/d) Süddeutschland at ARaymond
 
 | Field | Details |
 |-------|---------|
-| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United Kingdom |
+| Company | [ARaymond](https://scoutify.ai/companies/em3-cx-oj5597?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Germany |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/Senior-Business-Analyst_RQ114132) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://hdex.fa.em3.oraclecloud.com/jobs/#889) |
 
 ## About This Role
 
-This business analyst position at BP was posted on 2026-08-14.
+This business analyst position at ARaymond was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

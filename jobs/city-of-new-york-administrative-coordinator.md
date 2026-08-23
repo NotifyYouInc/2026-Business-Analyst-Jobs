@@ -1,16 +1,16 @@
-# Emerging Technology Analyst at Spektrum
+# Administrative Coordinator at City of New York
 
 | Field | Details |
 |-------|---------|
-| Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Norfolk, Virginia, United States |
+| Company | [City of New York](https://scoutify.ai/companies/city-of-new-york?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
 | Posted | 2026-08-15 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4953481101) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofnewyork/3743990014614036-administrative-coordinator) |
 
 ## About This Role
 
-This business analyst position at Spektrum was posted on 2026-08-15.
+This business analyst position at City of New York was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

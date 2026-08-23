@@ -1,16 +1,16 @@
-# Senior Business Analyst at BP
+# Product Business Analyst at Dotmatics
 
 | Field | Details |
 |-------|---------|
-| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [Dotmatics](https://scoutify.ai/companies/dotmatics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/Senior-Business-Analyst_RQ114132) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://www.dotmatics.com/jobs/apply?gh_jid=4721534005) |
 
 ## About This Role
 
-This business analyst position at BP was posted on 2026-08-14.
+This business analyst position at Dotmatics was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

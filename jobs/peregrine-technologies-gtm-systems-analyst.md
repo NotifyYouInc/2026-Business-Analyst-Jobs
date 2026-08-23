@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Peregrine Technologies](https://scoutify.ai/companies/peregrine-technologies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Operations |
+| Category | Go To Market Engineer |
 | Posted | 2026-08-13 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/peregrinetechnologies/jobs/4724093005) |
 
 ## About This Role
 
-This operations position at Peregrine Technologies was posted on 2026-08-13.
+This go to market engineer position at Peregrine Technologies was posted on 2026-08-13.
 
 ## Get Real-Time Alerts
 

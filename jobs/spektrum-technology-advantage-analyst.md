@@ -1,16 +1,16 @@
-#  Technology Advantage Analyst at Spektrum
+# Technology Advantage Analyst at Spektrum
 
 | Field | Details |
 |-------|---------|
 | Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Norfolk, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4943227101) |
+| Posted | 2026-08-15 |
+| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4953482101) |
 
 ## About This Role
 
-This business analyst position at Spektrum was posted on 2026-08-03.
+This business analyst position at Spektrum was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Emerging Technology Analyst at Spektrum
+# Senior Production Officer (HcP/MSE4) at Robert Bosch
 
 | Field | Details |
 |-------|---------|
-| Company | [Spektrum](https://scoutify.ai/companies/spektrum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Norfolk, Virginia, United States |
+| Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Long Thành, Dong Nai, Vietnam |
 | Category | Business Analyst |
 | Posted | 2026-08-15 |
-| Apply | [View on company site](https://spektrum-group.com/jobs?gh_jid=4953481101) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143650219-senior-production-officer-hcpmse4) |
 
 ## About This Role
 
-This business analyst position at Spektrum was posted on 2026-08-15.
+This business analyst position at Robert Bosch was posted on 2026-08-15.
 
 ## Get Real-Time Alerts
 

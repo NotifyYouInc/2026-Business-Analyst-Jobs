@@ -1,16 +1,16 @@
-# Senior Business Analyst at BP
+# Network Optimization Professional at Humana
 
 | Field | Details |
 |-------|---------|
-| Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United Kingdom |
+| Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Illinois, US |
 | Category | Business Analyst |
 | Posted | 2026-08-14 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/United-Kingdom---Sunbury/Senior-Business-Analyst_RQ114132) |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Illinois/Network-Optimization-Professional_R-426432) |
 
 ## About This Role
 
-This business analyst position at BP was posted on 2026-08-14.
+This business analyst position at Humana was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 
