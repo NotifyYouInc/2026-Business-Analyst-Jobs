@@ -1,16 +1,16 @@
-# Oracle Fusion HCM - Functional Consultant at btranzsoftware
+# Master Scheduler at Novanta
 
 | Field | Details |
 |-------|---------|
-| Company | [btranzsoftware](https://scoutify.ai/companies/btranzsoftware?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Company | [Novanta](https://scoutify.ai/companies/novanta?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Stockport, England, United Kingdom |
 | Category | Business Analyst |
 | Posted | 2026-08-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BTranz/744000143688569-oracle-fusion-hcm-functional-consultant) |
+| Apply | [View on company site](https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Stockport-United-Kingdom/Master-Scheduler_R009555) |
 
 ## About This Role
 
-This business analyst position at btranzsoftware was posted on 2026-08-16.
+This business analyst position at Novanta was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

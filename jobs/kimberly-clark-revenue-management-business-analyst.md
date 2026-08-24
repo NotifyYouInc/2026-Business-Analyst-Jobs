@@ -1,16 +1,16 @@
-# Logistics Analyst at Caterpillar
+# Revenue Management Business Analyst at Kimberly-Clark
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Kimberly-Clark](https://scoutify.ai/companies/kimberly-clark?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Vietnam |
 | Category | Business Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Logistics-Analyst_R0000388601) |
+| Apply | [View on company site](https://kimberlyclark.wd1.myworkdayjobs.com/global/job/Vietnam---Ho-Chi-Minh/Revenue-Management-Business-Analyst_886802-1) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-08-17.
+This business analyst position at Kimberly-Clark was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

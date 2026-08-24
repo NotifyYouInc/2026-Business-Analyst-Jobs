@@ -1,16 +1,16 @@
-# Logistics Analyst at Caterpillar
+# Senior Insights Analyst at Thomson Reuters
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [Thomson Reuters](https://scoutify.ai/companies/thomson-reuters?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
+| Category | Data Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Logistics-Analyst_R0000388601) |
+| Apply | [View on company site](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Bengaluru-Karnataka/Senior-Insights-Analyst_JREQ202700) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-08-17.
+This data analyst position at Thomson Reuters was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

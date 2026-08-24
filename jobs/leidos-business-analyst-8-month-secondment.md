@@ -1,16 +1,16 @@
-# Logistics Analyst at Caterpillar
+# Business Analyst - 8 month secondment at Leidos
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Leidos](https://scoutify.ai/companies/leidos?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 2 locations |
 | Category | Business Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Logistics-Analyst_R0000388601) |
+| Apply | [View on company site](https://leidos.wd5.myworkdayjobs.com/External/job/Scoresby-Victoria-Australia/Business-Analyst---8-month-secondment_R-00188511-1) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-08-17.
+This business analyst position at Leidos was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

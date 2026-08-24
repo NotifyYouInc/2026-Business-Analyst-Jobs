@@ -1,16 +1,16 @@
-# Logistics Analyst at Caterpillar
+# Internship Business Management, PETRONAS Chemicals Marketing (Labuan) at KLCC at PETRONAS
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [PETRONAS](https://scoutify.ai/companies/ap1-cx-oj85488?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Business Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Logistics-Analyst_R0000388601) |
+| Apply | [View on company site](https://epuc.fa.ap1.oraclecloud.com/jobs/#29843) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-08-17.
+This business analyst position at PETRONAS was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

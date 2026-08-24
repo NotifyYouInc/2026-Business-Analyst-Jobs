@@ -1,16 +1,16 @@
-# Logistics Analyst at Caterpillar
+# Specialiste controle des offres at EXFO
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [EXFO](https://scoutify.ai/companies/exfo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Canada |
 | Category | Business Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Logistics-Analyst_R0000388601) |
+| Apply | [View on company site](https://exfo.wd10.myworkdayjobs.com/EXFO_Careers/job/Quebec-City-QC-Canada/Specialiste-controle-des-offres_R-100375) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-08-17.
+This business analyst position at EXFO was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

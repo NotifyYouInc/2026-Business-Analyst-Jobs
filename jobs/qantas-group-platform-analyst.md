@@ -1,16 +1,16 @@
-# Logistics Analyst at Caterpillar
+# Platform Analyst at Qantas Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Melbourne, Victoria, Australia |
 | Category | Business Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Logistics-Analyst_R0000388601) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001319880-platform-analyst) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-08-17.
+This business analyst position at Qantas Group was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

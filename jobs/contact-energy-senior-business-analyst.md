@@ -1,16 +1,16 @@
-# Senior Business Analyst  at Contact Energy
+# Senior Business Analyst at Contact Energy
 
 | Field | Details |
 |-------|---------|
 | Company | [Contact Energy](https://scoutify.ai/companies/contactenergy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Business Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ContactEnergy/744000142988889-senior-business-analyst) |
+| Posted | 2026-08-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ContactEnergy/744000143702069-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Contact Energy was posted on 2026-08-12.
+This business analyst position at Contact Energy was posted on 2026-08-16.
 
 ## Get Real-Time Alerts
 

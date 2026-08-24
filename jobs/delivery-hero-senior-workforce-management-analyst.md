@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
-| Category | Business Analyst |
+| Category | Human Resources / People Ops |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000143507804-senior-workforce-management-analyst) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-08-14.
+This human resources / people ops position at Delivery Hero was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

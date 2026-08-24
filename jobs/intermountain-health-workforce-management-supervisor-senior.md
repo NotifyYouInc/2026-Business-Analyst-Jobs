@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Intermountain Health](https://scoutify.ai/companies/intermountain-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | West Valley City, Utah, United States |
-| Category | Business Analyst |
+| Category | Human Resources / People Ops |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://imh.wd108.myworkdayjobs.com/intermountaincareers/job/Lake-Park-Building/Workforce-Management-Supervisor-Senior_R180848-1) |
 
 ## About This Role
 
-This business analyst position at Intermountain Health was posted on 2026-08-14.
+This human resources / people ops position at Intermountain Health was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

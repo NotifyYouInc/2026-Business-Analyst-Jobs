@@ -1,16 +1,16 @@
-# Senior Manager - Workforce Planning at DP World
+# Senior Manager Workforce Planning at Cba
 
 | Field | Details |
 |-------|---------|
-| Company | [DP World](https://scoutify.ai/companies/em2-cx-oj32011?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New South Wales, AU |
+| Company | [Cba](https://scoutify.ai/companies/cba?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | 3 locations |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://ehpv.fa.em2.oraclecloud.com/jobs/#26361) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/private_ad/job/Sydney-CBD-Area/Senior-Manager-Workforce-Planning_REQ263596-2) |
 
 ## About This Role
 
-This human resources / people ops position at DP World was posted on 2026-08-14.
+This human resources / people ops position at Cba was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

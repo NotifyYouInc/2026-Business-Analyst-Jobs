@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000134190289-sr-business-system-analyst-sap-tm) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000143755009-sr-business-system-analyst-sap-tm) |
 
 ## About This Role
 
-This business analyst position at Intuitive Surgical was posted on 2026-06-25.
+This business analyst position at Intuitive Surgical was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

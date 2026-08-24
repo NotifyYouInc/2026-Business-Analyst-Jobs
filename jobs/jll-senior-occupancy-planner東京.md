@@ -1,16 +1,16 @@
-# Logistics Analyst at Caterpillar
+# Senior Occupancy Planner（東京） at JLL
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Tokyo, Tokyo, Japan |
 | Category | Business Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Logistics-Analyst_R0000388601) |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Tokyo-Japan/Senior-Occupancy-Planner_REQ504049) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-08-17.
+This business analyst position at JLL was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

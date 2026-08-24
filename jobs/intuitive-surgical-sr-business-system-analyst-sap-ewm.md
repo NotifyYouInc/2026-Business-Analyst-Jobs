@@ -1,16 +1,16 @@
-# Logistics Analyst at Caterpillar
+# Sr. Business System Analyst - SAP EWM at Intuitive Surgical
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Logistics-Analyst_R0000388601) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000143755369-sr-business-system-analyst-sap-ewm) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-08-17.
+This business analyst position at Intuitive Surgical was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

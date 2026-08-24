@@ -1,16 +1,16 @@
-# Logistics Analyst at Caterpillar
+# Business Analyst (1 Year Contract) at FWD Group
 
 | Field | Details |
 |-------|---------|
-| Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Company | [FWD Group](https://scoutify.ai/companies/fwd-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
 | Posted | 2026-08-17 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Bangalore-Karnataka/Logistics-Analyst_R0000388601) |
+| Apply | [View on company site](https://fwd.wd3.myworkdayjobs.com/fwdcareersite/job/Singapore---Suntec-Tower-4/Business-Analyst--1-Year-Contract-_JR-0027796-1) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-08-17.
+This business analyst position at FWD Group was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
