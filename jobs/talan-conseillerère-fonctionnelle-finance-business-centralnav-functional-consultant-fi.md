@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000141731239-conseillerere-fonctionnelle-finance-business-centralnav-functional-consultant-finance-microsoft-business-centralnav) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000143931449-conseillerere-fonctionnelle-finance-business-centralnav-functional-consultant-finance-microsoft-business-centralnav) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-08-05.
+This business analyst position at Talan was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

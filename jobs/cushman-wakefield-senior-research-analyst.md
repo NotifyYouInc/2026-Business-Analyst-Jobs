@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Denver, Colorado, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Denver-Colorado-USA/Senior-Research-Analyst_R324031) |
+| Location | Seoul, Seoul, South Korea |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Seoul-Korea-Republic-of/Senior-Research-Analyst_R332276) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-06-15.
+This data analyst position at Cushman & Wakefield was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

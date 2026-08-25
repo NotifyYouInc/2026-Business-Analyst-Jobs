@@ -1,16 +1,16 @@
-#  Senior Manager, BizOps & Analytics at Jerry.ai
+# Senior Manager, BizOps & Analytics at Jerry.ai
 
 | Field | Details |
 |-------|---------|
 | Company | [Jerry.ai](https://scoutify.ai/companies/jerry-ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
-| Category | Strategy & Operations |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/39a21ad5-86c2-4a40-94af-8cf1ff8dfa9c) |
+| Location | New York City, New York, United States |
+| Category | Operations |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/jerry.ai/4f7882db-11dd-4308-9152-2b959ccce8c6) |
 
 ## About This Role
 
-This strategy & operations position at Jerry.ai was posted on 2026-07-13.
+This operations position at Jerry.ai was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

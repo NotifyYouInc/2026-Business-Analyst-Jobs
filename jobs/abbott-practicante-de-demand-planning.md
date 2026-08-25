@@ -5,12 +5,12 @@
 | Company | [Abbott](https://scoutify.ai/companies/abbott-laboratories?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lima, Lima Province, Peru |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Peru---Lima/PRACTICANTE-DE-DEMAND-PLANNING_31142808) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Peru---Lima/PRACTICANTE-DE-DEMAND-PLANNING_31159418) |
 
 ## About This Role
 
-This business analyst position at Abbott was posted on 2026-02-23.
+This business analyst position at Abbott was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

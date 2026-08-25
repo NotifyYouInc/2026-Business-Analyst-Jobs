@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Poznań, Greater Poland, Poland |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Poznan-Business-Garden/Commercial-Business-Process-Expert_546762-1) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Bengaluru-Campus-31/Commercial-Business-Process-Expert_546765) |
 
 ## About This Role
 
-This business analyst position at Haleon was posted on 2026-08-13.
+This business analyst position at Haleon was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

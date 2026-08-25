@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Calgary, Alberta, Canada |
+| Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000129558514-junior-logistics-analyst) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000143991710-junior-logistics-analyst) |
 
 ## About This Role
 
-This business analyst position at Louis Dreyfus was posted on 2026-06-01.
+This business analyst position at Louis Dreyfus was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

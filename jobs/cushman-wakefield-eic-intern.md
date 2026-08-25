@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Madrid-Spain/Intern_R287343) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Gurgaon-India/EIC-Intern_R330234) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-05-07.
+This business analyst position at Cushman & Wakefield was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

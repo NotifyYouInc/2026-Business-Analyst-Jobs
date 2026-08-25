@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Global Payments](https://scoutify.ai/companies/tsys?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quezon City, National Capital Region, Philippines |
-| Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/QUEZON-CITY--PHILIPPINES/Operations-Analyst_R0071659) |
+| Location | Pune, Maharashtra, India |
+| Category | Data Analyst |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://tsys.wd1.myworkdayjobs.com/TSYS/job/PUNE--INDIA/Operations-Analyst_R0073026) |
 
 ## About This Role
 
-This business analyst position at Global Payments was posted on 2026-06-16.
+This data analyst position at Global Payments was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

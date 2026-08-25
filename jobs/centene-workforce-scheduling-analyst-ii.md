@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Virginia, US |
+| Location | Florida, US |
 | Category | Business Analyst |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-VA/Workforce-Scheduling-Analyst-II_1641714) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-VA/Workforce-Scheduling-Analyst-II_1651858-1) |
 
 ## About This Role
 
-This business analyst position at Centene was posted on 2026-06-08.
+This business analyst position at Centene was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

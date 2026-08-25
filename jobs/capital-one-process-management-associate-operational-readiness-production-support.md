@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Leadership Development Program |
+| Category | Business Analyst |
 | Posted | 2026-08-14 |
 | Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Process--Management-Associate---Operational-Readiness---Production-Support_R249361-1) |
 
 ## About This Role
 
-This leadership development program position at Capital One was posted on 2026-08-14.
+This business analyst position at Capital One was posted on 2026-08-14.
 
 ## Get Real-Time Alerts
 

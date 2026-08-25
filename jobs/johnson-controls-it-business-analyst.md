@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dalian, Liaoning, China |
-| Category | Business Analyst |
-| Posted | 2026-03-09 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Dalian-Liaoning-China/IT-Business-Analyst_WD30263817) |
+| Location | Pune, Maharashtra, India |
+| Category | Software Engineer |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/IT-Business-Analyst_WD30277362) |
 
 ## About This Role
 
-This business analyst position at Johnson Controls was posted on 2026-03-09.
+This software engineer position at Johnson Controls was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

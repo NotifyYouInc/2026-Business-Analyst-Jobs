@@ -5,12 +5,12 @@
 | Company | [VAM Systems](https://scoutify.ai/companies/vamsystems?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Doha, Baladīyat ad Dawḩah, Qatar |
 | Category | Business Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000141244299-business-analyst-core-banking-finastra-equation) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VAMSystems/744000143979650-business-analyst-core-banking-finastra-equation) |
 
 ## About This Role
 
-This business analyst position at VAM Systems was posted on 2026-08-03.
+This business analyst position at VAM Systems was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Vizient](https://scoutify.ai/companies/vizient?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Spend-Manager_33018R) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Spend-Manager_34761R) |
 
 ## About This Role
 
-This business analyst position at Vizient was posted on 2026-04-06.
+This business analyst position at Vizient was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

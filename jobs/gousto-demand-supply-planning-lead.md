@@ -5,12 +5,12 @@
 | Company | [Gousto](https://scoutify.ai/companies/gousto?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Warrington, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-03-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Gousto1/744000112694298-demand-supply-planning-lead) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Gousto1/744000143876856-demand-supply-planning-lead) |
 
 ## About This Role
 
-This business analyst position at Gousto was posted on 2026-03-04.
+This business analyst position at Gousto was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

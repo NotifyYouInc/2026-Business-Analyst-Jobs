@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Guidehouse](https://scoutify.ai/companies/guidehouse?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Arlington, Texas, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-Arlington/Business-Analyst_42474) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---VA-McLean/Business-Analyst_43056) |
 
 ## About This Role
 
-This business analyst position at Guidehouse was posted on 2026-08-03.
+This business analyst position at Guidehouse was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

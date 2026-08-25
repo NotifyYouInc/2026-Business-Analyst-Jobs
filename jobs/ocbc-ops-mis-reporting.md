@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-OCBC/Ops-MIS-Reporting_JR00008282) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-OCBC/Process-Management---AVP_JR00010192) |
 
 ## About This Role
 
-This business analyst position at OCBC was posted on 2026-05-29.
+This business analyst position at OCBC was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

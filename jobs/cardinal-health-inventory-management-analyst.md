@@ -5,12 +5,12 @@
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tennessee, US |
 | Category | Business Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TN-LaVergne-SPDMM-LV4/Inventory-Management--Analyst_20184419) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TN-LaVergne-SPDMM-LV4/Inventory-Management--Analyst_20185710) |
 
 ## About This Role
 
-This business analyst position at Cardinal Health was posted on 2026-07-27.
+This business analyst position at Cardinal Health was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

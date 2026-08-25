@@ -5,12 +5,12 @@
 | Company | [SmartDev](https://scoutify.ai/companies/smartdev?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cầu Giấy, Hanoi, Vietnam |
 | Category | Business Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000142554570-business-analyst-based-in-danang-or-hanoi) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/smartdev1/744000143797439-business-analyst-based-in-danang-or-hanoi) |
 
 ## About This Role
 
-This business analyst position at SmartDev was posted on 2026-08-10.
+This business analyst position at SmartDev was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

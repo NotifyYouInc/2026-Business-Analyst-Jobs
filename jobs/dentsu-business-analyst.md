@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/New-York/Business-Analyst_R1111298) |
+| Location | Pune, Maharashtra, India |
+| Category | Customer Success |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Pune---Indiqube-Orchid/Business-Analyst_R1129544-1) |
 
 ## About This Role
 
-This business analyst position at Dentsu was posted on 2026-06-15.
+This customer success position at Dentsu was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

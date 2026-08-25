@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dollywood](https://scoutify.ai/companies/dollywood?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
-| Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/her1021hefe/JobBoard/28d9beab-7b32-428f-b8a1-180ba0b22a16/OpportunityDetail?opportunityId=03d5cc65-55fa-4a03-ab17-4ab3a5d78172) |
+| Location | United States |
+| Category | Data Analyst |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/her1021hefe/JobBoard/28d9beab-7b32-428f-b8a1-180ba0b22a16/OpportunityDetail?opportunityId=8a303e16-2b7a-4d35-820d-d8a21442ab34) |
 
 ## About This Role
 
-This business analyst position at Dollywood was posted on 2026-06-12.
+This data analyst position at Dollywood was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

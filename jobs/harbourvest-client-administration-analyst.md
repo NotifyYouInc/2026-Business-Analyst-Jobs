@@ -5,12 +5,12 @@
 | Company | [HarbourVest](https://scoutify.ai/companies/harbourvest?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bogotá, Bogota D.C., Colombia |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Bogot/Client-Administration-Analyst_R2377) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://harbourvest.wd5.myworkdayjobs.com/hvp/job/Bogot/Client-Administration-Analyst_R2418-1) |
 
 ## About This Role
 
-This business analyst position at HarbourVest was posted on 2026-05-29.
+This business analyst position at HarbourVest was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

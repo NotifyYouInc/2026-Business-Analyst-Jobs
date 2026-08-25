@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Business-Analyst_26964508) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Business-Analyst_26986355-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-06-03.
+This business analyst position at Citigroup was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

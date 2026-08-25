@@ -5,12 +5,12 @@
 | Company | [Commerce Bank](https://scoutify.ai/companies/commercebank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Senior-Business-Analyst_37550) |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Senior-Business-Analyst_38328) |
 
 ## About This Role
 
-This business analyst position at Commerce Bank was posted on 2026-02-05.
+This business analyst position at Commerce Bank was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 

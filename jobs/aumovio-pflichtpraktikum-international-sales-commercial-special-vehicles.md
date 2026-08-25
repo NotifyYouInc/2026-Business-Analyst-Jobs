@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Aumovio](https://scoutify.ai/companies/aumovio?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Villingen-Schwenningen, Baden-Wurttemberg, Germany |
-| Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000137594825-pflichtpraktikum-international-sales-commercial-special-vehicles) |
+| Category | Operations |
+| Posted | 2026-08-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Aumovio/744000143805619-pflichtpraktikum-international-sales-commercial-special-vehicles) |
 
 ## About This Role
 
-This business analyst position at Aumovio was posted on 2026-07-14.
+This operations position at Aumovio was posted on 2026-08-17.
 
 ## Get Real-Time Alerts
 
