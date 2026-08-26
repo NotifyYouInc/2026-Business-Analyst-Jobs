@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medtronic](https://scoutify.ai/companies/medtronic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lausanne, Vaud, Switzerland |
+| Location | Alajuela, Alajuela Province, Costa Rica |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lausanne-Vaud-Switzerland/Supply-Chain-Proj-Analyst_R58498-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Alajuela-Coyol-Alajuela-Costa-Rica/Supply-Chain-Proj-Analyst_R75132-2) |
 
 ## About This Role
 
-This business analyst position at Medtronic was posted on 2026-03-17.
+This business analyst position at Medtronic was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

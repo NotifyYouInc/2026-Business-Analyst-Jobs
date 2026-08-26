@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sun Life Financial](https://scoutify.ai/companies/sun-life-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/HR-Senior-Systems-Analyst_JR00126495-1) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://sunlife.wd3.myworkdayjobs.com/experienced-jobs/job/Toronto-Ontario/HR-Senior-Systems-Analyst_JR00126820-2) |
 
 ## About This Role
 
-This business analyst position at Sun Life Financial was posted on 2026-07-31.
+This human resources / people ops position at Sun Life Financial was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

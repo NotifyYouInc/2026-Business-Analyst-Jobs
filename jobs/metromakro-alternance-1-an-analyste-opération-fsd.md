@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nanterre, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000138280329-alternance-1-an-analyste-operation-fsd) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000144083979-alternance-1-an-analyste-operation-fsd) |
 
 ## About This Role
 
-This business analyst position at METRO/MAKRO was posted on 2026-07-17.
+This business analyst position at METRO/MAKRO was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

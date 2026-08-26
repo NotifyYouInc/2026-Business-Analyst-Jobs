@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Round Rock, Texas, United States |
+| Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Round-Rock-TX/Occupancy-Planner_REQ528418) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Occupancy-Planner_REQ529256) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-08-11.
+This business analyst position at JLL was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

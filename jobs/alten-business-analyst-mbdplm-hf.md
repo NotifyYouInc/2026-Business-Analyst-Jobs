@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Villemur-sur-Tarn, Occitanie, France |
 | Category | Business Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000138159987-business-analyst-mbdplm-hf) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000144088557-business-analyst-mbdplm-hf) |
 
 ## About This Role
 
-This business analyst position at ALTEN was posted on 2026-07-16.
+This business analyst position at ALTEN was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [HighRadius](https://scoutify.ai/companies/highradius?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Customer Success |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7803798003) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7804499003) |
 
 ## About This Role
 
-This customer success position at HighRadius was posted on 2026-08-13.
+This customer success position at HighRadius was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

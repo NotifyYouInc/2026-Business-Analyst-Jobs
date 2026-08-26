@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | California, US |
+| Location | Vilnius, Vilnius, Lithuania |
 | Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/Sr-Business-Systems-Analyst_JR119267-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Vilnius-Lithuania/Sr-Business-Systems-Analyst_JR120580-1) |
 
 ## About This Role
 
-This business analyst position at Dexcom was posted on 2026-06-17.
+This business analyst position at Dexcom was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

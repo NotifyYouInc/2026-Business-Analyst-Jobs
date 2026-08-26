@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Washington-DC-Metro-Area/Operations-Analyst_R2107938) |
+| Location | Ohio, US |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Beavercreek-Township-Ohio/Operations-Analyst_R2128548) |
 
 ## About This Role
 
-This business analyst position at KBR was posted on 2026-06-22.
+This data analyst position at KBR was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

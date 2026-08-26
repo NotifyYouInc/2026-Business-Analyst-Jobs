@@ -5,12 +5,12 @@
 | Company | [Qantas Group](https://scoutify.ai/companies/qantas-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001309437-sales-and-distribution-team-coordinator) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001330298-sales-and-distribution-team-coordinator) |
 
 ## About This Role
 
-This business analyst position at Qantas Group was posted on 2026-08-12.
+This business analyst position at Qantas Group was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

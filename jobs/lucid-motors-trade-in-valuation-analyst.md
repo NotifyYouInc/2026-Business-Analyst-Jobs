@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Lucid Motors](https://scoutify.ai/companies/lucidmotors?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Newark, New Jersey, United States |
+| Location | Torrance, California, United States |
 | Category | Financial Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/lucidmotors/jobs/5186054007) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/lucidmotors/jobs/5214871007) |
 
 ## About This Role
 
-This financial analyst position at Lucid Motors was posted on 2026-07-15.
+This financial analyst position at Lucid Motors was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

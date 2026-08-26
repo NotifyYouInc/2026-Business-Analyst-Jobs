@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Minneapolis, Minnesota, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MINNEAPOLIS-MN/Senior-Operations-Processor_R-552007-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Operations-Processor_R-567730) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-06-25.
+This business analyst position at Wells Fargo was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

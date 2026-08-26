@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fort Collins, Colorado, United States |
+| Location | Bettendorf, Iowa, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Fort-Collins-CO-USA/Logistics-Analyst_R-182145) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Bettendorf-IA-USA/Logistics-Analyst_R-182271) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-08-14.
+This business analyst position at Republic Services was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

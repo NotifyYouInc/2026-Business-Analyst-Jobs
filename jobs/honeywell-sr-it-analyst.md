@@ -5,12 +5,12 @@
 | Company | [Honeywell](https://scoutify.ai/companies/ocs-cx-oj53173?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#155409) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ibqbjb.fa.ocs.oraclecloud.com/jobs/#152201) |
 
 ## About This Role
 
-This business analyst position at Honeywell was posted on 2026-08-10.
+This business analyst position at Honeywell was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

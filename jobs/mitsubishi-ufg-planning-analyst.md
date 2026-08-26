@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Business Analyst |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Sydney-Branch/Planning-Analyst_10078787-WD) |
 
 ## About This Role
 
-This business analyst position at Mitsubishi UFG was posted on 2026-08-18.
+This fp&a / strategic finance position at Mitsubishi UFG was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

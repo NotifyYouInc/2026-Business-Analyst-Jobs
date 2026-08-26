@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---JAL---GUADALAJARA/Service-Request-Management---Process-Analyst_51583346-1) |
+| Location | Mexico City, Mexico City, Mexico |
+| Category | Operations |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/MEX---DIF---MEXICO-CITY/Service-Request-Management---Process-Analyst_51587075) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-07-02.
+This operations position at DXC Technology was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

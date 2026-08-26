@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [CTBC Financial Holding](https://scoutify.ai/companies/ctbc-financial-holding?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Taipei, Taiwan, Taiwan |
-| Category | Project Manager |
-| Posted | 2026-03-22 |
-| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-AI_JR6796) |
+| Category | Business Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://ctbcholding.wd3.myworkdayjobs.com/external/job/Taipei/-AI_JR4619) |
 
 ## About This Role
 
-This project manager position at CTBC Financial Holding was posted on 2026-03-22.
+This business analyst position at CTBC Financial Holding was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

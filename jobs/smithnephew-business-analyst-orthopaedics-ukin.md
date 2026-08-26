@@ -5,12 +5,12 @@
 | Company | [Smith+Nephew](https://scoutify.ai/companies/smithnephew?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Watford, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
+| Posted | 2026-08-19 |
 | Apply | [View on company site](https://smithnephew.wd5.myworkdayjobs.com/External/job/UK---Watford/Business-Analyst-Orthopaedics--UKIN_R89067-1) |
 
 ## About This Role
 
-This business analyst position at Smith+Nephew was posted on 2026-03-20.
+This business analyst position at Smith+Nephew was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

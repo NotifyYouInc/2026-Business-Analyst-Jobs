@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Torreón, Coahuila, Mexico |
+| Location | Tamil Nadu, IN |
 | Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Torreon-Coahuila/Manufacturing-Analyst_R0000383169) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/Manufacturing-Analyst_R0000388564) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-07-23.
+This business analyst position at Caterpillar was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

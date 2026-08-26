@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Huntsville, Alabama, United States |
 | Category | Electrical / Hardware Engineer |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Radar-Systems-Analyst_R2124501) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Huntsville-Alabama/Radar-Systems-Analyst_R2128368) |
 
 ## About This Role
 
-This electrical / hardware engineer position at KBR was posted on 2026-06-03.
+This electrical / hardware engineer position at KBR was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

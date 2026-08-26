@@ -5,12 +5,12 @@
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Production-Planner_122155) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Production-Planner_122334) |
 
 ## About This Role
 
-This business analyst position at CAE was posted on 2026-07-13.
+This business analyst position at CAE was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

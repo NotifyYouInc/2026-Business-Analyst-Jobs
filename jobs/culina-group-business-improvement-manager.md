@@ -5,12 +5,12 @@
 | Company | [Culina Group](https://scoutify.ai/companies/culinagroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000141892779-business-improvement-manager) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000144089137-business-improvement-manager) |
 
 ## About This Role
 
-This business analyst position at Culina Group was posted on 2026-08-06.
+This business analyst position at Culina Group was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

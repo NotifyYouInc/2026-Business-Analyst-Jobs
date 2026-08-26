@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/GBS-IE-Supervisor_R26015666-1) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/GBS-IE-Supervisor_R26027115-1) |
 
 ## About This Role
 
-This business analyst position at United Parcel Service (UPS) was posted on 2026-07-01.
+This business analyst position at United Parcel Service (UPS) was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

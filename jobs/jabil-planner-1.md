@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Monterrey, Nuevo León, Mexico |
+| Location | Memphis, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-18 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monterrey/Planner-1_J2458102) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Memphis-TN/Planner-1_J2461760) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-07-18.
+This business analyst position at Jabil was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
-| Category | Business Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mexico-City/Internal-Systems-Analyst_14646808) |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Buenos-Aires/Internal-Systems-Analyst_14646260) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-08-10.
+This data analyst position at Accenture was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

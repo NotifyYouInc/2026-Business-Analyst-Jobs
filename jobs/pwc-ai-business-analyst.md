@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PwC](https://scoutify.ai/companies/pwc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sofia, Sofia-Capital, Bulgaria |
+| Location | Bucharest, București, Romania |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Sofia/AI-Business-Analyst_752715WD) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bucharest/AI-Business-Analyst_753188WD) |
 
 ## About This Role
 
-This business analyst position at PwC was posted on 2026-08-14.
+This business analyst position at PwC was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

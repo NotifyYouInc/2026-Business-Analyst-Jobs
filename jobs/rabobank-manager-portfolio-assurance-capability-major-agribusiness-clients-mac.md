@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Rabobank](https://scoutify.ai/companies/rabobank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 5 locations |
-| Category | Business Analyst |
+| Category | Compliance & Risk Management |
 | Posted | 2026-08-18 |
 | Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Sydney---Darling-Park/Manager-Portfolio-Assurance---Capability---Major-Agribusiness-Clients--MAC-_JR_00144659) |
 
 ## About This Role
 
-This business analyst position at Rabobank was posted on 2026-08-18.
+This compliance & risk management position at Rabobank was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

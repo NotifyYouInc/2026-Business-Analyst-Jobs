@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Broadridge](https://scoutify.ai/companies/broadridge?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cluj-Napoca, Cluj County, Romania |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Cluj-Napoca---3rd-Emile-Zola-Street/Business-Analyst_JR1083922) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://broadridge.wd5.myworkdayjobs.com/careers/job/Bengaluru-EPIP-Industrial-Area/Business-Analyst_JR1084570-1) |
 
 ## About This Role
 
-This business analyst position at Broadridge was posted on 2026-06-25.
+This business analyst position at Broadridge was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

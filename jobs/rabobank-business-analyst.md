@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rabobank](https://scoutify.ai/companies/rabobank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Utrecht, Utrecht, The Netherlands |
+| Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Utrecht-Winthontlaan-1/Business-Analyst-B_JR_00140284) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Sydney---Darling-Park/Business-Analyst_JR_00144171) |
 
 ## About This Role
 
-This business analyst position at Rabobank was posted on 2026-05-06.
+This business analyst position at Rabobank was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

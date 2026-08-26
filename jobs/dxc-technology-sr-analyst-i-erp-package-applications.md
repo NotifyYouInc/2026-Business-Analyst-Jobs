@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Perth, Western Australia, Australia |
+| Location | Brisbane, Queensland, Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---WA---PERTH/Sr-Analyst-I-ERP-Package-Applications_51566335) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/AUS---QLD---BRISBANE/Sr-Analyst-I-ERP-Package-Applications_51585492) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-06-17.
+This business analyst position at DXC Technology was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [EvolutionIQ](https://scoutify.ai/companies/evolutioniq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-01 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/evolutioniq/jobs/5986422004) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/evolutioniq/jobs/6146106004) |
 
 ## About This Role
 
-This business analyst position at EvolutionIQ was posted on 2026-05-01.
+This business analyst position at EvolutionIQ was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

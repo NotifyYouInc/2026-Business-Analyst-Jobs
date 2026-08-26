@@ -1,0 +1,22 @@
+# Functional Consultant (M&A) at HighRadius
+
+| Field | Details |
+|-------|---------|
+| Company | [HighRadius](https://scoutify.ai/companies/highradius?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Hyderabad, Telangana, India |
+| Category | Corporate Development & M&A |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7732917003) |
+
+## About This Role
+
+This corporate development & m&a position at HighRadius was posted on 2026-08-18.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

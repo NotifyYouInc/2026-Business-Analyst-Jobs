@@ -5,12 +5,12 @@
 | Company | [Tipico](https://scoutify.ai/companies/tipico?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Malta |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000143476053-business-process-owner-mfx) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Tipico/744000144014649-business-process-owner-mfx) |
 
 ## About This Role
 
-This business analyst position at Tipico was posted on 2026-08-14.
+This business analyst position at Tipico was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

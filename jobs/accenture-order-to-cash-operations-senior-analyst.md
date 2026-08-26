@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
-| Category | Corporate Finance |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Order-to-Cash-Operations-Senior-Analyst_AIOC-S01618257-1) |
+| Location | Noida, Uttar Pradesh, India |
+| Category | Data Analyst |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Noida/Order-to-Cash-Operations-Senior-Analyst_AIOC-S01661390-1) |
 
 ## About This Role
 
-This corporate finance position at Accenture was posted on 2026-05-19.
+This data analyst position at Accenture was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 

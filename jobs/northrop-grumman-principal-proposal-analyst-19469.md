@@ -5,12 +5,12 @@
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Roy, Utah, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Principal-Proposal-Analyst---19469_R10244226) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Principal-Proposal-Analyst---19469_R10246390) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-08-11.
+This business analyst position at Northrop Grumman was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
