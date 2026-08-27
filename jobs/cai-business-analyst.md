@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAI](https://scoutify.ai/companies/cai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Manila---One-World-Square/Business-Analyst_R8319) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://cai.wd5.myworkdayjobs.com/computer_aid/job/Business-Analyst_R8377) |
 
 ## About This Role
 
-This business analyst position at CAI was posted on 2026-08-13.
+This business analyst position at CAI was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

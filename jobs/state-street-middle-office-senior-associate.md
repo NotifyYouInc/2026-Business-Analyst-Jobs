@@ -5,12 +5,12 @@
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Middle-Office---Senior-Associate_R-794385) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Middle-Office---Senior-Associate_R-796247) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-07-23.
+This business analyst position at State Street was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

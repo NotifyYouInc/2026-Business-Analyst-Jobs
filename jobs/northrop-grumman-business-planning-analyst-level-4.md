@@ -1,16 +1,16 @@
-# Business Planning Analyst level 4 at Northrop Grumman
+# Business Planning Analyst Level 4 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Center, Texas, United States |
-| Category | Business Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Business-Planning-Analyst-level-4_R10245220) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-West-Virginia-Rocket-Center/Business-Planning-Analyst-Level-4_R10246753-1) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-08-11.
+This fp&a / strategic finance position at Northrop Grumman was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

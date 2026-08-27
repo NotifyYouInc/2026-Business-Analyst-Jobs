@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MidFirst Bank](https://scoutify.ai/companies/midfirst-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Not specified |
-| Category | AI / ML Research |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/mid1025midf/JobBoard/de6dc764-d7e7-4ebc-99c5-bb453e31e24b/OpportunityDetail?opportunityId=31872047-5290-4ce1-af8c-40242332c145) |
+| Category | Business Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/mid1025midf/JobBoard/de6dc764-d7e7-4ebc-99c5-bb453e31e24b/OpportunityDetail?opportunityId=13100ae7-7112-4a86-86dc-8999080311a8) |
 
 ## About This Role
 
-This ai / ml research position at MidFirst Bank was posted on 2026-05-29.
+This business analyst position at MidFirst Bank was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

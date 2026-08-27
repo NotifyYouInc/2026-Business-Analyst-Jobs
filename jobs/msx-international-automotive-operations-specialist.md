@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
+| Location | Cleveland, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990012240926-automotive-operations-specialist) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014684866-automotive-operations-specialist) |
 
 ## About This Role
 
-This business analyst position at MSX International was posted on 2026-03-20.
+This business analyst position at MSX International was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

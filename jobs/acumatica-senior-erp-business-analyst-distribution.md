@@ -5,12 +5,12 @@
 | Company | [Acumatica](https://scoutify.ai/companies/acumatica?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000143921194-senior-erp-business-analyst-distribution) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Acumatica/744000144588439-senior-erp-business-analyst-distribution) |
 
 ## About This Role
 
-This business analyst position at Acumatica was posted on 2026-08-17.
+This business analyst position at Acumatica was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

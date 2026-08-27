@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NZ Transport Agency](https://scoutify.ai/companies/nz-transport-agency?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Palmerston North, Manawatu-Wanganui, New Zealand |
-| Category | Business Analyst |
-| Posted | 2026-05-15 |
-| Apply | [View on company site](https://nztagovtnz.wd3.myworkdayjobs.com/nztagovtnz/job/Palmerston-North/Senior-Financial-Systems-Analyst_JR-0000012705) |
+| Category | Financial Analyst |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://nztagovtnz.wd3.myworkdayjobs.com/nztagovtnz/job/Palmerston-North/Senior-Financial-Systems-Analyst_JR-0000013121) |
 
 ## About This Role
 
-This business analyst position at NZ Transport Agency was posted on 2026-05-15.
+This financial analyst position at NZ Transport Agency was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

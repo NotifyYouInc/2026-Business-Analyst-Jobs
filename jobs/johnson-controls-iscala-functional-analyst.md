@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nuevo León, Baja California, Mexico |
+| Location | Istanbul, Istanbul, Turkey |
 | Category | Business Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Pedro-Garza-Garcia-Nuevo-Leon-Mexico/iScala-Functional-Analyst_WD30276134-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Istanbul-Istanbul-Turkey/iScala-Functional-Analyst_WD30277533) |
 
 ## About This Role
 
-This business analyst position at Johnson Controls was posted on 2026-08-06.
+This business analyst position at Johnson Controls was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

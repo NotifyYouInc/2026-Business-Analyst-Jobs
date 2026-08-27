@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TELUS Health](https://scoutify.ai/companies/telus-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | Vancouver, British Columbia, Canada |
 | Category | Business Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/External/job/Boston-Massachusetts-USA/Client-Service-Analyst-I-TH_R-22775) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://lifeworks.wd3.myworkdayjobs.com/External/job/Vancouver-British-Columbia-Canada/Client-Service-Analyst-I-TH_R-22868) |
 
 ## About This Role
 
-This business analyst position at TELUS Health was posted on 2026-08-11.
+This business analyst position at TELUS Health was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

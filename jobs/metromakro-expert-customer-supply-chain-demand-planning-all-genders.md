@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Business Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000143767875-expert-customer-supply-chain-demand-planning-all-genders) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000144460881-expert-customer-supply-chain-demand-planning-all-genders) |
 
 ## About This Role
 
-This business analyst position at METRO/MAKRO was posted on 2026-08-17.
+This business analyst position at METRO/MAKRO was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tempe, Arizona, United States |
-| Category | Business Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-WARNERCROS-TEMPE-AZ/Sr-Business-Analyst-Project-Manager--Enterprise-Systems_R606507-1) |
+| Category | Project Manager |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-WARNERCROS-TEMPE-AZ/Sr-Business-Analyst-Project-Manager--Enterprise-Systems_R611409) |
 
 ## About This Role
 
-This business analyst position at Alimentation Couche-Tard was posted on 2026-07-30.
+This project manager position at Alimentation Couche-Tard was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

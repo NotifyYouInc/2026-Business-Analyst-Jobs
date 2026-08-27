@@ -1,16 +1,16 @@
-# Sr HCM Functional Consultant - Workday Success Plans at Workday
+# Sr HCM Functional Consultant, Workday Success Plans at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Australia-VIC-Melbourne/Sr-HCM-Functional-Consultant---Workday-Success-Plans_JR-0108843) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/MEXMexico-City/Sr-HCM-Functional-Consultant--Workday-Success-Plans_JR-0109195) |
 
 ## About This Role
 
-This business analyst position at Workday was posted on 2026-07-17.
+This business analyst position at Workday was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

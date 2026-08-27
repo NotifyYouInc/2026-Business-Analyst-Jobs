@@ -5,12 +5,12 @@
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Business-Systems-Analyst--Business-Finance--Tax----Treasury-_JR-0107348) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/USA-CA-Pleasanton/Business-Systems-Analyst---Workday-Financials_JR-0109032-1) |
 
 ## About This Role
 
-This business analyst position at Workday was posted on 2026-06-12.
+This business analyst position at Workday was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

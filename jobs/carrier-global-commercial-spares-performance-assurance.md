@@ -5,12 +5,12 @@
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Charlotte, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN72-SC-CHARLOTTE-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Commercial-Spares-Performance-Assurance_30208751) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN05-CCS-Charlotte-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Commercial-Spares-Performance-Assurance_30215266) |
 
 ## About This Role
 
-This business analyst position at Carrier Global was posted on 2026-06-30.
+This business analyst position at Carrier Global was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

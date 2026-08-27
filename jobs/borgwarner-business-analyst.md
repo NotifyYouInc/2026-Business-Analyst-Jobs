@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BorgWarner](https://scoutify.ai/companies/borgwarner?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Auburn Hills, Michigan, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Business-Analyst_R2026-2231) |
+| Location | Rayong, Rayong, Thailand |
+| Category | Corporate Finance |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Rayong---Thailand/Business-Analyst_R2026-2963) |
 
 ## About This Role
 
-This business analyst position at BorgWarner was posted on 2026-06-04.
+This corporate finance position at BorgWarner was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Medellín, Antioquia, Colombia |
-| Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Medellin---Poblado/Analyst--Insurance-Operations_R_350453) |
+| Location | Bogotá, Bogota D.C., Colombia |
+| Category | Data Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Bogota---Calle-26/Analyst--Insurance-Operations_R_356880) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-06-05.
+This data analyst position at Marsh & McLennan Companies was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

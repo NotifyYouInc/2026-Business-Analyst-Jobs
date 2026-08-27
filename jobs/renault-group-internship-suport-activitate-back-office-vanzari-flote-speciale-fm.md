@@ -5,12 +5,12 @@
 | Company | [Renault Group](https://scoutify.ai/companies/alliancewd?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Romania |
 | Category | Business Analyst |
-| Posted | 2026-06-02 |
-| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Suport-activitate-Back-office---Vanzari-Flote-Speciale--F-M-_JOBREQ_50266206) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://alliancewd.wd3.myworkdayjobs.com/renault-group-careers/job/Bucuresti/XMLNAME--Internship--Suport-activitate-Back-office---Vanzari-Flote-Speciale--F-M-_JOBREQ_50275404) |
 
 ## About This Role
 
-This business analyst position at Renault Group was posted on 2026-06-02.
+This business analyst position at Renault Group was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

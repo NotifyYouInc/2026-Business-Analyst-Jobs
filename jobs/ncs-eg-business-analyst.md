@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NCS](https://scoutify.ai/companies/ncs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
-| Category | Strategy / Management Consulting |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001025968-eg-business-analyst) |
+| Category | Business Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NCS3/6000000001333248-eg-business-analyst) |
 
 ## About This Role
 
-This strategy / management consulting position at NCS was posted on 2026-04-27.
+This business analyst position at NCS was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

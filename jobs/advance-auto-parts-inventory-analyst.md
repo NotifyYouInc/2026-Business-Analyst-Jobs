@@ -5,12 +5,12 @@
 | Company | [Advance Auto Parts](https://scoutify.ai/companies/advanceauto?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Inventory-Analyst_R-0588618) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Inventory-Analyst_R-0604036-1) |
 
 ## About This Role
 
-This business analyst position at Advance Auto Parts was posted on 2026-05-20.
+This business analyst position at Advance Auto Parts was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

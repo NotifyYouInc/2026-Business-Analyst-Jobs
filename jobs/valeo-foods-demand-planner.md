@@ -5,12 +5,12 @@
 | Company | [Valeo Foods](https://scoutify.ai/companies/valeofoods?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Norwich, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ValeoFoods/744000109756078-demand-planner) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ValeoFoods/744000144522159-demand-planner) |
 
 ## About This Role
 
-This business analyst position at Valeo Foods was posted on 2026-02-17.
+This business analyst position at Valeo Foods was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

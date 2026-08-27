@@ -5,12 +5,12 @@
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Lisbon-Airbus-Portugal/Business-Analyst---Engineering_JR10364900) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Lisbon-Airbus-Portugal/Business-Analyst---Engineering_JR10436114) |
 
 ## About This Role
 
-This business analyst position at Airbus was posted on 2026-05-08.
+This business analyst position at Airbus was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

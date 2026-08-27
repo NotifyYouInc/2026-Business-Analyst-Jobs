@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [BP](https://scoutify.ai/companies/bpinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pudong, Shanghai, China |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/China---Pudong/Business-Analyst_RQ114543) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://bpinternational.wd3.myworkdayjobs.com/bpCareers/job/India---Pune/Business-Analyst_RQ114230) |
 
 ## About This Role
 
-This business analyst position at BP was posted on 2026-08-13.
+This business analyst position at BP was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

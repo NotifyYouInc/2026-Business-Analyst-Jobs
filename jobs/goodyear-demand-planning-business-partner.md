@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Goodyear](https://scoutify.ai/companies/goodyear?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-23 |
-| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/CN-Shanghai/Demand-Planning-Business-Partner_JR-40105926) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://goodyear.wd1.myworkdayjobs.com/goodyearcareers/job/CN-Shanghai/Demand-Planning-Business-Partner_JR-40111786) |
 
 ## About This Role
 
-This business analyst position at Goodyear was posted on 2026-03-23.
+This business analyst position at Goodyear was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

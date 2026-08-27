@@ -5,12 +5,12 @@
 | Company | [Ultra Cleaning Service](https://scoutify.ai/companies/ultra-cleaning-service?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/ult1005uch/JobBoard/93be8725-1d6c-4162-aba5-e796cf8ea1b5/OpportunityDetail?opportunityId=499de050-4d3d-4f8d-81f8-48657c336830) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/ult1005uch/JobBoard/93be8725-1d6c-4162-aba5-e796cf8ea1b5/OpportunityDetail?opportunityId=6dafd4d5-ceb9-4a97-8273-276e9a802740) |
 
 ## About This Role
 
-This business analyst position at Ultra Cleaning Service was posted on 2026-06-22.
+This business analyst position at Ultra Cleaning Service was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

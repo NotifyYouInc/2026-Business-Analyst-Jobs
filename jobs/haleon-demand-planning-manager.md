@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Mississauga, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Mexico-City-Artz-Pedregal-Flex/Demand-Planning-Manager_544236-1) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/Mississauga-Standish-Court/Demand-Planning-Manager_547043-1) |
 
 ## About This Role
 
-This business analyst position at Haleon was posted on 2026-05-21.
+This business analyst position at Haleon was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

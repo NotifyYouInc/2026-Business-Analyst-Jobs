@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
+| Location | Ampang, Kuala Lumpur, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-05-13 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Menara-OCBC/Intern_JR00007734) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Ampang/Intern_JR00010405) |
 
 ## About This Role
 
-This business analyst position at OCBC was posted on 2026-05-13.
+This business analyst position at OCBC was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

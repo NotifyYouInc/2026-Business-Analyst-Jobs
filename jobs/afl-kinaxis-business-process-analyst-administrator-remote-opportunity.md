@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AFL](https://scoutify.ai/companies/afl?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | South Carolina, US |
+| Location | Center, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=f33adec2-fea1-4eca-a58b-71c464f5ccad) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=2b53b737-aa4a-42e0-8f87-e9a185ca0b2c) |
 
 ## About This Role
 
-This business analyst position at AFL was posted on 2026-06-25.
+This business analyst position at AFL was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

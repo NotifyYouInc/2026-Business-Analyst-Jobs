@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | McLean, Virginia, United States |
-| Category | Business Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/MCLEAN-VA/Lead-Technology-Business-Systems-Consultant_R-563989) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Project Manager |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Lead-Technology-Business-Systems-Consultant_R-569408) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-08-07.
+This project manager position at Wells Fargo was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

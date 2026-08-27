@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ecolab](https://scoutify.ai/companies/ecolab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Santiago, Santiago Metropolitan, Chile |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/CHL---Region-Metropolitana-de-Santiago---Santiago/Associate-Logistics-Analyst_R00292266) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ecolab.wd1.myworkdayjobs.com/ecolab_external/job/ARG---Provincia-de-Buenos-Aires---Buenos-Aires/Associate-Logistics-Analyst_R00303061-1) |
 
 ## About This Role
 
-This business analyst position at Ecolab was posted on 2026-06-11.
+This business analyst position at Ecolab was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

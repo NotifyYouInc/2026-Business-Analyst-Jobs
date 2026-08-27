@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-06-07 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Manila---SixNEO/Plan-Administration---Administrator_R_351350) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Gurugram---DLF-Building/Plan-Administration---Administrator_R_358310) |
 
 ## About This Role
 
-This business analyst position at Marsh & McLennan Companies was posted on 2026-06-07.
+This business analyst position at Marsh & McLennan Companies was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | India |
 | Category | Business Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Beijing-China/Resource-Analyst_R-01356376-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-India/Resource-Analyst_R-01363258) |
 
 ## About This Role
 
-This business analyst position at Thermo Fisher Scientific was posted on 2026-07-17.
+This business analyst position at Thermo Fisher Scientific was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

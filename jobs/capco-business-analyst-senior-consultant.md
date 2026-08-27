@@ -1,16 +1,16 @@
-# Business Analyst (Senior Consultant) at Capco
+# Business Analyst Senior Consultant at Capco
 
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8119584) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8128872) |
 
 ## About This Role
 
-This business analyst position at Capco was posted on 2026-08-14.
+This business analyst position at Capco was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Regional Manager at Medhealth
+# Regional Manager  at Medhealth
 
 | Field | Details |
 |-------|---------|
 | Company | [Medhealth](https://scoutify.ai/companies/medhealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Townsville, Queensland, Australia |
+| Location | Broadmeadow, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MedHealth3/744000131813868-regional-manager) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MedHealth3/744000144455569-regional-manager) |
 
 ## About This Role
 
-This business analyst position at Medhealth was posted on 2026-06-12.
+This business analyst position at Medhealth was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Rondonópolis, Mato Grosso, Brazil |
+| Location | Cuiabá, Mato Grosso, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000143931349-analista-administrativo-jr) |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000144298806-analista-administrativo-jr) |
 
 ## About This Role
 
-This business analyst position at Louis Dreyfus was posted on 2026-08-17.
+This business analyst position at Louis Dreyfus was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

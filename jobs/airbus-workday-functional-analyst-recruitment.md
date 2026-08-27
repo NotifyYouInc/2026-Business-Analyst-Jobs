@@ -1,16 +1,16 @@
-# Workday Functional Analyst -  Recruitment at Airbus
+# Workday Functional Analyst - Recruitment at Airbus
 
 | Field | Details |
 |-------|---------|
 | Company | [Airbus](https://scoutify.ai/companies/ag?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Karnataka, IN |
-| Category | Talent Acquisition / Recruiting |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Workday-Functional-Analyst----Recruitment_JR10356335-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Business Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Workday-Functional-Analyst---Recruitment_JR10433994) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at Airbus was posted on 2026-03-11.
+This business analyst position at Airbus was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

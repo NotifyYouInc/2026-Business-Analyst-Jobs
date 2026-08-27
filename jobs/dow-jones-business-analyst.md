@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dow Jones](https://scoutify.ai/companies/dowjones?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Business-Analyst_Job_Req_52358) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://dowjones.wd1.myworkdayjobs.com/Dow_Jones_Career/job/London-1-London-Bridge-St/Business-Analyst_Job_Req_54640) |
 
 ## About This Role
 
-This business analyst position at Dow Jones was posted on 2026-04-03.
+This business analyst position at Dow Jones was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

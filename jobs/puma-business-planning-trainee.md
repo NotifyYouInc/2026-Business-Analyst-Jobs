@@ -5,12 +5,12 @@
 | Company | [Puma](https://scoutify.ai/companies/puma?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Peru |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/Oficina-Central-PUMA-Peru/Business-Planning-Trainee_R40083) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://puma.wd502.myworkdayjobs.com/jobs_at_puma/job/Oficina-Central-PUMA-Peru/Business-Planning-Trainee_R42921) |
 
 ## About This Role
 
-This business analyst position at Puma was posted on 2026-02-24.
+This business analyst position at Puma was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

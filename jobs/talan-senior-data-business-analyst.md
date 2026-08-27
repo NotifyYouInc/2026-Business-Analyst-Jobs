@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Málaga, Andalusia, Spain |
 | Category | Business Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000144071120-senior-data-business-analyst) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000144508419-senior-data-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-08-18.
+This business analyst position at Talan was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

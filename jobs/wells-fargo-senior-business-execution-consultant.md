@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wells Fargo](https://scoutify.ai/companies/wells-fargo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
-| Category | Business Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Hyderabad-India/Senior-Business-Execution-Consultant_R-564586-1) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Program Manager |
+| Posted | 2026-08-19 |
+| Apply | [View on company site](https://wf.wd1.myworkdayjobs.com/WellsFargoJobs/job/Bengaluru-India/Senior-Business-Execution-Consultant_R-567325-1) |
 
 ## About This Role
 
-This business analyst position at Wells Fargo was posted on 2026-08-12.
+This program manager position at Wells Fargo was posted on 2026-08-19.
 
 ## Get Real-Time Alerts
 

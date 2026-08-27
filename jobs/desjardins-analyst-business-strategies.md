@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Quebec, CA |
+| Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste--Stratgies-d-affaires-en-planification-des-effectifs_R2602937-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste--Soutien-aux-oprations_R2610003) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-03-03.
+This business analyst position at Desjardins was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

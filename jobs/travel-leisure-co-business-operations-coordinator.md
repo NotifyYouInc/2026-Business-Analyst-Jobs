@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Travel + Leisure Co.](https://scoutify.ai/companies/travel-leisure-co?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Orlando, Florida, United States |
+| Location | Vermont, US |
 | Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Florida-USA-work-from-home/Business-Operations-Coordinator_R-123590) |
+| Posted | 2026-08-18 |
+| Apply | [View on company site](https://wynd.wd5.myworkdayjobs.com/external/job/Smugglers-Notch/Business-Operations-Coordinator_R-127429) |
 
 ## About This Role
 
-This business analyst position at Travel + Leisure Co. was posted on 2026-06-09.
+This business analyst position at Travel + Leisure Co. was posted on 2026-08-18.
 
 ## Get Real-Time Alerts
 
