@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Primark](https://scoutify.ai/companies/primark?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000144353299-data-governance-analyst-smart-retail-ordering-sro) |
+| Category | Business Analyst |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/primark/744000144555439-data-governance-analyst-smart-retail-ordering-sro) |
 
 ## About This Role
 
-This data analyst position at Primark was posted on 2026-08-19.
+This business analyst position at Primark was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

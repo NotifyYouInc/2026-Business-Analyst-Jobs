@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tlaquepaque, Jalisco, Mexico |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/Tlaquepaque-Mexico/Pricing-Specialist_R243567) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Pricing-Specialist_R246435) |
 
 ## About This Role
 
-This business analyst position at Arrow Electronics was posted on 2026-04-16.
+This business analyst position at Arrow Electronics was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

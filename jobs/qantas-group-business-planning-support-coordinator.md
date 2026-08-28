@@ -6,7 +6,7 @@
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
 | Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001332829-business-planning-support-coordinator) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/qantasgroup/6000000001334734-business-planning-support-coordinator) |
 
 ## About This Role
 

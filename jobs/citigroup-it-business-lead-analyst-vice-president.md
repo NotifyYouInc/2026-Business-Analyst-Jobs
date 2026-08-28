@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/IT-Business-Lead-Analyst---Vice-President_26986046) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/IT-Business-Lead-Analyst---Vice-President_26986175) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-08-17.
+This business analyst position at Citigroup was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

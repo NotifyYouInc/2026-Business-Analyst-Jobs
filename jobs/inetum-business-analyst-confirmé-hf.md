@@ -1,16 +1,16 @@
-# Business Analyst - Confirmé (H/F) at Inetum
+# Business Analyst Confirmé H/F at Inetum
 
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Location | Lille, Hauts-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000119972498-business-analyst-confirme-hf) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000144757562-business-analyst-confirme-hf) |
 
 ## About This Role
 
-This business analyst position at Inetum was posted on 2026-04-10.
+This business analyst position at Inetum was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

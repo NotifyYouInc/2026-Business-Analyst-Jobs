@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Belgium |
+| Location | Bucharest, București, Romania |
 | Category | Business Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000142859879-senior-business-analyst) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000144751059-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Inetum was posted on 2026-08-11.
+This business analyst position at Inetum was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

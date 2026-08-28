@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000135930711-business-analyst-logistics-strategy-rider-incentives) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000144708832-business-analyst-logistics-strategy-rider-incentives) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-07-06.
+This business analyst position at Delivery Hero was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

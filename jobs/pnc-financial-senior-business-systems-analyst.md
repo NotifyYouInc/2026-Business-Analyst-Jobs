@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Strongsville, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/OH---Miamisburg-45342/Senior-Business-Systems-Analyst_R230327-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Two-PNC-Plaza-PA374/Senior-Business-Systems-Analyst_R230859-2) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-07-31.
+This business analyst position at PNC Financial was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

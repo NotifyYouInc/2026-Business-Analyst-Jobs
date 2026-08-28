@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Novi Sad, Vojvodina, Serbia |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Chennai---Taramani-Ascendas/Senior-Business-Analyst---FX-Derivatives---Risk-Management-Expertise_JR1032971) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Novi-Sad/Business-Analyst_JR1043367) |
 
 ## About This Role
 
-This business analyst position at Synechron was posted on 2026-03-05.
+This business analyst position at Synechron was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

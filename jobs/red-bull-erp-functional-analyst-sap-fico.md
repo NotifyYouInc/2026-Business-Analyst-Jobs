@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Santa Monica, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000144396289-erp-functional-analyst-sap-fico) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000144596329-erp-functional-analyst-sap-fico) |
 
 ## About This Role
 
-This business analyst position at Red Bull was posted on 2026-08-19.
+This business analyst position at Red Bull was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

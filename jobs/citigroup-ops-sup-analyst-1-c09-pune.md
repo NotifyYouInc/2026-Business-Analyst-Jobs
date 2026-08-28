@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Ops-Sup-Analyst-1---C09---Pune_26983948) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Ops-Sup-Analyst-1---C09---Pune_26984103) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-08-19.
+This business analyst position at Citigroup was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

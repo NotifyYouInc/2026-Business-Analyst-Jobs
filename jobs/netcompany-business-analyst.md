@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | Greece |
 | Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000140216100-business-analyst) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000144756292-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Netcompany was posted on 2026-07-28.
+This business analyst position at Netcompany was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

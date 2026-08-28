@@ -1,16 +1,16 @@
-# Business Systems Analyst I-IS at Microchip Technology
+# Business Systems Analyst I – IS at Microchip Technology
 
 | Field | Details |
 |-------|---------|
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gresham, Oregon, United States |
+| Location | Colorado Springs, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/OR---Gresham/Business-Systems-Analyst-I-IS_R1016-26) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Business-Systems-Analyst-I---IS_R3622-26) |
 
 ## About This Role
 
-This business analyst position at Microchip Technology was posted on 2026-06-01.
+This business analyst position at Microchip Technology was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

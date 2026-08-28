@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Oklahoma, US |
+| Location | North Carolina, US |
 | Category | Business Analyst |
-| Posted | 2026-06-04 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Texas-United-States-of-America/Business-Process-Analyst_JR00036598-1) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Texas-United-States-of-America/Business-Process-Analyst_JR00044855) |
 
 ## About This Role
 
-This business analyst position at ABB was posted on 2026-06-04.
+This business analyst position at ABB was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

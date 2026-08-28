@@ -5,12 +5,12 @@
 | Company | [EDF UK](https://scoutify.ai/companies/edf-uk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bridgwater, England, United Kingdom |
 | Category | Financial Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000138320170-senior-risk-analyst-french-english-speaking) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/edf-uk/744000144748389-senior-risk-analyst-french-english-speaking) |
 
 ## About This Role
 
-This financial analyst position at EDF UK was posted on 2026-07-17.
+This financial analyst position at EDF UK was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

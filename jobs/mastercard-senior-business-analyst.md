@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bogotá, Bogota D.C., Colombia |
+| Location | O'Fallon, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-05 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Bogota-Colombia/Senior-Business-Analyst_R-276421) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Senior-Business-Analyst_R-288878) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-05-05.
+This business analyst position at Mastercard was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

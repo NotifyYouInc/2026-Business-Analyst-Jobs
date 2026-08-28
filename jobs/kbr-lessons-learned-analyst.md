@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Colorado Springs, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Lessons-Learned-Analyst_R2122214) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Lessons-Learned-Analyst_R2128664) |
 
 ## About This Role
 
-This business analyst position at KBR was posted on 2026-04-20.
+This business analyst position at KBR was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

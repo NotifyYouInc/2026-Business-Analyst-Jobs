@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000143378616-staff-business-systems-process-analyst-engineering-business-systems) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000144642180-staff-business-systems-process-analyst-engineering-business-systems) |
 
 ## About This Role
 
-This business analyst position at Intuitive Surgical was posted on 2026-08-13.
+This business analyst position at Intuitive Surgical was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

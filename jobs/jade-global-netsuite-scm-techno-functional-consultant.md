@@ -5,12 +5,12 @@
 | Company | [Jade Global](https://scoutify.ai/companies/jadeglobal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/North-Wales-PA/NetSuite-SCM-Techno-Functional-Consultant_R-105898) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jadeglobal.wd5.myworkdayjobs.com/jade_careers/job/North-Wales-PA/NetSuite-SCM-Techno-Functional-Consultant_R-105977) |
 
 ## About This Role
 
-This business analyst position at Jade Global was posted on 2026-08-13.
+This business analyst position at Jade Global was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

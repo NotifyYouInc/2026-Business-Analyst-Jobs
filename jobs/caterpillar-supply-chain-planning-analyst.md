@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Morton, Illinois, United States |
+| Location | Wuxi, Jiangsu, China |
 | Category | FP&A / Strategic Finance |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Morton-Illinois/Supply-Chain-Planning-Analyst_R0000388400) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Supply-Chain-Planning-Analyst_R0000389747) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Caterpillar was posted on 2026-08-19.
+This fp&a / strategic finance position at Caterpillar was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

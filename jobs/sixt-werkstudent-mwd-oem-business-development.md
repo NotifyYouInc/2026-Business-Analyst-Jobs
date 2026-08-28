@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Munich, Bavaria, Germany |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000144267269-werkstudent-mwd-oem-business-development) |
+| Posted | 2026-08-20 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000144526690-werkstudent-mwd-oem-business-development) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Sixt was posted on 2026-08-19.
+This sales development (sdr / bdr) position at Sixt was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CACI](https://scoutify.ai/companies/caci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hawaii, US |
+| Location | Portsmouth, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Pearl-Harbor-HI-US/Business-Systems-Analyst_330762-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://caci.wd1.myworkdayjobs.com/external/job/Portsmouth-VA-US/Business-Systems-Analyst_330924) |
 
 ## About This Role
 
-This business analyst position at CACI was posted on 2026-08-19.
+This business analyst position at CACI was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Campinas, São Paulo, Brazil |
-| Category | IT & Systems Administration |
+| Category | Business Analyst |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000144547559-senior-foreign-trade-systems-analyst-sap-ft-35439) |
 
 ## About This Role
 
-This it & systems administration position at Robert Bosch was posted on 2026-08-20.
+This business analyst position at Robert Bosch was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 
