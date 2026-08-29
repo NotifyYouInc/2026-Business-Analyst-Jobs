@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Costa Rica |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/INDPune/Business-Process-Analyst_JR-0109187-1) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Costa-Rica/Business-Process-Analyst_JR-0109229) |
 
 ## About This Role
 
-This business analyst position at Workday was posted on 2026-08-14.
+This business analyst position at Workday was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

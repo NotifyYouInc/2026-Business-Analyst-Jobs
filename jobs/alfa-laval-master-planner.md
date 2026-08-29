@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alfa Laval](https://scoutify.ai/companies/alfa-laval?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Greenwood, Indiana, United States |
+| Location | Houston, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Greenwood-IN/Master-Planner_JR0047101) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://alfalaval.wd3.myworkdayjobs.com/alfa_laval_jobs/job/Houston---Greenspoint-TX/Master-Planner_JR0047177) |
 
 ## About This Role
 
-This business analyst position at Alfa Laval was posted on 2026-07-28.
+This business analyst position at Alfa Laval was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

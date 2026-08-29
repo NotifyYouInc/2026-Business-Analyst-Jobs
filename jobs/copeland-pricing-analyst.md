@@ -5,12 +5,12 @@
 | Company | [Copeland](https://scoutify.ai/companies/copeland?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sorocaba, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Sorocaba-Brazil/Pricing-Analyst_JR114347) |
+| Posted | 2026-08-22 |
+| Apply | [View on company site](https://copeland.wd5.myworkdayjobs.com/copeland_external_careers_page/job/Sorocaba-Brazil/Pricing-Analyst_JR117477-1) |
 
 ## About This Role
 
-This business analyst position at Copeland was posted on 2026-04-16.
+This business analyst position at Copeland was posted on 2026-08-22.
 
 ## Get Real-Time Alerts
 

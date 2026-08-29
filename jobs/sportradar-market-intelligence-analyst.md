@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sportradar](https://scoutify.ai/companies/sportradar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Vienna, Vienna, Austria |
-| Category | Business Analyst |
+| Category | Product Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Sportradar/744000144749410-market-intelligence-analyst) |
 
 ## About This Role
 
-This business analyst position at Sportradar was posted on 2026-08-21.
+This product marketing position at Sportradar was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

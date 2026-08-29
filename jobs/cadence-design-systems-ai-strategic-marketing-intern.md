@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Cadence Design Systems](https://scoutify.ai/companies/cadence-design-systems?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Business Analyst |
+| Category | Product Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/AI---Strategic-Marketing-Intern_R56045-1) |
 
 ## About This Role
 
-This business analyst position at Cadence Design Systems was posted on 2026-08-21.
+This product marketing position at Cadence Design Systems was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

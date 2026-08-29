@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
+| Category | Software Engineer |
 | Posted | 2026-08-20 |
 | Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-PUNE-FL7/Implementation-Conversion-Analyst-Senior-Specialist_JR0301285) |
 
 ## About This Role
 
-This business analyst position at Fidelity National Information Services was posted on 2026-08-20.
+This software engineer position at Fidelity National Information Services was posted on 2026-08-20.
 
 ## Get Real-Time Alerts
 

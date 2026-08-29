@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Uisce Éireann](https://scoutify.ai/companies/em2-cx-oj116660?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dublin, Leinster, Ireland |
-| Category | Business Analyst |
+| Category | Software Engineer |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://elyx.fa.em2.oraclecloud.com/jobs/#2666) |
 
 ## About This Role
 
-This business analyst position at Uisce Éireann was posted on 2026-08-21.
+This software engineer position at Uisce Éireann was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

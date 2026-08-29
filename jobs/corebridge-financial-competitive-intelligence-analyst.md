@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Corebridge Financial](https://scoutify.ai/companies/corebridgefinancial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
+| Category | Product Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial/job/TX-Houston/Competitive-Intelligence-Analyst_JR2600822-1) |
 
 ## About This Role
 
-This business analyst position at Corebridge Financial was posted on 2026-08-21.
+This product marketing position at Corebridge Financial was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

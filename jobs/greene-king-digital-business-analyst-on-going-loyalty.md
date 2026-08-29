@@ -5,12 +5,12 @@
 | Company | [Greene King](https://scoutify.ai/companies/greeneking?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000144507859-digital-business-analyst-on-going-loyalty) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/GreeneKing/744000144792589-digital-business-analyst-on-going-loyalty) |
 
 ## About This Role
 
-This business analyst position at Greene King was posted on 2026-08-20.
+This business analyst position at Greene King was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

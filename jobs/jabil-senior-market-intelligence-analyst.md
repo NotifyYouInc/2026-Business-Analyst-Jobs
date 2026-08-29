@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | India |
-| Category | Business Analyst |
+| Category | Product Marketing |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Remote---India/Senior-Market-Intelligence-Analyst_J2455860) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-08-21.
+This product marketing position at Jabil was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
