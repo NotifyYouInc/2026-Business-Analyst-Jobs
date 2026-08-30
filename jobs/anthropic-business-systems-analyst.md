@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Anthropic](https://scoutify.ai/companies/anthropic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Business Analyst |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/anthropic/jobs/5398753008) |
 
 ## About This Role
 
-This business analyst position at Anthropic was posted on 2026-08-21.
+This it & systems administration position at Anthropic was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

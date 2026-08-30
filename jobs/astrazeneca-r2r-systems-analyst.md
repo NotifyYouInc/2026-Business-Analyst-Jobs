@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
-| Category | Business Analyst |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Poland---Warsaw/R2R-Systems-Analyst_R-253240) |
 
 ## About This Role
 
-This business analyst position at AstraZeneca was posted on 2026-08-21.
+This it & systems administration position at AstraZeneca was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

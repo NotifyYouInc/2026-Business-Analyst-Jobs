@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Methodist Le Bonheur](https://scoutify.ai/companies/methodisthealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Memphis, Tennessee, United States |
-| Category | Business Analyst |
+| Category | IT & Systems Administration |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://methodisthealth.wd5.myworkdayjobs.com/MLH/job/5865-Shelby-Oaks-Circle/Systems-Analyst-Sr---EPIC-Resolute-with-HB-Claims-Certification_R-20483) |
 
 ## About This Role
 
-This business analyst position at Methodist Le Bonheur was posted on 2026-08-21.
+This it & systems administration position at Methodist Le Bonheur was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 
