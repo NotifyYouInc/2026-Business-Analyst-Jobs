@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tokyo, Tokyo, Japan |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/JPN---TOKYO/XMLNAME--Sales-Operation-Business-Analyst_51584174) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/JPN---TOKYO/XMLNAME--Sales-Operation-Business-Analyst_51587604) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-07-01.
+This business analyst position at DXC Technology was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

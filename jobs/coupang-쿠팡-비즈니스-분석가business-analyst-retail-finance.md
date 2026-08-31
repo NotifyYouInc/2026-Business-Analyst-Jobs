@@ -5,12 +5,12 @@
 | Company | [Coupang](https://scoutify.ai/companies/coupang?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8059306) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://www.coupang.jobs/en/jobs/?gh_jid=8152613) |
 
 ## About This Role
 
-This business analyst position at Coupang was posted on 2026-07-13.
+This business analyst position at Coupang was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

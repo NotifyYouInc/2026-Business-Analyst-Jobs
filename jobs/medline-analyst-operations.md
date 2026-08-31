@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Medline](https://scoutify.ai/companies/medline?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Pune/Analyst-Operations_R2612650) |
+| Category | Data Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://medline.wd5.myworkdayjobs.com/Medline/job/Pune/Analyst-Operations_R2616496) |
 
 ## About This Role
 
-This business analyst position at Medline was posted on 2026-06-26.
+This data analyst position at Medline was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

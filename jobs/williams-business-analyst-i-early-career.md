@@ -5,12 +5,12 @@
 | Company | [Williams](https://scoutify.ai/companies/williams?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tulsa, Oklahoma, United States |
 | Category | Leadership Development Program |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Business-Analyst-I--Early-Career-_R112500) |
+| Posted | 2026-08-23 |
+| Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/OK-Tulsa---Headquarters/Business-Analyst-I--Early-Career-_R112596) |
 
 ## About This Role
 
-This leadership development program position at Williams was posted on 2026-08-03.
+This leadership development program position at Williams was posted on 2026-08-23.
 
 ## Get Real-Time Alerts
 

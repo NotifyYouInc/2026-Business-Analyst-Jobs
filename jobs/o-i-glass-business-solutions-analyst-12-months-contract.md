@@ -5,12 +5,12 @@
 | Company | [O-I Glass](https://scoutify.ai/companies/oiglass?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Poznań, Greater Poland, Poland |
 | Category | Business Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000141434730-business-solutions-analyst-12-months-contract) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/O-I/744000145199179-business-solutions-analyst-12-months-contract) |
 
 ## About This Role
 
-This business analyst position at O-I Glass was posted on 2026-08-04.
+This business analyst position at O-I Glass was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

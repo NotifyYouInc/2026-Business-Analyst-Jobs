@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Santo Domingo, Nacional, Dominican Republic |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/Dominican-Republic--Santo-Domingo/Analyst--WFM-Real-Time-Management_R1746831) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore---Embassy-Manyata-Business-Park-4th-Floor-Block-F2/Analyst--WFM-Real-Time-Management_R1754893) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-07-31.
+This business analyst position at Concentrix was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Sr-Analyst-III-Business-Process-Transactions_51586357) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PHL---TAGUIG-CITY/Sr-Analyst-III-Business-Process-Transactions_51570923) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-08-17.
+This business analyst position at DXC Technology was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

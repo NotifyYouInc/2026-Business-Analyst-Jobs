@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nexity](https://scoutify.ai/companies/nexity?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
-| Category | Strategic Partnerships |
+| Category | Business Development |
 | Posted | 2026-08-21 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Nexity/744000144705769-business-developer-hf-cdi) |
 
 ## About This Role
 
-This strategic partnerships position at Nexity was posted on 2026-08-21.
+This business development position at Nexity was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

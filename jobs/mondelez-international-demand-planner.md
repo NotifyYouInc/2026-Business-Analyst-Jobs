@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Auckland, Auckland, New Zealand |
 | Category | Business Analyst |
-| Posted | 2026-08-08 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Mumbai-India/Demand-Planner_R-174668) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Auckland-New-Zealand/Demand-Planner_R-175416) |
 
 ## About This Role
 
-This business analyst position at Mondelez International was posted on 2026-08-08.
+This business analyst position at Mondelez International was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

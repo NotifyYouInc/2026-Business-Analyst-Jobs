@@ -5,12 +5,12 @@
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Seoul, Seoul, South Korea |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8059307?gh_jid=8059307) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8152614?gh_jid=8152614) |
 
 ## About This Role
 
-This business analyst position at Coupang Internal was posted on 2026-07-13.
+This business analyst position at Coupang Internal was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

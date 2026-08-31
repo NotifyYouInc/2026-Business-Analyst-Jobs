@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | 6 locations |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Milwaukee-WI/SBA-Business-Development-Associate_2026-0025654) |
+| Posted | 2026-08-21 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/SBA-Business-Development-Associate_2026-0022503-1) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at U.S. Bank was posted on 2026-08-20.
+This sales development (sdr / bdr) position at U.S. Bank was posted on 2026-08-21.
 
 ## Get Real-Time Alerts
 

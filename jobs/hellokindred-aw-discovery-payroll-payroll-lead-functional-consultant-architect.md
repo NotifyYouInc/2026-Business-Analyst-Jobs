@@ -1,0 +1,22 @@
+# AW Discovery Payroll — Payroll Lead Functional Consultant / Architect at HelloKindred
+
+| Field | Details |
+|-------|---------|
+| Company | [HelloKindred](https://scoutify.ai/companies/hellokindred?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Huntingdon, England, United Kingdom |
+| Category | Accounting |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HelloKindred/3743990014797756-aw-discovery-payroll-payroll-lead-functional-consultant-architect) |
+
+## About This Role
+
+This accounting position at HelloKindred was posted on 2026-08-24.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*
