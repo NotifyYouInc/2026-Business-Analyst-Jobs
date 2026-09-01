@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rochester Regional Health](https://scoutify.ai/companies/rochester-regional-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Rochester, New York, United States |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://rrhs.wd5.myworkdayjobs.com/rrh/job/ACM---Remote/Senior-Clinical-Trials-IT-Business-Analyst_REQ_235717-2) |
 
 ## About This Role
 
-This business analyst position at Rochester Regional Health was posted on 2026-05-12.
+This business analyst position at Rochester Regional Health was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

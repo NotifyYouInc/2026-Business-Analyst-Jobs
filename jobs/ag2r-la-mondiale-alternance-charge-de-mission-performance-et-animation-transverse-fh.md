@@ -5,12 +5,12 @@
 | Company | [AG2R La Mondiale](https://scoutify.ai/companies/ag2r-la-mondiale?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Marseille, Provence-Alpes-Côte d'Azur, France |
 | Category | Motion / Video Production |
-| Posted | 2026-04-01 |
+| Posted | 2026-08-24 |
 | Apply | [View on company site](https://ag2rlamondiale.wd3.myworkdayjobs.com/candidats/job/MARSEILLE/ALTERNANCE---CHARGE-DE-MISSION-PERFORMANCE-ET-ANIMATION-TRANSVERSE-F-H_DP002948) |
 
 ## About This Role
 
-This motion / video production position at AG2R La Mondiale was posted on 2026-04-01.
+This motion / video production position at AG2R La Mondiale was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

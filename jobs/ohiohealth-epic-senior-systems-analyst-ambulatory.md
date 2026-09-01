@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Ohiohealth](https://scoutify.ai/companies/ohiohealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ohio, US |
-| Category | Business Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://ohiohealth.wd5.myworkdayjobs.com/ohiohealthjobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Ambulatory_JR155142) |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://ohiohealth.wd5.myworkdayjobs.com/ohiohealthjobs/job/WORK-AT-HOME---OHIO/Epic-Senior-Systems-Analyst---Ambulatory_JR156903-1) |
 
 ## About This Role
 
-This business analyst position at Ohiohealth was posted on 2026-07-24.
+This it & systems administration position at Ohiohealth was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

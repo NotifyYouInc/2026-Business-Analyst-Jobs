@@ -5,12 +5,12 @@
 | Company | [Everience](https://scoutify.ai/companies/everience?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nantes, Pays de la Loire, France |
 | Category | Business Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000138589112-analyste-fonctionnel-hf) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EVERIENCE/744000145438539-analyste-fonctionnel-hf) |
 
 ## About This Role
 
-This business analyst position at Everience was posted on 2026-07-20.
+This business analyst position at Everience was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

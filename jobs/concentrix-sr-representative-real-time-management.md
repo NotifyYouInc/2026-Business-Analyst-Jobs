@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cairo, Cairo, Egypt |
+| Location | Alexandria, Alexandria, Egypt |
 | Category | Business Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/EGY-Cairo---Plot-no-53-North-Teseen-st--building-202/Sr-Representative--Real-Time-Management_R1747674) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/EGY-Alexandria---5th-Floor-Matajer-Tower-2-51---61-Fawzi-Moaz-Street-Smouha-Sidi-Gaber/Sr-Representative--Real-Time-Management_R1754829) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-08-04.
+This business analyst position at Concentrix was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

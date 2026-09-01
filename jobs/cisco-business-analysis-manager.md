@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | San Jose, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Business-Analysis-Manager_2019391-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Business-Analysis-Manager_2021904-1) |
 
 ## About This Role
 
-This business analyst position at Cisco was posted on 2026-07-27.
+This business analyst position at Cisco was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

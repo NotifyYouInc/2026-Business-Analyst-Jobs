@@ -1,16 +1,16 @@
-# Senior Business Analyst-Investment Technology at Invesco
+# Senior Business Analyst, Investment Technology at Invesco
 
 | Field | Details |
 |-------|---------|
 | Company | [Invesco](https://scoutify.ai/companies/invesco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
-| Category | Asset Management / Portfolio Management |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Atlanta-Georgia/Senior-Business-Analyst-Investment-Technology_R-13595) |
+| Location | Hong Kong, Hong Kong |
+| Category | Business Analyst |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Hong-Kong-Hong-Kong/Senior-Business-Analyst--Investment-Technology_R-14956) |
 
 ## About This Role
 
-This asset management / portfolio management position at Invesco was posted on 2026-05-12.
+This business analyst position at Invesco was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

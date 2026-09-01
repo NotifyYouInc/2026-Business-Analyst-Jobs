@@ -1,16 +1,16 @@
-# Mission Control Specialist at Centerfield
+# Mission Control Specialist  at Centerfield
 
 | Field | Details |
 |-------|---------|
 | Company | [Centerfield](https://scoutify.ai/companies/centerfield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Portmore, Saint Catherine Parish, Jamaica |
+| Location | Montego Bay, Saint James Parish, Jamaica |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/centerfield/fd46834d-2489-4684-a49e-f2a8c9ddf156) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/centerfield/1adf2943-7715-443a-89bf-645545f625f2) |
 
 ## About This Role
 
-This business analyst position at Centerfield was posted on 2026-07-01.
+This business analyst position at Centerfield was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

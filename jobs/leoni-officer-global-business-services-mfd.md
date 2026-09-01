@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [LEONI](https://scoutify.ai/companies/leoni?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dubnica nad Váhom, Trenčín Region, Slovakia |
-| Category | Business Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000142815889-officer-global-business-services-mfd) |
+| Category | Program Manager |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LEONI1/744000145447944-officer-global-business-services-mfd) |
 
 ## About This Role
 
-This business analyst position at LEONI was posted on 2026-08-11.
+This program manager position at LEONI was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

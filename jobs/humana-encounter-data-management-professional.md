@@ -5,12 +5,12 @@
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Encounter-Data-Management-Professional_R-414782-1) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Nationwide/Encounter-Data-Management-Professional_R-424751) |
 
 ## About This Role
 
-This business analyst position at Humana was posted on 2026-05-20.
+This business analyst position at Humana was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

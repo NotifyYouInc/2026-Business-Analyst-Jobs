@@ -1,16 +1,16 @@
-# Analista de Operações Pleno - Híbrido | Rio de Janeiro at Capco
+# Analista de Operações Pleno - Híbrido - Rio de Janeiro  at Capco
 
 | Field | Details |
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8126008) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8153069) |
 
 ## About This Role
 
-This business analyst position at Capco was posted on 2026-08-12.
+This business analyst position at Capco was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

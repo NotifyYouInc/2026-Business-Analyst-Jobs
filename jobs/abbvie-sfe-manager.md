@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AbbVie](https://scoutify.ai/companies/abbvie?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Shanghai, Shanghai, China |
-| Category | Operations |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990013655546-sfe-manager) |
+| Category | Business Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AbbVie/3743990014829176-sfe-manager) |
 
 ## About This Role
 
-This operations position at AbbVie was posted on 2026-06-17.
+This business analyst position at AbbVie was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

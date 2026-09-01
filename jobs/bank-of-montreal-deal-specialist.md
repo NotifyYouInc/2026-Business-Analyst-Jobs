@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of Montreal](https://scoutify.ai/companies/bmo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Burnaby-BC-CAN/Deal-Specialist_R260014661) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Deal-Specialist_R260022767) |
 
 ## About This Role
 
-This business analyst position at Bank of Montreal was posted on 2026-05-29.
+This business analyst position at Bank of Montreal was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Springer Nature](https://scoutify.ai/companies/springer-nature?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://springernature.wd3.myworkdayjobs.com/springernaturecareers/job/London/Senior-Business-Analyst_JR106833) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://springernature.wd3.myworkdayjobs.com/springernaturecareers/job/Lisbon/Senior-Business-Analyst_JR107027) |
 
 ## About This Role
 
-This business analyst position at Springer Nature was posted on 2026-08-19.
+This business analyst position at Springer Nature was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

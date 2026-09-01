@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan Specialty](https://scoutify.ai/companies/ryansg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Mumbai---India/Senior-Business-Analyst_JR26-4759-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://ryansg.wd5.myworkdayjobs.com/Ryan_Specialty_Career_Site/job/Chicago---Illinois---Wacker/Senior-Business-Analyst_JR26-5165-1) |
 
 ## About This Role
 
-This business analyst position at Ryan Specialty was posted on 2026-07-10.
+This business analyst position at Ryan Specialty was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

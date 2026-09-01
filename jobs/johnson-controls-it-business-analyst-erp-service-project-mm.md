@@ -1,0 +1,22 @@
+# IT Business Analyst – ERP Service / Project / MM at Johnson Controls
+
+| Field | Details |
+|-------|---------|
+| Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Dalian, Liaoning, China |
+| Category | Business Analyst |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Dalian-Liaoning-China/IT-Business-Analyst---ERP-Service---Project---MM_WD30277544) |
+
+## About This Role
+
+This business analyst position at Johnson Controls was posted on 2026-08-25.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

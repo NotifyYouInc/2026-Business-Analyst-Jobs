@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | On, Wallonia, Belgium |
 | Category | Business Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/USA--TX--Remote/Senior-Analyst--Technical-Business-Solutions_R2613512) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-ON/Senior-Analyst--Technical-Business-Solutions_R2613848) |
 
 ## About This Role
 
-This business analyst position at Cencora was posted on 2026-08-10.
+This business analyst position at Cencora was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

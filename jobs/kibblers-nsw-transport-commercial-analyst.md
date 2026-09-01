@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KIBBLERS NSW](https://scoutify.ai/companies/kibblers-nsw?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Australia |
+| Location | Victoria, AU |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://bunnings.wd3.myworkdayjobs.com/careers/job/Support-Office-VIC/Transport-Commercial-Analyst_R062131) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://bunnings.wd3.myworkdayjobs.com/careers/job/Support-Office-VIC/Transport-Commercial-Analyst_R064569-1) |
 
 ## About This Role
 
-This business analyst position at KIBBLERS NSW was posted on 2026-06-22.
+This business analyst position at KIBBLERS NSW was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

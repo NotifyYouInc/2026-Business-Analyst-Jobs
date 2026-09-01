@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Haleon](https://scoutify.ai/companies/gsknch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Huangpu, Shanghai, China |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Beijing---ChaoYang-District---Ocean-International-Centre---Tower-A/Business-Analysis-Intern_546147) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://gsknch.wd3.myworkdayjobs.com/GSKCareers/job/China---Shanghai---HuangPu-District---The-Headquarters-Building/Business-Analysis-Intern_546688) |
 
 ## About This Role
 
-This business analyst position at Haleon was posted on 2026-07-14.
+This business analyst position at Haleon was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

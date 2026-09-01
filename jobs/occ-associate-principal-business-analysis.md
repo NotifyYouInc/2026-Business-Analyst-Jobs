@@ -5,12 +5,12 @@
 | Company | [OCC](https://scoutify.ai/companies/theocc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://theocc.wd5.myworkdayjobs.com/careers/job/Dallas-TX/Associate-Principal--Business-Analysis_REQ-4602) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Associate-Principal--Business-Analysis_REQ-4783) |
 
 ## About This Role
 
-This business analyst position at OCC was posted on 2026-04-09.
+This business analyst position at OCC was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

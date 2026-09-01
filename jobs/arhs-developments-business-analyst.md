@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ARHS Developments](https://scoutify.ai/companies/arhsdevelopments?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Switzerland |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000141308965-business-analyst) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ARHS/744000145298400-business-analyst) |
 
 ## About This Role
 
-This business analyst position at ARHS Developments was posted on 2026-08-03.
+This business analyst position at ARHS Developments was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

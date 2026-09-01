@@ -5,12 +5,12 @@
 | Company | [Tyson Foods](https://scoutify.ai/companies/tyson-foods?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Arkansas, US |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Senior-Analyst-Packaging-Systems_R0479208) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://tysonfoods.wd5.myworkdayjobs.com/tsfd/job/Corporate---Springdale-Arkansas/Senior-Analyst-Packaging-Systems_R0480940) |
 
 ## About This Role
 
-This business analyst position at Tyson Foods was posted on 2026-08-14.
+This business analyst position at Tyson Foods was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

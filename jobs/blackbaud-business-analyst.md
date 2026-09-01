@@ -5,12 +5,12 @@
 | Company | [Blackbaud](https://scoutify.ai/companies/blackbaud?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-05-23 |
-| Apply | [View on company site](https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Hyderabad---India/Business-Analyst_R0014221) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://blackbaud.wd1.myworkdayjobs.com/externalcareers/job/Hyderabad---India-Skyview/Business-Analyst_R0014180) |
 
 ## About This Role
 
-This business analyst position at Blackbaud was posted on 2026-05-23.
+This business analyst position at Blackbaud was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Location | Milpitas, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Business-Systems-Analyst_WD227784) |
+| Posted | 2026-08-24 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/USA-CA-Milpitas/Business-Systems-Analyst_WD227460) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-08-19.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-08-24.
 
 ## Get Real-Time Alerts
 
