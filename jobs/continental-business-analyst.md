@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Continental](https://scoutify.ai/companies/continental?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Taiwan |
+| Location | Thailand |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000121682947-business-analyst) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/continental/744000145705360-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Continental was posted on 2026-04-20.
+This business analyst position at Continental was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

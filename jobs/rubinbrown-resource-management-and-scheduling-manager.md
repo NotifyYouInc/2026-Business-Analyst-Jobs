@@ -5,12 +5,12 @@
 | Company | [RubinBrown](https://scoutify.ai/companies/recruiting-ultipro-com-oj92993?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | St. Louis, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://recruiting.ultipro.com/rub1001rubin/JobBoard/3688e7ba-ac29-44a9-9775-cbd291bb6fa7/OpportunityDetail?opportunityId=94f8d45f-fd53-4fa5-aef3-ffac7a51740e) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://recruiting.ultipro.com/rub1001rubin/JobBoard/3688e7ba-ac29-44a9-9775-cbd291bb6fa7/OpportunityDetail?opportunityId=3cd0cb6c-19db-40d3-99eb-5b58d4f19b84) |
 
 ## About This Role
 
-This business analyst position at RubinBrown was posted on 2026-08-12.
+This business analyst position at RubinBrown was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

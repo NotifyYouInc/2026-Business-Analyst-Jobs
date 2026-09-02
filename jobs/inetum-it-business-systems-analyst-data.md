@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bucharest, București, Romania |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000137382370-it-business-systems-analyst-data) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000145697369-it-business-systems-analyst-data) |
 
 ## About This Role
 
-This business analyst position at Inetum was posted on 2026-07-13.
+This business analyst position at Inetum was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

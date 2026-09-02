@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [3M Company](https://scoutify.ai/companies/3m-company?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Cordova, Tennessee, United States |
+| Location | Maplewood, Minnesota, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Illinois-Cordova/Supply-Chain-Analyst_R01165586) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Supply-Chain-Analyst_R01169861) |
 
 ## About This Role
 
-This business analyst position at 3M Company was posted on 2026-05-28.
+This business analyst position at 3M Company was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

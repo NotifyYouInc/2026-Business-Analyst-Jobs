@@ -5,12 +5,12 @@
 | Company | [University of Waterloo](https://scoutify.ai/companies/university-of-waterloo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Waterloo, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://uwaterloo.wd3.myworkdayjobs.com/uw_careers/job/Waterloo-Ontario-Canada/Business-Systems-Analyst_2026-00647-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://uwaterloo.wd3.myworkdayjobs.com/uw_careers/job/Waterloo-Ontario-Canada/Business-Systems-Analyst_2026-02469-1) |
 
 ## About This Role
 
-This business analyst position at University of Waterloo was posted on 2026-05-06.
+This business analyst position at University of Waterloo was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-BNGL-FL2-3-TWR-3/Associate-III--BPS-Operations-Processing_JR0307028) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-MUMB-FL3/Associate-III--BPS-Operations-Processing_JR0308639) |
 
 ## About This Role
 
-This business analyst position at Fidelity National Information Services was posted on 2026-05-27.
+This business analyst position at Fidelity National Information Services was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

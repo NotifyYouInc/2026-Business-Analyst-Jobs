@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [DXC Technology](https://scoutify.ai/companies/dxctechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/PRT---LISBON/Analyst-II-Business-Process-Transactions_51586557) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/IND---TN---CHENNAI/Analyst-II-Business-Process-Transactions_51575219) |
 
 ## About This Role
 
-This business analyst position at DXC Technology was posted on 2026-08-10.
+This business analyst position at DXC Technology was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

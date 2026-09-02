@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Maharashtra, IN |
-| Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/PCC-Program-Business-Analyst---Assistant-Manager_R-786933-1) |
+| Location | Pune, Maharashtra, India |
+| Category | Program Manager |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/HINJEWADI-PUNE/PCC-Program-Business-Analyst---Senior-Associate_R-787489-1) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-04-24.
+This program manager position at State Street was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

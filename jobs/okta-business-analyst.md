@@ -5,12 +5,12 @@
 | Company | [Okta](https://scoutify.ai/companies/okta?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8097799?gh_jid=8097799) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://www.okta.com/company/careers/opportunity/8145325?gh_jid=8145325) |
 
 ## About This Role
 
-This business analyst position at Okta was posted on 2026-08-03.
+This business analyst position at Okta was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

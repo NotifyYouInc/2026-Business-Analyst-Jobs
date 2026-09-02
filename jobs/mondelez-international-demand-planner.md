@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Cairo, Cairo, Egypt |
 | Category | Business Analyst |
 | Posted | 2026-08-24 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Auckland-New-Zealand/Demand-Planner_R-175416) |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Cairo-Egypt/Demand-Planner_R-175618-1) |
 
 ## About This Role
 

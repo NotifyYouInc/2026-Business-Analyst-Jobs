@@ -5,12 +5,12 @@
 | Company | [Ignitis Grupe](https://scoutify.ai/companies/ignitisgrupe?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Business Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000140622430-asset-operations-administrator-fmd-ignitis-renewables) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ignitisgroup/744000145657119-asset-operations-administrator-fmd-ignitis-renewables) |
 
 ## About This Role
 
-This business analyst position at Ignitis Grupe was posted on 2026-07-30.
+This business analyst position at Ignitis Grupe was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

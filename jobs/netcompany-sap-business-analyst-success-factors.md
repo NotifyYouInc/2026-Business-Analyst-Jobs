@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Athens, Attica, Greece |
+| Location | Greece |
 | Category | Business Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000145196529-sap-business-analyst-success-factors) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000145666309-sap-business-analyst-success-factors) |
 
 ## About This Role
 
-This business analyst position at Netcompany was posted on 2026-08-24.
+This business analyst position at Netcompany was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

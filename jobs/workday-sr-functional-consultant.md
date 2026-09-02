@@ -1,16 +1,16 @@
-# Sr. Functional Consultant at Workday
+# Sr Functional Consultant at Workday
 
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/United-Kingdom-London/Sr-Functional-Consultant_JR-0108703) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Germany-Munich/Sr-Functional-Consultant_JR-0109487) |
 
 ## About This Role
 
-This business analyst position at Workday was posted on 2026-07-16.
+This business analyst position at Workday was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

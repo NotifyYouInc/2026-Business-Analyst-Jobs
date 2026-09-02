@@ -5,12 +5,12 @@
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Business-Analyst--AVP_R-00282561) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Business-Analyst--AVP_R-00284041) |
 
 ## About This Role
 
-This business analyst position at NatWest Group was posted on 2026-07-28.
+This business analyst position at NatWest Group was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

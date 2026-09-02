@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Madrid, Madrid, Spain |
+| Location | Conshohocken, Pennsylvania, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Madrid-Spain/Business-Solutions-Analyst-III_R262414) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/Business-Solutions-Analyst-III_R2614752) |
 
 ## About This Role
 
-This business analyst position at Cencora was posted on 2026-02-27.
+This business analyst position at Cencora was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Business Analyst  (H/F) at Meritis
+# Business Analyst (H/F) at Meritis
 
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | France |
+| Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000113746922-business-analyst-hf) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000145697886-business-analyst-hf) |
 
 ## About This Role
 
-This business analyst position at Meritis was posted on 2026-03-10.
+This business analyst position at Meritis was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

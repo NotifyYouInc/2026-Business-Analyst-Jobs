@@ -1,16 +1,16 @@
-# Business Operations Intern  at Payoneer
+# Business Operations Intern at Payoneer
 
 | Field | Details |
 |-------|---------|
 | Company | [Payoneer](https://scoutify.ai/companies/payoneer?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Beijing, Beijing, China |
+| Location | Shenzhen, Guangdong, China |
 | Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://www.payoneer.com/careers/position/7846585/?gh_jid=7846585) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://www.payoneer.com/careers/position/8151961/?gh_jid=8151961) |
 
 ## About This Role
 
-This business analyst position at Payoneer was posted on 2026-04-27.
+This business analyst position at Payoneer was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

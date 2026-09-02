@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gdańsk, Pomerania, Poland |
+| Location | Monterrey, Nuevo León, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Gdask-Poland/PRODUCTION-CONTROL-ANALYST_R26-5845-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Monterrey-Nuevo-Leon-Mexico/PRODUCTION-CONTROL-ANALYST_R26-6221) |
 
 ## About This Role
 
-This business analyst position at Rockwell Automation was posted on 2026-07-31.
+This business analyst position at Rockwell Automation was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

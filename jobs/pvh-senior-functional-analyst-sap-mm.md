@@ -1,16 +1,16 @@
-# Senior functional analyst SAP MM at PVH
+# Senior Functional Analyst SAP MM at PVH
 
 | Field | Details |
 |-------|---------|
 | Company | [PVH](https://scoutify.ai/companies/pvh?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Amsterdam, North Holland, The Netherlands |
+| Location | India |
 | Category | Business Analyst |
-| Posted | 2026-03-18 |
-| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/Amsterdam-NL/Senior-functional-analyst-SAP-MM_R58090) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/Office-India/Senior-Functional-Analyst-SAP-MM_R61468) |
 
 ## About This Role
 
-This business analyst position at PVH was posted on 2026-03-18.
+This business analyst position at PVH was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

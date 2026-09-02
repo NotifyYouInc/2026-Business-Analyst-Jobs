@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Karlsruhe, Baden-Wurttemberg, Germany |
 | Category | Business Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000141844259-praktikum-im-business-process-management) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000145663084-praktikum-im-business-process-management) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-08-06.
+This business analyst position at Robert Bosch was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

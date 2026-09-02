@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [GE HealthCare](https://scoutify.ai/companies/ge-healthcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Sao-Paulo/Estagirio-em-Suporte-Comercial-e-Configurao-de-Solues_R4034976-1) |
+| Posted | 2026-08-25 |
+| Apply | [View on company site](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Sao-Paulo/Estagirio-em-Suporte-Comercial-e-Configurao-de-Solues_R4044986-1) |
 
 ## About This Role
 
-This business analyst position at GE HealthCare was posted on 2026-03-06.
+This business analyst position at GE HealthCare was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 
