@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Culina Group](https://scoutify.ai/companies/culinagroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Stafford, England, United Kingdom |
+| Location | Crick, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000141667274-continuous-improvement-practitioner) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000145772739-continuous-improvement-practitioner) |
 
 ## About This Role
 
-This business analyst position at Culina Group was posted on 2026-08-05.
+This business analyst position at Culina Group was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

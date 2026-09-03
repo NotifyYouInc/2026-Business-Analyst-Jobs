@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Corporate Finance |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-08-26 |
 | Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/HKG---Hong-Kong-Office/Finance-Control---Process-Excellence-Manager_JR2610297) |
 
 ## About This Role
 
-This corporate finance position at PPG Industries was posted on 2026-08-26.
+This fp&a / strategic finance position at PPG Industries was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

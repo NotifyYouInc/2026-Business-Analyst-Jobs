@@ -5,12 +5,12 @@
 | Company | [Blue Cross Blue Shield of Arizona](https://scoutify.ai/companies/bcbsaz?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Phoenix, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://bcbsaz.wd1.myworkdayjobs.com/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/BPO-Oversight-Specialist-III---Hybrid_R5928) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://bcbsaz.wd1.myworkdayjobs.com/bcbsazcareers/job/AZ-Blue-Phoenix-AZ-85021/BPO-Oversight-Specialist-III---Hybrid_R6216) |
 
 ## About This Role
 
-This business analyst position at Blue Cross Blue Shield of Arizona was posted on 2026-03-30.
+This business analyst position at Blue Cross Blue Shield of Arizona was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

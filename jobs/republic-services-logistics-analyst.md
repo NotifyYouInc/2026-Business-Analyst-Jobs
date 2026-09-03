@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bettendorf, Iowa, United States |
+| Location | Chattanooga, Tennessee, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Bettendorf-IA-USA/Logistics-Analyst_R-182271) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Chattanooga-TN-USA/Logistics-Analyst_R-183059) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-08-18.
+This business analyst position at Republic Services was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

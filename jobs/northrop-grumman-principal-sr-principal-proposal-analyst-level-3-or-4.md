@@ -1,16 +1,16 @@
-# Principal / Sr. Principal Proposal Analyst - Level 3 or 4 at Northrop Grumman
+# Principal / Sr Principal Proposal Analyst - Level 3 or 4 at Northrop Grumman
 
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Diego, California, United States |
+| Location | Clearfield, Utah, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Principal---Sr-Principal-Proposal-Analyst---Level-3-or-4_R10223176-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/Principal---Sr-Principal-Proposal-Analyst---Level-3-or-4_R10247715-1) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-02-18.
+This business analyst position at Northrop Grumman was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bristol-Myers Squibb](https://scoutify.ai/companies/bristol-myers-squibb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Business Analyst |
-| Posted | 2026-05-11 |
+| Category | Data Analyst |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Senior-Analyst--Business-Analyst-II-_R1601821) |
 
 ## About This Role
 
-This business analyst position at Bristol-Myers Squibb was posted on 2026-05-11.
+This data analyst position at Bristol-Myers Squibb was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

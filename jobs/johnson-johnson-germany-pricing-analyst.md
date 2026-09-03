@@ -5,12 +5,12 @@
 | Company | [Johnson & Johnson](https://scoutify.ai/companies/johnson-johnson?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hamburg, Hamburg, Germany |
 | Category | Business Analyst |
-| Posted | 2026-06-28 |
-| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Hamburg-Germany/Germany-Pricing-Analyst_R-084451-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jj.wd5.myworkdayjobs.com/JJ/job/Hamburg-Germany/Germany-Pricing-Analyst_R-095359-1) |
 
 ## About This Role
 
-This business analyst position at Johnson & Johnson was posted on 2026-06-28.
+This business analyst position at Johnson & Johnson was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

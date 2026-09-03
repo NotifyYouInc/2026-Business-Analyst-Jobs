@@ -5,12 +5,12 @@
 | Company | [Highmark Health](https://scoutify.ai/companies/highmarkhealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Arkansas, US |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Business-Systems-Analyst_J285226) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Business-Systems-Analyst_J286540) |
 
 ## About This Role
 
-This business analyst position at Highmark Health was posted on 2026-08-14.
+This business analyst position at Highmark Health was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

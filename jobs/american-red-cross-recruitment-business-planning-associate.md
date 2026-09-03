@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [American Red Cross](https://scoutify.ai/companies/americanredcross?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Houston, Texas, United States |
-| Category | Talent Acquisition / Recruiting |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Houston-TX/Recruitment-Business-Planning-Associate_RC87488) |
+| Location | Greenville, North Carolina, United States |
+| Category | Business Analyst |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Greenville-NC/Recruitment-Business-Planning-Associate_RC90850) |
 
 ## About This Role
 
-This talent acquisition / recruiting position at American Red Cross was posted on 2026-04-03.
+This business analyst position at American Red Cross was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

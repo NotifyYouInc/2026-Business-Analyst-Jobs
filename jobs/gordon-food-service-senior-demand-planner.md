@@ -5,12 +5,12 @@
 | Company | [Gordon Food Service](https://scoutify.ai/companies/gordon-food-service?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Wyoming, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Senior-Demand-Planner_R-51045-1) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Senior-Demand-Planner_R-56195-1) |
 
 ## About This Role
 
-This business analyst position at Gordon Food Service was posted on 2026-05-20.
+This business analyst position at Gordon Food Service was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

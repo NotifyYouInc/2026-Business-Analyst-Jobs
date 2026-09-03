@@ -5,12 +5,12 @@
 | Company | [SBI Card](https://scoutify.ai/companies/ap1-cx-oj95884?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://edox.fa.ap1.oraclecloud.com/jobs/#21279) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://edox.fa.ap1.oraclecloud.com/jobs/#21597) |
 
 ## About This Role
 
-This business analyst position at SBI Card was posted on 2026-07-14.
+This business analyst position at SBI Card was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

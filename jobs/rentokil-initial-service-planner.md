@@ -5,12 +5,12 @@
 | Company | [Rentokil Initial](https://scoutify.ai/companies/rentokil-initial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Schelle, Flanders, Belgium |
 | Category | Business Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/rentokilinitial1/744000142829499-service-planner) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/rentokilinitial1/744000145729449-service-planner) |
 
 ## About This Role
 
-This business analyst position at Rentokil Initial was posted on 2026-08-11.
+This business analyst position at Rentokil Initial was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

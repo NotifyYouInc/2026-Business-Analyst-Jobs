@@ -5,12 +5,12 @@
 | Company | [AUTO1 Group](https://scoutify.ai/companies/auto1group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Business Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000144333302-junior-pricing-manager) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Auto1/744000145931710-junior-pricing-manager) |
 
 ## About This Role
 
-This business analyst position at AUTO1 Group was posted on 2026-08-19.
+This business analyst position at AUTO1 Group was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

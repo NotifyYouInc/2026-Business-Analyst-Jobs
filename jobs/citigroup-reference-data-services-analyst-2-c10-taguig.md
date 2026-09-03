@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Taguig, National Capital Region, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Reference-Data-Services-Analyst-2---C10---TAGUIG_26986779) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Taguig--Philippines/Reference-Data-Services-Analyst-2---C10---TAGUIG_26989962) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-08-18.
+This business analyst position at Citigroup was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

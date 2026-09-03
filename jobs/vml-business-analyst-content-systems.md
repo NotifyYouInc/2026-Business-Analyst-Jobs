@@ -1,16 +1,16 @@
-# Business Analyst - Content Systems at VML
+# Business Analyst (Content Systems) at VML
 
 | Field | Details |
 |-------|---------|
 | Company | [VML](https://scoutify.ai/companies/vml?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://www.vml.com/careers/job/8746340002?gh_jid=8746340002) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://www.vml.com/careers/job/8750118002?gh_jid=8750118002) |
 
 ## About This Role
 
-This business analyst position at VML was posted on 2026-08-25.
+This business analyst position at VML was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

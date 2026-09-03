@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Brunswick](https://scoutify.ai/companies/brunswick?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Illinois, US |
-| Category | Corporate Finance |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-08-25 |
 | Apply | [View on company site](https://brunswick.wd1.myworkdayjobs.com/search/job/Mettawa-IL/Global-Finance-Systems-Analyst_JR-051244) |
 
 ## About This Role
 
-This corporate finance position at Brunswick was posted on 2026-08-25.
+This fp&a / strategic finance position at Brunswick was posted on 2026-08-25.
 
 ## Get Real-Time Alerts
 

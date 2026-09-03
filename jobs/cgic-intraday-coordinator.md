@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CGIC](https://scoutify.ai/companies/cgic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mississauga, Ontario, Canada |
+| Location | Calgary, Alberta, Canada |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://recruiting.ultipro.com/coo5000coop/JobBoard/609ec056-be55-474e-9859-a522bc040aca/OpportunityDetail?opportunityId=969d24be-8e1f-4528-81c1-947c09d9f6ef) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://recruiting.ultipro.com/coo5000coop/JobBoard/609ec056-be55-474e-9859-a522bc040aca/OpportunityDetail?opportunityId=384f4ef4-9015-4429-82db-54aa49e3665c) |
 
 ## About This Role
 
-This business analyst position at CGIC was posted on 2026-07-22.
+This business analyst position at CGIC was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

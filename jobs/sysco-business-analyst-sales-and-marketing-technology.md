@@ -5,12 +5,12 @@
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Canada |
 | Category | Marketing Operations |
-| Posted | 2026-03-04 |
+| Posted | 2026-08-26 |
 | Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Canada-Inc/Business-Analyst--Sales-and-Marketing-Technology_R240923) |
 
 ## About This Role
 
-This marketing operations position at Sysco was posted on 2026-03-04.
+This marketing operations position at Sysco was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 
