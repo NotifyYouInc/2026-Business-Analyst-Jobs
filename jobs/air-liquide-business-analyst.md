@@ -1,16 +1,16 @@
-# Business Analyst at Air Liquide
+# BUSINESS ANALYST at Air Liquide
 
 | Field | Details |
 |-------|---------|
 | Company | [Air Liquide](https://scoutify.ai/companies/airliquidehr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paterna, Valencia, Spain |
 | Category | Business Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Spain-Paterna/Business-Analyst_R10097204) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Spain-Paterna/BUSINESS-ANALYST_R10098495) |
 
 ## About This Role
 
-This business analyst position at Air Liquide was posted on 2026-07-24.
+This business analyst position at Air Liquide was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

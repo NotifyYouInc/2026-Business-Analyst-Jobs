@@ -5,12 +5,12 @@
 | Company | [Avaloq](https://scoutify.ai/companies/avaloq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Business Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000144036269-senior-it-business-analyst-credit) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Avaloq1/744000146151635-senior-it-business-analyst-credit) |
 
 ## About This Role
 
-This business analyst position at Avaloq was posted on 2026-08-18.
+This business analyst position at Avaloq was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

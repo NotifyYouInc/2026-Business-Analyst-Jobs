@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Axle Informatics](https://scoutify.ai/companies/axle-informatics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Rockville, Maryland, United States |
+| Location | Bethesda, Maryland, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/axle/jobs/5212963007) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/axle/jobs/5223705007) |
 
 ## About This Role
 
-This business analyst position at Axle Informatics was posted on 2026-08-14.
+This business analyst position at Axle Informatics was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

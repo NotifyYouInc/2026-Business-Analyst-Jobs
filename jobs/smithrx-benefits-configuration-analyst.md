@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [SmithRx](https://scoutify.ai/companies/smithrx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
-| Category | Business Analyst |
-| Posted | 2026-04-09 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/smithrx/jobs/8394923002) |
+| Category | Customer Success |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/smithrx/jobs/8752112002) |
 
 ## About This Role
 
-This business analyst position at SmithRx was posted on 2026-04-09.
+This customer success position at SmithRx was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

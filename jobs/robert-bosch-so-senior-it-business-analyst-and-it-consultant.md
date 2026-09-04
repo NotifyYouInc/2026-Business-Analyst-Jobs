@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tân Bình, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Business Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143970388-so-senior-it-business-analyst-and-it-consultant) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146105139-so-senior-it-business-analyst-and-it-consultant) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-08-18.
+This business analyst position at Robert Bosch was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

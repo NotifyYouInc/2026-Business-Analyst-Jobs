@@ -5,12 +5,12 @@
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000145596719-analyste-excellence-operationnelle) |
+| Posted | 2026-08-26 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000145811709-analyste-excellence-operationnelle) |
 
 ## About This Role
 
-This business analyst position at UAP was posted on 2026-08-25.
+This business analyst position at UAP was posted on 2026-08-26.
 
 ## Get Real-Time Alerts
 

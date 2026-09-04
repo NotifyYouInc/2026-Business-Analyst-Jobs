@@ -5,12 +5,12 @@
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tlaquepaque, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Tlaquepaque-Jalisco-Mexico/Business-Analyst_JR-022935-1) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Tlaquepaque-Jalisco-Mexico/Business-Analyst_JR-024053) |
 
 ## About This Role
 
-This business analyst position at Avnet was posted on 2026-05-22.
+This business analyst position at Avnet was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

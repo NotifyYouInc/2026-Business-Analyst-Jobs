@@ -1,16 +1,16 @@
-# Business Analyst  at City of Philadelphia
+# Business Analyst at City of Philadelphia
 
 | Field | Details |
 |-------|---------|
 | Company | [City of Philadelphia](https://scoutify.ai/companies/city-of-philadelphia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Philadelphia, Pennsylvania, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofphiladelphia/744000137496919-business-analyst) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofphiladelphia/744000146047860-business-analyst) |
 
 ## About This Role
 
-This business analyst position at City of Philadelphia was posted on 2026-07-13.
+This business analyst position at City of Philadelphia was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

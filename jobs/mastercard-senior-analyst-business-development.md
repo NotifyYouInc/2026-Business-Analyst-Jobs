@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Purchase, New York, United States |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Senior-Analyst--Business-Development_R-281207-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Warsaw-Poland/Senior-Analyst--Business-Development_R-289376-2) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Mastercard was posted on 2026-07-13.
+This sales development (sdr / bdr) position at Mastercard was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

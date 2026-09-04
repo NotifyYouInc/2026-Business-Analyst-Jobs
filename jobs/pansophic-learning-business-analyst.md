@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pansophic Learning](https://scoutify.ai/companies/pansophiclearning?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Virginia, US |
-| Category | Program Manager |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/pansophiclearning/jobs/7854411003) |
+| Category | Project Manager |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/pansophiclearning/jobs/7979232003) |
 
 ## About This Role
 
-This program manager position at Pansophic Learning was posted on 2026-08-11.
+This project manager position at Pansophic Learning was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

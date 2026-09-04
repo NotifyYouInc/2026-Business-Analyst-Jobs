@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Wayne-PA-United-States-of-America/Senior-Business-Analyst_R1537445) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Warsaw-Poland/Senior-Business-Analyst_R1562859) |
 
 ## About This Role
 
-This business analyst position at IQVIA was posted on 2026-08-24.
+This business analyst position at IQVIA was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

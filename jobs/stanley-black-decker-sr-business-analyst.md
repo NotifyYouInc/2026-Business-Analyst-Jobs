@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Stanley Black & Decker](https://scoutify.ai/companies/sbdinc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Towson, Maryland, United States |
+| Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Sr-Business-Analyst_REQ-1000047474) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Mexico-City-Mexico/Sr-Business-Analyst_REQ-1000051425) |
 
 ## About This Role
 
-This business analyst position at Stanley Black & Decker was posted on 2026-04-23.
+This business analyst position at Stanley Black & Decker was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

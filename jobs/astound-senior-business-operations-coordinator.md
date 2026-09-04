@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Astound](https://scoutify.ai/companies/astound?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Washington, US |
+| Location | Texas, US |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://astound.wd108.myworkdayjobs.com/astound_careers/job/WA-Remote/Senior-Business-Operations-Coordinator_JR-000557) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://astound.wd108.myworkdayjobs.com/astound_careers/job/TX-Remote/Senior-Business-Operations-Coordinator_JR-000917) |
 
 ## About This Role
 
-This business analyst position at Astound was posted on 2026-05-06.
+This business analyst position at Astound was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

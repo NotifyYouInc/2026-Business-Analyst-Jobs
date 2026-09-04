@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | New York City, New York, United States |
 | Category | Corporate Development & M&A |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Washington-DC/Transaction-Analyst_REQ494263) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Transaction-Analyst_REQ532111) |
 
 ## About This Role
 
-This corporate development & m&a position at JLL was posted on 2026-03-30.
+This corporate development & m&a position at JLL was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

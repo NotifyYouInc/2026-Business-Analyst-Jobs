@@ -5,12 +5,12 @@
 | Company | [University of Southern California](https://scoutify.ai/companies/university-of-southern-california?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://usc.wd5.myworkdayjobs.com/externalusccareers/job/USC-Otolaryngology/Budget-Business-Analyst_REQ20178217) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://usc.wd5.myworkdayjobs.com/externalusccareers/job/Los-Angeles-CA---University-Park-Campus/Budget-Business-Analyst_REQ20179921) |
 
 ## About This Role
 
-This business analyst position at University of Southern California was posted on 2026-07-23.
+This business analyst position at University of Southern California was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

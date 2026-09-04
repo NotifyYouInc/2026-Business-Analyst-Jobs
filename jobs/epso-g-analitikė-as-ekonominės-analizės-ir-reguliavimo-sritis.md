@@ -5,12 +5,12 @@
 | Company | [EPSO-G](https://scoutify.ai/companies/epsog?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Vilnius, Vilnius, Lithuania |
 | Category | Business Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSOG/744000139989689-analitike-as-ekonomines-analizes-ir-reguliavimo-sritis) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/EPSOG/744000146156109-analitike-as-ekonomines-analizes-ir-reguliavimo-sritis) |
 
 ## About This Role
 
-This business analyst position at EPSO-G was posted on 2026-07-27.
+This business analyst position at EPSO-G was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Sabre](https://scoutify.ai/companies/sabre?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Change-Management-Analyst_JR108395) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://sabre.wd1.myworkdayjobs.com/sabrejobs/job/Bengaluru-Karnataka-India/Change-Management-Analyst_JR108397) |
 
 ## About This Role
 
-This business analyst position at Sabre was posted on 2026-07-28.
+This business analyst position at Sabre was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
