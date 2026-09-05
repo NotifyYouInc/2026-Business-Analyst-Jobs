@@ -5,12 +5,12 @@
 | Company | [World Wildlife Fund, Inc.](https://scoutify.ai/companies/world-wildlife-fund-inc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/worldwildlifefundinc1/744000142711294-fundraising-operations-senior-business-analyst-r4582) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/worldwildlifefundinc1/744000146247889-fundraising-operations-senior-business-analyst-r4582) |
 
 ## About This Role
 
-This business analyst position at World Wildlife Fund, Inc. was posted on 2026-08-10.
+This business analyst position at World Wildlife Fund, Inc. was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CapTech Consulting](https://scoutify.ai/companies/captechconsulting?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Denver, Colorado, United States |
+| Location | Salt Lake City, Utah, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000145837979-technical-business-systems-analyst) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000146217975-technical-business-systems-analyst) |
 
 ## About This Role
 
-This business analyst position at CapTech Consulting was posted on 2026-08-26.
+This business analyst position at CapTech Consulting was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

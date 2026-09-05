@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [General Dynamics Information Technology](https://scoutify.ai/companies/general-dynamics-information-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Arizona, US |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
-| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-AZ-Fort-Huachuca/Senior-Business-Process-Analyst_RQ218748-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/Any-Location--Remote/Senior-Business-Process-Analyst_RQ227053-2) |
 
 ## About This Role
 
-This business analyst position at General Dynamics Information Technology was posted on 2026-04-24.
+This business analyst position at General Dynamics Information Technology was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

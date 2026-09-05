@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Thermo Fisher Scientific](https://scoutify.ai/companies/thermo-fisher-scientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Budapest, Budapest, Hungary |
+| Location | Costa Rica |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Budapest-Hungary/Digital-Process-Analyst_R-01362759) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Lagunilla-Costa-Rica/Digital-Process-Analyst_R-01362761-1) |
 
 ## About This Role
 
-This business analyst position at Thermo Fisher Scientific was posted on 2026-08-14.
+This business analyst position at Thermo Fisher Scientific was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

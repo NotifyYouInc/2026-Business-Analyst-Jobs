@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CAE](https://scoutify.ai/companies/cae?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Savannah, Georgia, United States |
+| Location | Orlando, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Savannah-GA/Fleet-Planner_123164) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://cae.wd3.myworkdayjobs.com/career/job/Orlando/Fleet-Planner_122896) |
 
 ## About This Role
 
-This business analyst position at CAE was posted on 2026-08-26.
+This business analyst position at CAE was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

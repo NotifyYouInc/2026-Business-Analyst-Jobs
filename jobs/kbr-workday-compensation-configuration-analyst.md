@@ -5,12 +5,12 @@
 | Company | [KBR](https://scoutify.ai/companies/kbr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Houston, Texas, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Workday-Compensation-Configuration-Analyst_R2127905) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Workday-Compensation-Configuration-Analyst_R2129094) |
 
 ## About This Role
 
-This human resources / people ops position at KBR was posted on 2026-08-11.
+This human resources / people ops position at KBR was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lancaster, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000125393850-pricing-quoting-specialist) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000146177119-pricing-quoting-specialist) |
 
 ## About This Role
 
-This business analyst position at Eurofins Scientific was posted on 2026-05-08.
+This business analyst position at Eurofins Scientific was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

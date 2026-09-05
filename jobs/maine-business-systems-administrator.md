@@ -5,12 +5,12 @@
 | Company | [Maine](https://scoutify.ai/companies/maine?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Augusta, Georgia, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-08 |
-| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/Augusta-Maine/Business-Systems-Administrator_R26-01804) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://maine.wd5.myworkdayjobs.com/executive/job/109-Capitol-Street-Augusta/Business-Systems-Administrator_R26-03659) |
 
 ## About This Role
 
-This it & systems administration position at Maine was posted on 2026-05-08.
+This it & systems administration position at Maine was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

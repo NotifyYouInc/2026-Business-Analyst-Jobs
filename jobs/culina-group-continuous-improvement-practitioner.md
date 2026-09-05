@@ -1,16 +1,16 @@
-# Continuous Improvement Practitioner  at Culina Group
+# Continuous Improvement Practitioner at Culina Group
 
 | Field | Details |
 |-------|---------|
 | Company | [Culina Group](https://scoutify.ai/companies/culinagroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Crick, England, United Kingdom |
+| Location | United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000145772739-continuous-improvement-practitioner) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000146231679-continuous-improvement-practitioner) |
 
 ## About This Role
 
-This business analyst position at Culina Group was posted on 2026-08-26.
+This business analyst position at Culina Group was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

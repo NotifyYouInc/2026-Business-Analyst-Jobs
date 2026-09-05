@@ -5,12 +5,12 @@
 | Company | [Simon](https://scoutify.ai/companies/simon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Indianapolis, Indiana, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Analyst--Lease_R13548) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Analyst--Lease_R13937) |
 
 ## About This Role
 
-This business analyst position at Simon was posted on 2026-05-27.
+This business analyst position at Simon was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

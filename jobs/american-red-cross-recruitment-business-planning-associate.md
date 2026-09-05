@@ -5,12 +5,12 @@
 | Company | [American Red Cross](https://scoutify.ai/companies/americanredcross?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Greenville, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Greenville-NC/Recruitment-Business-Planning-Associate_RC90850) |
+| Posted | 2026-08-27 |
+| Apply | [View on company site](https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Greenville-NC/Recruitment-Business-Planning-Associate_RC90933) |
 
 ## About This Role
 
-This business analyst position at American Red Cross was posted on 2026-08-26.
+This business analyst position at American Red Cross was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Cardinal Health](https://scoutify.ai/companies/cardinal-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kansas City, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/MO-Kansas-City-Phrm-Dist/Inventory-Profiler_20183246) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/MO-Kansas-City-Phrm-Dist/Inventory-Profiler_20186490-1) |
 
 ## About This Role
 
-This business analyst position at Cardinal Health was posted on 2026-06-30.
+This business analyst position at Cardinal Health was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

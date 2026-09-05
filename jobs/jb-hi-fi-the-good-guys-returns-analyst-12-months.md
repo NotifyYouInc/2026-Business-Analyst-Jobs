@@ -5,12 +5,12 @@
 | Company | [JB Hi-Fi & The Good Guys](https://scoutify.ai/companies/jb-hi-fi-the-good-guys?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Southbank, Victoria, Australia |
 | Category | Business Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/jbhi-fithegoodguys1/6000000001257840-returns-analyst-12-months) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/jbhi-fithegoodguys1/6000000001360432-returns-analyst-12-months) |
 
 ## About This Role
 
-This business analyst position at JB Hi-Fi & The Good Guys was posted on 2026-07-24.
+This business analyst position at JB Hi-Fi & The Good Guys was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

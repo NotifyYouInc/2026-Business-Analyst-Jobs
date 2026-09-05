@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Turner & Townsend](https://scoutify.ai/companies/turnertownsend?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bratislava, Bratislava Region, Slovakia |
+| Location | Bucharest, București, Romania |
 | Category | Business Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000144035450-business-operations-assistant) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TurnerTownsend/744000146166689-business-operations-assistant) |
 
 ## About This Role
 
-This business analyst position at Turner & Townsend was posted on 2026-08-18.
+This business analyst position at Turner & Townsend was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

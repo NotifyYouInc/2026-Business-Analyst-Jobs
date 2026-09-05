@@ -5,12 +5,12 @@
 | Company | [QIMA](https://scoutify.ai/companies/qima?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000120066847-admin-support-analyst) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/QIMA/744000146269499-admin-support-analyst) |
 
 ## About This Role
 
-This business analyst position at QIMA was posted on 2026-04-10.
+This business analyst position at QIMA was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

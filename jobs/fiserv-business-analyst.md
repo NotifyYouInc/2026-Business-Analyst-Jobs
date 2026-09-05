@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | Lincoln, Nebraska, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Milan-Italy/Business-Analyst_R-10399419) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Lincoln-Nebraska/Business-Analyst_R-10401350) |
 
 ## About This Role
 
-This business analyst position at Fiserv was posted on 2026-08-19.
+This business analyst position at Fiserv was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

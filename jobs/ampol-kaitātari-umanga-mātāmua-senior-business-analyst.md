@@ -5,12 +5,12 @@
 | Company | [Ampol](https://scoutify.ai/companies/ampol?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Wellington, Wellington Region, New Zealand |
 | Category | Business Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001356680-kaitatari-umanga-matamua-senior-business-analyst) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ampol/6000000001358655-kaitatari-umanga-matamua-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Ampol was posted on 2026-08-27.
+This business analyst position at Ampol was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

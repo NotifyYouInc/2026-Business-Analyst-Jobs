@@ -5,12 +5,12 @@
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New Braunfels, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-01 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/New-Braunfels-TX-US/Business-Analyst_R26002880-1) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/New-Braunfels-TX-US/Business-Analyst_R26004803-1) |
 
 ## About This Role
 
-This business analyst position at HD Supply was posted on 2026-06-01.
+This business analyst position at HD Supply was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

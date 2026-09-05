@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Illinois, US |
+| Location | Oak Brook, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/AAO-Oak-Brook---2025-Windsor-Dr/Contact-Center-Performance-Specialist---Remote_R221195) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/AAO-Oak-Brook---2025-Windsor-Dr/Contact-Center-Performance-Specialist---Remote_R264122) |
 
 ## About This Role
 
-This business analyst position at Advocate Health was posted on 2026-03-20.
+This business analyst position at Advocate Health was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

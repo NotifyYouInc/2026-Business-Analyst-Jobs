@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bucharest, București, Romania |
-| Category | Data Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000144320939-senior-business-system-analyst-bsa-data-analytics-databricks) |
+| Category | Business Analyst |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000146209704-senior-business-system-analyst-bsa-data-analytics-databricks) |
 
 ## About This Role
 
-This data analyst position at Inetum was posted on 2026-08-19.
+This business analyst position at Inetum was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
