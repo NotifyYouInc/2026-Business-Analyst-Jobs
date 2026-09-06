@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PNC Financial](https://scoutify.ai/companies/pnc-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pittsburgh, Pennsylvania, United States |
+| Location | New Mexico, US |
 | Category | Business Analyst |
-| Posted | 2026-03-03 |
-| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-PA-PAH01/Operations-Advisor-Sr_R213434) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://pnc.wd5.myworkdayjobs.com/External/job/Home-Location-NM-NMH68/Operations-Advisor-Sr_R234196-1) |
 
 ## About This Role
 
-This business analyst position at PNC Financial was posted on 2026-03-03.
+This business analyst position at PNC Financial was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 
