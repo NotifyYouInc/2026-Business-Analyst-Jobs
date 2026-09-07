@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ohio, United States |
-| Category | Go To Market Engineer |
+| Category | Business Analyst |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130364) |
 
 ## About This Role
 
-This go to market engineer position at IBM was posted on 2026-08-27.
+This business analyst position at IBM was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

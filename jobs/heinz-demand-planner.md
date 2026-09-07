@@ -5,12 +5,12 @@
 | Company | [Heinz](https://scoutify.ai/companies/heinz?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Business Analyst |
-| Posted | 2026-03-31 |
-| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Amsterdam/Demand-Planner_R-101541) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://heinz.wd1.myworkdayjobs.com/kraftheinz_careers/job/Amsterdam/Demand-Planner_R-106199) |
 
 ## About This Role
 
-This business analyst position at Heinz was posted on 2026-03-31.
+This business analyst position at Heinz was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

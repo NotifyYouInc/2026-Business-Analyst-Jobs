@@ -5,12 +5,12 @@
 | Company | [Air New Zealand](https://scoutify.ai/companies/air-new-zealand?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Business Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001346858-network-planning-specialist-12-month-fixed-term-contract) |
+| Posted | 2026-08-30 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/airnewzealand/6000000001360765-network-planning-specialist-12-month-fixed-term-contract) |
 
 ## About This Role
 
-This business analyst position at Air New Zealand was posted on 2026-08-25.
+This business analyst position at Air New Zealand was posted on 2026-08-30.
 
 ## Get Real-Time Alerts
 

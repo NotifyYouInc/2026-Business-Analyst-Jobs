@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Syntegon Technology](https://scoutify.ai/companies/syntegontechnology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dierdorf, Rheinland-Pfalz, Germany |
-| Category | Sales Development (SDR / BDR) |
+| Category | Business Analyst |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/SYNTEGON/744000146148465-werkstudent-business-development-und-innovation-mwd) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Syntegon Technology was posted on 2026-08-28.
+This business analyst position at Syntegon Technology was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

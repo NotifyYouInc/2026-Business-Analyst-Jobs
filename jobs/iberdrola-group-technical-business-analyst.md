@@ -5,12 +5,12 @@
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-Kingdom-Glasgow/Technical-Business-Analyst_R-30108) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/ScottishPower-HQ/Technical-Business-Analyst_R-29986) |
 
 ## About This Role
 
-This business analyst position at Iberdrola Group was posted on 2026-06-05.
+This business analyst position at Iberdrola Group was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

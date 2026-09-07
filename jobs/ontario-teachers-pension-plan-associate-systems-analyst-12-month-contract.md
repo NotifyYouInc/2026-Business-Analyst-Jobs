@@ -1,16 +1,16 @@
-# Associate Systems Analyst (12-month Contract) at Ontario Teachers' Pension Plan
+# Associate Systems Analyst (12 month contract) at Ontario Teachers' Pension Plan
 
 | Field | Details |
 |-------|---------|
 | Company | [Ontario Teachers' Pension Plan](https://scoutify.ai/companies/otppb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
-| Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Associate-Systems-Analyst--12-month-Contract-_6858) |
+| Location | Toronto, Ontario, Canada |
+| Category | IT & Systems Administration |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Associate-Systems-Analyst--12-month-contract-_7215) |
 
 ## About This Role
 
-This business analyst position at Ontario Teachers' Pension Plan was posted on 2026-02-05.
+This it & systems administration position at Ontario Teachers' Pension Plan was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

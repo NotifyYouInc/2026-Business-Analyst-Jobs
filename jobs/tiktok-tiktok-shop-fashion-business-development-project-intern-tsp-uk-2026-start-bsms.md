@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Sales Development (SDR / BDR) |
+| Category | Business Analyst |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7679074416047835445/detail) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at TikTok was posted on 2026-08-28.
+This business analyst position at TikTok was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

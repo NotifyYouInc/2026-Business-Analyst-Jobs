@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Freese and Nichols](https://scoutify.ai/companies/freese-and-nichols?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Fort Worth, Texas, United States |
-| Category | Sales Development (SDR / BDR) |
+| Category | Business Analyst |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://freese.wd1.myworkdayjobs.com/freese_nichols_external/job/Fort-Worth-Texas/Business-Development-Coordinator_JR103851) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Freese and Nichols was posted on 2026-08-28.
+This business analyst position at Freese and Nichols was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

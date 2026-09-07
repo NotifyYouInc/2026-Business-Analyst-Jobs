@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
-| Category | Engineering Manager |
-| Posted | 2026-05-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000128778919-business-development-manager) |
+| Location | Budapest, Budapest, Hungary |
+| Category | Business Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000146412860-business-development-manager) |
 
 ## About This Role
 
-This engineering manager position at Veolia was posted on 2026-05-27.
+This business analyst position at Veolia was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

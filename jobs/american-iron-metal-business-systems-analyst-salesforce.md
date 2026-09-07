@@ -5,12 +5,12 @@
 | Company | [American Iron & Metal](https://scoutify.ai/companies/americanironandmetal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AmericanIronandMetal/744000146056499-business-systems-analyst-salesforce) |
+| Posted | 2026-08-28 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AmericanIronandMetal/744000146186809-business-systems-analyst-salesforce) |
 
 ## About This Role
 
-This business analyst position at American Iron & Metal was posted on 2026-08-27.
+This business analyst position at American Iron & Metal was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bonitz Flooring Group](https://scoutify.ai/companies/bonitz-flooring-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Augusta, Georgia, United States |
-| Category | Sales Development (SDR / BDR) |
+| Category | Business Analyst |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://bonitz.rec.pro.ukg.net/BON1500BONI/JobBoard/6dd42544-e7d0-4ead-a291-618e5254562c/OpportunityDetail?opportunityId=40ff333c-b062-4b63-bae4-801da21ac899) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Bonitz Flooring Group was posted on 2026-08-28.
+This business analyst position at Bonitz Flooring Group was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

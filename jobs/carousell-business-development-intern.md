@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Carousell](https://scoutify.ai/companies/carousell?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Jakarta, ID |
-| Category | Sales Development (SDR / BDR) |
+| Category | Business Analyst |
 | Posted | 2026-08-28 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/CarousellGroup/744000146109090-business-development-intern) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Carousell was posted on 2026-08-28.
+This business analyst position at Carousell was posted on 2026-08-28.
 
 ## Get Real-Time Alerts
 

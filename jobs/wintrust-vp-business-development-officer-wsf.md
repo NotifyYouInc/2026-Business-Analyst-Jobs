@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Wintrust](https://scoutify.ai/companies/wintrust?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Irvine, California, United States |
-| Category | Sales Development (SDR / BDR) |
+| Category | Business Analyst |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://wintrust.wd1.myworkdayjobs.com/search/job/Irvine-CA/VP--Business-Development-Officer---WSF_261615) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Wintrust was posted on 2026-08-27.
+This business analyst position at Wintrust was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 

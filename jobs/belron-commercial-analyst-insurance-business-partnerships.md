@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Belron](https://scoutify.ai/companies/belron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Strategic Partnerships |
+| Category | Business Analyst |
 | Posted | 2026-08-27 |
 | Apply | [View on company site](https://belron.wd3.myworkdayjobs.com/belron_canada_careers/job/Montreal-QC/Commercial-Analyst--Insurance---Business-Partnerships_JR73738) |
 
 ## About This Role
 
-This strategic partnerships position at Belron was posted on 2026-08-27.
+This business analyst position at Belron was posted on 2026-08-27.
 
 ## Get Real-Time Alerts
 
