@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Nexton](https://scoutify.ai/companies/nexton?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Montpellier, Occitanie, France |
+| Location | Lyon, Rhône-Alpes, France |
 | Category | Business Analyst |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000144739549-business-analyst-hf) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NEXTON/744000146654220-business-analyst-hf) |
 
 ## About This Role
 
-This business analyst position at Nexton was posted on 2026-08-21.
+This business analyst position at Nexton was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

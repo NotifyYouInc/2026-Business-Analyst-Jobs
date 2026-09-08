@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eversource Energy](https://scoutify.ai/companies/eversource-energy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Massachusetts, US |
-| Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/Analyst--Transmission--Hybrid-Schedule-_R-030011) |
+| Location | Westwood, Massachusetts, United States |
+| Category | Data Analyst |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/Analyst--Transmission--Hybrid-Schedule-_R-031660) |
 
 ## About This Role
 
-This business analyst position at Eversource Energy was posted on 2026-03-17.
+This data analyst position at Eversource Energy was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

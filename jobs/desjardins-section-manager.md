@@ -1,16 +1,16 @@
-# Section manager at Desjardins
+# Section Manager at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Directeur-ou-Directrice-de-section--Dclarations-et-Oprations_R2605618) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Directeur-ou-directrice-de-Section--Gestion-des-enqutes-de-crdit--scurit-et-fiabilit_R2610633) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-04-23.
+This business analyst position at Desjardins was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

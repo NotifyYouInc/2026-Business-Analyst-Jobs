@@ -1,16 +1,16 @@
-# Senior Business Analyst - Assistant Vice President at State Street
+# Senior Business Analyst, Assistant Vice President at State Street
 
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Irvine, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-19 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Dublin-2-Ireland/Senior-Business-Analyst---Assistant-Vice-President_R-783180-2) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Irvine-California/Senior-Business-Analyst--Assistant-Vice-President_R-793212) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-02-19.
+This business analyst position at State Street was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

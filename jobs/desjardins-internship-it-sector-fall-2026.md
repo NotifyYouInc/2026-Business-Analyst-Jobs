@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Stage--Secteur-TI--Automne-2026_R2606252) |
+| Category | Software Engineer |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Stage--Secteur-TI--Hiver-2027_R2610586) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-05-11.
+This software engineer position at Desjardins was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [The Wonderful Company](https://scoutify.ai/companies/thewonderfulcompany?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Los Angeles, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000146050349-oracle-supply-planning-specialist-temporary) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheWonderfulCompany/744000146544949-oracle-supply-planning-specialist-temporary) |
 
 ## About This Role
 
-This business analyst position at The Wonderful Company was posted on 2026-08-27.
+This business analyst position at The Wonderful Company was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

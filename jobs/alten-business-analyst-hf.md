@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brest, Brittany, France |
 | Category | Business Analyst |
-| Posted | 2026-03-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000115911607-business-analyst-hf) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000146473824-business-analyst-hf) |
 
 ## About This Role
 
-This business analyst position at ALTEN was posted on 2026-03-20.
+This business analyst position at ALTEN was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

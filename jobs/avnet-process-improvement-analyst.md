@@ -5,12 +5,12 @@
 | Company | [Avnet](https://scoutify.ai/companies/avnet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chandler, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Chandler-Arizona-United-States-Of-America/Process-Improvement-Analyst_JR-023678) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://avnet.wd1.myworkdayjobs.com/external/job/Chandler-Arizona-United-States-Of-America/Process-Improvement-Analyst_JR-024060) |
 
 ## About This Role
 
-This business analyst position at Avnet was posted on 2026-07-20.
+This business analyst position at Avnet was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

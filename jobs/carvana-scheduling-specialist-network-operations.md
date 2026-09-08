@@ -5,12 +5,12 @@
 | Company | [Carvana](https://scoutify.ai/companies/carvana?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tempe, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=7862516) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://www.carvana.com/careers/apply?gh_jid=8167952) |
 
 ## About This Role
 
-This business analyst position at Carvana was posted on 2026-07-06.
+This business analyst position at Carvana was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

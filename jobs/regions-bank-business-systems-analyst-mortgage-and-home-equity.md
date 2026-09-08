@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Regions Bank](https://scoutify.ai/companies/regions-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hoover, Alabama, United States |
-| Category | Business Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Business-Systems-Analyst---Mortgage-and-Home-Equity_R104855) |
+| Location | 3 locations |
+| Category | Quant Research |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/Business-Systems-Analyst---Mortgage-and-Home-Equity_R105470) |
 
 ## About This Role
 
-This business analyst position at Regions Bank was posted on 2026-08-11.
+This quant research position at Regions Bank was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

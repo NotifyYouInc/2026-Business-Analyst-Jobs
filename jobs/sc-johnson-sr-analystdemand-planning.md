@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SC Johnson](https://scoutify.ai/companies/scj?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Arese, Lombardy, Italy |
+| Location | Racine, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/Italy---Arese-Milan/Sr-Analyst-Demand-Planning_32270-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---WI---Racine/Sr-Analyst-Demand-Planning_33922) |
 
 ## About This Role
 
-This business analyst position at SC Johnson was posted on 2026-02-27.
+This business analyst position at SC Johnson was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

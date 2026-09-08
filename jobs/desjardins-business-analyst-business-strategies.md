@@ -1,16 +1,16 @@
-# Business analyst, Business strategies at Desjardins
+# Business Analyst, Business strategies at Desjardins
 
 | Field | Details |
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-d-affaires--Espace-Proprio_R2610574) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Analyste-d-affaires--Quantification-des-risques-de-crdit_R2610555) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-08-27.
+This business analyst position at Desjardins was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

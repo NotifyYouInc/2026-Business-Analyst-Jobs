@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rabobank](https://scoutify.ai/companies/rabobank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bunbury, Western Australia, Australia |
+| Location | Ballarat, Victoria, Australia |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Bunbury---Victoria-Street/Relationship-Analyst_JR_00139546) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://rabobank.wd3.myworkdayjobs.com/jobs/job/Ballarat---Sturt-St/Relationship-Analyst_JR_00145203) |
 
 ## About This Role
 
-This business analyst position at Rabobank was posted on 2026-04-20.
+This business analyst position at Rabobank was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

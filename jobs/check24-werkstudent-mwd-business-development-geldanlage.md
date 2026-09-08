@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CHECK24](https://scoutify.ai/companies/check24?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-03-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000115658513-werkstudent-mwd-business-development-geldanlage) |
+| Location | Germany |
+| Category | Business Analyst |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CHECK24/744000146633066-werkstudent-mwd-business-development-geldanlage) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at CHECK24 was posted on 2026-03-19.
+This business analyst position at CHECK24 was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

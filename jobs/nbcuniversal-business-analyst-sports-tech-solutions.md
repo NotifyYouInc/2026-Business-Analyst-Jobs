@@ -5,12 +5,12 @@
 | Company | [NBCUniversal](https://scoutify.ai/companies/nbcuniversal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Stamford, Connecticut, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000143601199-business-analyst-sports-tech-solutions) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NBCUniversal3/744000146544977-business-analyst-sports-tech-solutions) |
 
 ## About This Role
 
-This business analyst position at NBCUniversal was posted on 2026-08-14.
+This business analyst position at NBCUniversal was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

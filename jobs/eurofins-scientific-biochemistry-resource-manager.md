@@ -5,12 +5,12 @@
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lancaster, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000136091749-biochemistry-resource-manager) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000146497105-biochemistry-resource-manager) |
 
 ## About This Role
 
-This business analyst position at Eurofins Scientific was posted on 2026-07-06.
+This business analyst position at Eurofins Scientific was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

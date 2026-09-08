@@ -5,12 +5,12 @@
 | Company | [natixis-in-portugal](https://scoutify.ai/companies/natixisinportugal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Portugal |
 | Category | Business Analyst |
-| Posted | 2026-02-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000109018835-business-analyst-french-speaker-bpce-si) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NatixisInPortugal/744000146462180-business-analyst-french-speaker-bpce-si) |
 
 ## About This Role
 
-This business analyst position at natixis-in-portugal was posted on 2026-02-12.
+This business analyst position at natixis-in-portugal was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chattanooga, Tennessee, United States |
+| Location | San Diego, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Chattanooga-TN-USA/Logistics-Analyst_R-183059) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/San-Diego-CA-USA/Logistics-Analyst_R-183208) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-08-26.
+This business analyst position at Republic Services was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

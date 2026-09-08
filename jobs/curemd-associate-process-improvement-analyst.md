@@ -5,12 +5,12 @@
 | Company | [CureMD](https://scoutify.ai/companies/curemd?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lahore, Punjab, Pakistan |
 | Category | Business Analyst |
-| Posted | 2026-07-29 |
-| Apply | [View on company site](https://curemd.wd1.myworkdayjobs.com/curemd/job/Lahore/Associate-Process-Improvement-Analyst_JR102323) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://curemd.wd1.myworkdayjobs.com/curemd/job/Lahore/Associate-Process-Improvement-Analyst_JR102322) |
 
 ## About This Role
 
-This business analyst position at CureMD was posted on 2026-07-29.
+This business analyst position at CureMD was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caylent](https://scoutify.ai/companies/caylent?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico |
-| Category | Business Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/caylent/jobs/6138095004) |
+| Location | United States |
+| Category | Software Engineer |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/caylent/jobs/6138098004) |
 
 ## About This Role
 
-This business analyst position at Caylent was posted on 2026-08-10.
+This software engineer position at Caylent was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

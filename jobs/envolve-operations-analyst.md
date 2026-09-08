@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Envolve](https://scoutify.ai/companies/recruiting-ultipro-com-oj34464?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Texas, US |
-| Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://recruiting.ultipro.com/bsr1000bsrt/JobBoard/801bf49a-1a80-400a-a7f7-a7d5833f2906/OpportunityDetail?opportunityId=af19d6a7-493d-4695-847c-f574135fd687) |
+| Category | Data Analyst |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://recruiting.ultipro.com/bsr1000bsrt/JobBoard/801bf49a-1a80-400a-a7f7-a7d5833f2906/OpportunityDetail?opportunityId=8003e149-01e9-4930-8ed4-7eb1d667ffb1) |
 
 ## About This Role
 
-This business analyst position at Envolve was posted on 2026-06-22.
+This data analyst position at Envolve was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

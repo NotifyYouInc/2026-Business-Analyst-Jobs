@@ -5,12 +5,12 @@
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Reston, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Business-Analyst--ServiceNow-----High-Level-Clearance---Remote-US-_R2602444) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Business-Analyst--ServiceNow-----High-Level-Clearance---Remote-US-_R2602925) |
 
 ## About This Role
 
-This business analyst position at ICF was posted on 2026-07-15.
+This business analyst position at ICF was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

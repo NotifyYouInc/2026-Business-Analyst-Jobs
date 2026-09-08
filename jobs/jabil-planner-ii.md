@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guangzhou, Guangdong, China |
+| Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guangzhou-Juncheng/Planner-II_J2457461) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Planner-II_J2463185-1) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-07-27.
+This business analyst position at Jabil was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

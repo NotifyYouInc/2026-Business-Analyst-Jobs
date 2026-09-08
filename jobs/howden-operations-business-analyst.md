@@ -5,12 +5,12 @@
 | Company | [Howden](https://scoutify.ai/companies/howden?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Home---USA/Operations-Business-Analyst_R0018964-1) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/Home---USA/Operations-Business-Analyst_R0019043) |
 
 ## About This Role
 
-This business analyst position at Howden was posted on 2026-08-26.
+This business analyst position at Howden was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

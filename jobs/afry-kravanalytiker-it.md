@@ -5,12 +5,12 @@
 | Company | [AFRY](https://scoutify.ai/companies/afry?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
 | Category | Business Analyst |
-| Posted | 2026-06-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000132564109-kravanalytiker-it) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AFRY/744000146476501-kravanalytiker-it) |
 
 ## About This Role
 
-This business analyst position at AFRY was posted on 2026-06-17.
+This business analyst position at AFRY was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 

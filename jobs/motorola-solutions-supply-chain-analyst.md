@@ -5,12 +5,12 @@
 | Company | [Motorola Solutions](https://scoutify.ai/companies/motorola-solutions?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Greater-Chicago-Area/Supply-Chain-Analyst_R67267) |
+| Posted | 2026-08-31 |
+| Apply | [View on company site](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Analyst_R67795) |
 
 ## About This Role
 
-This business analyst position at Motorola Solutions was posted on 2026-08-11.
+This business analyst position at Motorola Solutions was posted on 2026-08-31.
 
 ## Get Real-Time Alerts
 
