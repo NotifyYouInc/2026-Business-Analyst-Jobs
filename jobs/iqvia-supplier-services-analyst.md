@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guatemala City, Guatemala, Guatemala |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Guatemala-City-Guatemala/Supplier-Services-Analyst_R1506143) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/London-United-Kingdom/Supplier-Services-Analyst_R1564298-1) |
 
 ## About This Role
 
-This business analyst position at IQVIA was posted on 2026-04-10.
+This business analyst position at IQVIA was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

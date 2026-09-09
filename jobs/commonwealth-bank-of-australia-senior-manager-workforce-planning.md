@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Sydney, New South Wales, Australia |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Manager-Workforce-Planning_REQ263596-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Manager-Workforce-Planning_REQ264378) |
 
 ## About This Role
 
-This human resources / people ops position at Commonwealth Bank of Australia was posted on 2026-08-11.
+This human resources / people ops position at Commonwealth Bank of Australia was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

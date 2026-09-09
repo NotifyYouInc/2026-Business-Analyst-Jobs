@@ -5,12 +5,12 @@
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Salesforce-Business-Analyst_R26_1466) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Salesforce-Business-Analyst_R26_3422) |
 
 ## About This Role
 
-This business analyst position at Ameriprise Financial was posted on 2026-04-20.
+This business analyst position at Ameriprise Financial was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

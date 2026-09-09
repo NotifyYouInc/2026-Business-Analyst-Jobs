@@ -5,12 +5,12 @@
 | Company | [METRO/MAKRO](https://scoutify.ai/companies/metromakro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lahore, Punjab, Pakistan |
 | Category | Business Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000137101719-business-applications-specialist) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/METROMAKRO/744000146907249-business-applications-specialist) |
 
 ## About This Role
 
-This business analyst position at METRO/MAKRO was posted on 2026-07-10.
+This business analyst position at METRO/MAKRO was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

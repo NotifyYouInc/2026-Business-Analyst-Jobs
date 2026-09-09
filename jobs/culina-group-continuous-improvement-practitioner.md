@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Culina Group](https://scoutify.ai/companies/culinagroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United Kingdom |
+| Location | Bristol, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000146231679-continuous-improvement-practitioner) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CulinaGroup1/744000146749549-continuous-improvement-practitioner) |
 
 ## About This Role
 
-This business analyst position at Culina Group was posted on 2026-08-28.
+This business analyst position at Culina Group was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

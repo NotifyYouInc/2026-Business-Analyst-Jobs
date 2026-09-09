@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Horizonmedia](https://scoutify.ai/companies/horizonmedia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Los Angeles, California, United States |
-| Category | Account Manager |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://horizonmedia.wd1.myworkdayjobs.com/careeropportunities/job/Los-Angeles-California/Strategist--Business-Solutions_R0016994) |
+| Category | Operations |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://horizonmedia.wd1.myworkdayjobs.com/careeropportunities/job/Los-Angeles-California/Strategist--Business-Solutions_R0017220) |
 
 ## About This Role
 
-This account manager position at Horizonmedia was posted on 2026-05-29.
+This operations position at Horizonmedia was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Louisiana, US |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-LA-Fort-Polk/Analyst-2--PMO-_R0158499) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-LA-Fort-Polk/Analyst-2--PMO-_R0169402) |
 
 ## About This Role
 
-This business analyst position at Amentum was posted on 2026-04-10.
+This business analyst position at Amentum was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

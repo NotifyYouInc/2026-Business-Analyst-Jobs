@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bolivia |
+| Location | Miraflores, Lima region, Peru |
 | Category | Business Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000138704749-commercial-assistant) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146762195-commercial-assistant) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-07-20.
+This business analyst position at Delivery Hero was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

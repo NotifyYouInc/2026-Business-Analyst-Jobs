@@ -1,16 +1,16 @@
-# Ingénieur.e Amélioration Continue en stage  at Eurofins Scientific
+# Ingénieur.e Amélioration Continue en stage at Eurofins Scientific
 
 | Field | Details |
 |-------|---------|
 | Company | [Eurofins Scientific](https://scoutify.ai/companies/eurofinsscientific?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Colomiers, Occitanie, France |
+| Location | Vergèze, Occitanie, France |
 | Category | Business Analyst |
-| Posted | 2026-03-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000117335225-ingenieure-amelioration-continue-en-stage) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Eurofins/744000146693799-ingenieure-amelioration-continue-en-stage) |
 
 ## About This Role
 
-This business analyst position at Eurofins Scientific was posted on 2026-03-27.
+This business analyst position at Eurofins Scientific was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

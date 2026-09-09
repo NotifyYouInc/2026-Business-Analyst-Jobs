@@ -1,16 +1,16 @@
-# Business analyst F/H at Talan
+# Business analyst – F/H  at Talan
 
 | Field | Details |
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lyon, Rhône-Alpes, France |
+| Location | Rennes, Brittany, France |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000138888750-business-analyst-fh) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000146746808-business-analyst-fh) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-07-21.
+This business analyst position at Talan was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

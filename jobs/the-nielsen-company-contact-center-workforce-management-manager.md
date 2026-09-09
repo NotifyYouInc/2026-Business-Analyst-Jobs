@@ -5,12 +5,12 @@
 | Company | [The Nielsen Company](https://scoutify.ai/companies/thenielsencompany?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014132206-contact-center-workforce-management-manager) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/TheNielsenCompany/3743990014997536-contact-center-workforce-management-manager) |
 
 ## About This Role
 
-This human resources / people ops position at The Nielsen Company was posted on 2026-07-16.
+This human resources / people ops position at The Nielsen Company was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

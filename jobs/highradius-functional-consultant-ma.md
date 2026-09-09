@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HighRadius](https://scoutify.ai/companies/highradius?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
-| Category | Corporate Development & M&A |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7732917003) |
+| Category | Customer Success |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://www.highradius.com/about/careers-list/?gh_jid=7732931003) |
 
 ## About This Role
 
-This corporate development & m&a position at HighRadius was posted on 2026-08-18.
+This customer success position at HighRadius was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

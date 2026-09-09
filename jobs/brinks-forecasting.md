@@ -5,12 +5,12 @@
 | Company | [Brink's](https://scoutify.ai/companies/brink-s?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Business Analyst |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://brinks.wd5.myworkdayjobs.com/brinkscareers_row/job/Jakarta/Forecasting_R79093-1) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://brinks.wd5.myworkdayjobs.com/brinkscareers_row/job/Jakarta/Forecasting_R79747) |
 
 ## About This Role
 
-This business analyst position at Brink's was posted on 2026-08-21.
+This business analyst position at Brink's was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

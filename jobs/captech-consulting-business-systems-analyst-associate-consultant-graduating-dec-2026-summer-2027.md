@@ -6,7 +6,7 @@
 | Location | Richmond, Virginia, United States |
 | Category | Business Analyst |
 | Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000146447862-business-systems-analyst-associate-consultant-graduating-dec-2026-summer-2027) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/CapTechConsulting/744000146562109-business-systems-analyst-associate-consultant-graduating-dec-2026-summer-2027) |
 
 ## About This Role
 

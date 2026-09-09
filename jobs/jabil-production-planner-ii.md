@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Richardson, Texas, United States |
+| Location | Mebane, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Richardson-TX/Production-Planner-II_J2445441) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Mebane-NC/Production-Planner-II_J2463566) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-04-14.
+This business analyst position at Jabil was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

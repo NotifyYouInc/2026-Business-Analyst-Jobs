@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anduril](https://scoutify.ai/companies/andurilindustries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Costa Mesa, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5193780007?gh_jid=5193780007) |
+| Location | Ashville, Ohio, United States |
+| Category | Program Manager |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://boards.greenhouse.io/andurilindustries/jobs/5098828007?gh_jid=5098828007) |
 
 ## About This Role
 
-This business analyst position at Anduril was posted on 2026-07-22.
+This program manager position at Anduril was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

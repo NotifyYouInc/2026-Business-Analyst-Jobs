@@ -5,12 +5,12 @@
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/So-Paulo-Brazil/Business-Systems-Analyst-1_R1561760) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/So-Paulo-Brazil/Client-Services-Coordinator_R1548124) |
 
 ## About This Role
 
-This business analyst position at IQVIA was posted on 2026-08-10.
+This business analyst position at IQVIA was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

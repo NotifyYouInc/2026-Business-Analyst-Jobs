@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryder System](https://scoutify.ai/companies/ryder-system?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brampton, Ontario, Canada |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/CAN---Brampton-ON-L6T-5T8/Logistics-Analyst_R177584) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://ryder.wd5.myworkdayjobs.com/rydercareers/job/USA---Georgetown-KY-40324/Logistics-Analyst_R182850) |
 
 ## About This Role
 
-This business analyst position at Ryder System was posted on 2026-07-13.
+This business analyst position at Ryder System was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Thousand Oaks, California, United States |
-| Category | Business Analyst |
+| Category | UX Researcher |
 | Posted | 2026-09-01 |
 | Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Commercial-Insights-Manager_R-248088) |
 
 ## About This Role
 
-This business analyst position at Amgen was posted on 2026-09-01.
+This ux researcher position at Amgen was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

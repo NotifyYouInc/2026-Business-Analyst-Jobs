@@ -5,12 +5,12 @@
 | Company | [Russell](https://scoutify.ai/companies/russell?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
+| Posted | 2026-09-01 |
 | Apply | [View on company site](https://russell.wd5.myworkdayjobs.com/russellinvestments/job/Mumbai/Business-Analyst-II_R-03970) |
 
 ## About This Role
 
-This business analyst position at Russell was posted on 2026-04-15.
+This business analyst position at Russell was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

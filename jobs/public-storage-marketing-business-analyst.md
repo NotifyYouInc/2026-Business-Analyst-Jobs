@@ -5,12 +5,12 @@
 | Company | [Public Storage](https://scoutify.ai/companies/publicstorage?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Frisco, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000145804979-marketing-business-analyst) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/PublicStorage/744000146827409-marketing-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Public Storage was posted on 2026-08-26.
+This business analyst position at Public Storage was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

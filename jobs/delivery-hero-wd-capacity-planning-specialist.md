@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000138939590-wd-capacity-planning-specialist) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146708530-wd-capacity-planning-specialist) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-07-21.
+This business analyst position at Delivery Hero was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 

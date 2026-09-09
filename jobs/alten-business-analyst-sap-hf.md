@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Vitrolles, Provence-Alpes-Côte d'Azur, France |
 | Category | Business Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000141232049-business-analyst-sap-hf) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000146919779-business-analyst-sap-hf) |
 
 ## About This Role
 
-This business analyst position at ALTEN was posted on 2026-08-03.
+This business analyst position at ALTEN was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

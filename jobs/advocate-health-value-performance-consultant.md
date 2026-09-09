@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Macon, Georgia, United States |
+| Location | Winston-Salem, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Atrium-Health-Navicent-The-Medical-Center---777-Hemlock-St-Macon-GA/Value-Performance-Consultant_R259221) |
+| Posted | 2026-09-01 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Value-Performance-Consultant_R267384) |
 
 ## About This Role
 
-This business analyst position at Advocate Health was posted on 2026-08-06.
+This business analyst position at Advocate Health was posted on 2026-09-01.
 
 ## Get Real-Time Alerts
 
