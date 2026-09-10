@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [World Kinect](https://scoutify.ai/companies/wfscorp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Miami, Florida, United States |
+| Location | San José, San José, Costa Rica |
 | Category | Business Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Business-Analyst-II_R22254-1) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/SAN-JOSE-COSTA-RICA/IT-Business-Analyst-II_R22280-1) |
 
 ## About This Role
 
-This business analyst position at World Kinect was posted on 2026-02-03.
+This business analyst position at World Kinect was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

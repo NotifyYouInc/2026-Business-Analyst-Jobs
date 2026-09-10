@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Richemont](https://scoutify.ai/companies/richemont?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bangkok, Bangkok, Thailand |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/BANGKOK/Commercial-Performance-Manager_JR132869) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://richemont.wd3.myworkdayjobs.com/richemont/job/SINGAPORE/Commercial-Performance-Manager_JR133275-2) |
 
 ## About This Role
 
-This business analyst position at Richemont was posted on 2026-08-26.
+This business analyst position at Richemont was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

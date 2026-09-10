@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MarineMax](https://scoutify.ai/companies/recruiting-ultipro-com-oj69387?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Miami, Florida, United States |
+| Location | Naples, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://recruiting.ultipro.com/mar1038mami/JobBoard/33511185-9151-40f6-a10c-ae9ce6cf471e/OpportunityDetail?opportunityId=34b6ac83-b6c4-441c-8ed9-b05b1e7bfc5c) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://recruiting.ultipro.com/mar1038mami/JobBoard/33511185-9151-40f6-a10c-ae9ce6cf471e/OpportunityDetail?opportunityId=26329c59-df24-4a77-9784-aa7a4d4ddabd) |
 
 ## About This Role
 
-This business analyst position at MarineMax was posted on 2026-07-23.
+This business analyst position at MarineMax was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

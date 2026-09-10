@@ -5,12 +5,12 @@
 | Company | [John Lewis](https://scoutify.ai/companies/john-lewis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bracknell, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-07-02 |
-| Apply | [View on company site](https://jlp.wd3.myworkdayjobs.com/jlpjobs_careers/job/Bracknell/Operational-Support-Analyst_R-205919) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jlp.wd3.myworkdayjobs.com/jlpjobs_careers/job/Bracknell/Operational-Support-Analyst_R-210630) |
 
 ## About This Role
 
-This business analyst position at John Lewis was posted on 2026-07-02.
+This business analyst position at John Lewis was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

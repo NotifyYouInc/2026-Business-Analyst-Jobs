@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Growth Marketing |
-| Posted | 2026-05-29 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000129180359-sr-analyst-growth) |
+| Category | Business Analyst |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146995480-sr-analyst-growth) |
 
 ## About This Role
 
-This growth marketing position at Delivery Hero was posted on 2026-05-29.
+This business analyst position at Delivery Hero was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

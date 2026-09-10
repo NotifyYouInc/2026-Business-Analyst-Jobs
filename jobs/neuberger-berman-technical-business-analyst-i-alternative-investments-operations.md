@@ -5,12 +5,12 @@
 | Company | [Neuberger Berman](https://scoutify.ai/companies/nb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-24 |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://nb.wd1.myworkdayjobs.com/NBCareers/job/New-York-NY/Technical-Business-Analyst-I---Alternative-Investments-Operations_R0011806) |
 
 ## About This Role
 
-This business analyst position at Neuberger Berman was posted on 2026-02-24.
+This business analyst position at Neuberger Berman was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

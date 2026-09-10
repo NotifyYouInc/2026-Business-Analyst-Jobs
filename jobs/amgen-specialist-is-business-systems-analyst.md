@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Thousand Oaks, California, United States |
+| Location | Holly Springs, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---California---Thousand-Oaks/Specialist-IS-Business-Systems-Analyst_R-248213) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/US---North-Carolina---Holly-Springs/Specialist-IS-Business-Systems-Analyst_R-252438) |
 
 ## About This Role
 
-This business analyst position at Amgen was posted on 2026-09-01.
+This business analyst position at Amgen was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

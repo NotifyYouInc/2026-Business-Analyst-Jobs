@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dallas, Texas, United States |
+| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
 | Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dallas-Texas-United-States/Business-Analyst_R0137228) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Business-Analyst_R0141942) |
 
 ## About This Role
 
-This business analyst position at Hitachi was posted on 2026-07-09.
+This business analyst position at Hitachi was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

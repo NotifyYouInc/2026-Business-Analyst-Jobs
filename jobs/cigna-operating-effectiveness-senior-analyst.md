@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cigna](https://scoutify.ai/companies/cigna?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Kuala-Lumpur-Malaysia/Operating-Effectiveness-Senior-Analyst_26008151) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bengaluru-India/Operating-Effectiveness-Senior-Analyst_26010292) |
 
 ## About This Role
 
-This business analyst position at Cigna was posted on 2026-07-03.
+This business analyst position at Cigna was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

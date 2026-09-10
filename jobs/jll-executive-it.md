@@ -1,16 +1,16 @@
-# Executive- IT at JLL
+# Executive - IT at JLL
 
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Ludhiana, Punjab, India |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Executive--IT_REQ514774) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Ludhiana-PB/Executive---IT_REQ529722) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-06-12.
+This business analyst position at JLL was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

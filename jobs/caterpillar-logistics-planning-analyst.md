@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Morton, Illinois, United States |
-| Category | FP&A / Strategic Finance |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Morton-Illinois/Logistics-Planning-Analyst_R0000373756) |
+| Location | Monterrey, Nuevo León, Mexico |
+| Category | Business Analyst |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Monterrey-Nuevo-Len/Logistics-Planning-Analyst_R0000392195) |
 
 ## About This Role
 
-This fp&a / strategic finance position at Caterpillar was posted on 2026-06-05.
+This business analyst position at Caterpillar was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

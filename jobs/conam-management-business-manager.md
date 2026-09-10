@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CONAM Management](https://scoutify.ai/companies/recruiting2-ultipro-com-oj25308?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Santa Clara, California, United States |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/con1062conam/JobBoard/040c5118-b641-493c-ad8c-957eebf3855e/OpportunityDetail?opportunityId=b85687f5-b94d-43f7-bdb6-e787b6e3d6d2) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/con1062conam/JobBoard/040c5118-b641-493c-ad8c-957eebf3855e/OpportunityDetail?opportunityId=d3f478cd-171b-4b63-b52a-c8fba4156074) |
 
 ## About This Role
 
-This business analyst position at CONAM Management was posted on 2026-07-13.
+This business analyst position at CONAM Management was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

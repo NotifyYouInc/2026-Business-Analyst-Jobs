@@ -5,12 +5,12 @@
 | Company | [City of Stirling](https://scoutify.ai/companies/city-of-stirling?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Stirling, Western Australia, Australia |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofstirling/6000000001359344-infrastructure-asset-systems-analyst) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityofstirling/6000000001371607-infrastructure-asset-systems-analyst) |
 
 ## About This Role
 
-This it & systems administration position at City of Stirling was posted on 2026-08-28.
+This it & systems administration position at City of Stirling was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

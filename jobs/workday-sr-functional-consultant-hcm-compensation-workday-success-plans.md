@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Workday](https://scoutify.ai/companies/workday?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 4 locations |
-| Category | Implementation / Professional Services |
-| Posted | 2026-03-17 |
+| Location | 2 locations |
+| Category | Customer Success |
+| Posted | 2026-09-02 |
 | Apply | [View on company site](https://workday.wd5.myworkdayjobs.com/Workday/job/Poland-Warsaw/Sr-Functional-Consultant---HCM---Compensation--Workday-Success-Plans_JR-0105418) |
 
 ## About This Role
 
-This implementation / professional services position at Workday was posted on 2026-03-17.
+This customer success position at Workday was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

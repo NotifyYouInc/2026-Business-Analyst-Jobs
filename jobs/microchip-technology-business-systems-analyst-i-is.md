@@ -5,12 +5,12 @@
 | Company | [Microchip Technology](https://scoutify.ai/companies/microchip-technology?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Colorado Springs, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Business-Systems-Analyst-I---IS_R3622-26) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://microchiphr.wd5.myworkdayjobs.com/external/job/CO---Colorado-Springs---East-Cheyenne-Mountain-Blvd/Business-Systems-Analyst-I---IS_R3175-26) |
 
 ## About This Role
 
-This business analyst position at Microchip Technology was posted on 2026-08-21.
+This business analyst position at Microchip Technology was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

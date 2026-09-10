@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Elevance Health](https://scoutify.ai/companies/elevance-health?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 4 locations |
-| Category | Project Manager |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/KY-LOUISVILLE-3195-TERRA-CROSSINGS-BLVD-STE-203-204--300/Process-Expert-II_JR178572) |
+| Location | 6 locations |
+| Category | Business Analyst |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://elevancehealth.wd1.myworkdayjobs.com/ANT/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Process-Expert-II_JR202777) |
 
 ## About This Role
 
-This project manager position at Elevance Health was posted on 2026-02-26.
+This business analyst position at Elevance Health was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

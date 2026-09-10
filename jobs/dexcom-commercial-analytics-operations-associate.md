@@ -5,12 +5,12 @@
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Madrid-Spain/Commercial-Analytics---Operations-Associate_JR120028) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Madrid-Spain/Commercial-Analytics---Operations-Associate_JR120714-1) |
 
 ## About This Role
 
-This business analyst position at Dexcom was posted on 2026-07-21.
+This business analyst position at Dexcom was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

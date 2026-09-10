@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Budapest, Budapest, Hungary |
 | Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000139262762-sample-target-coster) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146980082-sample-target-coster) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-07-23.
+This business analyst position at Robert Bosch was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

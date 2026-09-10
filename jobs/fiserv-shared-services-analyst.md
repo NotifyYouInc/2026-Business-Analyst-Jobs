@@ -5,12 +5,12 @@
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Thāne, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Shared-Services-Analyst_R-10399143) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Thane-India/Shared-Services-Analyst_R-10399147) |
 
 ## About This Role
 
-This business analyst position at Fiserv was posted on 2026-07-21.
+This business analyst position at Fiserv was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

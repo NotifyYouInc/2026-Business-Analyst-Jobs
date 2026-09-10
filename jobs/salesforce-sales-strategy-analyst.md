@@ -5,12 +5,12 @@
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hyderabad, Telangana, India |
 | Category | Strategy & Operations |
-| Posted | 2026-03-30 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sales-Strategy-Analyst_JR332728) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/India---Hyderabad/Sales-Strategy-Analyst_JR355866) |
 
 ## About This Role
 
-This strategy & operations position at Salesforce was posted on 2026-03-30.
+This strategy & operations position at Salesforce was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

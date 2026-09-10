@@ -5,12 +5,12 @@
 | Company | [Veradigm](https://scoutify.ai/companies/veradigm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://veradigm.wd12.myworkdayjobs.com/vr/job/Pune-India/Contractor---Client-Operations_JR10729-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://veradigm.wd12.myworkdayjobs.com/vr/job/Pune-India/Contractor---Client-Operations_JR10928) |
 
 ## About This Role
 
-This business analyst position at Veradigm was posted on 2026-07-28.
+This business analyst position at Veradigm was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

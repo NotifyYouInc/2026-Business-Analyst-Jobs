@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre--Amlioration-de-processus_R2610723) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Montral/Conseiller-ou-conseillre-en-processus_R2609084) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-08-28.
+This business analyst position at Desjardins was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

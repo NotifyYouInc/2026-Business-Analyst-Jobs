@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Belgrade, Central Serbia, Serbia |
+| Location | Farnborough, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/SRB-Belgrade/Proposal-Analyst_25110112) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/GBR-Farnborough-Hybrid/Proposal-Analyst_25111750-1) |
 
 ## About This Role
 
-This business analyst position at Syneoshealth was posted on 2026-07-16.
+This business analyst position at Syneoshealth was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Empower](https://scoutify.ai/companies/empower?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Karnataka, IN |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Analyst-Business-Systems_R0056448) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://empower.wd12.myworkdayjobs.com/empower/job/KA-Bangalore/Senior-Analyst-Business-Systems_R0062147) |
 
 ## About This Role
 
-This business analyst position at Empower was posted on 2026-03-17.
+This business analyst position at Empower was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

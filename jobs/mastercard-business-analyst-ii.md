@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-06-12 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Business-Analyst-II_R-280400-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Business-Analyst-II_R-287981) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-06-12.
+This business analyst position at Mastercard was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

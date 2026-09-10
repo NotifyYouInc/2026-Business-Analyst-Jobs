@@ -5,12 +5,12 @@
 | Company | [Novartis](https://scoutify.ai/companies/novartis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | UX Researcher |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Toronto/Integrated-Insights-Manager_REQ-10077393) |
+| Posted | 2026-09-02 |
+| Apply | [View on company site](https://novartis.wd3.myworkdayjobs.com/novartis_careers/job/Toronto/Integrated-Insights-Manager_REQ-10079280-1) |
 
 ## About This Role
 
-This ux researcher position at Novartis was posted on 2026-05-07.
+This ux researcher position at Novartis was posted on 2026-09-02.
 
 ## Get Real-Time Alerts
 

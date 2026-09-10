@@ -1,16 +1,16 @@
-# alternance 12 mois – optimisation supply chain at Sanofi
+# alternance 12 mois optimisation supply chain at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sisteron, Provence-Alpes-Côte d'Azur, France |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
+| Posted | 2026-09-03 |
 | Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Sisteron/alternance-12-mois---gestion-logistique_R2852640) |
 
 ## About This Role
 
-This business analyst position at Sanofi was posted on 2026-04-22.
+This business analyst position at Sanofi was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 
