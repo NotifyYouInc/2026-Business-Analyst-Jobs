@@ -5,12 +5,12 @@
 | Company | [Northgate Information Solutions](https://scoutify.ai/companies/northgateinformationsolutions?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000140673480-business-analyst) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NECSWS/744000147432449-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Northgate Information Solutions was posted on 2026-07-30.
+This business analyst position at Northgate Information Solutions was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

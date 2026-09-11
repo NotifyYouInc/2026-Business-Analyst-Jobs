@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [UAP](https://scoutify.ai/companies/uap?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montréal, Quebec, Canada |
-| Category | Data Analyst |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000146192334-analyste-logistique-excellence-operationnelle) |
+| Category | Business Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000147322569-analyste-logistique-excellence-operationnelle) |
 
 ## About This Role
 
-This data analyst position at UAP was posted on 2026-08-28.
+This business analyst position at UAP was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

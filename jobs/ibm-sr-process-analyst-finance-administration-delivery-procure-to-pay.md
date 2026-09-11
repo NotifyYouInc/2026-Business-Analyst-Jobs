@@ -1,16 +1,16 @@
-# Sr. Process Analyst - Finance & Administration Delivery - Procure to Pay at IBM
+# Sr. Process Analyst Finance & Administration Delivery - Procure to Pay at IBM
 
 | Field | Details |
 |-------|---------|
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
-| Category | Operations |
-| Posted | 2026-02-13 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=93897) |
+| Location | Gurugram, Haryana, India |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=131259) |
 
 ## About This Role
 
-This operations position at IBM was posted on 2026-02-13.
+This corporate finance position at IBM was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

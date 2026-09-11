@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [MGM Resorts International](https://scoutify.ai/companies/mgm-resorts-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Springfield, Missouri, United States |
-| Category | Business Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Property---MGM-Springfield/Workforce-Management-Specialist---MGM-Springfield_278147) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Property---MGM-Springfield/Workforce-Management-Specialist---MGM-Springfield_279052) |
 
 ## About This Role
 
-This business analyst position at MGM Resorts International was posted on 2026-08-06.
+This human resources / people ops position at MGM Resorts International was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

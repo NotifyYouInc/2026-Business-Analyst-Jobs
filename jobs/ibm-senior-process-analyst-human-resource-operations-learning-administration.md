@@ -5,12 +5,12 @@
 | Company | [IBM](https://scoutify.ai/companies/ibm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Learning & Development |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=130433) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://careers.ibm.com/careers/JobDetail?jobId=131864) |
 
 ## About This Role
 
-This learning & development position at IBM was posted on 2026-08-31.
+This learning & development position at IBM was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Marsh & McLennan Companies](https://scoutify.ai/companies/marsh-mclennan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tianjin, Tianjin, China |
 | Category | Project Manager |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Tianjin---International/Project-Manager---Business-Analyst--AVP-level-_R_363782-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://mmc.wd1.myworkdayjobs.com/MMC/job/Tianjin---International/Project-Manager---Business-Analyst--AVP-level-_R_361169) |
 
 ## About This Role
 
-This project manager position at Marsh & McLennan Companies was posted on 2026-08-28.
+This project manager position at Marsh & McLennan Companies was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

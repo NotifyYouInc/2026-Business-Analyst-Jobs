@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [State Street](https://scoutify.ai/companies/statestreet?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hangzhou, Zhejiang, China |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Hangzhou-China/Business-Analyst--Officer_R-792719) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://statestreet.wd1.myworkdayjobs.com/Global/job/Bangalore-India/Business-Analyst--Officer_R-796835-1) |
 
 ## About This Role
 
-This business analyst position at State Street was posted on 2026-06-22.
+This business analyst position at State Street was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

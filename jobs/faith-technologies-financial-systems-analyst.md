@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Faith Technologies](https://scoutify.ai/companies/faithtechnologies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-07-16 |
-| Apply | [View on company site](https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/Financial-Systems-Analyst_R11087-1) |
+| Location | Menasha, Wisconsin, United States |
+| Category | Corporate Finance |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://faithtechnologies.wd1.myworkdayjobs.com/fti/job/WI---Menasha/Financial-Systems-Analyst_R11947-1) |
 
 ## About This Role
 
-This business analyst position at Faith Technologies was posted on 2026-07-16.
+This corporate finance position at Faith Technologies was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

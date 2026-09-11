@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gurugram, Haryana, India |
+| Location | Noida, Uttar Pradesh, India |
 | Category | Business Analyst |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Gurugram-Haryana-India/Service---Operations-Process-Trainee_R26_1270) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/11073-Ameriprise-India---Noida---Embassy-Oxygen-Business-Park/Service---Operations-Process-Trainee_R26_2978) |
 
 ## About This Role
 
-This business analyst position at Ameriprise Financial was posted on 2026-04-21.
+This business analyst position at Ameriprise Financial was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

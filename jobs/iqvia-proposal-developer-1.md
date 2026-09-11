@@ -5,12 +5,12 @@
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/So-Paulo-Brazil/Proposal-Developer-1_R1536899) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Centurion-South-Africa/Proposal-Developer-1_R1554669) |
 
 ## About This Role
 
-This business analyst position at IQVIA was posted on 2026-04-23.
+This business analyst position at IQVIA was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

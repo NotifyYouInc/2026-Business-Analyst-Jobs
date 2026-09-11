@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Wrocław, Lower Silesia, Poland |
-| Category | Business Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PL---WROCLAW-GLOBAL-BUSINESS-SERVICES---GBS-PLWCW/Sales-Support-Analyst--m-f-x-_R26021890) |
+| Category | Data Analyst |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PL---WROCLAW-GLOBAL-BUSINESS-SERVICES---GBS-PLWCW/Sales-Support-Analyst--m-f-x-_R26030878) |
 
 ## About This Role
 
-This business analyst position at United Parcel Service (UPS) was posted on 2026-06-26.
+This data analyst position at United Parcel Service (UPS) was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

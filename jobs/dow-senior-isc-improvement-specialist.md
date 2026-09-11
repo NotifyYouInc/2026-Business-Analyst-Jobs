@@ -5,12 +5,12 @@
 | Company | [Dow](https://scoutify.ai/companies/dow?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Navi Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
+| Posted | 2026-09-04 |
 | Apply | [View on company site](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Navi-Mumbai-IND/Senior-ISC-Improvement-Specialist_R2066737) |
 
 ## About This Role
 
-This business analyst position at Dow was posted on 2026-05-07.
+This business analyst position at Dow was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

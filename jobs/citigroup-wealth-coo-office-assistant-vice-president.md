@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Gurugram, Haryana, India |
 | Category | Strategy & Operations |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth-COO-Office---Assistant-Vice-President_26991769-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Gurugram-Haryana-India/Wealth-COO-Office---Assistant-Vice-President_26991824) |
 
 ## About This Role
 
-This strategy & operations position at Citigroup was posted on 2026-09-02.
+This strategy & operations position at Citigroup was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

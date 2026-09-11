@@ -5,12 +5,12 @@
 | Company | [Adani Group](https://scoutify.ai/companies/em2-cx-oj1865?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ahmedabad, Gujarat, India |
 | Category | Business Analyst |
-| Posted | 2026-02-25 |
-| Apply | [View on company site](https://eibd.fa.em2.oraclecloud.com/jobs/#44637) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://eibd.fa.em2.oraclecloud.com/jobs/#56503) |
 
 ## About This Role
 
-This business analyst position at Adani Group was posted on 2026-02-25.
+This business analyst position at Adani Group was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

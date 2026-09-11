@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Technology-Lead-Business-Analyst---Vice-President_26989132) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Technology-Lead-Business-Analyst---Vice-President_26989269) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-08-24.
+This business analyst position at Citigroup was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

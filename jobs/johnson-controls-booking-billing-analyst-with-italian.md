@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bratislava, Bratislava Region, Slovakia |
-| Category | Accounting |
+| Category | Corporate Finance |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Bratislava-Bratislava-Slovakia/Booking---Billing-Analyst-with-Italian_WD30279007) |
 
 ## About This Role
 
-This accounting position at Johnson Controls was posted on 2026-09-03.
+This corporate finance position at Johnson Controls was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

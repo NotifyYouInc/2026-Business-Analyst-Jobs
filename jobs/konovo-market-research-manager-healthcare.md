@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Konovo](https://scoutify.ai/companies/konovo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bosnia and Herzegovina |
-| Category | UX Researcher |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/konovo/jobs/5356145008) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Product Marketing |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/konovo/jobs/5395542008) |
 
 ## About This Role
 
-This ux researcher position at Konovo was posted on 2026-07-20.
+This product marketing position at Konovo was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

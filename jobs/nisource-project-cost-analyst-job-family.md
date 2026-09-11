@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [NiSource](https://scoutify.ai/companies/nisource?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Valparaiso, Indiana, United States |
-| Category | Corporate Finance |
-| Posted | 2026-06-15 |
-| Apply | [View on company site](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Valparaiso-Eastport-Center/Project-Cost-Analyst--Job-Family-_R00943021) |
+| Location | Not specified |
+| Category | Financial Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://nisource.wd1.myworkdayjobs.com/NiSource/job/Project-Cost-Analyst--Job-Family-_R00943656-1) |
 
 ## About This Role
 
-This corporate finance position at NiSource was posted on 2026-06-15.
+This financial analyst position at NiSource was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

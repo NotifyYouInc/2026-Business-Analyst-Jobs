@@ -5,12 +5,12 @@
 | Company | [SWARCO](https://scoutify.ai/companies/swarco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Glasgow, Scotland, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SWARCO/744000146693069-contract-support-administrator) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SWARCO/744000147276259-contract-support-administrator) |
 
 ## About This Role
 
-This business analyst position at SWARCO was posted on 2026-09-01.
+This business analyst position at SWARCO was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

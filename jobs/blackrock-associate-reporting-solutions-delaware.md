@@ -5,12 +5,12 @@
 | Company | [Blackrock](https://scoutify.ai/companies/blackrock?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Wilmington, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Wilmington-DE/Associate--Reporting-Solutions---Delaware_R265871) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://blackrock.wd1.myworkdayjobs.com/blackrock_professional/job/Wilmington-DE/Associate--Reporting-Solutions---Delaware_R266337-1) |
 
 ## About This Role
 
-This business analyst position at Blackrock was posted on 2026-08-07.
+This business analyst position at Blackrock was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Purchase, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Pune-India/Lead-Business-Analyst_R-289122-1) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Purchase-New-York/Lead-Business-Analyst_R-290036) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-09-01.
+This business analyst position at Mastercard was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

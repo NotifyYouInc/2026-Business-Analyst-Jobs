@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore, Singapore |
-| Category | Program Manager |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Singapore--Singapore/Business-Sr-Analyst---C12---SINGAPORE_26988126) |
+| Location | Pune, Maharashtra, India |
+| Category | Business Analyst |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/Business-Senior-Analyst---Assistant-Vice-President_26989562) |
 
 ## About This Role
 
-This program manager position at Citigroup was posted on 2026-08-19.
+This business analyst position at Citigroup was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

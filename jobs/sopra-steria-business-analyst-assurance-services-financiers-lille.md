@@ -5,12 +5,12 @@
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Villeneuve-d'Ascq, Hauts-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000143544598-business-analyst-assurance-services-financiers-lille) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000147457489-business-analyst-assurance-services-financiers-lille) |
 
 ## About This Role
 
-This business analyst position at Sopra Steria was posted on 2026-08-14.
+This business analyst position at Sopra Steria was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

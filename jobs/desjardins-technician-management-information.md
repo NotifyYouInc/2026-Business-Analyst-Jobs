@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Technicien-ou-technicienne-en-rmunration-globale_R2609255) |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Lvis/Analyste-conseil-en-Pilotage_R2610820) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-07-27.
+This it & systems administration position at Desjardins was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

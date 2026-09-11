@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Tigerbrands](https://scoutify.ai/companies/tigerbrands?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Gauteng, ZA |
+| Location | South Africa |
 | Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://tigerbrands.wd103.myworkdayjobs.com/tigerbrands/job/Corporate-Services-Bryanston/Lead-Functional-Analyst_JR001749-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://tigerbrands.wd103.myworkdayjobs.com/tigerbrands/job/BRY1/Lead-Functional-Analyst_JR001749-1) |
 
 ## About This Role
 
-This business analyst position at Tigerbrands was posted on 2026-03-05.
+This business analyst position at Tigerbrands was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

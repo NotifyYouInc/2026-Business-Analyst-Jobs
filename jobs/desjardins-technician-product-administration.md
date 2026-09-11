@@ -5,12 +5,12 @@
 | Company | [Desjardins](https://scoutify.ai/companies/desjardins?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Québec, Quebec, Canada |
 | Category | Business Analyst |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Technicien-ou-technicienne--Oprations-de-rentes_R2610665) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://desjardins.wd10.myworkdayjobs.com/desjardins2/job/Qubec/Technicien-ou-technicienne-en-Gestion-des-accs-et-facturation_R2610924) |
 
 ## About This Role
 
-This business analyst position at Desjardins was posted on 2026-08-28.
+This business analyst position at Desjardins was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Disney](https://scoutify.ai/companies/disney?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York, US |
+| Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-26 |
-| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Senior-Business-Analyst_10142997) |
+| Posted | 2026-09-03 |
+| Apply | [View on company site](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Senior-Business-Analyst_10158303) |
 
 ## About This Role
 
-This business analyst position at Disney was posted on 2026-02-26.
+This business analyst position at Disney was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

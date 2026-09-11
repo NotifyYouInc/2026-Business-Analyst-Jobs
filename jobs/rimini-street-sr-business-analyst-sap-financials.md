@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Rimini Street](https://scoutify.ai/companies/rimini-street?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Hyderabad/Sr-Business-Analyst--SAP-Financials_R-102147) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://riministreet.wd1.myworkdayjobs.com/riministreet/job/Bengaluru/Sr-Business-Analyst--SAP-Financials_R-102147) |
 
 ## About This Role
 
-This business analyst position at Rimini Street was posted on 2026-04-13.
+This business analyst position at Rimini Street was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
