@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Atlanta, Georgia, United States |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-03-24 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Atlanta/Business-Support-Associate_26011202) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/New-York/Business-Support-Associate_26032781) |
 
 ## About This Role
 
-This business analyst position at Bank of America was posted on 2026-03-24.
+This business analyst position at Bank of America was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

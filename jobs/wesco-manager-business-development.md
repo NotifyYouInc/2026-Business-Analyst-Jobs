@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Wesco](https://scoutify.ai/companies/us2-cx-oj118628?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Glasgow, Scotland, United Kingdom |
-| Category | Sales Development (SDR / BDR) |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://eklm.fa.us2.oraclecloud.com/jobs/#32430) |
+| Location | Colombia |
+| Category | Business Analyst |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://eklm.fa.us2.oraclecloud.com/jobs/#33656) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Wesco was posted on 2026-07-06.
+This business analyst position at Wesco was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

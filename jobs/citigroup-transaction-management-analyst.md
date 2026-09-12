@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Transaction-Management-Analyst_26987032-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Sao-Paulo-Sao-Paulo-Brazil/Transaction-Management-Analyst_26986610) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-08-20.
+This business analyst position at Citigroup was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

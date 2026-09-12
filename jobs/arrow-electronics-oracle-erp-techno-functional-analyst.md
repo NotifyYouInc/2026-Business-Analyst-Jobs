@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Reno, Nevada, United States |
+| Location | Phoenix, Arizona, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-NV-Reno-Nevada-Maestro-Dr/Applications-Engineer_R242199) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-AZ-Phoenix-Arizona-East-Sky-Harbor-Cir/Oracle-ERP-Techno-Functional-Analyst_R246777) |
 
 ## About This Role
 
-This it & systems administration position at Arrow Electronics was posted on 2026-08-26.
+This it & systems administration position at Arrow Electronics was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

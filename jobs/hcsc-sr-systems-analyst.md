@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HCSC](https://scoutify.ai/companies/hcsc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Richardson, Texas, United States |
-| Category | Business Analyst |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TX---Richardson/Sr-Systems-Analyst_R0046413-1) |
+| Location | Nashville, Tennessee, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/TN---Nashville/Sr-Systems-Analyst_R0055498) |
 
 ## About This Role
 
-This business analyst position at HCSC was posted on 2026-03-16.
+This it & systems administration position at HCSC was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

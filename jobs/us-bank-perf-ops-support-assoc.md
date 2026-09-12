@@ -5,12 +5,12 @@
 | Company | [U.S. Bank](https://scoutify.ai/companies/u-s-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Perf-Ops-Support-Assoc_2026-0014540) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chennai-India/Perf-Ops-Support-Assoc_2026-0014549) |
 
 ## About This Role
 
-This business analyst position at U.S. Bank was posted on 2026-06-19.
+This business analyst position at U.S. Bank was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

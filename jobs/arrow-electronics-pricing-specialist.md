@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Harlow, England, United Kingdom |
+| Location | Denver, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/UK-Harlow-United-Kingdom-Kao-Park-Hockham-Way/Pricing-Specialist_R245458) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/US-CO-Denver-Colorado-Panorama-Arrow-Building/Pricing-Specialist_R247753) |
 
 ## About This Role
 
-This business analyst position at Arrow Electronics was posted on 2026-08-28.
+This business analyst position at Arrow Electronics was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

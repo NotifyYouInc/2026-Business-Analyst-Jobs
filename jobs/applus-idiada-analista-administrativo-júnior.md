@@ -1,16 +1,16 @@
-# Analista Administrativo Júnior  at Applus IDIADA
+# Analista Administrativo Júnior at Applus IDIADA
 
 | Field | Details |
 |-------|---------|
 | Company | [Applus IDIADA](https://scoutify.ai/companies/applus-idiada?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brazil |
+| Location | São Bernardo do Campo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/applusidiada1/744000119117069-analista-administrativo-junior) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/applusidiada1/744000147561273-analista-administrativo-junior) |
 
 ## About This Role
 
-This business analyst position at Applus IDIADA was posted on 2026-04-07.
+This business analyst position at Applus IDIADA was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

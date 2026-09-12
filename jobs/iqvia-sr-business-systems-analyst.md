@@ -1,16 +1,16 @@
-# Sr. Business Systems Analyst at IQVIA
+# Sr Business Systems Analyst at IQVIA
 
 | Field | Details |
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-05-14 |
-| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Bangalore-India/Sr-Business-Systems-Analyst_R1537667-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/New-Providence-New-Jersey-United-States-of-America/Sr-Business-Systems-Analyst_R1561315) |
 
 ## About This Role
 
-This business analyst position at IQVIA was posted on 2026-05-14.
+This business analyst position at IQVIA was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

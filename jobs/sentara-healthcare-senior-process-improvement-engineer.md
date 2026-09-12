@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Norfolk, Virginia, United States |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Norfolk-VA/Senior-Process-Improvement-Engineer_JR-95613) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Senior-Process-Improvement-Engineer_JR-105869) |
 
 ## About This Role
 
-This business analyst position at Sentara Healthcare was posted on 2026-03-11.
+This business analyst position at Sentara Healthcare was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

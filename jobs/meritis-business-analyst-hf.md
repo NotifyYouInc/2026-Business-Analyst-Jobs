@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Meritis](https://scoutify.ai/companies/meritis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Valbonne, Provence-Alpes-Côte d'Azur, France |
+| Location | Montpellier, Occitanie, France |
 | Category | Business Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000145697886-business-analyst-hf) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Meritis/744000147506914-business-analyst-hf) |
 
 ## About This Role
 
-This business analyst position at Meritis was posted on 2026-08-26.
+This business analyst position at Meritis was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

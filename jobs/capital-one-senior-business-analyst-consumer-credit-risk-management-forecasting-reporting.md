@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capital One](https://scoutify.ai/companies/capital-one?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | McLean, Virginia, United States |
-| Category | Business Analyst |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Business-Analyst---Consumer-Credit-Risk-Management--Forecasting---Reporting_R999710-1) |
 
 ## About This Role
 
-This business analyst position at Capital One was posted on 2026-09-03.
+This compliance & risk management position at Capital One was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

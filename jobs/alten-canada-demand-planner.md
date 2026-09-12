@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000120678758-demand-planner) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000147511277-demand-planner) |
 
 ## About This Role
 
-This business analyst position at ALTEN Canada was posted on 2026-04-14.
+This business analyst position at ALTEN Canada was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

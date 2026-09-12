@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Nasdaq](https://scoutify.ai/companies/nasdaq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/USA---New-York-City---New-York/Business-Analyst---Regulatory-Reporting_R0026584) |
 
 ## About This Role
 
-This business analyst position at Nasdaq was posted on 2026-09-03.
+This compliance & risk management position at Nasdaq was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

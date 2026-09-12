@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Illinois, US |
-| Category | Data Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Remote_United-States/Business-Operations-Analyst-II_2630966) |
 
 ## About This Role
 
-This data analyst position at Labcorp was posted on 2026-09-04.
+This strategy & operations position at Labcorp was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

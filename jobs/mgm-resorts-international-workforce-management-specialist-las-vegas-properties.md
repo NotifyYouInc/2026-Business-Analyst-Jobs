@@ -5,12 +5,12 @@
 | Company | [MGM Resorts International](https://scoutify.ai/companies/mgm-resorts-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Las Vegas, Nevada, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Property---MGM-Grand-Las-Vegas/Workforce-Management-Specialist---Las-Vegas-Properties_278835) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://mgmresorts.wd5.myworkdayjobs.com/mgmcareers/job/Office---MGM-Grand-Las-Vegas/Workforce-Management-Specialist---Las-Vegas-Properties_279076) |
 
 ## About This Role
 
-This human resources / people ops position at MGM Resorts International was posted on 2026-08-27.
+This human resources / people ops position at MGM Resorts International was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

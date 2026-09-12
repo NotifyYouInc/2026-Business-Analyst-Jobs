@@ -5,12 +5,12 @@
 | Company | [Rockwell Automation](https://scoutify.ai/companies/rockwellautomation?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New Delhi, Delhi, India |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-New-Delhi-Noida/IBE-Analyst_R26-5161-1) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/India-New-Delhi-Noida/IBE-Analyst_R26-6416) |
 
 ## About This Role
 
-This business analyst position at Rockwell Automation was posted on 2026-08-14.
+This business analyst position at Rockwell Automation was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

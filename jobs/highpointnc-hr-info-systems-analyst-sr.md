@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Highpointnc](https://scoutify.ai/companies/highpointnc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | High Point, North Carolina, United States |
-| Category | Business Analyst |
-| Posted | 2026-02-24 |
-| Apply | [View on company site](https://highpointnc.wd12.myworkdayjobs.com/highpointnccareers/job/High-Point-NC/HR-Info-Systems-Analyst--Sr_JR100209) |
+| Category | Human Resources / People Ops |
+| Posted | 2026-09-05 |
+| Apply | [View on company site](https://highpointnc.wd12.myworkdayjobs.com/highpointnccareers/job/High-Point-NC/HR-Info-Systems-Analyst--Sr_JR100448) |
 
 ## About This Role
 
-This business analyst position at Highpointnc was posted on 2026-02-24.
+This human resources / people ops position at Highpointnc was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

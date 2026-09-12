@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pimacounty](https://scoutify.ai/companies/pimacounty?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tucson, Arizona, United States |
-| Category | Corporate Finance |
+| Category | Compliance & Risk Management |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Financial-Systems-Analyst-I---Finance---Risk-Management_JR104345) |
 
 ## About This Role
 
-This corporate finance position at Pimacounty was posted on 2026-09-04.
+This compliance & risk management position at Pimacounty was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

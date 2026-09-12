@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Christies](https://scoutify.ai/companies/christies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Business Analyst |
+| Category | Marketing |
 | Posted | 2026-09-03 |
 | Apply | [View on company site](https://christies.wd3.myworkdayjobs.com/christies_careers/job/New-York/Senior-Proposals-Writer_JR00015065) |
 
 ## About This Role
 
-This business analyst position at Christies was posted on 2026-09-03.
+This marketing position at Christies was posted on 2026-09-03.
 
 ## Get Real-Time Alerts
 

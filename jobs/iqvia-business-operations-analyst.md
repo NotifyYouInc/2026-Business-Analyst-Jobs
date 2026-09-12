@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [IQVIA](https://scoutify.ai/companies/iqvia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
-| Category | Data Analyst |
+| Category | Strategy & Operations |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Wilayah-Persekutuan-Kuala-Lumpur-Malaysia/Business-Operations-Analyst_R1567216) |
 
 ## About This Role
 
-This data analyst position at IQVIA was posted on 2026-09-04.
+This strategy & operations position at IQVIA was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
