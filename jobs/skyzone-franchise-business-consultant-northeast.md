@@ -1,16 +1,16 @@
-# GTM Business Systems Analyst – Post Sales at Ramp
+# Franchise Business Consultant (Northeast) at Skyzone
 
 | Field | Details |
 |-------|---------|
-| Company | [Ramp](https://scoutify.ai/companies/ramp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Company | [Skyzone](https://scoutify.ai/companies/skyzone?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Go To Market Engineer |
+| Category | Business Analyst |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/ramp/196e4e25-c452-430d-8b2f-36a40f88a2ae) |
+| Apply | [View on company site](https://skyzone.wd12.myworkdayjobs.com/skyzone/job/Pennsylvania/Franchise-Business-Consultant--Northeast-_R6826) |
 
 ## About This Role
 
-This go to market engineer position at Ramp was posted on 2026-09-04.
+This business analyst position at Skyzone was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

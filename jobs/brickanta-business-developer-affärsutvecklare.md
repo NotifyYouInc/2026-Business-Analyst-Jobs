@@ -1,16 +1,16 @@
-# Business Unit Coordinator at Jabil
+# Business Developer / Affärsutvecklare at Brickanta
 
 | Field | Details |
 |-------|---------|
-| Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Company | [Brickanta](https://scoutify.ai/companies/yc-brickanta?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Stockholm, Stockholm, Sweden |
 | Category | Business Analyst |
 | Posted | 2026-09-05 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Business-Unit-Coordinator_J2462541) |
+| Apply | [View on company site](https://www.ycombinator.com/companies/brickanta/jobs/Ug4Njo7-business-developer-affarsutvecklare) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-09-05.
+This business analyst position at Brickanta was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

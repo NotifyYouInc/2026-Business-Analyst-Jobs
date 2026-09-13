@@ -1,16 +1,16 @@
-# Business Unit Coordinator at Jabil
+# Business Analyst at Hub24management
 
 | Field | Details |
 |-------|---------|
-| Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
+| Company | [Hub24management](https://scoutify.ai/companies/hub24management?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Brisbane, Queensland, Australia |
 | Category | Business Analyst |
 | Posted | 2026-09-05 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Business-Unit-Coordinator_J2462541) |
+| Apply | [View on company site](https://hub24management.wd105.myworkdayjobs.com/hub24_careers/job/Brisbane/Business-Analyst_JR101030) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-09-05.
+This business analyst position at Hub24management was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 

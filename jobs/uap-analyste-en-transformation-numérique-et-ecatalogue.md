@@ -6,7 +6,7 @@
 | Location | Montréal, Quebec, Canada |
 | Category | Business Analyst |
 | Posted | 2026-09-03 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000147288553-analyste-en-transformation-numerique-et-ecatalogue) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/UAPInc/744000147330243-analyste-en-transformation-numerique-et-ecatalogue) |
 
 ## About This Role
 
