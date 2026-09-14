@@ -5,12 +5,12 @@
 | Company | [Banco Bilbao Vizcaya Argentaria](https://scoutify.ai/companies/bbva?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cuauhtémoc, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/AI-Processes-Associate--Ciudad-de-Mxico--Cuauhtmoc-_JR00113876) |
+| Posted | 2026-09-04 |
+| Apply | [View on company site](https://bbva.wd3.myworkdayjobs.com/BBVA/job/Ciudad-de-Mexico-Cuauhtmoc-06600/AI-Processes-Associate--Ciudad-de-Mxico--Cuauhtmoc-_JR00114014) |
 
 ## About This Role
 
-This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-03.
+This business analyst position at Banco Bilbao Vizcaya Argentaria was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

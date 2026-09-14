@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | London, England, United Kingdom |
-| Category | Business Analyst |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/4122257) |
 
 ## About This Role
 
-This business analyst position at Capco was posted on 2026-09-04.
+This asset management / portfolio management position at Capco was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

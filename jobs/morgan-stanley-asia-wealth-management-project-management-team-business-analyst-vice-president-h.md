@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Morgan Stanley](https://scoutify.ai/companies/morgan-stanley?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hong Kong, Hong Kong |
-| Category | Wealth Management / Private Banking |
+| Category | Project Manager |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://ms.wd5.myworkdayjobs.com/External/job/Hong-Kong-Hong-Kong/Asia-Wealth-Management---Product-Owner--Vice-President--Hong-Kong_JR025891) |
 
 ## About This Role
 
-This wealth management / private banking position at Morgan Stanley was posted on 2026-09-04.
+This project manager position at Morgan Stanley was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [3Pillar Global](https://scoutify.ai/companies/3pillar-global?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Canada |
 | Category | Business Analyst |
-| Posted | 2026-05-06 |
-| Apply | [View on company site](https://jobs.lever.co/3pillarglobal/692428af-a86f-4473-8a6a-22de64a1f0c9) |
+| Posted | 2026-09-06 |
+| Apply | [View on company site](https://jobs.lever.co/3pillarglobal/05d03da4-32d8-4633-b4ba-700a63b1fe15) |
 
 ## About This Role
 
-This business analyst position at 3Pillar Global was posted on 2026-05-06.
+This business analyst position at 3Pillar Global was posted on 2026-09-06.
 
 ## Get Real-Time Alerts
 

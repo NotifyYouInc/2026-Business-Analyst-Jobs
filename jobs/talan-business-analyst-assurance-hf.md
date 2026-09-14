@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Business Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000138571090-business-analyst-assurance-hf) |
+| Category | Project Manager |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000147860499-business-analyst-assurance-hf) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-07-20.
+This project manager position at Talan was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

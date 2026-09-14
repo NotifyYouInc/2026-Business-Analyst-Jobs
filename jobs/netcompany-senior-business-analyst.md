@@ -5,12 +5,12 @@
 | Company | [Netcompany](https://scoutify.ai/companies/netcompany?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Birmingham, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000145545744-senior-business-analyst) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Netcompany1/744000147880472-senior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Netcompany was posted on 2026-08-25.
+This business analyst position at Netcompany was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

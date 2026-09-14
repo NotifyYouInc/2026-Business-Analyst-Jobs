@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Warsaw-Poland/Senior-Analyst--Business-Development_R-289376-2) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Senior-Analyst--Business-Development_R-289539) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-08-28.
+This business analyst position at Mastercard was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

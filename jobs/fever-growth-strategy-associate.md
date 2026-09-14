@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fever](https://scoutify.ai/companies/fever?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
-| Category | Strategy & Operations |
-| Posted | 2026-03-26 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4823975101) |
+| Category | Growth Marketing |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/feverup/jobs/4969727101) |
 
 ## About This Role
 
-This strategy & operations position at Fever was posted on 2026-03-26.
+This growth marketing position at Fever was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

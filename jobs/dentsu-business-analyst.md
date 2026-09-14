@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dentsu](https://scoutify.ai/companies/dentsu?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Customer Success |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/DGS-India---Pune---Indiqube-Orchid/Business-Analyst_R1129544-1) |
+| Location | Spain |
+| Category | Business Analyst |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://dentsuaegis.wd3.myworkdayjobs.com/dan_global/job/Remote---Spain/Business-Analyst_R1130973) |
 
 ## About This Role
 
-This customer success position at Dentsu was posted on 2026-08-18.
+This business analyst position at Dentsu was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

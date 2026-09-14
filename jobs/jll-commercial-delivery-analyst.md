@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-18 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Atlanta-GA/Commercial-Delivery-Analyst_REQ508062) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Commercial-Delivery-Analyst_REQ533132) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-05-18.
+This business analyst position at JLL was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

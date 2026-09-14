@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [JPMorgan Chase](https://scoutify.ai/companies/jpmorgan-chase?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | National Capital Region, PH |
-| Category | Business Analyst |
+| Category | Asset Management / Portfolio Management |
 | Posted | 2026-09-04 |
 | Apply | [View on company site](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788154) |
 
 ## About This Role
 
-This business analyst position at JPMorgan Chase was posted on 2026-09-04.
+This asset management / portfolio management position at JPMorgan Chase was posted on 2026-09-04.
 
 ## Get Real-Time Alerts
 
