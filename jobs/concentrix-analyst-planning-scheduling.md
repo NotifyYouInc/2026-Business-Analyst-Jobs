@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore/Analyst--Planning---Scheduling_R1683375) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/IND-Bangalore---2nd-Floor-Divyasree-Towers-Bannerghatta-Main-Road/Analyst--Planning---Scheduling_R1725583) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-04-07.
+This business analyst position at Concentrix was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Humana](https://scoutify.ai/companies/humana?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-MA-BOSTON/Senior-Process-Improvement-Professional_R-426771) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Remote-Michigan/Senior-Process-Improvement-Professional_R-427797) |
 
 ## About This Role
 
-This business analyst position at Humana was posted on 2026-08-18.
+This business analyst position at Humana was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

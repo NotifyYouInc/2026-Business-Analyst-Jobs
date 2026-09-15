@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sartorius](https://scoutify.ai/companies/sartorius?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Morocco |
+| Location | Tunis, Tunis Governorate, Tunisia |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Mohamdia/Business-Process-Expert-BPM-Business-Support--F-M-_R40591) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://sartorius.wd3.myworkdayjobs.com/sartoriuscareers/job/Tunis/Business-Process-Expert-BPM-Business-Support--F-M-_R41630) |
 
 ## About This Role
 
-This business analyst position at Sartorius was posted on 2026-07-21.
+This business analyst position at Sartorius was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NatWest Group](https://scoutify.ai/companies/rbs?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
-| Category | Business Analyst |
-| Posted | 2026-04-15 |
+| Category | Data Analyst |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://rbs.wd3.myworkdayjobs.com/rbs/job/Bengaluru/Customer-Service---Operations-Analyst_R-00276707) |
 
 ## About This Role
 
-This business analyst position at NatWest Group was posted on 2026-04-15.
+This data analyst position at NatWest Group was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

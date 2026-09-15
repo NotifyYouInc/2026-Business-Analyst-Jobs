@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Saint Helier, St Helier, Jersey |
+| Location | Lagos, Lagos, Nigeria |
 | Category | Business Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000143249469-business-manager) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000148148486-business-manager) |
 
 ## About This Role
 
-This business analyst position at Standard Bank was posted on 2026-08-13.
+This business analyst position at Standard Bank was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

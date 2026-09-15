@@ -5,12 +5,12 @@
 | Company | [Temus](https://scoutify.ai/companies/temus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-02-03 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/temus/jobs/5013979008) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/temus/jobs/5417859008) |
 
 ## About This Role
 
-This business analyst position at Temus was posted on 2026-02-03.
+This business analyst position at Temus was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [WTW](https://scoutify.ai/companies/em3-cx-oj120216?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | National Capital Region, PH |
 | Category | Business Analyst |
-| Posted | 2026-06-24 |
-| Apply | [View on company site](https://eedu.fa.em3.oraclecloud.com/jobs/#202604100) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://eedu.fa.em3.oraclecloud.com/jobs/#202605712) |
 
 ## About This Role
 
-This business analyst position at WTW was posted on 2026-06-24.
+This business analyst position at WTW was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Columbus, Ohio, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Business Analyst |
 | Posted | 2026-09-04 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Columbus-OH-USA/Logistics-Analyst_R-183882) |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Philadelphia-PA-USA/Logistics-Analyst_R-183164) |
 
 ## About This Role
 

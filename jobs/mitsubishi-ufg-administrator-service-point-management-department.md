@@ -5,12 +5,12 @@
 | Company | [Mitsubishi UFG](https://scoutify.ai/companies/mufgub?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Jakarta, Jakarta, Indonesia |
 | Category | Business Analyst |
-| Posted | 2026-03-13 |
-| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Indonesia---Jakarta/Administrator--Service-Point-Management-Department_10075576-WD-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Indonesia---Jakarta/Administrator--Service-Point-Management-Department_10079311-WD) |
 
 ## About This Role
 
-This business analyst position at Mitsubishi UFG was posted on 2026-03-13.
+This business analyst position at Mitsubishi UFG was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

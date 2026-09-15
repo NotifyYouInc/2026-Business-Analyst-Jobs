@@ -5,12 +5,12 @@
 | Company | [Alimentation Couche-Tard](https://scoutify.ai/companies/alimentation-couche-tard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Berlin/Specialist-Sales-Planner---Master-Data--m-w-d-_R592429) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Support-Office-Berlin/Specialist-Sales-Planner---Master-Data--m-w-d-_R618571) |
 
 ## About This Role
 
-This business analyst position at Alimentation Couche-Tard was posted on 2026-05-28.
+This business analyst position at Alimentation Couche-Tard was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

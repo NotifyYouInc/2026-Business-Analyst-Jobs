@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Coherent Solutions](https://scoutify.ai/companies/coherentsolutions?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Poland |
+| Location | Bulgaria |
 | Category | Business Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4930517101) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.eu.greenhouse.io/coherentsolutions/jobs/4969757101) |
 
 ## About This Role
 
-This business analyst position at Coherent Solutions was posted on 2026-07-17.
+This business analyst position at Coherent Solutions was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

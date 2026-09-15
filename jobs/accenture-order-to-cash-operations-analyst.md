@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chennai, Tamil Nadu, India |
+| Location | Navi Mumbai, Maharashtra, India |
 | Category | Data Analyst |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Chennai/Order-to-Cash-Operations-Analyst_AIOC-S01664245) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Navi-Mumbai/Order-to-Cash-Operations-Analyst_AIOC-S01664446-1) |
 
 ## About This Role
 
-This data analyst position at Accenture was posted on 2026-09-03.
+This data analyst position at Accenture was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

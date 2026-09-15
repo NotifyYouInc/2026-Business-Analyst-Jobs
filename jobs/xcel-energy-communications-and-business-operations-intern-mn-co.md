@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Marketing |
+| Category | PR & External Communications |
 | Posted | 2026-09-07 |
 | Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Communications-and-Business-Operations-Intern---MN--CO_JR115628) |
 
 ## About This Role
 
-This marketing position at Xcel Energy was posted on 2026-09-07.
+This pr & external communications position at Xcel Energy was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

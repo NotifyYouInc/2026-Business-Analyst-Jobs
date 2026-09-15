@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ho Chi Minh City, Ho Chi Minh City (HCMC), Vietnam |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Business-Analyst_R0141942) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Krakow-Lesser-Poland-Poland/Business-Analyst_R0143592-1) |
 
 ## About This Role
 
-This business analyst position at Hitachi was posted on 2026-09-03.
+This business analyst position at Hitachi was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

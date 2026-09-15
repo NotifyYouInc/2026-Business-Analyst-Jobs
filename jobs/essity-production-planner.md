@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Essity](https://scoutify.ai/companies/essity?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guachené, Cauca Department, Colombia |
+| Location | Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Guachen--Colombia/Production-Planner_Essity262121-1) |
+| Posted | 2026-09-07 |
+| Apply | [View on company site](https://essity.wd3.myworkdayjobs.com/job_opportunities/job/Ecatepec-Mexico/Production-Planner_Essity264800) |
 
 ## About This Role
 
-This business analyst position at Essity was posted on 2026-05-28.
+This business analyst position at Essity was posted on 2026-09-07.
 
 ## Get Real-Time Alerts
 

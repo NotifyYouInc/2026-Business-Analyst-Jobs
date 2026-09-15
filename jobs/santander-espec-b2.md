@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Brasília, Federal District, Brazil |
-| Category | Business Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/BRASILIA/Espec-B2_Req1595971) |
+| Location | Nova Iguaçu, Rio de Janeiro, Brazil |
+| Category | Sales |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/NOVA-IGUACU/Espec-B2_Req1611048) |
 
 ## About This Role
 
-This business analyst position at Santander was posted on 2026-07-27.
+This sales position at Santander was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [RSM](https://scoutify.ai/companies/rsm?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Resource-Management-Senior-Associate-1_JR121109) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Gurugram/Resource-Management-Senior-Associate-1_JR121108) |
 
 ## About This Role
 
-This business analyst position at RSM was posted on 2026-09-04.
+This business analyst position at RSM was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

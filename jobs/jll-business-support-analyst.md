@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | China |
 | Category | Business Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Business-Support-Analyst_REQ521447) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Hong-Kong-SAR-China/Business-Support-Analyst_REQ533495) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-07-27.
+This business analyst position at JLL was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

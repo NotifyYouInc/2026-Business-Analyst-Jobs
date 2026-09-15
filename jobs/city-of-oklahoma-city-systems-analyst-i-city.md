@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City of Oklahoma City](https://scoutify.ai/companies/ocs-cx-oj78780?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Oklahoma City, Oklahoma, United States |
-| Category | Software Engineer |
+| Category | Business Analyst |
 | Posted | 2026-09-05 |
 | Apply | [View on company site](https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#4191) |
 
 ## About This Role
 
-This software engineer position at City of Oklahoma City was posted on 2026-09-05.
+This business analyst position at City of Oklahoma City was posted on 2026-09-05.
 
 ## Get Real-Time Alerts
 
