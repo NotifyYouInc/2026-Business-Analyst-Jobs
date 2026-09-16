@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [C6 Bank](https://scoutify.ai/companies/c6-bank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Porto Alegre, Rio Grande do Sul, Brazil |
+| Location | Rio de Janeiro, Rio de Janeiro, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
+| Posted | 2026-09-08 |
 | Apply | [View on company site](https://job-boards.greenhouse.io/c6bank/jobs/4681833005) |
 
 ## About This Role
 
-This business analyst position at C6 Bank was posted on 2026-04-29.
+This business analyst position at C6 Bank was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

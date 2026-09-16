@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | New York City, New York, United States |
+| Location | New York, US |
 | Category | Business Analyst |
-| Posted | 2026-04-24 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://careers.tiktok.com/position/7631664921580226821/detail) |
 
 ## About This Role
 
-This business analyst position at TikTok was posted on 2026-04-24.
+This business analyst position at TikTok was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

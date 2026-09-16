@@ -5,12 +5,12 @@
 | Company | [Invenergy](https://scoutify.ai/companies/invenergyllc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chicago, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Analyst--Origination_R10601-1) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://invenergyllc.wd1.myworkdayjobs.com/invenergycareers/job/Chicago-IL/Analyst--Origination_R11382-1) |
 
 ## About This Role
 
-This business analyst position at Invenergy was posted on 2026-04-20.
+This business analyst position at Invenergy was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

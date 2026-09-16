@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Barcelona, Catalonia, Spain |
-| Category | Business Analyst |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/Global-Insights---Forecasting-Director---Early-Assets---Business-Development--R-I_R-254325) |
 
 ## About This Role
 
-This business analyst position at AstraZeneca was posted on 2026-09-08.
+This sales development (sdr / bdr) position at AstraZeneca was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

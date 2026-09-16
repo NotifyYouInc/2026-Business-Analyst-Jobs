@@ -5,12 +5,12 @@
 | Company | [Public Consulting Group](https://scoutify.ai/companies/pcg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://pcg.wd1.myworkdayjobs.com/PCG_External_Careers/job/US/Business-Analyst_JR102042) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://pcg.wd1.myworkdayjobs.com/PCG_External_Careers/job/US/Business-Analyst_JR102127) |
 
 ## About This Role
 
-This business analyst position at Public Consulting Group was posted on 2026-07-28.
+This business analyst position at Public Consulting Group was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

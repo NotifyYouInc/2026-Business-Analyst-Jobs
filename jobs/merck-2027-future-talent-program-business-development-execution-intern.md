@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Merck](https://scoutify.ai/companies/merck?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Business Analyst |
+| Category | Sales Development (SDR / BDR) |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Business-Development-Execution---Intern_R413070) |
 
 ## About This Role
 
-This business analyst position at Merck was posted on 2026-09-08.
+This sales development (sdr / bdr) position at Merck was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

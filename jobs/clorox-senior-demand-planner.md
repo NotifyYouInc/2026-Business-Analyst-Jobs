@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Clorox](https://scoutify.ai/companies/clorox?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Alpharetta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Alpharetta-GA---USA/Senior-Demand-Planner_21159) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://clorox.wd1.myworkdayjobs.com/Clorox/job/Alpharetta-GA---USA/Senior-Demand-Planner_JR23322) |
 
 ## About This Role
 
-This business analyst position at Clorox was posted on 2026-02-23.
+This business analyst position at Clorox was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

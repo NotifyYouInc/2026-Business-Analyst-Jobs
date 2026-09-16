@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Coupang Internal](https://scoutify.ai/companies/coupanginternal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Seoul, Seoul, South Korea |
-| Category | Operations |
+| Category | Strategy & Operations |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://boards.greenhouse.io/coupanginternal/jobs/8184183?gh_jid=8184183) |
 
 ## About This Role
 
-This operations position at Coupang Internal was posted on 2026-09-08.
+This strategy & operations position at Coupang Internal was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

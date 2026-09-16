@@ -1,16 +1,16 @@
-# Sr Business Analyst at Royal Bank of Canada
+# Sr. Business Analyst at Royal Bank of Canada
 
 | Field | Details |
 |-------|---------|
 | Company | [Royal Bank of Canada](https://scoutify.ai/companies/rbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Minneapolis, Minnesota, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-10 |
-| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Sr-Business-Analyst_R-0000158796-2) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/Minneapolis-Minnesota-United-States-of-America/Sr-Business-Analyst_R-0000186967-1) |
 
 ## About This Role
 
-This business analyst position at Royal Bank of Canada was posted on 2026-02-10.
+This business analyst position at Royal Bank of Canada was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

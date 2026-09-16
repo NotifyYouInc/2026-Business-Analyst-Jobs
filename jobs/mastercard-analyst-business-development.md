@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | Hanoi, Hanoi, Vietnam |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Singapore/Analyst--Business-Development_R-275440) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Hanoi-Vietnam/Analyst--Business-Development_R-288079) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at Mastercard was posted on 2026-04-29.
+This sales development (sdr / bdr) position at Mastercard was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

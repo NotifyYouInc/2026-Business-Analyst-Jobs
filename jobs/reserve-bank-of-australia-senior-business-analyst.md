@@ -5,12 +5,12 @@
 | Company | [Reserve Bank of Australia](https://scoutify.ai/companies/reserve-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://rba.wd105.myworkdayjobs.com/rba_careers/job/Sydney/Senior-Business-Analyst_JR4450) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://rba.wd105.myworkdayjobs.com/rba_careers/job/Sydney/Senior-Business-Analyst_JR4944) |
 
 ## About This Role
 
-This business analyst position at Reserve Bank of Australia was posted on 2026-07-22.
+This business analyst position at Reserve Bank of Australia was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

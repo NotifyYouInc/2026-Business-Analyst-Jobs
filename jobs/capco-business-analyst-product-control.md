@@ -5,12 +5,12 @@
 | Company | [Capco](https://scoutify.ai/companies/capco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Poland |
 | Category | Business Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8088119) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/capco/jobs/8146866) |
 
 ## About This Role
 
-This business analyst position at Capco was posted on 2026-07-27.
+This business analyst position at Capco was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

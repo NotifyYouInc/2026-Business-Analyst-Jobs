@@ -5,12 +5,12 @@
 | Company | [Version 1](https://scoutify.ai/companies/version1?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000147845589-erp-cloud-managed-services-finance-functional-consultant) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Version1/744000148409719-erp-cloud-managed-services-finance-functional-consultant) |
 
 ## About This Role
 
-This business analyst position at Version 1 was posted on 2026-09-07.
+This business analyst position at Version 1 was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

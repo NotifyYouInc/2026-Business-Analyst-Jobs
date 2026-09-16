@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Lisbon, Lisbon, Portugal |
 | Category | Business Analyst |
-| Posted | 2026-09-07 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000147955080-business-analyst) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000148184460-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Inetum was posted on 2026-09-07.
+This business analyst position at Inetum was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

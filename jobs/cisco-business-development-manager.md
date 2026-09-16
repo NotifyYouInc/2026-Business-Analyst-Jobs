@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | London, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/London-United-Kingdom/Business-Development-Manager_2024031-1) |
+| Location | Clayton, North Carolina, United States |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Clayton-Missouri-US/Business-Development-Manager_2024027) |
 
 ## About This Role
 
-This business analyst position at Cisco was posted on 2026-09-04.
+This sales development (sdr / bdr) position at Cisco was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

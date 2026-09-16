@@ -1,16 +1,16 @@
-# Senior Business Analyst- Main OR at Sentara Healthcare
+# Senior Business Analyst - Main OR at Sentara Healthcare
 
 | Field | Details |
 |-------|---------|
 | Company | [Sentara Healthcare](https://scoutify.ai/companies/sentara-healthcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Charlottesville, Virginia, United States |
+| Location | Norfolk, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Charlottesville-VA/Senior-Business-Analyst--Main-OR_JR-103260) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://sentara.wd1.myworkdayjobs.com/scs/job/Norfolk-VA/Senior-Business-Analyst---Main-OR_JR-105196) |
 
 ## About This Role
 
-This business analyst position at Sentara Healthcare was posted on 2026-07-21.
+This business analyst position at Sentara Healthcare was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

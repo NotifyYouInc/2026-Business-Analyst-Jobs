@@ -1,16 +1,16 @@
-# Production Planner at Industrial Electric Manufacturing
+# Production Planner  at Industrial Electric Manufacturing
 
 | Field | Details |
 |-------|---------|
 | Company | [Industrial Electric Manufacturing](https://scoutify.ai/companies/industrial-electric-manufacturing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | Surrey, British Columbia, Canada |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4370322009) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/industrialelectricmanufacturing/jobs/4398366009) |
 
 ## About This Role
 
-This business analyst position at Industrial Electric Manufacturing was posted on 2026-08-14.
+This business analyst position at Industrial Electric Manufacturing was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

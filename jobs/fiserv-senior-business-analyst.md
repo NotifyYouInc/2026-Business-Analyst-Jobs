@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fiserv](https://scoutify.ai/companies/fiserv?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Milan, Lombardy, Italy |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Milan-Italy/Senior-Business-Analyst_R-10399420) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://fiserv.wd5.myworkdayjobs.com/ext/job/Hagerstown-Maryland/Senior-Business-Analyst_R-10402113) |
 
 ## About This Role
 
-This business analyst position at Fiserv was posted on 2026-09-01.
+This business analyst position at Fiserv was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

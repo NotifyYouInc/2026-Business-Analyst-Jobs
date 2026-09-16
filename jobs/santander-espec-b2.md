@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nova Iguaçu, Rio de Janeiro, Brazil |
-| Category | Sales |
+| Category | Account Manager |
 | Posted | 2026-09-08 |
 | Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/NOVA-IGUACU/Espec-B2_Req1611048) |
 
 ## About This Role
 
-This sales position at Santander was posted on 2026-09-08.
+This account manager position at Santander was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Jabil](https://scoutify.ai/companies/jabil?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chihuahua, Chihuahua, Mexico |
-| Category | Business Analyst |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Chihuahua/Business-Development-Analyst_J2463364) |
+| Location | Mexico |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Remote---USA/Business-Development-Analyst_J2463841) |
 
 ## About This Role
 
-This business analyst position at Jabil was posted on 2026-09-01.
+This sales development (sdr / bdr) position at Jabil was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

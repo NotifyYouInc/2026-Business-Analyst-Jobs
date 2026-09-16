@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TVH](https://scoutify.ai/companies/tvh?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Waregem, Flanders, Belgium |
+| Location | Olathe, Kansas, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://tvh.wd3.myworkdayjobs.com/jobsattvh/job/Waregem/Functional-Analyst-HR_JR106187) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://tvh.wd3.myworkdayjobs.com/jobsattvh/job/Olathe/Functional-Analyst-HR_JR106871) |
 
 ## About This Role
 
-This human resources / people ops position at TVH was posted on 2026-05-22.
+This human resources / people ops position at TVH was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

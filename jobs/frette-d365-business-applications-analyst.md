@@ -5,12 +5,12 @@
 | Company | [Frette](https://scoutify.ai/companies/frette?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Frette/3743990013791686-d365-business-applications-analyst) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Frette/3743990015114846-d365-business-applications-analyst) |
 
 ## About This Role
 
-This business analyst position at Frette was posted on 2026-06-25.
+This business analyst position at Frette was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

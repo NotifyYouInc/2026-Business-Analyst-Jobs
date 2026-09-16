@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
-| Category | Technical & Solutions Architect |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Business-Analyst_ATCI-5745447-S2067851-1) |
+| Location | Singapore, Singapore |
+| Category | Business Analyst |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Singapore/Business-Analyst_14676881) |
 
 ## About This Role
 
-This technical & solutions architect position at Accenture was posted on 2026-09-04.
+This business analyst position at Accenture was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Red Hat](https://scoutify.ai/companies/red-hat?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Raleigh, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Sao-Paulo/Business-Analyst-Intern_R-050332) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://redhat.wd5.myworkdayjobs.com/Jobs/job/Raleigh/Business-Analyst-Intern_R-059054) |
 
 ## About This Role
 
-This business analyst position at Red Hat was posted on 2026-02-27.
+This business analyst position at Red Hat was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

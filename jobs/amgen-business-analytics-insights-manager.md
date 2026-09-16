@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amgen](https://scoutify.ai/companies/amgen?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Seoul, Seoul, South Korea |
-| Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/South-Korea---Seoul/Business-Analytics---Insights-Manager_R-247991) |
+| Location | Shanghai, Shanghai, China |
+| Category | UX Researcher |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://amgen.wd1.myworkdayjobs.com/Careers/job/China---Shanghai/Business-Analytics---Insights-Manager_R-255405) |
 
 ## About This Role
 
-This business analyst position at Amgen was posted on 2026-06-25.
+This ux researcher position at Amgen was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

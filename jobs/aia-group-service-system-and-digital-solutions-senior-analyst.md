@@ -5,12 +5,12 @@
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hong Kong, Hong Kong |
 | Category | Business Analyst |
-| Posted | 2026-07-07 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Hong-Kong-HK-AIA-Hong-Kong--Macau/Service-System-and-Digital-Solutions--Senior-Analyst_JR-68050) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Hong-Kong-HK-AIA-Hong-Kong--Macau/Service-System-and-Digital-Solutions--Senior-Analyst_JR-69967) |
 
 ## About This Role
 
-This business analyst position at AIA Group was posted on 2026-07-07.
+This business analyst position at AIA Group was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

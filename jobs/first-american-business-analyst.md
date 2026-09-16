@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [First American](https://scoutify.ai/companies/firstam?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Florida, US |
+| Location | Fort Mill, South Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-Florida-Remote/Business-Analyst_R055011) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-South-Carolina-Fort-Mill/Business-Analyst_R058672) |
 
 ## About This Role
 
-This business analyst position at First American was posted on 2026-03-17.
+This business analyst position at First American was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

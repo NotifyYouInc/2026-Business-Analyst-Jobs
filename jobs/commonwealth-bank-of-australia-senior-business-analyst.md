@@ -5,12 +5,12 @@
 | Company | [Commonwealth Bank of Australia](https://scoutify.ai/companies/commonwealth-bank-of-australia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
+| Posted | 2026-09-09 |
 | Apply | [View on company site](https://cba.wd3.myworkdayjobs.com/commbank_careers/job/Sydney-CBD-Area/Senior-Business-Analyst_REQ261075-1) |
 
 ## About This Role
 
-This business analyst position at Commonwealth Bank of Australia was posted on 2026-07-06.
+This business analyst position at Commonwealth Bank of Australia was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

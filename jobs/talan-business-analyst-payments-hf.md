@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
 | Category | Business Analyst |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000146937265-business-analyst-payments-hf) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000148237769-business-analyst-payments-hf) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-09-02.
+This business analyst position at Talan was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

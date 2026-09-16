@@ -5,12 +5,12 @@
 | Company | [Coinbase](https://scoutify.ai/companies/coinbase?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://www.coinbase.com/careers/positions/8089161?gh_jid=8089161) |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://www.coinbase.com/careers/positions/8186586?gh_jid=8186586) |
 
 ## About This Role
 
-This business analyst position at Coinbase was posted on 2026-08-03.
+This business analyst position at Coinbase was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

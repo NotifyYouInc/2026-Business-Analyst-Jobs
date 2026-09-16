@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Nicosia, Nicosia, Cyprus |
-| Category | Business Analyst |
-| Posted | 2026-08-26 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/CYP-NICO-4-FLR-1/Senior-Business-Analyst_JR0308223) |
+| Location | London, England, United Kingdom |
+| Category | Customer Success |
+| Posted | 2026-09-08 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/GBR-LNDN-25-Walbrook-FL56/Senior-Business-Analyst_JR0307874-1) |
 
 ## About This Role
 
-This business analyst position at Fidelity National Information Services was posted on 2026-08-26.
+This customer success position at Fidelity National Information Services was posted on 2026-09-08.
 
 ## Get Real-Time Alerts
 

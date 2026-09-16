@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nürnberg, Bavaria, Germany |
 | Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000135928243-requiremenets-engineersenior-business-analyst-all-gender) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000148473149-requiremenets-engineersenior-business-analyst-all-gender) |
 
 ## About This Role
 
-This business analyst position at ALTEN Canada was posted on 2026-07-06.
+This business analyst position at ALTEN Canada was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
