@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lisbon, Lisbon, Portugal |
+| Location | Rennes, Brittany, France |
 | Category | Business Analyst |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000148184460-business-analyst) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000148442350-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Inetum was posted on 2026-09-08.
+This business analyst position at Inetum was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

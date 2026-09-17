@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Santander](https://scoutify.ai/companies/santander?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mexico City, Mexico City, Mexico |
+| Location | Cuernavaca, Morelos, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/CDMX/Oficial-Admvo-Sucursal-BEI_Req1578726) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Cuernavaca/Oficial-Admvo-Sucursal-BEI_Req1611639) |
 
 ## About This Role
 
-This business analyst position at Santander was posted on 2026-05-20.
+This business analyst position at Santander was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

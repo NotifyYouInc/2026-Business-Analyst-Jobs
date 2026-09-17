@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Barclays](https://scoutify.ai/companies/barclays?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
+| Location | Knutsford, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/Business-Analyst_JR-0000087352-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/Business-Analyst_JR-0000122773-1) |
 
 ## About This Role
 
-This business analyst position at Barclays was posted on 2026-09-08.
+This business analyst position at Barclays was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

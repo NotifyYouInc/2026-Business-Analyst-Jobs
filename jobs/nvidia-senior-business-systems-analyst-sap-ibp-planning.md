@@ -1,4 +1,4 @@
-# Senior Business Systems Analyst - SAP IBP Planning at Nvidia
+# Senior Business Systems Analyst, SAP IBP Planning at Nvidia
 
 | Field | Details |
 |-------|---------|
@@ -6,7 +6,7 @@
 | Location | Santa Clara, California, United States |
 | Category | Business Analyst |
 | Posted | 2026-09-08 |
-| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Business-Systems-Analyst---SAP-IBP-Planning_JR2025018) |
+| Apply | [View on company site](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Business-Systems-Analyst--SAP-IBP-Planning_JR2025029) |
 
 ## About This Role
 

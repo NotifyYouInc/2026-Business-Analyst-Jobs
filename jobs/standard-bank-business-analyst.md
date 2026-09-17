@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Standard Bank](https://scoutify.ai/companies/standardbank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Johannesburg, Gauteng, South Africa |
+| Location | Lagos, Lagos, Nigeria |
 | Category | Business Analyst |
-| Posted | 2026-03-06 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000113142337-business-analyst) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/StandardBankGroup/744000148501952-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Standard Bank was posted on 2026-03-06.
+This business analyst position at Standard Bank was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

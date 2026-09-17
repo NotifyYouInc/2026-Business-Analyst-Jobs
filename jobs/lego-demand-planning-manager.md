@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [LEGO](https://scoutify.ai/companies/lego?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bucharest, București, Romania |
+| Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Bucharest/Demand-Planning-Manager_0000035728-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://lego.wd103.myworkdayjobs.com/lego_external/job/Mumbai/Demand-Planning-Manager_0000038105-1) |
 
 ## About This Role
 
-This business analyst position at LEGO was posted on 2026-07-17.
+This business analyst position at LEGO was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

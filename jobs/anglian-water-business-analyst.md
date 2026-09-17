@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Anglian Water](https://scoutify.ai/companies/awg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Huntingdon, England, United Kingdom |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://awg.wd3.myworkdayjobs.com/AW/job/Huntingdon/Business-Analyst_R39391-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://awg.wd3.myworkdayjobs.com/AW/job/Huntingdon/Business-Analyst_R39544-1) |
 
 ## About This Role
 
-This business analyst position at Anglian Water was posted on 2026-09-02.
+This business analyst position at Anglian Water was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

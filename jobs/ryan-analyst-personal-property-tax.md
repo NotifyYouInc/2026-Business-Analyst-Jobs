@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ryan](https://scoutify.ai/companies/ryan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Houston, Texas, United States |
+| Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Houston/Analyst--Personal-Property-Tax_R0019421-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Atlanta/Analyst--Personal-Property-Tax_R0020137) |
 
 ## About This Role
 
-This business analyst position at Ryan was posted on 2026-06-10.
+This business analyst position at Ryan was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

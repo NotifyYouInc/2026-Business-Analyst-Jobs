@@ -5,12 +5,12 @@
 | Company | [Xero](https://scoutify.ai/companies/xero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Auckland, Auckland, New Zealand |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.ashbyhq.com/xero/94ad98f1-1350-46d6-b51b-7581a5e2afef) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.ashbyhq.com/xero/00308ecc-8d11-4479-ad7a-462cc1bb6691) |
 
 ## About This Role
 
-This business analyst position at Xero was posted on 2026-07-22.
+This business analyst position at Xero was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

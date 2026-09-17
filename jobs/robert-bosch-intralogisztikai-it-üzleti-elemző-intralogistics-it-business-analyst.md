@@ -5,12 +5,12 @@
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hatvan, Heves County, Hungary |
 | Category | Business Analyst |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000146697509-intralogisztikai-it-uzleti-elemzo-intralogistics-it-business-analyst) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000148714679-intralogisztikai-it-uzleti-elemzo-intralogistics-it-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-09-01.
+This business analyst position at Robert Bosch was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Xcel Energy](https://scoutify.ai/companies/xcelenergy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
-| Category | Business Analyst |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Resource-Planning-Analyst-I-or-II-or-Senior_JR116345-2) |
+| Location | 2 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79101/Resource-Planning-Analyst-I-or-II-or-Senior_JR116173-1) |
 
 ## About This Role
 
-This business analyst position at Xcel Energy was posted on 2026-09-03.
+This fp&a / strategic finance position at Xcel Energy was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

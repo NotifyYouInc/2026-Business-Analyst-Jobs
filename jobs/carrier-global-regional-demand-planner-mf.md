@@ -5,12 +5,12 @@
 | Company | [Carrier Global](https://scoutify.ai/companies/carrier?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Montluel, Rhône-Alpes, France |
 | Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Rte-De-Thil-01120-Montluel-France/Regional-Demand-Planner-M-F_30207946) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://carrier.wd5.myworkdayjobs.com/jobs/job/Rte-De-Thil-01120-Montluel-France/Regional-Demand-Planner-M-F_30217708) |
 
 ## About This Role
 
-This business analyst position at Carrier Global was posted on 2026-06-25.
+This business analyst position at Carrier Global was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

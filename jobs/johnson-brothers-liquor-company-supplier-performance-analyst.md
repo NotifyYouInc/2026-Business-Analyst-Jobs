@@ -5,12 +5,12 @@
 | Company | [Johnson Brothers Liquor Company](https://scoutify.ai/companies/johnsonbrothers?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dallas, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-02-18 |
-| Apply | [View on company site](https://johnsonbrothers.wd5.myworkdayjobs.com/johnsonbrothers/job/Dallas-TX/Supplier-Performance-Analyst_R-260212-424) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://johnsonbrothers.wd5.myworkdayjobs.com/johnsonbrothers/job/Dallas-TX/Supplier-Performance-Analyst_R-260908-2337-1) |
 
 ## About This Role
 
-This business analyst position at Johnson Brothers Liquor Company was posted on 2026-02-18.
+This business analyst position at Johnson Brothers Liquor Company was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

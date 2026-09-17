@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RGA Reinsurance Company](https://scoutify.ai/companies/rgare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Kuala Lumpur, Kuala Lumpur, Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-02-05 |
-| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Hong-Kong-Hong-Kong/Business-Administration-Analyst_J26515) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://rgare.wd1.myworkdayjobs.com/Careers/job/Malaysia-Kuala-Lumpur/Business-Administration-Analyst_J28742-1) |
 
 ## About This Role
 
-This business analyst position at RGA Reinsurance Company was posted on 2026-02-05.
+This business analyst position at RGA Reinsurance Company was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Ummc](https://scoutify.ai/companies/ummc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Jackson, Mississippi, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-12 |
-| Apply | [View on company site](https://ummc.wd5.myworkdayjobs.com/umccareers/job/Jackson-MS---Main-Campus/Division-Business-Administrator_R00050145) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://ummc.wd5.myworkdayjobs.com/umccareers/job/Jackson-MS/Division-Business-Administrator_R00053800-1) |
 
 ## About This Role
 
-This business analyst position at Ummc was posted on 2026-05-12.
+This business analyst position at Ummc was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [HD Supply](https://scoutify.ai/companies/hdsupply?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
-| Category | Business Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Inventory-Planning-Analyst_R26004400-1) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Inventory-Planning-Analyst_R26004918) |
 
 ## About This Role
 
-This business analyst position at HD Supply was posted on 2026-08-12.
+This fp&a / strategic finance position at HD Supply was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

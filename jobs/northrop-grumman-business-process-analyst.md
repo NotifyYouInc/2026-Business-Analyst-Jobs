@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Redondo Beach, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Remote/Business-Process-Analyst_R10231421-1) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Business-Process-Analyst_R10249981) |
 
 ## About This Role
 
-This business analyst position at Northrop Grumman was posted on 2026-04-29.
+This business analyst position at Northrop Grumman was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

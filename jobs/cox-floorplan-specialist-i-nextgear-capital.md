@@ -5,12 +5,12 @@
 | Company | [Cox](https://scoutify.ai/companies/cox?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Carmel, Indiana, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-07 |
-| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Floorplan-Specialist-I--NextGear-Capital-_R202676971) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Floorplan-Specialist-I--NextGear-Capital-_R202682263) |
 
 ## About This Role
 
-This business analyst position at Cox was posted on 2026-05-07.
+This business analyst position at Cox was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

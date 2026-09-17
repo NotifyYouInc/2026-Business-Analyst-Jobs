@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Assurant](https://scoutify.ai/companies/assurant?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Auckland, Auckland, New Zealand |
+| Location | Buenos Aires, Buenos Aires F.D., Argentina |
 | Category | Business Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Auckland/Business-Systems-Analyst_R-114224) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://assurant.wd1.myworkdayjobs.com/Assurant_Careers/job/Buenos-Aires-Butty/Business-Systems-Analyst_R-114966-1) |
 
 ## About This Role
 
-This business analyst position at Assurant was posted on 2026-07-03.
+This business analyst position at Assurant was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

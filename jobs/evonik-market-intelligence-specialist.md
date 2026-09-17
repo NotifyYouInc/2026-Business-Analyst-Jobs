@@ -5,12 +5,12 @@
 | Company | [Evonik](https://scoutify.ai/companies/evonik?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Beijing, Beijing, China |
 | Category | Product Marketing |
-| Posted | 2026-06-08 |
-| Apply | [View on company site](https://evonik.wd3.myworkdayjobs.com/external_careers/job/Beijing/Market-Intelligence-Specialist_R48616) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://evonik.wd3.myworkdayjobs.com/external_careers/job/Beijing/Market-Intelligence-Specialist_R50945) |
 
 ## About This Role
 
-This product marketing position at Evonik was posted on 2026-06-08.
+This product marketing position at Evonik was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

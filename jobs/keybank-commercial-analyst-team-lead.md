@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [KeyBank](https://scoutify.ai/companies/keybank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
+| Location | 6 locations |
 | Category | Business Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Buffalo-NY/Commercial-Analyst-Team-Lead_R-41426) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/Commercial-Analyst-Team-Lead_R-41853) |
 
 ## About This Role
 
-This business analyst position at KeyBank was posted on 2026-08-19.
+This business analyst position at KeyBank was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

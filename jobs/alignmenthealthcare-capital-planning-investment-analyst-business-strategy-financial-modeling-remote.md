@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Alignmenthealthcare](https://scoutify.ai/companies/alignmenthealthcare?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Not specified |
-| Category | Strategy & Operations |
+| Category | Financial Analyst |
 | Posted | 2026-09-09 |
 | Apply | [View on company site](https://alignmenthealthcare.wd12.myworkdayjobs.com/ahc_external/job/Anywhere-in-the-US/Capital-Planning---Investment-Analyst--Business-Strategy---Financial-Modeling---Remote-_R2485) |
 
 ## About This Role
 
-This strategy & operations position at Alignmenthealthcare was posted on 2026-09-09.
+This financial analyst position at Alignmenthealthcare was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

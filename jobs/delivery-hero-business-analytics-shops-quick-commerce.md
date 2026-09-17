@@ -5,12 +5,12 @@
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Dhaka, Dhaka Division, Bangladesh |
 | Category | Business Analyst |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146645629-business-analytics-shops-quick-commerce) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000148700691-business-analytics-shops-quick-commerce) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-09-01.
+This business analyst position at Delivery Hero was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Advocate Health](https://scoutify.ai/companies/advocate-health-llc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Milwaukee, Wisconsin, United States |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/AAO-Milwaukee---750-W-Virginia-St/Quality-Intelligence-Program-Consultant_R270211) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://aah.wd5.myworkdayjobs.com/external/job/Remote/Quality-Intelligence-Program-Consultant_R270530) |
 
 ## About This Role
 
-This business analyst position at Advocate Health was posted on 2026-09-08.
+This business analyst position at Advocate Health was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

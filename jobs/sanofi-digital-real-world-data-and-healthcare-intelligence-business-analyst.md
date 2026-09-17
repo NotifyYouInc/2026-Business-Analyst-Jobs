@@ -1,16 +1,16 @@
-# Digital Real-World Data and Healthcare Intelligence Business Analyst at Sanofi
+# Digital Real World Data and Healthcare Intelligence Business Analyst at Sanofi
 
 | Field | Details |
 |-------|---------|
 | Company | [Sanofi](https://scoutify.ai/companies/sanofi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Digital-Real-World-Data-and-Healthcare-Intelligence-Business-Analyst_R2853837) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/Digital-Real-World-Data-and-Healthcare-Intelligence-Business-Analyst_R2870471) |
 
 ## About This Role
 
-This business analyst position at Sanofi was posted on 2026-04-29.
+This business analyst position at Sanofi was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

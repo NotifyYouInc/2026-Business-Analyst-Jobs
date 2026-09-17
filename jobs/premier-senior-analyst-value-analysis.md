@@ -5,12 +5,12 @@
 | Company | [Premier](https://scoutify.ai/companies/premierinc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Remote/Senior-Analyst-Value-Analysis_R0008343) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://premierinc.wd1.myworkdayjobs.com/External_Professional/job/Remote/Senior-Analyst-Value-Analysis_R0008482) |
 
 ## About This Role
 
-This business analyst position at Premier was posted on 2026-04-30.
+This business analyst position at Premier was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

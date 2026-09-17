@@ -5,12 +5,12 @@
 | Company | [Smithfield Foods](https://scoutify.ai/companies/smithfield-foods?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Smithfield, Rhode Island, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Smithfield-VA/Associate-Demand-Planner_R-2026-5229) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Smithfield-VA/Associate-Demand-Planner_R-2026-12259) |
 
 ## About This Role
 
-This business analyst position at Smithfield Foods was posted on 2026-04-26.
+This business analyst position at Smithfield Foods was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

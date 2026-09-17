@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | McKinney, Texas, United States |
+| Location | Windsor Locks, Connecticut, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-16 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WZS--2501-W-University-Dr--WZS-BLDG/Demand-Planner_01837291) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-WINDSOR-LOCKS-B1--1-Hamilton-Rd--BLDG-1/Demand-Planner_01870900) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-04-16.
+This business analyst position at RTX was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

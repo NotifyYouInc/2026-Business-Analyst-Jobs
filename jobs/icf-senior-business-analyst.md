@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICF](https://scoutify.ai/companies/icf?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Reston, Virginia, United States |
+| Location | Springfield, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Senior-Business-Analyst_R2601079) |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Springfield-IL/Senior-Business-Analyst_R2603016) |
 
 ## About This Role
 
-This business analyst position at ICF was posted on 2026-04-29.
+This business analyst position at ICF was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 

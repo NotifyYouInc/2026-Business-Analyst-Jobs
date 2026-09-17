@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Target](https://scoutify.ai/companies/target?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-02-17 |
-| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Inventory-Specialist_R0000429243) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://target.wd5.myworkdayjobs.com/targetcareers/job/BangaloreIndia/Sr-Inventory-Specialist_R0000449535) |
 
 ## About This Role
 
-This business analyst position at Target was posted on 2026-02-17.
+This business analyst position at Target was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

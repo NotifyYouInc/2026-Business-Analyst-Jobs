@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sysco](https://scoutify.ai/companies/sysco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Olathe, Kansas, United States |
-| Category | Business Analyst |
-| Posted | 2026-07-09 |
-| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Kansas-City-----Olathe/Operations-Systems-Analyst_R257530) |
+| Location | Allentown, Pennsylvania, United States |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-09 |
+| Apply | [View on company site](https://sysco.wd5.myworkdayjobs.com/syscocareers/job/Sysco-Allentown--Main-Office/Operations-Systems-Analyst_R266133) |
 
 ## About This Role
 
-This business analyst position at Sysco was posted on 2026-07-09.
+This it & systems administration position at Sysco was posted on 2026-09-09.
 
 ## Get Real-Time Alerts
 
