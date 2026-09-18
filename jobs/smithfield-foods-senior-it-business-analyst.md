@@ -5,12 +5,12 @@
 | Company | [Smithfield Foods](https://scoutify.ai/companies/smithfield-foods?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Smithfield, Rhode Island, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-26 |
-| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Smithfield-VA/Senior-IT-Business-Analyst_R-2026-605) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://smithfieldfoods.wd1.myworkdayjobs.com/careers/job/Smithfield-VA/Senior-IT-Business-Analyst_R-2026-12069-1) |
 
 ## About This Role
 
-This business analyst position at Smithfield Foods was posted on 2026-04-26.
+This business analyst position at Smithfield Foods was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

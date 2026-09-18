@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Curaleaf](https://scoutify.ai/companies/curaleaf?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Las Vegas, Nevada, United States |
+| Location | Scottsdale, Arizona, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-10 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/curaleaf/jobs/8694493002) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/curaleaf/jobs/8797060002) |
 
 ## About This Role
 
-This business analyst position at Curaleaf was posted on 2026-08-10.
+This business analyst position at Curaleaf was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

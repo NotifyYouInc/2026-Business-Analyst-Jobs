@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Centene](https://scoutify.ai/companies/centene?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | United States |
+| Location | Missouri, US |
 | Category | Business Analyst |
-| Posted | 2026-04-14 |
-| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MI/Process-Improvement-Specialist_1637157) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Process-Improvement-Specialist_1655742) |
 
 ## About This Role
 
-This business analyst position at Centene was posted on 2026-04-14.
+This business analyst position at Centene was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

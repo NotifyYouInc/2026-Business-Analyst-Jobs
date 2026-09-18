@@ -1,16 +1,16 @@
-# Chargé d'Etudes Appels d'Offres F/H at Veolia
+# Chargé d'Etudes Appels d'offres F/H at Veolia
 
 | Field | Details |
 |-------|---------|
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Ecquevilly, Île-de-France, France |
+| Location | Nantes, Pays de la Loire, France |
 | Category | Business Analyst |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000131058435-charge-detudes-appels-doffres-fh) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000148973144-charge-detudes-appels-doffres-fh) |
 
 ## About This Role
 
-This business analyst position at Veolia was posted on 2026-06-09.
+This business analyst position at Veolia was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

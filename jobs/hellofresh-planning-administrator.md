@@ -5,12 +5,12 @@
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mississauga, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-08-07 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8114309?gh_jid=8114309) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8191661?gh_jid=8191661) |
 
 ## About This Role
 
-This business analyst position at HelloFresh was posted on 2026-08-07.
+This business analyst position at HelloFresh was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

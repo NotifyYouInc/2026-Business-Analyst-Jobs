@@ -5,12 +5,12 @@
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nürnberg, Bavaria, Germany |
 | Category | Business Analyst |
-| Posted | 2026-07-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000139936659-senior-anforderungsanalytiker-all-gender) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000148941069-senior-anforderungsanalytiker-all-gender) |
 
 ## About This Role
 
-This business analyst position at ALTEN was posted on 2026-07-27.
+This business analyst position at ALTEN was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Philips](https://scoutify.ai/companies/philips?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Varginha, Minas Gerais, Brazil |
+| Location | Copenhagen, Capital Region, Denmark |
 | Category | Business Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Varginha/Customer-Order-Intern_588590) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Copenhagen/Sales-Support-Intern_590434) |
 
 ## About This Role
 
-This business analyst position at Philips was posted on 2026-08-19.
+This business analyst position at Philips was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

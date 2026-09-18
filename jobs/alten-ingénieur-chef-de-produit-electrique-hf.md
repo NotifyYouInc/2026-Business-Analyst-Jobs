@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [ALTEN](https://scoutify.ai/companies/alten?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Château-Renault, Centre-Val de Loire, France |
-| Category | Sales |
-| Posted | 2026-09-02 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000146933629-ingenieur-chef-de-produit-electrique-hf) |
+| Category | Business Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ALTEN/744000148937785-ingenieur-chef-de-produit-electrique-hf) |
 
 ## About This Role
 
-This sales position at ALTEN was posted on 2026-09-02.
+This business analyst position at ALTEN was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

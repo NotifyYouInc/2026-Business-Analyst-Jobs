@@ -5,12 +5,12 @@
 | Company | [Engelhart](https://scoutify.ai/companies/engelhart?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Berlin, State of Berlin, Germany |
 | Category | Business Analyst |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/engelhart/jobs/8164542) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/engelhart/jobs/8195174) |
 
 ## About This Role
 
-This business analyst position at Engelhart was posted on 2026-08-28.
+This business analyst position at Engelhart was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

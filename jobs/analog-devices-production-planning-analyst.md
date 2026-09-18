@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Analog Devices](https://scoutify.ai/companies/analogdevices?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Wilmington, North Carolina, United States |
-| Category | Business Analyst |
-| Posted | 2026-08-15 |
-| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Production-Planning-Analyst_R264735) |
+| Location | 2 locations |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Chelmsford-Alpha/Production-Planning-Analyst_R265246) |
 
 ## About This Role
 
-This business analyst position at Analog Devices was posted on 2026-08-15.
+This fp&a / strategic finance position at Analog Devices was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

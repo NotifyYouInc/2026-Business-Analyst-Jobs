@@ -5,12 +5,12 @@
 | Company | [LSEG](https://scoutify.ai/companies/lseg?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-Bangalore-A-RMZ-Infinity/Senior-Content-Specialist_R0123048) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://lseg.wd3.myworkdayjobs.com/Careers/job/IND-BLR-Divyasree-Technopolis/Senior-Content-Specialist_R0123163) |
 
 ## About This Role
 
-This business analyst position at LSEG was posted on 2026-09-08.
+This business analyst position at LSEG was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

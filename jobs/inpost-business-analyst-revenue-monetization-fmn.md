@@ -5,12 +5,12 @@
 | Company | [INPOST](https://scoutify.ai/companies/inpost?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Poland |
 | Category | Business Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000148477064-business-analyst-revenue-monetization-fmn) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/InPost/744000148742819-business-analyst-revenue-monetization-fmn) |
 
 ## About This Role
 
-This business analyst position at INPOST was posted on 2026-09-09.
+This business analyst position at INPOST was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

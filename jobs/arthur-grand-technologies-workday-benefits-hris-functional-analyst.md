@@ -5,12 +5,12 @@
 | Company | [Arthur Grand Technologies](https://scoutify.ai/companies/arthurgrandtechnologies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brooklyn, New York, United States |
 | Category | Human Resources / People Ops |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000147527655-workday-benefits-hris-functional-analyst) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000148797939-workday-benefits-hris-functional-analyst) |
 
 ## About This Role
 
-This human resources / people ops position at Arthur Grand Technologies was posted on 2026-09-04.
+This human resources / people ops position at Arthur Grand Technologies was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

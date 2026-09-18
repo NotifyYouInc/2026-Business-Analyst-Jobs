@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | King George, Virginia, United States |
-| Category | Business Analyst |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/King-George-VA/Systems-Analyst--Senior_R0246040) |
+| Category | Program Manager |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/King-George-VA/Systems-Analyst--Senior_R0249210) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-08-04.
+This program manager position at Booz Allen was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

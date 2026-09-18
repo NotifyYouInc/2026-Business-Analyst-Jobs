@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | India |
 | Category | Business Analyst |
-| Posted | 2026-05-20 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Minneapolis-Minnesota/Senior-Business-Analyst_R26_1973-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/11068-Ameriprise-India---Udyog-Vihar/Senior-Business-Analyst_R26_1488) |
 
 ## About This Role
 
-This business analyst position at Ameriprise Financial was posted on 2026-05-20.
+This business analyst position at Ameriprise Financial was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

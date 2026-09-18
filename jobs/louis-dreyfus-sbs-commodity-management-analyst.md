@@ -5,12 +5,12 @@
 | Company | [Louis Dreyfus](https://scoutify.ai/companies/louisdreyfus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000139014785-sbs-commodity-management-analyst) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000148953879-sbs-commodity-management-analyst) |
 
 ## About This Role
 
-This business analyst position at Louis Dreyfus was posted on 2026-07-22.
+This business analyst position at Louis Dreyfus was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

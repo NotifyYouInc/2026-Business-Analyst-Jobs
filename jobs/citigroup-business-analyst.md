@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Budapest, Budapest, Hungary |
 | Category | Business Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Business-Analyst_26986355-1) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Budapest--Hungary/Business-Analyst_26991195) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-08-17.
+This business analyst position at Citigroup was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

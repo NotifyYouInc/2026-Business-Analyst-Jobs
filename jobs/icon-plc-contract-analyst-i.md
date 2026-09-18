@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ICON plc](https://scoutify.ai/companies/icon-plc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/UK-Swansea/Contract-Analyst-I_JR159153) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://icon.wd3.myworkdayjobs.com/broadbean_external/job/India-Bangalore/Contract-Analyst-I_JR159760) |
 
 ## About This Role
 
-This business analyst position at ICON plc was posted on 2026-09-09.
+This business analyst position at ICON plc was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

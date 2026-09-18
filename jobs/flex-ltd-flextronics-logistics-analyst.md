@@ -5,12 +5,12 @@
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Guadalajara, Jalisco, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-06-03 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Logistics-Analyst_WD222217) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Logistics-Analyst_WD228535) |
 
 ## About This Role
 
-This business analyst position at FLEX LTD. Flextronics was posted on 2026-06-03.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

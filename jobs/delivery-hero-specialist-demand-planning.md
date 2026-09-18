@@ -1,16 +1,16 @@
-# Specialist, Demand Planning at Delivery Hero
+# Specialist Demand Planning at Delivery Hero
 
 | Field | Details |
 |-------|---------|
 | Company | [Delivery Hero](https://scoutify.ai/companies/deliveryhero?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Taguig, National Capital Region, Philippines |
+| Location | Dubai, Dubai, United Arab Emirates |
 | Category | Business Analyst |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000146434069-specialist-demand-planning) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DeliveryHero/744000148934924-specialist-demand-planning) |
 
 ## About This Role
 
-This business analyst position at Delivery Hero was posted on 2026-08-31.
+This business analyst position at Delivery Hero was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

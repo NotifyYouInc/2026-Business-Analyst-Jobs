@@ -5,12 +5,12 @@
 | Company | [Lcbo](https://scoutify.ai/companies/lcbo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://lcbo.wd3.myworkdayjobs.com/lcbocareersite/job/Corporate-100-Queens-Quay/SAP-Functional-Analyst_JR26-27779) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://lcbo.wd3.myworkdayjobs.com/lcbocareersite/job/Toronto-Ontario/SAP-Functional-Analyst_JR26-30000) |
 
 ## About This Role
 
-This business analyst position at Lcbo was posted on 2026-04-29.
+This business analyst position at Lcbo was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

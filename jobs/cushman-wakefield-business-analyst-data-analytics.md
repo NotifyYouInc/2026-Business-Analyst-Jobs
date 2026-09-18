@@ -5,12 +5,12 @@
 | Company | [Cushman & Wakefield](https://scoutify.ai/companies/cushman-wakefield?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-07-23 |
-| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-Client-Site---USA---Flexible-United-States/Business-Analyst---Data-Analytics_R329385) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://cw.wd1.myworkdayjobs.com/external/job/Remote-Client-Site---USA---Flexible-United-States/Business-Analyst---Data-Analytics_R335928) |
 
 ## About This Role
 
-This business analyst position at Cushman & Wakefield was posted on 2026-07-23.
+This business analyst position at Cushman & Wakefield was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity National Information Services](https://scoutify.ai/companies/fis?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | India |
 | Category | Business Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-HRYN-402/Analyst-I--Quality-Management_JR0307568) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://fis.wd5.myworkdayjobs.com/searchjobs/job/IND-HRYN-402/Analyst-I--Quality-Management_JR0309207) |
 
 ## About This Role
 
-This business analyst position at Fidelity National Information Services was posted on 2026-07-03.
+This business analyst position at Fidelity National Information Services was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

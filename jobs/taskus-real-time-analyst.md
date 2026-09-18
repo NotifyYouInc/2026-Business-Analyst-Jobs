@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TaskUs](https://scoutify.ai/companies/taskus?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Las Piñas, National Capital Region, Philippines |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Las-Pinas-NCR-Philippines/Real-Time-Analyst_R_2607_9960) |
+| Posted | 2026-09-10 |
+| Apply | [View on company site](https://taskus.wd1.myworkdayjobs.com/careers/job/Hyderabad-India---Coworking/Real-Time-Analyst_R_2609_11815) |
 
 ## About This Role
 
-This business analyst position at TaskUs was posted on 2026-07-31.
+This business analyst position at TaskUs was posted on 2026-09-10.
 
 ## Get Real-Time Alerts
 

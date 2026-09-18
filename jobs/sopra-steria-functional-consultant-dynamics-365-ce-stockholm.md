@@ -1,16 +1,16 @@
-# Functional consultant Dynamics 365 CE Stockholm  at Sopra Steria
+# Functional consultant Dynamics 365 CE Stockholm at Sopra Steria
 
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Stockholm, Stockholm, Sweden |
-| Category | Implementation / Professional Services |
-| Posted | 2026-02-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000111818611-functional-consultant-dynamics-365-ce-stockholm) |
+| Category | Business Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000148945815-functional-consultant-dynamics-365-ce-stockholm) |
 
 ## About This Role
 
-This implementation / professional services position at Sopra Steria was posted on 2026-02-27.
+This business analyst position at Sopra Steria was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
