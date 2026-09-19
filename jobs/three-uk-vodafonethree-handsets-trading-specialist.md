@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Three UK](https://scoutify.ai/companies/threeuk?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Newbury, England, United Kingdom |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000145921239-vodafonethree-handsets-trading-specialist) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Three-UK/744000149003791-vodafonethree-handsets-trading-specialist) |
 
 ## About This Role
 
-This business analyst position at Three UK was posted on 2026-08-27.
+This business analyst position at Three UK was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

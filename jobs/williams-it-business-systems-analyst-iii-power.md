@@ -5,12 +5,12 @@
 | Company | [Williams](https://scoutify.ai/companies/williams?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New Albany, Indiana, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-05-19 |
-| Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/OH-New-Albany---Power-Generation/IT-Business-Systems-Analyst-III_R112027) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://williams.wd5.myworkdayjobs.com/External/job/OH-New-Albany---Power-Generation/IT-Business-Systems-Analyst-III---Power_R112710) |
 
 ## About This Role
 
-This it & systems administration position at Williams was posted on 2026-05-19.
+This it & systems administration position at Williams was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

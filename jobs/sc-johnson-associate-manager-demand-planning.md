@@ -5,12 +5,12 @@
 | Company | [SC Johnson](https://scoutify.ai/companies/scj?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Racine, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-24 |
+| Posted | 2026-09-11 |
 | Apply | [View on company site](https://scj.wd5.myworkdayjobs.com/External_Career_Site/job/USA---WI---Racine/Associate-Manager--Demand-Planning_33395) |
 
 ## About This Role
 
-This business analyst position at SC Johnson was posted on 2026-06-24.
+This business analyst position at SC Johnson was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

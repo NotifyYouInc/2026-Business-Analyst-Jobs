@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pennsylvania, US |
+| Location | Malvern, Arkansas, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-15 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Business-Technology-Analyst_176881) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Business-Technology-Analyst_182198) |
 
 ## About This Role
 
-This business analyst position at Vanguard was posted on 2026-04-15.
+This business analyst position at Vanguard was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

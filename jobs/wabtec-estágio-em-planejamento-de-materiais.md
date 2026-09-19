@@ -1,16 +1,16 @@
-# Estágio em  Planejamento de Materiais at Wabtec
+# Estágio em Planejamento de Materiais at Wabtec
 
 | Field | Details |
 |-------|---------|
 | Company | [Wabtec](https://scoutify.ai/companies/wabtec?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Araraquara, São Paulo, Brazil |
+| Location | Governador Valadares, Minas Gerais, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990011810726-estagio-em-planejamento-de-materiais) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Wabtec/3743990015203616-estagio-em-planejamento-de-materiais) |
 
 ## About This Role
 
-This business analyst position at Wabtec was posted on 2026-02-23.
+This business analyst position at Wabtec was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

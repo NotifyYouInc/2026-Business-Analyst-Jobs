@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Johnson Brothers Liquor Company](https://scoutify.ai/companies/johnsonbrothers?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | San Antonio, Texas, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-25 |
-| Apply | [View on company site](https://johnsonbrothers.wd5.myworkdayjobs.com/johnsonbrothers/job/San-Antonio-TX/Business-Operations-Analyst_R-260624-1727-1) |
+| Category | Strategy & Operations |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://johnsonbrothers.wd5.myworkdayjobs.com/johnsonbrothers/job/San-Antonio-TX/Business-Operations-Analyst_R-260910-2380) |
 
 ## About This Role
 
-This business analyst position at Johnson Brothers Liquor Company was posted on 2026-06-25.
+This strategy & operations position at Johnson Brothers Liquor Company was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

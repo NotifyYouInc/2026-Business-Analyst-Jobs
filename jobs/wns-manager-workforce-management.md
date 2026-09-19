@@ -5,12 +5,12 @@
 | Company | [WNS](https://scoutify.ai/companies/wns?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cape Town, Western Cape, South Africa |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000137837688-manager-workforce-management) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WNSGlobalServices144/744000149041814-manager-workforce-management) |
 
 ## About This Role
 
-This human resources / people ops position at WNS was posted on 2026-07-15.
+This human resources / people ops position at WNS was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

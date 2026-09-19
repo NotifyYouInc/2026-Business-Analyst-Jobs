@@ -5,12 +5,12 @@
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lyon, Rhône-Alpes, France |
 | Category | Business Analyst |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000148804428-business-analyst-sig-fh) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000148950618-business-analyst-sig-fh) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-09-10.
+This business analyst position at Talan was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

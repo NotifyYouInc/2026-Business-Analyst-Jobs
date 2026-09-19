@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Mondelez International](https://scoutify.ai/companies/mondelez-international?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Shanghai, Shanghai, China |
+| Location | Mechelen, Flanders, Belgium |
 | Category | Business Analyst |
-| Posted | 2026-04-22 |
-| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Shanghai-China/Analyst--Demand-Planning_R-165615) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://mdlz.wd3.myworkdayjobs.com/External/job/Mechelen-Belgium/Analyst--Demand-Planning_R-176588-2) |
 
 ## About This Role
 
-This business analyst position at Mondelez International was posted on 2026-04-22.
+This business analyst position at Mondelez International was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

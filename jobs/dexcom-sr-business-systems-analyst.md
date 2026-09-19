@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Dexcom](https://scoutify.ai/companies/dexcom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Vilnius, Vilnius, Lithuania |
+| Location | Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Vilnius-Lithuania/Sr-Business-Systems-Analyst_JR120580-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Penang-Malaysia/Sr-Business-Systems-Analyst_JR121087) |
 
 ## About This Role
 
-This business analyst position at Dexcom was posted on 2026-08-18.
+This business analyst position at Dexcom was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

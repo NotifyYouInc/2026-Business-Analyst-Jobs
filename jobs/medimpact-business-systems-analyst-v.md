@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Medimpact](https://scoutify.ai/companies/medimpact?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Diego, California, United States |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-07-14 |
-| Apply | [View on company site](https://medimpact.wd5.myworkdayjobs.com/medimpact/job/San-Diego-CA/Business-Systems-Analyst-V_JR102670) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://medimpact.wd5.myworkdayjobs.com/medimpact/job/Remote/Business-Systems-Analyst-V_JR102843) |
 
 ## About This Role
 
-This business analyst position at Medimpact was posted on 2026-07-14.
+This business analyst position at Medimpact was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

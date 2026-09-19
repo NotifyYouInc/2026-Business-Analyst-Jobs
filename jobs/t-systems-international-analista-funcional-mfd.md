@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [T-Systems International](https://scoutify.ai/companies/tsystemsinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Reus, Catalonia, Spain |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000141808419-analista-funcional-mfd) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/T-SystemsIberia/744000149027789-analista-funcional-mfd) |
 
 ## About This Role
 
-This business analyst position at T-Systems International was posted on 2026-08-05.
+This business analyst position at T-Systems International was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -6,7 +6,7 @@
 | Location | Goodhue, Minnesota, United States |
 | Category | Business Analyst |
 | Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/knobelsdorffenterprises/744000148786479-solutions-intern) |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/knobelsdorffenterprises/744000148836549-solutions-intern) |
 
 ## About This Role
 

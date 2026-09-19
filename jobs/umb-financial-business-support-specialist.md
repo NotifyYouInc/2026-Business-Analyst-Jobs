@@ -5,12 +5,12 @@
 | Company | [UMB Financial](https://scoutify.ai/companies/umb-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Salt Lake City, Utah, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Salt-Lake-City-UT/Business-Support-Specialist_R-9107) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://umb.wd1.myworkdayjobs.com/umbexternal/job/Salt-Lake-City-UT/Business-Support-Specialist_R-9404) |
 
 ## About This Role
 
-This business analyst position at UMB Financial was posted on 2026-07-21.
+This business analyst position at UMB Financial was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

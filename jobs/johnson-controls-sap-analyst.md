@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Johnson Controls](https://scoutify.ai/companies/jci?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Business Analyst |
-| Posted | 2026-02-20 |
-| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Pune-Maharashtra-India/SAP-Analyst_WD30261688-1) |
+| Location | Nuevo León, Baja California, Mexico |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jci.wd5.myworkdayjobs.com/JCI/job/Apodaca-Nuevo-Leon-Mexico/SAP-Analyst_WD30279517) |
 
 ## About This Role
 
-This business analyst position at Johnson Controls was posted on 2026-02-20.
+This it & systems administration position at Johnson Controls was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

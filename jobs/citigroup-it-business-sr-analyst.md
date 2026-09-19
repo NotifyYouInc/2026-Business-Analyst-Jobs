@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Toronto, Ontario, Canada |
+| Location | Tampa, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Toronto---Canada/IT-Business-Sr-Analyst_26981999) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/IT-Business-Sr-Analyst_26981294) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-07-28.
+This business analyst position at Citigroup was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guatemala |
+| Location | Mexico |
 | Category | Business Analyst |
-| Posted | 2026-08-20 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/GT---EL-CORTIJO-GTGUM/IE-supervisor_R26029321) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/MX---EUGENIA-OPERATING-BUILDING-MXMCT/IE-supervisor_R26031551) |
 
 ## About This Role
 
-This business analyst position at United Parcel Service (UPS) was posted on 2026-08-20.
+This business analyst position at United Parcel Service (UPS) was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

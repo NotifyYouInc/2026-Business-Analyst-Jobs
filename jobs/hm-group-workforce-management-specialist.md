@@ -5,12 +5,12 @@
 | Company | [H&M Group](https://scoutify.ai/companies/hmgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Human Resources / People Ops |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000137531009-workforce-management-specialist) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/HMGroup/744000149072389-workforce-management-specialist) |
 
 ## About This Role
 
-This human resources / people ops position at H&M Group was posted on 2026-07-13.
+This human resources / people ops position at H&M Group was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

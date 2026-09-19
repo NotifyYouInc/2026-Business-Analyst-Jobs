@@ -5,12 +5,12 @@
 | Company | [Fresenius Kabi](https://scoutify.ai/companies/fresenius-kabi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Lake Zurich, Illinois, United States |
 | Category | Business Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://freseniusglobal.wd3.myworkdayjobs.com/fk_careers/job/Lake-Zurich-IL/Commercial-Ops-Analyst_R-01029584) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://freseniusglobal.wd3.myworkdayjobs.com/fk_careers/job/Lake-Zurich-IL/Commercial-Ops-Analyst_R-01029589) |
 
 ## About This Role
 
-This business analyst position at Fresenius Kabi was posted on 2026-09-09.
+This business analyst position at Fresenius Kabi was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

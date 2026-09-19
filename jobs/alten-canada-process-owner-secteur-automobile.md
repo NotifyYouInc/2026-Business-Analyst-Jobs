@@ -5,12 +5,12 @@
 | Company | [ALTEN Canada](https://scoutify.ai/companies/alten-canada?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Rabat, Rabat-Salé-Kénitra, Morocco |
 | Category | Business Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000143072299-process-owner-secteur-automobile) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Alten/744000149064888-process-owner-secteur-automobile) |
 
 ## About This Role
 
-This business analyst position at ALTEN Canada was posted on 2026-08-12.
+This business analyst position at ALTEN Canada was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

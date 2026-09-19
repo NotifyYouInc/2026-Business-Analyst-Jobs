@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [City and County of San Francisco](https://scoutify.ai/companies/city-and-county-of-san-francisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | San Francisco, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990014756096-utility-specialist-risk-management-business-analysis-power-enterprise-sfpuc-5602-164129-exempt) |
+| Category | Compliance & Risk Management |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/cityandcountyofsanfrancisco1/3743990015210426-utility-specialist-risk-management-business-analysis-power-enterprise-sfpuc-5602-164129-exempt) |
 
 ## About This Role
 
-This business analyst position at City and County of San Francisco was posted on 2026-08-21.
+This compliance & risk management position at City and County of San Francisco was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

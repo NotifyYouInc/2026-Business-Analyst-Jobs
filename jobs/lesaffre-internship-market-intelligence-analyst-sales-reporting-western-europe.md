@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Lesaffre](https://scoutify.ai/companies/lesaffre?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Marquette-lez-Lille, Hauts-de-France, France |
-| Category | Product Marketing |
+| Category | Data Analyst |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://jobs.smartrecruiters.com/Lesaffre/744000148963039-internship-market-intelligence-analyst-sales-reporting-western-europe) |
 
 ## About This Role
 
-This product marketing position at Lesaffre was posted on 2026-09-11.
+This data analyst position at Lesaffre was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

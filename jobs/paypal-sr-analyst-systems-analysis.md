@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PayPal](https://scoutify.ai/companies/paypal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | San Jose, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-29 |
-| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/Bangalore-Karnataka-India/Sr-Analyst--Systems-Analysis_R0136289-1) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Systems-Analysis_R0137729) |
 
 ## About This Role
 
-This business analyst position at PayPal was posted on 2026-04-29.
+This business analyst position at PayPal was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Vanguard](https://scoutify.ai/companies/vanguard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hyderabad, Telangana, India |
+| Location | Manchester, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Hyderabad-India/Business-Systems-Analyst--Specialist_179421) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Manchester-United-Kingdom/Business-Systems-Analyst--Specialist_182268-3) |
 
 ## About This Role
 
-This business analyst position at Vanguard was posted on 2026-08-12.
+This business analyst position at Vanguard was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

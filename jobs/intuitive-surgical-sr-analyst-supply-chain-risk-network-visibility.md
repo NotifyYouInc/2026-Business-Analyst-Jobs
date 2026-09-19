@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sunnyvale, California, United States |
 | Category | Business Analyst |
-| Posted | 2026-04-23 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000122513159-sr-analyst-supply-chain-risk-network-visibility) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000149100949-sr-analyst-supply-chain-risk-network-visibility) |
 
 ## About This Role
 
-This business analyst position at Intuitive Surgical was posted on 2026-04-23.
+This business analyst position at Intuitive Surgical was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

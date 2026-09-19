@@ -5,12 +5,12 @@
 | Company | [Bass Pro Shops](https://scoutify.ai/companies/basspro?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Springfield, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-03-17 |
-| Apply | [View on company site](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Inventory-Analyst-I_R250684) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Inventory-Analyst-I_R267013) |
 
 ## About This Role
 
-This business analyst position at Bass Pro Shops was posted on 2026-03-17.
+This business analyst position at Bass Pro Shops was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

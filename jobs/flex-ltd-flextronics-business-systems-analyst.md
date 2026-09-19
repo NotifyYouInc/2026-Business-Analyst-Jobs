@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [FLEX LTD. Flextronics](https://scoutify.ai/companies/flex-ltd-flextronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Guadalajara, Jalisco, Mexico |
-| Category | IT & Systems Administration |
-| Posted | 2026-09-01 |
-| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Mexico-Guadalajara/Business-Systems-Analyst_WD228436) |
+| Location | Shah Alam, Selangor, Malaysia |
+| Category | Business Analyst |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://flextronics.wd1.myworkdayjobs.com/careers/job/Malaysia-Selangor/Business-Systems-Analyst_WD229499-1) |
 
 ## About This Role
 
-This it & systems administration position at FLEX LTD. Flextronics was posted on 2026-09-01.
+This business analyst position at FLEX LTD. Flextronics was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

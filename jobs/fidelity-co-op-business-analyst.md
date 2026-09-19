@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Fidelity](https://scoutify.ai/companies/fmr?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Boston, Massachusetts, United States |
+| Location | 3 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-06 |
-| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Business-Analyst_2127397) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Co-op--Business-Analyst_2135273) |
 
 ## About This Role
 
-This business analyst position at Fidelity was posted on 2026-04-06.
+This business analyst position at Fidelity was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

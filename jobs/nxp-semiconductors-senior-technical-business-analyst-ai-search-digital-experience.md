@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [NXP Semiconductors](https://scoutify.ai/companies/nxp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 2 locations |
-| Category | Project Manager |
-| Posted | 2026-03-11 |
-| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Senior-Technical-Business-Analyst---AI-Search---Digital-Experience_R-10061962) |
+| Category | Business Analyst |
+| Posted | 2026-09-12 |
+| Apply | [View on company site](https://nxp.wd3.myworkdayjobs.com/careers/job/Austin-Oakhill-Office/Senior-Technical-Business-Analyst---AI-Search---Digital-Experience_R-10065630) |
 
 ## About This Role
 
-This project manager position at NXP Semiconductors was posted on 2026-03-11.
+This business analyst position at NXP Semiconductors was posted on 2026-09-12.
 
 ## Get Real-Time Alerts
 

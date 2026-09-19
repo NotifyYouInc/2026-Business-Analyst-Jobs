@@ -5,12 +5,12 @@
 | Company | [Red Bull](https://scoutify.ai/companies/redbull?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Elsbethen, Salzburg, Austria |
 | Category | Business Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000148498385-senior-data-process-developer-plm) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/RedBull/744000148990469-senior-data-process-developer-plm) |
 
 ## About This Role
 
-This business analyst position at Red Bull was posted on 2026-09-09.
+This business analyst position at Red Bull was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

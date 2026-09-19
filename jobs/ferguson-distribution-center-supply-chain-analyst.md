@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ferguson](https://scoutify.ai/companies/ferguson?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Stockton, California, United States |
+| Location | Waterloo, Iowa, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-19 |
-| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Stockton-CA/Distribution-Center-Supply-Chain-Analyst_R-137660) |
+| Posted | 2026-09-11 |
+| Apply | [View on company site](https://ferguson.wd1.myworkdayjobs.com/ferguson_experienced/job/Waterloo-IA/Distribution-Center-Supply-Chain-Analyst_R-140544) |
 
 ## About This Role
 
-This business analyst position at Ferguson was posted on 2026-06-19.
+This business analyst position at Ferguson was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
