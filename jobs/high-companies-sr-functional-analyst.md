@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [High Companies](https://scoutify.ai/companies/high-companies?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
-| Category | Business Analyst |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://recruiting.ultipro.com/hig1003high/JobBoard/36e34ed6-1416-4779-a66e-16418fbb23d7/OpportunityDetail?opportunityId=c410c07f-6640-4e6e-a50a-55b22b3133bb) |
 
 ## About This Role
 
-This business analyst position at High Companies was posted on 2026-09-11.
+This technology / it consulting position at High Companies was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ING](https://scoutify.ai/companies/ing?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Katowice, Silesia, Poland |
+| Location | Nysa, Opole Voivodeship, Poland |
 | Category | Business Analyst |
-| Posted | 2026-07-30 |
-| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/PB_Cen_Katowice-ul-Sokolska-34/Modszy-a-Specjalista-ka---Wsparcie-Biznesu_REQ-10119202) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/PB_DetKorp_Nysa-ul-Piastowska-33/Modszy-a-Specjalista-ka---Wsparcie-Biznesu_REQ-10121291) |
 
 ## About This Role
 
-This business analyst position at ING was posted on 2026-07-30.
+This business analyst position at ING was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

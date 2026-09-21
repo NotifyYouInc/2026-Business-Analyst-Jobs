@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Fort Lauderdale, Florida, United States |
-| Category | Project Manager |
-| Posted | 2026-03-07 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Fort-Lauderdale-Florida-United-States/Operations-Core-Project-Lead-Analyst_26941945) |
+| Location | Warsaw, Mazovia, Poland |
+| Category | Data Analyst |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Operations-Core-Project-Lead-Analyst_26990025) |
 
 ## About This Role
 
-This project manager position at Citigroup was posted on 2026-03-07.
+This data analyst position at Citigroup was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Northwestern Mutual](https://scoutify.ai/companies/northwesternmutual?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Milwaukee, Wisconsin, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Technical-Business-Analyst-II_JR-45811) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Technical-Business-Analyst-II_JR-45971) |
 
 ## About This Role
 
-This business analyst position at Northwestern Mutual was posted on 2026-08-19.
+This business analyst position at Northwestern Mutual was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

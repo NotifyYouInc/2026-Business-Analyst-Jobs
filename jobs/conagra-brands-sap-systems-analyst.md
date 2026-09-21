@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Conagra Brands](https://scoutify.ai/companies/conagrabrands?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Omaha, Nebraska, United States |
-| Category | Business Analyst |
+| Category | Technology / IT Consulting |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/SAP-Systems-Analyst_Req-040146) |
 
 ## About This Role
 
-This business analyst position at Conagra Brands was posted on 2026-09-11.
+This technology / it consulting position at Conagra Brands was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

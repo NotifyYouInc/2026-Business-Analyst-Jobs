@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Kiel, Schleswig-Holstein, Germany |
 | Category | Business Analyst |
-| Posted | 2026-06-30 |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kiel-Schleswig-Holstein/Supply-Chain-Analyst_R0000379372) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-06-30.
+This business analyst position at Caterpillar was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

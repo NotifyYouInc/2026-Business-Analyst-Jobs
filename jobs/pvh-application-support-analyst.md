@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [PVH](https://scoutify.ai/companies/pvh?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Business Analyst |
+| Category | Technical Support Engineer |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://pvh.wd1.myworkdayjobs.com/pvh_careers/job/AUS-Head-Office/Application-Support-Analyst_R61734-1) |
 
 ## About This Role
 
-This business analyst position at PVH was posted on 2026-09-11.
+This technical support engineer position at PVH was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 

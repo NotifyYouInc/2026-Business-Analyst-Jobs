@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Noida, Uttar Pradesh, India |
-| Category | Business Analyst |
-| Posted | 2026-07-28 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000140189296-sap-pp-senior-functional-analyst) |
+| Location | 2 locations |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149316599-sap-pp-senior-functional-analyst) |
 
 ## About This Role
 
-This business analyst position at Sopra Steria was posted on 2026-07-28.
+This technology / it consulting position at Sopra Steria was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Arrow Electronics](https://scoutify.ai/companies/arrow-electronics?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Casablanca, Casablanca-Settat, Morocco |
 | Category | Strategy & Operations |
-| Posted | 2026-02-06 |
-| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/MA-Casablanca-Morocco-Boulevard-Al-Quods/ECS-EMEA---Business-Transformation-Analyst_R235828) |
+| Posted | 2026-09-13 |
+| Apply | [View on company site](https://arrow.wd1.myworkdayjobs.com/ac/job/MA-Casablanca-Morocco-Boulevard-Al-Quods/ECS-EMEA---Business-Transformation-Analyst_R243181) |
 
 ## About This Role
 
-This strategy & operations position at Arrow Electronics was posted on 2026-02-06.
+This strategy & operations position at Arrow Electronics was posted on 2026-09-13.
 
 ## Get Real-Time Alerts
 

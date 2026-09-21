@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Downer Group](https://scoutify.ai/companies/ocs-cx-oj31911?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Wellington, Wellington Region, New Zealand |
-| Category | Business Analyst |
+| Category | Legal |
 | Posted | 2026-09-11 |
 | Apply | [View on company site](https://fa-exfs-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#736740) |
 
 ## About This Role
 
-This business analyst position at Downer Group was posted on 2026-09-11.
+This legal position at Downer Group was posted on 2026-09-11.
 
 ## Get Real-Time Alerts
 
