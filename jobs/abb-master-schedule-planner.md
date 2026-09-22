@@ -5,12 +5,12 @@
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Nuevo León, MX |
 | Category | Business Analyst |
-| Posted | 2026-07-22 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/Master-Schedule-Planner_JR00042299) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Apodaca-Nuevo-Len-Mexico/Master-Schedule-Planner_JR00047283) |
 
 ## About This Role
 
-This business analyst position at ABB was posted on 2026-07-22.
+This business analyst position at ABB was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

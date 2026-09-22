@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [MRI Software](https://scoutify.ai/companies/mrisoftware?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Singapore, Singapore |
+| Location | United Kingdom |
 | Category | Customer Success |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Singapore-Office/Functional-Consultant_R-109385) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/UK-Remote/Functional-Consultant_R-108778) |
 
 ## About This Role
 
-This customer success position at MRI Software was posted on 2026-09-09.
+This customer success position at MRI Software was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

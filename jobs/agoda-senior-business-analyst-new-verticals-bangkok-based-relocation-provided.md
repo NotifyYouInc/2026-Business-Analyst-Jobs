@@ -5,12 +5,12 @@
 | Company | [Agoda](https://scoutify.ai/companies/agoda?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bangkok, Bangkok, Thailand |
 | Category | Business Analyst |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://job-boards.greenhouse.io/agoda/jobs/8194531) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://job-boards.greenhouse.io/agoda/jobs/8203656) |
 
 ## About This Role
 
-This business analyst position at Agoda was posted on 2026-09-11.
+This business analyst position at Agoda was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

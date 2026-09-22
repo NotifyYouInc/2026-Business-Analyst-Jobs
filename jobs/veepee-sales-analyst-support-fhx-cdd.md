@@ -1,0 +1,22 @@
+# Sales Analyst & Support (F/H/X) - CDD at Veepee
+
+| Field | Details |
+|-------|---------|
+| Company | [Veepee](https://scoutify.ai/companies/veepee?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
+| Location | Saint-Denis, Île-de-France, France |
+| Category | Data Analyst |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.lever.co/veepee/0c926997-e459-4d70-913e-e2e7c30284e5) |
+
+## About This Role
+
+This data analyst position at Veepee was posted on 2026-09-14.
+
+## Get Real-Time Alerts
+
+This job was posted 7+ days ago. For instant alerts on new jobs like this:
+
+**[Get Instant Job Alerts on Scoutify](https://scoutify.ai?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs)** - Be first to apply at 8,800+ companies.
+
+---
+*Data sourced from [Scoutify](https://scoutify.ai) | Updated daily*

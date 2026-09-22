@@ -5,12 +5,12 @@
 | Company | [Hitachi](https://scoutify.ai/companies/hitachi?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | North Carolina, US |
 | Category | Business Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---North-Carolina-United-States/Master-Data-Specialist_R0122089) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---North-Carolina-United-States/Master-Data-Specialist_R0122090-1) |
 
 ## About This Role
 
-This business analyst position at Hitachi was posted on 2026-08-12.
+This business analyst position at Hitachi was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

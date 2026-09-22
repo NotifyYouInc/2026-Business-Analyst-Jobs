@@ -5,12 +5,12 @@
 | Company | [American Financial Group](https://scoutify.ai/companies/gaig?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cincinnati, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-01 |
-| Apply | [View on company site](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Analyst_R9329) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Business-Analyst_R9531) |
 
 ## About This Role
 
-This business analyst position at American Financial Group was posted on 2026-08-01.
+This business analyst position at American Financial Group was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

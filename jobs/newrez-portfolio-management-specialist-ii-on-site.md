@@ -5,12 +5,12 @@
 | Company | [Newrez](https://scoutify.ai/companies/newrez?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 3 locations |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-04-03 |
-| Apply | [View on company site](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/Portfolio-Management-Specialist-II--On-site-_R9676-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/Portfolio-Management-Specialist-II--On-site-_R10422) |
 
 ## About This Role
 
-This asset management / portfolio management position at Newrez was posted on 2026-04-03.
+This asset management / portfolio management position at Newrez was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

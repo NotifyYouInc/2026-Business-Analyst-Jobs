@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Seattle, Washington, United States |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Seattle-WA/Senior-Occupancy-Planner_REQ534623) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/London-GBR/Senior-Occupancy-Planner_REQ535862) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-09-09.
+This business analyst position at JLL was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

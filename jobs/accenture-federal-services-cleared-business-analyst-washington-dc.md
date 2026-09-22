@@ -5,12 +5,12 @@
 | Company | [Accenture Federal Services](https://scoutify.ai/companies/accenture-federal-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Washington, District of Columbia, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4687401006?gh_jid=4687401006) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://boards.greenhouse.io/accenturefederalservices/jobs/4713226006?gh_jid=4713226006) |
 
 ## About This Role
 
-This business analyst position at Accenture Federal Services was posted on 2026-06-05.
+This business analyst position at Accenture Federal Services was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

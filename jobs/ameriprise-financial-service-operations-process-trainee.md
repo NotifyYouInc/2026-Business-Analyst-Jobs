@@ -5,12 +5,12 @@
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Noida, Uttar Pradesh, India |
 | Category | Business Analyst |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/11073-Ameriprise-India---Noida---Embassy-Oxygen-Business-Park/Service---Operations-Process-Trainee_R26_2979) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/11073-Ameriprise-India---Noida---Embassy-Oxygen-Business-Park/Service---Operations-Process-Trainee_R26_2984) |
 
 ## About This Role
 
-This business analyst position at Ameriprise Financial was posted on 2026-09-11.
+This business analyst position at Ameriprise Financial was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

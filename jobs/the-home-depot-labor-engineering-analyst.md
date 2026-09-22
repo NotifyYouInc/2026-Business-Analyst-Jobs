@@ -5,12 +5,12 @@
 | Company | [The Home Depot](https://scoutify.ai/companies/homedepot?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Atlanta, Georgia, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Labor-Engineering-Analyst_Req186090) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Labor-Engineering-Analyst_Req190035) |
 
 ## About This Role
 
-This business analyst position at The Home Depot was posted on 2026-07-10.
+This business analyst position at The Home Depot was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Austintexas](https://scoutify.ai/companies/austintexas?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
-| Apply | [View on company site](https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/Police-Headquarters/Business-Process-Specialist_JR103225) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://austintexas.wd5.myworkdayjobs.com/coa_careers/job/Austin-Financial-Services/Business-Process-Specialist_JR105075) |
 
 ## About This Role
 
-This business analyst position at Austintexas was posted on 2026-06-10.
+This business analyst position at Austintexas was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

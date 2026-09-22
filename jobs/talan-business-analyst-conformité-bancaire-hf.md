@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Talan](https://scoutify.ai/companies/talan?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Paris, Île-de-France, France |
-| Category | Business Analyst |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000146457949-business-analyst-conformite-bancaire-hf) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Talan/744000149362916-business-analyst-conformite-bancaire-hf) |
 
 ## About This Role
 
-This business analyst position at Talan was posted on 2026-08-31.
+This technology / it consulting position at Talan was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

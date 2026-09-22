@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [CONAM Management](https://scoutify.ai/companies/recruiting2-ultipro-com-oj25308?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Diego, California, United States |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-09-03 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/con1062conam/JobBoard/040c5118-b641-493c-ad8c-957eebf3855e/OpportunityDetail?opportunityId=5c6a3df8-fd9b-4382-a45f-deddb505eb18) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/con1062conam/JobBoard/040c5118-b641-493c-ad8c-957eebf3855e/OpportunityDetail?opportunityId=728f48f7-e0ff-4427-9a58-e1d2204d3864) |
 
 ## About This Role
 
-This business analyst position at CONAM Management was posted on 2026-09-03.
+This business analyst position at CONAM Management was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Data Analyst |
-| Posted | 2026-07-10 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bengaluru-KA/Business-Operations-Analyst_REQ520519) |
+| Location | Taguig, National Capital Region, Philippines |
+| Category | Strategy & Operations |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Taguig-Philippines/Business-Operations-Analyst_REQ529076-1) |
 
 ## About This Role
 
-This data analyst position at JLL was posted on 2026-07-10.
+This strategy & operations position at JLL was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

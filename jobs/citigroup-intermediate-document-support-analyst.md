@@ -5,12 +5,12 @@
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tampa, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Intermediate-Document-Support-Analyst_26980057) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Intermediate-Document-Support-Analyst_26991846) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-07-20.
+This business analyst position at Citigroup was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

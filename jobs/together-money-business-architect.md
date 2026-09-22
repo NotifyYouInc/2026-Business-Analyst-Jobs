@@ -5,12 +5,12 @@
 | Company | [Together Money](https://scoutify.ai/companies/togethermoney?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cheadle, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Together/744000144282329-business-architect) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Together/744000149341949-business-architect) |
 
 ## About This Role
 
-This business analyst position at Together Money was posted on 2026-08-19.
+This business analyst position at Together Money was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Brown-Forman](https://scoutify.ai/companies/brown-forman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Dubai, Dubai, United Arab Emirates |
-| Category | Business Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://bf.wd5.myworkdayjobs.com/international/job/United-Arab-Emirates-Dubai/Supply-Planning-Analyst_JR-00010261-1) |
+| Location | Taipei, Taiwan, Taiwan |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://bf.wd5.myworkdayjobs.com/international/job/Taiwan-Taipei-City/Supply-Planning-Analyst_JR-00010397-1) |
 
 ## About This Role
 
-This business analyst position at Brown-Forman was posted on 2026-08-05.
+This fp&a / strategic finance position at Brown-Forman was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Blend360](https://scoutify.ai/companies/blend360?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Jacksonville, Florida, United States |
-| Category | Business Analyst |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000148882069-lead-business-analyst-fraud-analytics) |
+| Category | Data Analyst |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/blend360/744000149232269-lead-business-analyst-fraud-analytics) |
 
 ## About This Role
 
-This business analyst position at Blend360 was posted on 2026-09-10.
+This data analyst position at Blend360 was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

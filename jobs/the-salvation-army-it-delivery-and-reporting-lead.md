@@ -5,12 +5,12 @@
 | Company | [The Salvation Army](https://scoutify.ai/companies/the-salvation-army?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-06-10 |
+| Posted | 2026-09-14 |
 | Apply | [View on company site](https://salvationarmyca.wd3.myworkdayjobs.com/tsacb/job/Toronto-ON/IT-Delivery-and-Reporting-Lead_JR111898) |
 
 ## About This Role
 
-This business analyst position at The Salvation Army was posted on 2026-06-10.
+This business analyst position at The Salvation Army was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Labcorp](https://scoutify.ai/companies/labcorp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Bengaluru, Karnataka, India |
 | Category | Leadership Development Program |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Madison-WI/Resource-Management-Associate_2624599-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Resource-Management-Associate_2631833) |
 
 ## About This Role
 
-This leadership development program position at Labcorp was posted on 2026-08-24.
+This leadership development program position at Labcorp was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

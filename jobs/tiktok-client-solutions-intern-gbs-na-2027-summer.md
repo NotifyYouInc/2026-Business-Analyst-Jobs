@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Los Angeles, California, United States |
+| Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-24 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7677467375487486213/detail) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7684623688945961221/detail) |
 
 ## About This Role
 
-This business analyst position at TikTok was posted on 2026-08-24.
+This business analyst position at TikTok was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

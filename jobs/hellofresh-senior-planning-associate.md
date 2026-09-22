@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [HelloFresh](https://scoutify.ai/companies/hellofresh?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Aurora, Colorado, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-30 |
-| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8160147?gh_jid=8160147) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://careers.hellofresh.com/global/en/job/8191580?gh_jid=8191580) |
 
 ## About This Role
 
-This business analyst position at HelloFresh was posted on 2026-08-30.
+This business analyst position at HelloFresh was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

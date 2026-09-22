@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Robert Bosch](https://scoutify.ai/companies/robertbosch?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sofia, Sofia-Capital, Bulgaria |
-| Category | Business Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000143807711-business-analyst-contract-lifecycle-management-temporary-assignment) |
+| Category | Legal |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/BoschGroup/744000149570519-business-analyst-contract-lifecycle-management-temporary-assignment) |
 
 ## About This Role
 
-This business analyst position at Robert Bosch was posted on 2026-08-17.
+This legal position at Robert Bosch was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

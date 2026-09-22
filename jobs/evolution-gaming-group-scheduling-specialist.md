@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Evolution Gaming Group](https://scoutify.ai/companies/evolutiongaminggroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Southfield, Michigan, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-05 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000130574497-scheduling-specialist) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Evolution/744000149392209-scheduling-specialist) |
 
 ## About This Role
 
-This business analyst position at Evolution Gaming Group was posted on 2026-06-05.
+This business analyst position at Evolution Gaming Group was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

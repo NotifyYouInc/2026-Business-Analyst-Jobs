@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Covance](https://scoutify.ai/companies/fortrea?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Bengaluru, Karnataka, India |
+| Location | São Paulo, São Paulo, Brazil |
 | Category | Business Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/Bangalore/Proposal-Associate_264436) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://fortrea.wd1.myworkdayjobs.com/fortrea/job/So-Paulo/Proposal-Associate_265257-1) |
 
 ## About This Role
 
-This business analyst position at Covance was posted on 2026-08-25.
+This business analyst position at Covance was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

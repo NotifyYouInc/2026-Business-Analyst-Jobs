@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [SNC-Lavalin](https://scoutify.ai/companies/snc-lavalin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tallahassee, Florida, United States |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-07-01 |
-| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/USFLTallahassee3522-Thomasville-Rd/Business-Analyst_R-158842-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://slihrms.wd3.myworkdayjobs.com/Careers/job/INBangaloreRMZ-Galleria/Business-Analyst_R-162802-1) |
 
 ## About This Role
 
-This business analyst position at SNC-Lavalin was posted on 2026-07-01.
+This business analyst position at SNC-Lavalin was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

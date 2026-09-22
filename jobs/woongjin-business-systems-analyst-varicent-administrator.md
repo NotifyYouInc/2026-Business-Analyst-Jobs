@@ -5,12 +5,12 @@
 | Company | [Woongjin](https://scoutify.ai/companies/woongjin?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Plano, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000142951014-business-systems-analyst-varicent-administrator) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/WJCompany/744000149396153-business-systems-analyst-varicent-administrator) |
 
 ## About This Role
 
-This business analyst position at Woongjin was posted on 2026-08-11.
+This business analyst position at Woongjin was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

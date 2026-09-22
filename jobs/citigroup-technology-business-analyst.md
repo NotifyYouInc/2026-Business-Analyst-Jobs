@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Belfast, Northern Ireland, United Kingdom |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-07-24 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology-Business-Analyst_26955271) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Technology-Business-Analyst_26994826) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-07-24.
+This business analyst position at Citigroup was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

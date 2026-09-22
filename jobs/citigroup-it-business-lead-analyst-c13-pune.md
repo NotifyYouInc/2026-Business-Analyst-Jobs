@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Pune, Maharashtra, India |
-| Category | Program Manager |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/IT-Business-Lead-Analyst---C13---PUNE_26985822) |
+| Category | Business Analyst |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/IT-Business-Lead-Analyst---C13---PUNE_26992814) |
 
 ## About This Role
 
-This program manager position at Citigroup was posted on 2026-08-18.
+This business analyst position at Citigroup was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

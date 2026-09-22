@@ -5,12 +5,12 @@
 | Company | [Best Buy Express](https://scoutify.ai/companies/best-buy-express?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Brampton, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://bestbuycanada.wd3.myworkdayjobs.com/bestbuyca_career/job/40002-Brampton-DC-1/Business-Process-Analyst_R-51601-1) |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://bestbuycanada.wd3.myworkdayjobs.com/bestbuyca_career/job/40002-Brampton-DC-1/Business-Process-Analyst_R-52500) |
 
 ## About This Role
 
-This business analyst position at Best Buy Express was posted on 2026-07-21.
+This business analyst position at Best Buy Express was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

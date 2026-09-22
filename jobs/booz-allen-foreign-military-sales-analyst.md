@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Arlington, Texas, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-16 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Arlington-VA/Foreign-Military-Sales-Analyst_R0242400) |
+| Location | Stuttgart, Baden-Wurttemberg, Germany |
+| Category | Data Analyst |
+| Posted | 2026-09-14 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Stuttgart-Baden-Wurttemberg/Foreign-Military-Sales-Analyst_R0249391) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-06-16.
+This data analyst position at Booz Allen was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 
