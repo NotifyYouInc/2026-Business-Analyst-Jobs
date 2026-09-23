@@ -5,12 +5,12 @@
 | Company | [Geico](https://scoutify.ai/companies/geico?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 6 locations |
 | Category | Human Resources / People Ops |
-| Posted | 2026-04-21 |
-| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Richardson-TX/Senior-Manager--Workforce-Management_R0063535) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://geico.wd1.myworkdayjobs.com/External/job/Richardson-TX/Senior-Manager--Workforce-Management_R0065815) |
 
 ## About This Role
 
-This human resources / people ops position at Geico was posted on 2026-04-21.
+This human resources / people ops position at Geico was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

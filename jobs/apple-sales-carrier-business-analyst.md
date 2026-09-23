@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Sydney, New South Wales, Australia |
-| Category | Operations |
+| Category | Revenue / Sales Operations |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.apple.com/en-us/details/200680341/sales-carrier-business-analyst) |
 
 ## About This Role
 
-This operations position at Apple was posted on 2026-09-15.
+This revenue / sales operations position at Apple was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

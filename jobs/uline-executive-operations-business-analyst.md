@@ -5,12 +5,12 @@
 | Company | [Uline](https://scoutify.ai/companies/uline?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | 5 locations |
 | Category | Business Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Business-Analyst_R266436-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Executive-Operations-Business-Analyst_R267457-1) |
 
 ## About This Role
 
-This business analyst position at Uline was posted on 2026-08-12.
+This business analyst position at Uline was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

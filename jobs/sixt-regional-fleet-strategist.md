@@ -5,12 +5,12 @@
 | Company | [Sixt](https://scoutify.ai/companies/sixt?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Fort Lauderdale, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000149410179-regional-fleet-strategist) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SIXT/744000149601740-regional-fleet-strategist) |
 
 ## About This Role
 
-This business analyst position at Sixt was posted on 2026-09-14.
+This business analyst position at Sixt was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

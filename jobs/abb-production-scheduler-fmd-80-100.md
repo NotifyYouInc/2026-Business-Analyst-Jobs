@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [ABB](https://scoutify.ai/companies/abb?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Untersiggenthal, Aargau, Switzerland |
+| Location | Ticino, CH |
 | Category | Business Analyst |
-| Posted | 2026-07-03 |
-| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Untersiggenthal-Aargau-Switzerland/Production-Scheduler--f-m-d--80-100-_JR00039283) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Quartino-Ticino-Switzerland/Production-Scheduler--f-m-d--80-100-_JR00046078-1) |
 
 ## About This Role
 
-This business analyst position at ABB was posted on 2026-07-03.
+This business analyst position at ABB was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

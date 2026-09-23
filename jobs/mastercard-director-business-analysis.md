@@ -1,16 +1,16 @@
-# Director, Business Analysis at Mastercard
+# Director Business Analysis at Mastercard
 
 | Field | Details |
 |-------|---------|
 | Company | [Mastercard](https://scoutify.ai/companies/mastercard?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | O'Fallon, Missouri, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director--Business-Analysis_R-278612) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Director-Business-Analysis_R-288845-1) |
 
 ## About This Role
 
-This business analyst position at Mastercard was posted on 2026-05-22.
+This business analyst position at Mastercard was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

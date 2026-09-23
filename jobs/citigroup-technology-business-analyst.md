@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Warsaw, Mazovia, Poland |
+| Location | Escazú, San José, Costa Rica |
 | Category | Business Analyst |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Technology-Business-Analyst_26994826) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Escazu--Costa-Rica/Technology-Business-Analyst_26994825) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-09-14.
+This business analyst position at Citigroup was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

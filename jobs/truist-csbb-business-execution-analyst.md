@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Truist](https://scoutify.ai/companies/truist?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Raleigh, North Carolina, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/CSBB-Business-Execution-Analyst_R0116674-1) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://truist.wd1.myworkdayjobs.com/Careers/job/Raleigh-NC/CSBB-Business-Execution-Analyst_R0117734-1) |
 
 ## About This Role
 
-This business analyst position at Truist was posted on 2026-07-15.
+This business analyst position at Truist was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

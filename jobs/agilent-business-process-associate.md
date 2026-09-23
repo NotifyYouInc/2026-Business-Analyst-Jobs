@@ -5,12 +5,12 @@
 | Company | [Agilent](https://scoutify.ai/companies/agilent?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mānesar, Haryana, India |
 | Category | Business Analyst |
-| Posted | 2026-04-20 |
-| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/India-Manesar/Business-Process-Associate_4037547) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://agilent.wd5.myworkdayjobs.com/agilent_careers/job/India-Manesar/Business-Process-Associate_4039691) |
 
 ## About This Role
 
-This business analyst position at Agilent was posted on 2026-04-20.
+This business analyst position at Agilent was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

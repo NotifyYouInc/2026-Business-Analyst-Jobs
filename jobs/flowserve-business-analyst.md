@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Flowserve](https://scoutify.ai/companies/flowserve?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Coslada, Madrid, Spain |
+| Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/Coslada-Spain/Business-Analyst_R-20570-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://flowserve.wd1.myworkdayjobs.com/applied/job/IT-COE-Chennai/Business-Analyst_R-21134) |
 
 ## About This Role
 
-This business analyst position at Flowserve was posted on 2026-08-31.
+This business analyst position at Flowserve was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

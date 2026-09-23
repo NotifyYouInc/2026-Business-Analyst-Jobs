@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Smiths Group](https://scoutify.ai/companies/smithsgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Edgewood, Maryland, United States |
+| Location | Hemel Hempstead, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000144383989-business-engagement-manager) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SmithsGroup2/744000149808094-business-engagement-manager) |
 
 ## About This Role
 
-This business analyst position at Smiths Group was posted on 2026-08-19.
+This business analyst position at Smiths Group was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

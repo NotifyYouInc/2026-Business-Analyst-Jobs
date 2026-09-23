@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Seattle, Washington, United States |
-| Category | Operations |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7674880292247406901/detail) |
+| Location | Los Angeles, California, United States |
+| Category | Business Analyst |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7685689682915264821/detail) |
 
 ## About This Role
 
-This operations position at TikTok was posted on 2026-08-18.
+This business analyst position at TikTok was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

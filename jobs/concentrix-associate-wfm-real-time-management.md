@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | São Paulo, São Paulo, Brazil |
+| Location | Angeles City, Central Luzon, Philippines |
 | Category | Business Analyst |
-| Posted | 2026-07-31 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/BRA-Sao-Paulo---Rua-Arquiteto-Olavo-Redig-de-Campos/Associate--WFM-Real-Time-Management_R1738941) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Angeles-City---6th-Floor-SM-City-Clark-Tech-Hub-10-Bldg/Associate--WFM-Real-Time-Management_R1761728) |
 
 ## About This Role
 
-This business analyst position at Concentrix was posted on 2026-07-31.
+This business analyst position at Concentrix was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tamil Nadu, IN |
 | Category | Business Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/Value-Chain-Designer_R0000379523) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/Value-Chain-Designer_R0000394198) |
 
 ## About This Role
 
-This business analyst position at Caterpillar was posted on 2026-06-30.
+This business analyst position at Caterpillar was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

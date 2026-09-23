@@ -5,12 +5,12 @@
 | Company | [N-iX](https://scoutify.ai/companies/n-ix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Ukraine |
 | Category | Business Analyst |
-| Posted | 2026-08-19 |
-| Apply | [View on company site](https://careers.n-ix.com/jobs/4955406101?gh_jid=4955406101) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://careers.n-ix.com/jobs/4975942101?gh_jid=4975942101) |
 
 ## About This Role
 
-This business analyst position at N-iX was posted on 2026-08-19.
+This business analyst position at N-iX was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

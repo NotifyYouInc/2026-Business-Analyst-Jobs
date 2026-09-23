@@ -5,12 +5,12 @@
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | East Hartford, Connecticut, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-17 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-OBF2--400-Main-St--BLDG-OBF2/Senior-Analyst--Earned-Value-Analyst-EVM--Onsite-_01862521) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CT-EAST-HARTFORD-ENG--400-Main-St--BLDG-ENG/Senior-Analyst--Earned-Value-Analyst-EVM--Onsite-_01874827) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-08-17.
+This business analyst position at RTX was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

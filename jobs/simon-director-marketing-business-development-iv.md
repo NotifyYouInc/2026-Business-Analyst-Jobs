@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Simon](https://scoutify.ai/companies/simon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Springfield, Missouri, United States |
-| Category | Brand Marketing |
+| Category | Marketing |
 | Posted | 2026-09-14 |
 | Apply | [View on company site](https://simon.wd1.myworkdayjobs.com/Simon/job/Springfield-MO/Director--Marketing---Business-Development-IV_R14012) |
 
 ## About This Role
 
-This brand marketing position at Simon was posted on 2026-09-14.
+This marketing position at Simon was posted on 2026-09-14.
 
 ## Get Real-Time Alerts
 

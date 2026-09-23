@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [PPG Industries](https://scoutify.ai/companies/ppg-industries?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Kunshan, Jiangsu, China |
+| Location | Busan, Busan, South Korea |
 | Category | Business Analyst |
-| Posted | 2026-04-28 |
-| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/CHN---Kunshan-Plant/Demand-Planner_JR265804) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://ppg.wd5.myworkdayjobs.com/ppg_careers/job/KOR---Busan-Plant/Demand-Planner_JR2610793) |
 
 ## About This Role
 
-This business analyst position at PPG Industries was posted on 2026-04-28.
+This business analyst position at PPG Industries was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

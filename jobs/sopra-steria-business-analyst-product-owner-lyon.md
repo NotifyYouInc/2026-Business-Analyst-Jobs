@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Sopra Steria](https://scoutify.ai/companies/soprasteria?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Limonest, Rhône-Alpes, France |
-| Category | Business Analyst |
-| Posted | 2026-06-30 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000134953290-business-analyst-product-owner-lyon) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/SopraSteria1/744000149643784-business-analyst-product-owner-lyon) |
 
 ## About This Role
 
-This business analyst position at Sopra Steria was posted on 2026-06-30.
+This technology / it consulting position at Sopra Steria was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

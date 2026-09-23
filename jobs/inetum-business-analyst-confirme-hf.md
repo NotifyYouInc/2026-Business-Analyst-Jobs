@@ -5,12 +5,12 @@
 | Company | [Inetum](https://scoutify.ai/companies/inetum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Niort, Nouvelle-Aquitaine, France |
 | Category | Business Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000148492941-business-analyst-confirme-hf) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Inetum2/744000149608434-business-analyst-confirme-hf) |
 
 ## About This Role
 
-This business analyst position at Inetum was posted on 2026-09-09.
+This business analyst position at Inetum was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cencora](https://scoutify.ai/companies/cencora?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Conshohocken, Pennsylvania, United States |
+| Location | Philadelphia, Pennsylvania, United States |
 | Category | Business Analyst |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Texas/Senior-Analyst--Technical-Business-Solutions_R2614772) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Philadelphia/Senior-Analyst--Technical-Business-Solutions_R2613312) |
 
 ## About This Role
 
-This business analyst position at Cencora was posted on 2026-09-04.
+This business analyst position at Cencora was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

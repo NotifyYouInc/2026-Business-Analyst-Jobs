@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Booz Allen](https://scoutify.ai/companies/bah?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chantilly, Virginia, United States |
+| Location | Ashburn, Virginia, United States |
 | Category | Business Analyst |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Chantilly-VA/Business-Analyst_R0249327) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Ashburn-VA/Business-Analyst_R0249485) |
 
 ## About This Role
 
-This business analyst position at Booz Allen was posted on 2026-09-11.
+This business analyst position at Booz Allen was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

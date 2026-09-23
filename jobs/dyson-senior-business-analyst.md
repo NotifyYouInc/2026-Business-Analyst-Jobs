@@ -5,12 +5,12 @@
 | Company | [Dyson](https://scoutify.ai/companies/dyson?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Amsterdam, North Holland, The Netherlands |
 | Category | Business Analyst |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Netherlands---Amsterdam-Office/Senior-Business-Analyst_JR37640) |
+| Posted | 2026-09-15 |
+| Apply | [View on company site](https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/Netherlands---Amsterdam-Office/Senior-Business-Analyst_JR37646) |
 
 ## About This Role
 
-This business analyst position at Dyson was posted on 2026-09-14.
+This business analyst position at Dyson was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 
