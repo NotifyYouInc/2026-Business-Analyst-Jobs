@@ -5,12 +5,12 @@
 | Company | [Itron](https://scoutify.ai/companies/itron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/India-Bangalore/Apprentice_JR102245-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://itron.wd5.myworkdayjobs.com/itron/job/India-Bangalore/Apprentice_JR102702) |
 
 ## About This Role
 
-This business analyst position at Itron was posted on 2026-08-21.
+This business analyst position at Itron was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

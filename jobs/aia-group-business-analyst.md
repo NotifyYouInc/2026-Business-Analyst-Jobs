@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philippines |
+| Location | Singapore, Singapore |
 | Category | Business Analyst |
-| Posted | 2026-04-07 |
-| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Makati-PH-AIA-Philippines/Business-Analyst_JR-65212) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/SG-Tampines-Agency-Building/Business-Analyst_JR-70189) |
 
 ## About This Role
 
-This business analyst position at AIA Group was posted on 2026-04-07.
+This business analyst position at AIA Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

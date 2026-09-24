@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Jacksonville, Florida, United States |
+| Location | London, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-08-25 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/IT-Business-Lead-Analyst_26986387) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/IT-Business-Lead-Analyst_26992845) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-08-25.
+This business analyst position at Citigroup was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

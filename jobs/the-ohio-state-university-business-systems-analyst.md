@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [The Ohio State University](https://scoutify.ai/companies/the-ohio-state-university?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | University, Florida, United States |
+| Location | Columbus, Ohio, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/University-Hospital/Business-Systems-Analyst_R154833) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://osu.wd1.myworkdayjobs.com/osucareers/job/Columbus-Campus/Business-Systems-Analyst_R159008) |
 
 ## About This Role
 
-This business analyst position at The Ohio State University was posted on 2026-08-11.
+This business analyst position at The Ohio State University was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

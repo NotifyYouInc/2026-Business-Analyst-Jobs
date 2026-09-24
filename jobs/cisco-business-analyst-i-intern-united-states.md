@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | San Jose, California, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-04-13 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Business-Analyst-I--Intern--United-States_2000139-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Business-Analyst-I--Intern--United-States_2024552-1) |
 
 ## About This Role
 
-This business analyst position at Cisco was posted on 2026-04-13.
+This business analyst position at Cisco was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Zello](https://scoutify.ai/companies/zello?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Austin, Texas, United States |
-| Category | Revenue / Sales Operations |
+| Category | Operations |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.ashbyhq.com/zello/a9304157-96b5-4641-a269-1d51c027e6c3) |
 
 ## About This Role
 
-This revenue / sales operations position at Zello was posted on 2026-09-15.
+This operations position at Zello was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

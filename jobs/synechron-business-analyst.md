@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Synechron](https://scoutify.ai/companies/synechron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Montréal, Quebec, Canada |
+| Location | Pune, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-08-28 |
-| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/MDC--Montreal/Business-Analyst_JR1043488) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://synechron.wd1.myworkdayjobs.com/synechroncareers/job/Pune---Hinjewadi-Ascendas/Business-Analyst_JR1043736-1) |
 
 ## About This Role
 
-This business analyst position at Synechron was posted on 2026-08-28.
+This business analyst position at Synechron was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

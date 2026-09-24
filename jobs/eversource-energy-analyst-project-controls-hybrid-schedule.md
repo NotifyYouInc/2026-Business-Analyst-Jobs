@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Eversource Energy](https://scoutify.ai/companies/eversource-energy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-08-12 |
-| Apply | [View on company site](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Analyst--Project-Controls--Hybrid-Schedule-_R-031425) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/Analyst--Project-Controls--Hybrid-Schedule-_R-031762-1) |
 
 ## About This Role
 
-This business analyst position at Eversource Energy was posted on 2026-08-12.
+This business analyst position at Eversource Energy was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Toronto, Ontario, Canada |
 | Category | Business Analyst |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7684623688945961221/detail) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7684616492336498949/detail) |
 
 ## About This Role
 
-This business analyst position at TikTok was posted on 2026-09-14.
+This business analyst position at TikTok was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Bon Secours Health System](https://scoutify.ai/companies/bon-secours-health-system?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Richmond, Virginia, United States |
-| Category | Business Analyst |
-| Posted | 2026-06-25 |
+| Category | Talent Acquisition / Recruiting |
+| Posted | 2026-09-16 |
 | Apply | [View on company site](https://easyservice.wd5.myworkdayjobs.com/bonsecourscareers/job/Richmond-VA/Centralized-Staffing---Scheduling-Coordinator_R278830) |
 
 ## About This Role
 
-This business analyst position at Bon Secours Health System was posted on 2026-06-25.
+This talent acquisition / recruiting position at Bon Secours Health System was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [TikTok](https://scoutify.ai/companies/tiktok?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Munich, Bavaria, Germany |
-| Category | Business Analyst |
-| Posted | 2026-08-03 |
-| Apply | [View on company site](https://careers.tiktok.com/position/7664570366703110453/detail) |
+| Location | Milan, Lombardy, Italy |
+| Category | Sales Development (SDR / BDR) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://careers.tiktok.com/position/7686134734870743349/detail) |
 
 ## About This Role
 
-This business analyst position at TikTok was posted on 2026-08-03.
+This sales development (sdr / bdr) position at TikTok was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -5,12 +5,12 @@
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014577746-lcv-dealer-network-analyst) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990015295626-lcv-dealer-network-analyst) |
 
 ## About This Role
 
-This it & systems administration position at MSX International was posted on 2026-08-13.
+This it & systems administration position at MSX International was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

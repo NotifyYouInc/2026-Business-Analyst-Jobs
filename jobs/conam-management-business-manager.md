@@ -5,12 +5,12 @@
 | Company | [CONAM Management](https://scoutify.ai/companies/recruiting2-ultipro-com-oj25308?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://recruiting2.ultipro.com/con1062conam/JobBoard/040c5118-b641-493c-ad8c-957eebf3855e/OpportunityDetail?opportunityId=728f48f7-e0ff-4427-9a58-e1d2204d3864) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://recruiting2.ultipro.com/con1062conam/JobBoard/040c5118-b641-493c-ad8c-957eebf3855e/OpportunityDetail?opportunityId=4d36237d-8140-427f-b7de-c33d449db956) |
 
 ## About This Role
 
-This business analyst position at CONAM Management was posted on 2026-09-14.
+This business analyst position at CONAM Management was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

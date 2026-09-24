@@ -1,16 +1,16 @@
-# Americas Logistics - Business Analyst at Apple
+# Americas Logistics-Business Analyst at Apple
 
 | Field | Details |
 |-------|---------|
 | Company | [Apple](https://scoutify.ai/companies/apple?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Not specified |
+| Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-13 |
-| Apply | [View on company site](https://jobs.apple.com/en-us/details/200671228/americas-logistics-business-analyst) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.apple.com/en-us/details/200684264/americas-logistics-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Apple was posted on 2026-07-13.
+This business analyst position at Apple was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

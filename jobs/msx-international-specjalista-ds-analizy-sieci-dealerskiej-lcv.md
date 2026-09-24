@@ -5,12 +5,12 @@
 | Company | [MSX International](https://scoutify.ai/companies/msxinternational?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Warsaw, Mazovia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990014577786-specjalista-ds-analizy-sieci-dealerskiej-lcv) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MSXInternational/3743990015295746-specjalista-ds-analizy-sieci-dealerskiej-lcv) |
 
 ## About This Role
 
-This business analyst position at MSX International was posted on 2026-08-13.
+This business analyst position at MSX International was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

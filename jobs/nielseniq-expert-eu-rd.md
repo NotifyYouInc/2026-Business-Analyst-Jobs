@@ -1,16 +1,16 @@
-# Expert -  EU RD at NielsenIQ
+# Expert - EU RD at NielsenIQ
 
 | Field | Details |
 |-------|---------|
 | Company | [NielsenIQ](https://scoutify.ai/companies/nielseniq?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Chennai, Tamil Nadu, India |
 | Category | Business Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000137862569-expert-eu-rd) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/NielsenIQ/744000149847549-expert-eu-rd) |
 
 ## About This Role
 
-This business analyst position at NielsenIQ was posted on 2026-07-15.
+This business analyst position at NielsenIQ was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

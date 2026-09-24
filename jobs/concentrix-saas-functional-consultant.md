@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Concentrix](https://scoutify.ai/companies/concentrix?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Quezon City, National Capital Region, Philippines |
-| Category | Customer Success |
-| Posted | 2026-09-10 |
-| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Quezon-City---EXXA-Tower-8th-Floor/SaaS-Functional-Consultant_R1758572-1) |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://cnx.wd1.myworkdayjobs.com/external_global/job/PHL-Quezon-City---EXXA-Tower-8th-Floor/SaaS-Functional-Consultant_R1763130) |
 
 ## About This Role
 
-This customer success position at Concentrix was posted on 2026-09-10.
+This technology / it consulting position at Concentrix was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

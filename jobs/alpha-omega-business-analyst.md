@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Alpha Omega](https://scoutify.ai/companies/recruiting-ultipro-com-oj4186?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Washington, District of Columbia, United States |
+| Location | 2 locations |
 | Category | Business Analyst |
-| Posted | 2026-08-21 |
-| Apply | [View on company site](https://recruiting.ultipro.com/alp1013apao/JobBoard/4db1723d-a288-4922-9a21-754e6e1cf5c4/OpportunityDetail?opportunityId=c53b9e76-369b-4354-86d4-ddc9394d1de1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://recruiting.ultipro.com/alp1013apao/JobBoard/4db1723d-a288-4922-9a21-754e6e1cf5c4/OpportunityDetail?opportunityId=12b421c4-8cf9-4668-89a9-79d2ac3dff14) |
 
 ## About This Role
 
-This business analyst position at Alpha Omega was posted on 2026-08-21.
+This business analyst position at Alpha Omega was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

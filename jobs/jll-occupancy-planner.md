@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
+| Location | Austin, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Folsom-CA/Occupancy-Planner_REQ535310-1) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Occupancy-Planner_REQ536423) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-09-11.
+This business analyst position at JLL was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

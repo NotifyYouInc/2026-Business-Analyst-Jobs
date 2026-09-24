@@ -5,12 +5,12 @@
 | Company | [Ncsecu](https://scoutify.ai/companies/ncsecu?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Raleigh, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-05-21 |
-| Apply | [View on company site](https://ncsecu.wd1.myworkdayjobs.com/secu/job/Operations---Raleigh---Creedmoor-Rd/Business-Systems-Analyst-III_JR-14792) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://ncsecu.wd1.myworkdayjobs.com/secu/job/Operations---Raleigh---Creedmoor-Rd/Business-Systems-Analyst-III_JR-16401-1) |
 
 ## About This Role
 
-This business analyst position at Ncsecu was posted on 2026-05-21.
+This business analyst position at Ncsecu was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

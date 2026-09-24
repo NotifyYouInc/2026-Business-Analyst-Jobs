@@ -5,12 +5,12 @@
 | Company | [Ayming](https://scoutify.ai/companies/ayming?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Bratislava, Bratislava Region, Slovakia |
 | Category | Business Analyst |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Ayming/744000149445494-administrativna-podpora-pre-konzultantov-pre-inovacie-innovation-support-part-time) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Ayming/744000149854399-administrativna-podpora-pre-konzultantov-pre-inovacie-innovation-support-part-time) |
 
 ## About This Role
 
-This business analyst position at Ayming was posted on 2026-09-14.
+This business analyst position at Ayming was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

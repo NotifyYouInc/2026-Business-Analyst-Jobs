@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Marmon Holdings](https://scoutify.ai/companies/marmon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
+| Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-04-10 |
-| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Senior-Business-Systems-Analyst_JR0000042201) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Remote---United-States-of-America/Senior-Business-Systems-Analyst_JR0000042201) |
 
 ## About This Role
 
-This business analyst position at Marmon Holdings was posted on 2026-04-10.
+This business analyst position at Marmon Holdings was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

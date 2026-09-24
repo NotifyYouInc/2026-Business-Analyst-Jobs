@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Gilead Sciences](https://scoutify.ai/companies/gilead-sciences?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Foster City, California, United States |
-| Category | Business Analyst |
+| Category | Software Engineer |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/R-D-Info-Systems-Analyst-III_R0055029-2) |
 
 ## About This Role
 
-This business analyst position at Gilead Sciences was posted on 2026-09-15.
+This software engineer position at Gilead Sciences was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

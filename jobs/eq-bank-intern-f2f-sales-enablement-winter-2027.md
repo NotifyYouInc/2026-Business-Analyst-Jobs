@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [EQ Bank](https://scoutify.ai/companies/eqbank?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Toronto, Ontario, Canada |
-| Category | Product Marketing |
+| Category | Operations |
 | Posted | 2026-09-15 |
 | Apply | [View on company site](https://jobs.lever.co/eqbank/528e532d-af6d-4af8-bd1c-9177efc1c5e4) |
 
 ## About This Role
 
-This product marketing position at EQ Bank was posted on 2026-09-15.
+This operations position at EQ Bank was posted on 2026-09-15.
 
 ## Get Real-Time Alerts
 

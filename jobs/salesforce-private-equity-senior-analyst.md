@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Salesforce](https://scoutify.ai/companies/salesforce?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | New York City, New York, United States |
-| Category | Quant Research |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Private-Equity-Senior-Analyst_JR356421) |
+| Category | Strategic Partnerships |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Private-Equity-Senior-Analyst_JR360287) |
 
 ## About This Role
 
-This quant research position at Salesforce was posted on 2026-08-18.
+This strategic partnerships position at Salesforce was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

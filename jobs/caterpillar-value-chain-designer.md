@@ -3,10 +3,10 @@
 | Field | Details |
 |-------|---------|
 | Company | [Caterpillar](https://scoutify.ai/companies/caterpillar?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Tamil Nadu, IN |
+| Location | Denison, Texas, United States |
 | Category | Business Analyst |
 | Posted | 2026-09-15 |
-| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/Value-Chain-Designer_R0000394198) |
+| Apply | [View on company site](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Denison-Texas/Value-Chain-Designer_R0000393873) |
 
 ## About This Role
 

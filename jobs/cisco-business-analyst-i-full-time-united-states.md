@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 4 locations |
-| Category | Business Analyst |
-| Posted | 2026-03-05 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Business-Analyst-I--Full-Time--United-States_2000125-1) |
+| Location | 2 locations |
+| Category | Leadership Development Program |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Atlanta-Georgia-US/Business-Analyst-I--Full-Time--United-States_2025739) |
 
 ## About This Role
 
-This business analyst position at Cisco was posted on 2026-03-05.
+This leadership development program position at Cisco was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

@@ -1,16 +1,16 @@
-# Trade Finance Process Analyst - Penang  Hub at OCBC
+# Trade Finance Process Analyst | Penang Hub at OCBC
 
 | Field | Details |
 |-------|---------|
 | Company | [OCBC](https://scoutify.ai/companies/ocbc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Malaysia |
 | Category | Business Analyst |
-| Posted | 2026-07-15 |
-| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Penang/Trade-Finance-Process-Analyst---Penang--Hub_JR00009460) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://ocbc.wd102.myworkdayjobs.com/external/job/OCBC-Malaysia-Penang/Trade-Finance-Process-Analyst---Penang-Hub_JR00010734) |
 
 ## About This Role
 
-This business analyst position at OCBC was posted on 2026-07-15.
+This business analyst position at OCBC was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

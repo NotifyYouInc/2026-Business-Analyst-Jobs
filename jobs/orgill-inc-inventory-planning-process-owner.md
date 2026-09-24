@@ -5,12 +5,12 @@
 | Company | [Orgill, Inc.](https://scoutify.ai/companies/orgill-inc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-05-28 |
-| Apply | [View on company site](https://hrdwr.rec.pro.ukg.net/ORG1002ORLL/JobBoard/7541eed6-5ed4-4547-8679-d2c397736dce/OpportunityDetail?opportunityId=f2a08d2a-cace-49da-98a2-cc832c7a8432) |
+| Posted | 2026-09-16 |
+| Apply | [View on company site](https://hrdwr.rec.pro.ukg.net/ORG1002ORLL/JobBoard/7541eed6-5ed4-4547-8679-d2c397736dce/OpportunityDetail?opportunityId=951e445d-2f76-42d1-837c-e4b5915dd893) |
 
 ## About This Role
 
-This business analyst position at Orgill, Inc. was posted on 2026-05-28.
+This business analyst position at Orgill, Inc. was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 
