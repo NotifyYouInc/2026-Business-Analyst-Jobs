@@ -1,16 +1,16 @@
-# ANALYST at eClerx
+# Analyst at eClerx
 
 | Field | Details |
 |-------|---------|
 | Company | [eClerx](https://scoutify.ai/companies/ocs-cx-oj32967?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Manila, National Capital Region, Philippines |
+| Location | Mumbai, Maharashtra, India |
 | Category | Business Analyst |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#84893) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://fa-ewji-saasfaprod1.fa.ocs.oraclecloud.com/jobs/#85058) |
 
 ## About This Role
 
-This business analyst position at eClerx was posted on 2026-09-16.
+This business analyst position at eClerx was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Google](https://scoutify.ai/companies/google?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Sunnyvale, California, United States |
+| Location | Hyderabad, Telangana, India |
 | Category | Business Analyst |
-| Posted | 2026-08-31 |
-| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckWX28AoJdfahapDlpcbowR2sjLu5Vq8FXiGleKFDCpo6EjsA1Ny_i5kVRX8rveR5Ao0gGJlwag0GCX_a3g04Wfgp00UiHhiuLnNwXZCfTBqus-muEnLJQm1Dy7vPzA%3D%3D_V2&loc=US&title=Business+Systems+Analyst) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://www.google.com/about/careers/applications/signin?jobId=CiUAL2FckQC6riTHdj4C9WAFyWNswgiYg7lC8pa42MsccfYciUYaEjsA9yzvgnHZCfgvQHk5FmSHBf7aZGy3Lcpw87o3rmucQi-t4peZx1y1BClAg_7P-ZdiWxgiP6kXoUTBgw%3D%3D_V2&loc=IN&title=Business+Systems+Analyst) |
 
 ## About This Role
 
-This business analyst position at Google was posted on 2026-08-31.
+This business analyst position at Google was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Menasha Corporation](https://scoutify.ai/companies/menasha?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 2 locations |
-| Category | Business Analyst |
-| Posted | 2026-05-11 |
-| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/IT-ERP-Functional-Analyst_R13924) |
+| Location | Neenah, Wisconsin, United States |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Neenah-Wisconsin/IT-ERP-Functional-Analyst_R15917) |
 
 ## About This Role
 
-This business analyst position at Menasha Corporation was posted on 2026-05-11.
+This technology / it consulting position at Menasha Corporation was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

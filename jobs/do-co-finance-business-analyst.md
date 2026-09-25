@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [DO & CO](https://scoutify.ai/companies/doco1?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Hounslow, England, United Kingdom |
-| Category | Business Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/DOCO1/744000148523065-finance-business-analyst) |
+| Category | Corporate Finance |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/DOCO1/744000150159281-finance-business-analyst) |
 
 ## About This Role
 
-This business analyst position at DO & CO was posted on 2026-09-09.
+This corporate finance position at DO & CO was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Fermilab](https://scoutify.ai/companies/fermilab?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Batavia, Illinois, United States |
-| Category | Corporate Finance |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-09-16 |
 | Apply | [View on company site](https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/IT-Process-Analyst-I---Financial-Planning---ERP-Systems_R_009803) |
 
 ## About This Role
 
-This corporate finance position at Fermilab was posted on 2026-09-16.
+This fp&a / strategic finance position at Fermilab was posted on 2026-09-16.
 
 ## Get Real-Time Alerts
 

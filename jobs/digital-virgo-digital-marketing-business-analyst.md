@@ -5,12 +5,12 @@
 | Company | [Digital Virgo](https://scoutify.ai/companies/digital-virgo?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Riyadh, Riyadh Region, Saudi Arabia |
 | Category | Digital / Performance Marketing |
-| Posted | 2026-08-04 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/digitalvirgo/744000141481390-digital-marketing-business-analyst) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/digitalvirgo/744000150325620-digital-marketing-business-analyst) |
 
 ## About This Role
 
-This digital / performance marketing position at Digital Virgo was posted on 2026-08-04.
+This digital / performance marketing position at Digital Virgo was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

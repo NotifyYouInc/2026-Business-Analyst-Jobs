@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [STOW Group](https://scoutify.ai/companies/stow-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Lokeren, Flanders, Belgium |
+| Location | Bromsgrove, England, United Kingdom |
 | Category | Sales Development (SDR / BDR) |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/stowgroup/744000149039521-business-development-manager) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/stowgroup/744000150307800-business-development-manager) |
 
 ## About This Role
 
-This sales development (sdr / bdr) position at STOW Group was posted on 2026-09-11.
+This sales development (sdr / bdr) position at STOW Group was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

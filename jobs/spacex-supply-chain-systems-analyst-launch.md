@@ -5,12 +5,12 @@
 | Company | [SpaceX](https://scoutify.ai/companies/spacex?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Cape Canaveral, Florida, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8642186002?gh_jid=8642186002) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://boards.greenhouse.io/spacex/jobs/8816508002?gh_jid=8816508002) |
 
 ## About This Role
 
-This business analyst position at SpaceX was posted on 2026-07-21.
+This business analyst position at SpaceX was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

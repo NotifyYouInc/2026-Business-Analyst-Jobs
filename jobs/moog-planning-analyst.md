@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Moog](https://scoutify.ai/companies/moog?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Torrance, California, United States |
-| Category | Business Analyst |
-| Posted | 2026-07-06 |
-| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Planning-Analyst_R-26-18737) |
+| Location | Mineral Wells, Texas, United States |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Planning-Analyst_R-26-20102) |
 
 ## About This Role
 
-This business analyst position at Moog was posted on 2026-07-06.
+This fp&a / strategic finance position at Moog was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

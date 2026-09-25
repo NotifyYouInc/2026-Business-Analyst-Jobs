@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Swisscom](https://scoutify.ai/companies/swisscom?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 3 locations |
+| Location | Bern, Bern, Switzerland |
 | Category | Business Analyst |
-| Posted | 2026-08-14 |
-| Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Olten/Business-Engineer_R-0005532) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://swisscom.wd103.myworkdayjobs.com/swisscomexternalcareers/job/Bern/Business-Engineer_R-0006415-1) |
 
 ## About This Role
 
-This business analyst position at Swisscom was posted on 2026-08-14.
+This business analyst position at Swisscom was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Olsztyn, Warmia-Masuria, Poland |
+| Location | Warsaw, Mazovia, Poland |
 | Category | Business Analyst |
-| Posted | 2026-06-11 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Olsztyn--Poland/Reference-Data-Services-Analyst_26968000) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Warsaw--Poland/Reference-Data-Services-Analyst_26994541-1) |
 
 ## About This Role
 
-This business analyst position at Citigroup was posted on 2026-06-11.
+This business analyst position at Citigroup was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [carsales](https://scoutify.ai/companies/carsales?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Melbourne, Victoria, Australia |
-| Category | Business Analyst |
-| Posted | 2026-04-27 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000123314715-netsuite-functional-analyst) |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/carsales/744000150221047-netsuite-functional-analyst) |
 
 ## About This Role
 
-This business analyst position at carsales was posted on 2026-04-27.
+This it & systems administration position at carsales was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

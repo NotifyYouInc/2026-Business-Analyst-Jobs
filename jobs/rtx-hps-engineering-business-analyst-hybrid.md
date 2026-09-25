@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [RTX](https://scoutify.ai/companies/rtx?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 5 locations |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-09-11 |
-| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/HP-S---Engineering-Business-Analyst--HYBRID-_01867695) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/HP-S---Engineering-Business-Analyst--HYBRID-_01873534-1) |
 
 ## About This Role
 
-This business analyst position at RTX was posted on 2026-09-11.
+This business analyst position at RTX was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

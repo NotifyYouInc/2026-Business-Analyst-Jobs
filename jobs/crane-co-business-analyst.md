@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Crane Co.](https://scoutify.ai/companies/cranecompany?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Piqua, Ohio, United States |
+| Location | The Woodlands, Texas, United States |
 | Category | Business Analyst |
-| Posted | 2026-09-09 |
-| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Piqua-Ohio/Business-Analyst_JR102482) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/The-Woodlands-Texas/Business-Analyst_JR102572) |
 
 ## About This Role
 
-This business analyst position at Crane Co. was posted on 2026-09-09.
+This business analyst position at Crane Co. was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

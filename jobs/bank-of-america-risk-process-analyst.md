@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Bank of America](https://scoutify.ai/companies/bank-of-america?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | 9 locations |
+| Location | 4 locations |
 | Category | Business Analyst |
-| Posted | 2026-08-06 |
-| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Risk-Process-Analyst_26027282) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://ghr.wd1.myworkdayjobs.com/Lateral-US/job/Charlotte/Risk-Process-Analyst_26034361) |
 
 ## About This Role
 
-This business analyst position at Bank of America was posted on 2026-08-06.
+This business analyst position at Bank of America was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Northrop Grumman](https://scoutify.ai/companies/northrop-grumman?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Baltimore, Maryland, United States |
+| Location | Woodland Hills, California, United States |
 | Category | IT & Systems Administration |
-| Posted | 2026-08-09 |
-| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Computer-Systems-Analyst---Windows_R10244016) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Computer-Systems-Analyst---Windows_R10251396) |
 
 ## About This Role
 
-This it & systems administration position at Northrop Grumman was posted on 2026-08-09.
+This it & systems administration position at Northrop Grumman was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

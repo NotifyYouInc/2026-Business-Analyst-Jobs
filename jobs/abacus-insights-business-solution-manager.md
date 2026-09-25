@@ -5,12 +5,12 @@
 | Company | [Abacus Insights](https://scoutify.ai/companies/abacus-insights-inc?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | United States |
 | Category | Business Analyst |
-| Posted | 2026-08-05 |
-| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8631542002?gh_jid=8631542002) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://boards.greenhouse.io/abacusinsights/jobs/8631560002?gh_jid=8631560002) |
 
 ## About This Role
 
-This business analyst position at Abacus Insights was posted on 2026-08-05.
+This business analyst position at Abacus Insights was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

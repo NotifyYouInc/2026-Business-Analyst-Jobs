@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AIA Group](https://scoutify.ai/companies/aia-group?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Guangzhou, Guangdong, China |
-| Category | Corporate Finance |
+| Category | FP&A / Strategic Finance |
 | Posted | 2026-09-17 |
 | Apply | [View on company site](https://aia.wd3.myworkdayjobs.com/external/job/Guangzhou-CN-AIA-China/Specialist--Business-Analysis---Budget-Management_JR-70225) |
 
 ## About This Role
 
-This corporate finance position at AIA Group was posted on 2026-09-17.
+This fp&a / strategic finance position at AIA Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

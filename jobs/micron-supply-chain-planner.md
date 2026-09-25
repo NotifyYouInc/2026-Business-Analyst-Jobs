@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Micron](https://scoutify.ai/companies/micron?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Boise, Idaho, United States |
+| Location | Jalisco, Chiapas, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-03-10 |
-| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---North-Office/Supply-Chain-Planner_JR94341) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://micron.wd1.myworkdayjobs.com/External/job/Jalisco-Mexico/Supply-Chain-Planner_JR109320) |
 
 ## About This Role
 
-This business analyst position at Micron was posted on 2026-03-10.
+This business analyst position at Micron was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

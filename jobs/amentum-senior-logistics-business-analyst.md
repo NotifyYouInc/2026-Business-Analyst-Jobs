@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Amentum](https://scoutify.ai/companies/amentum?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Huntsville, Alabama, United States |
+| Location | Redstone Arsenal, Alabama, United States |
 | Category | Business Analyst |
-| Posted | 2026-08-27 |
-| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Huntsville/Senior-Logistics-Business-Analyst_R0169184) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-AL-Redstone-Arsenal/Senior-Logistics-Business-Analyst_R0170865) |
 
 ## About This Role
 
-This business analyst position at Amentum was posted on 2026-08-27.
+This business analyst position at Amentum was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

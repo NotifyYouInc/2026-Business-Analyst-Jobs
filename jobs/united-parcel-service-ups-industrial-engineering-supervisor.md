@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [United Parcel Service (UPS)](https://scoutify.ai/companies/hcmportal?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Chicago, Illinois, United States |
-| Category | Project Manager |
-| Posted | 2026-03-16 |
-| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---CHICAGO-SCS-ILCST/Industrial-Engineering-Supervisor_R26005868-1) |
+| Location | Philippines |
+| Category | Business Analyst |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://hcmportal.wd5.myworkdayjobs.com/Search/job/PH---UPS-INTRA-ASIA-HUB-PHMAI/Industrial-Engineering-Supervisor_R26032518) |
 
 ## About This Role
 
-This project manager position at United Parcel Service (UPS) was posted on 2026-03-16.
+This business analyst position at United Parcel Service (UPS) was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

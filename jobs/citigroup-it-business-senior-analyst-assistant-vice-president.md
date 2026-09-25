@@ -1,16 +1,16 @@
-# IT Business Senior Analyst - Assistant Vice President at Citigroup
+# IT Business Senior Analyst Assistant Vice President at Citigroup
 
 | Field | Details |
 |-------|---------|
 | Company | [Citigroup](https://scoutify.ai/companies/citigroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Pune, Maharashtra, India |
-| Category | Project Manager |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Pune-Maharashtra-India/IT-Business-Senior-Analyst---Assistant-Vice-President_26967270) |
+| Location | Irving, Texas, United States |
+| Category | Business Analyst |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/IT-Business-Senior-Analyst-Assistant-Vice-President_26994399) |
 
 ## About This Role
 
-This project manager position at Citigroup was posted on 2026-06-09.
+This business analyst position at Citigroup was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

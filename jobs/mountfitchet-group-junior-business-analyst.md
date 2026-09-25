@@ -5,12 +5,12 @@
 | Company | [Mountfitchet Group](https://scoutify.ai/companies/mountfitchetgroup?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Surbiton, England, United Kingdom |
 | Category | Business Analyst |
-| Posted | 2026-03-12 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MountfitchetGroup/744000114432958-junior-business-analyst) |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MountfitchetGroup/744000150165049-junior-business-analyst) |
 
 ## About This Role
 
-This business analyst position at Mountfitchet Group was posted on 2026-03-12.
+This business analyst position at Mountfitchet Group was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 

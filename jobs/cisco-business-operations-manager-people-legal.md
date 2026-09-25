@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Cisco](https://scoutify.ai/companies/cisco?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | North Carolina, US |
-| Category | Strategy & Operations |
-| Posted | 2026-04-30 |
-| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Business-Operations-Manager---People-Legal_2012796) |
+| Location | Bengaluru, Karnataka, India |
+| Category | Legal |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Bangalore-India/Business-Operations-Manager---People-Legal_2024193-1) |
 
 ## About This Role
 
-This strategy & operations position at Cisco was posted on 2026-04-30.
+This legal position at Cisco was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

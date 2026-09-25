@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Redcare Pharmacy](https://scoutify.ai/companies/redcarepharmacy?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mönchengladbach, North Rhine-Westphalia, Germany |
-| Category | Implementation / Professional Services |
-| Posted | 2026-06-09 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000131050296-erp-functional-consultant-mfd) |
+| Location | Eindhoven, North Brabant, The Netherlands |
+| Category | Technology / IT Consulting |
+| Posted | 2026-09-17 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Redcare-Pharmacy/744000150114799-erp-functional-consultant-mfd) |
 
 ## About This Role
 
-This implementation / professional services position at Redcare Pharmacy was posted on 2026-06-09.
+This technology / it consulting position at Redcare Pharmacy was posted on 2026-09-17.
 
 ## Get Real-Time Alerts
 
