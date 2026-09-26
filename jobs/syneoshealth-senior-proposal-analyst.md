@@ -5,12 +5,12 @@
 | Company | [Syneoshealth](https://scoutify.ai/companies/syneoshealth?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Morrisville, North Carolina, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-NC-Morrisville-Hybrid/Senior-Proposal-Analyst_25110428) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://syneoshealth.wd12.myworkdayjobs.com/syneos_health_external_site/job/USA-NC-Morrisville-Hybrid/Senior-Proposal-Analyst_25111919) |
 
 ## About This Role
 
-This business analyst position at Syneoshealth was posted on 2026-07-21.
+This business analyst position at Syneoshealth was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

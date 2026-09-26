@@ -5,12 +5,12 @@
 | Company | [Aaon](https://scoutify.ai/companies/aaon?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tulsa, Oklahoma, United States |
 | Category | Business Analyst |
-| Posted | 2026-06-22 |
-| Apply | [View on company site](https://aaon.wd108.myworkdayjobs.com/aaon/job/Tulsa-OK/Business-Process-Owner-I_JR102434) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://aaon.wd108.myworkdayjobs.com/aaon/job/Tulsa-OK/Business-Process-Owner-I_JR103624) |
 
 ## About This Role
 
-This business analyst position at Aaon was posted on 2026-06-22.
+This business analyst position at Aaon was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

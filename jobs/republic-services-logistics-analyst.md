@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Republic Services](https://scoutify.ai/companies/republic-services?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Philadelphia, Pennsylvania, United States |
+| Location | Carnegie, Pennsylvania, United States |
 | Category | Business Analyst |
-| Posted | 2026-09-04 |
-| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Philadelphia-PA-USA/Logistics-Analyst_R-183164) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://republic.wd5.myworkdayjobs.com/republic/job/Carnegie-PA-USA/Logistics-Analyst_R-184887) |
 
 ## About This Role
 
-This business analyst position at Republic Services was posted on 2026-09-04.
+This business analyst position at Republic Services was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

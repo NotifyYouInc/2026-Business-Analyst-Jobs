@@ -5,12 +5,12 @@
 | Company | [Mattel](https://scoutify.ai/companies/mattel?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | El Segundo, California, United States |
 | Category | Asset Management / Portfolio Management |
-| Posted | 2026-08-11 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000142891880-portfolio-management-analyst) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/MattelInc/744000150468510-portfolio-management-analyst) |
 
 ## About This Role
 
-This asset management / portfolio management position at Mattel was posted on 2026-08-11.
+This asset management / portfolio management position at Mattel was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [Pimacounty](https://scoutify.ai/companies/pimacounty?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Tucson, Arizona, United States |
-| Category | Business Analyst |
-| Posted | 2026-07-17 |
-| Apply | [View on company site](https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Financial-Systems-Analyst-III---Finance---Risk-Management_JR103954) |
+| Category | IT & Systems Administration |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Financial-Systems-Analyst-III---Finance---Risk-Management_JR104429) |
 
 ## About This Role
 
-This business analyst position at Pimacounty was posted on 2026-07-17.
+This it & systems administration position at Pimacounty was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 

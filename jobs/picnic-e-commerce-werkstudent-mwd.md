@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Picnic](https://scoutify.ai/companies/picnic?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Hamburg, Hamburg, Germany |
+| Location | Düsseldorf, North Rhine-Westphalia, Germany |
 | Category | Business Analyst |
-| Posted | 2026-09-08 |
-| Apply | [View on company site](https://jobs.picnic.app/nl/vacancies?gh_jid=8185810) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.picnic.app/nl/vacancies?gh_jid=8213303) |
 
 ## About This Role
 
-This business analyst position at Picnic was posted on 2026-09-08.
+This business analyst position at Picnic was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

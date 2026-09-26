@@ -5,12 +5,12 @@
 | Company | [Intuitive Surgical](https://scoutify.ai/companies/intuitivesurgical?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Freiburg, Baden-Wurttemberg, Germany |
 | Category | Business Analyst |
-| Posted | 2026-08-18 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000144089684-sr-business-analyst-mwd) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Intuitive/744000150408212-sr-business-analyst-mwd) |
 
 ## About This Role
 
-This business analyst position at Intuitive Surgical was posted on 2026-08-18.
+This business analyst position at Intuitive Surgical was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AIR Communities](https://scoutify.ai/companies/aircommunities?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Denver, Colorado, United States |
-| Category | Business Analyst |
-| Posted | 2026-07-21 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000138958029-senior-financial-systems-analyst) |
+| Category | FP&A / Strategic Finance |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/AIRCommunities/744000150460479-senior-financial-systems-analyst) |
 
 ## About This Role
 
-This business analyst position at AIR Communities was posted on 2026-07-21.
+This fp&a / strategic finance position at AIR Communities was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

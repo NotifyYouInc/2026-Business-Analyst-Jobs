@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [JLL](https://scoutify.ai/companies/jll?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Austin, Texas, United States |
+| Location | Bucharest, București, Romania |
 | Category | Business Analyst |
-| Posted | 2026-09-16 |
-| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Austin-TX/Occupancy-Planner_REQ536423) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Bucharest-ROU/Occupancy-Planner_REQ534479) |
 
 ## About This Role
 
-This business analyst position at JLL was posted on 2026-09-16.
+This business analyst position at JLL was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

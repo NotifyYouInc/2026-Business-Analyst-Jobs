@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Iberdrola Group](https://scoutify.ai/companies/iberdrola?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Blantyre, Scotland, United Kingdom |
-| Category | Financial Analyst |
-| Posted | 2026-02-23 |
-| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-Kingdom-Blantyre/Risk-Analyst_R-27043) |
+| Location | 2 locations |
+| Category | Compliance & Risk Management |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://iberdrola.wd3.myworkdayjobs.com/iberdrola/job/United-Kingdom-Cambuslang/Risk-Analyst_R-33277-1) |
 
 ## About This Role
 
-This financial analyst position at Iberdrola Group was posted on 2026-02-23.
+This compliance & risk management position at Iberdrola Group was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

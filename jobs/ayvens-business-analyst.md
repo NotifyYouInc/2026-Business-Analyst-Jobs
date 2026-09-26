@@ -1,16 +1,16 @@
-# Business Analyst at Ayvens
+# Business analyst at Ayvens
 
 | Field | Details |
 |-------|---------|
 | Company | [Ayvens](https://scoutify.ai/companies/ayvens?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Majadahonda, Madrid, Spain |
+| Location | Not specified |
 | Category | Business Analyst |
-| Posted | 2026-05-22 |
-| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Madrid-Majadahonda-Norias/Business-Analyst_JR_10039449-2) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://ayvens.wd3.myworkdayjobs.com/ayvenscareers/job/Praha/Business-analyst_JR_10041330-1) |
 
 ## About This Role
 
-This business analyst position at Ayvens was posted on 2026-05-22.
+This business analyst position at Ayvens was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

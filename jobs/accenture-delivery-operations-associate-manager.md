@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Accenture](https://scoutify.ai/companies/accenture-llp?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Mumbai, Maharashtra, India |
+| Location | Bengaluru, Karnataka, India |
 | Category | Business Analyst |
-| Posted | 2026-05-25 |
-| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Mumbai/Delivery-Operations-Associate-Manager_AIOC-S01647538-1) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Bengaluru/Delivery-Operations-Associate-Manager_AIOC-S01666173-1) |
 
 ## About This Role
 
-This business analyst position at Accenture was posted on 2026-05-25.
+This business analyst position at Accenture was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

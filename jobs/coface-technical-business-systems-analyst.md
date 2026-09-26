@@ -5,12 +5,12 @@
 | Company | [Coface](https://scoutify.ai/companies/coface?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Mexico City, Mexico City, Mexico |
 | Category | Business Analyst |
-| Posted | 2026-09-14 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000149427439-technical-business-systems-analyst) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/Coface/744000150441289-technical-business-systems-analyst) |
 
 ## About This Role
 
-This business analyst position at Coface was posted on 2026-09-14.
+This business analyst position at Coface was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

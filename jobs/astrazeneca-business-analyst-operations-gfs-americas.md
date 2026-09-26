@@ -4,13 +4,13 @@
 |-------|---------|
 | Company | [AstraZeneca](https://scoutify.ai/companies/astrazeneca-us?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | San José, San José, Costa Rica |
-| Category | Corporate Finance |
-| Posted | 2026-08-13 |
-| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Costa-Rica---San-Jose/Business-Analyst---Operations--GFS-Americas-_R-258193-1) |
+| Category | Business Analyst |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Costa-Rica---San-Jose/Business-Analyst---Operations--GFS-Americas-_R-260276) |
 
 ## About This Role
 
-This corporate finance position at AstraZeneca was posted on 2026-08-13.
+This business analyst position at AstraZeneca was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

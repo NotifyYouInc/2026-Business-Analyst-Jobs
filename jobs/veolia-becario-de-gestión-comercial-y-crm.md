@@ -5,12 +5,12 @@
 | Company | [Veolia](https://scoutify.ai/companies/veolia?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
 | Location | Madrid, Madrid, Spain |
 | Category | Business Analyst |
-| Posted | 2026-06-26 |
-| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000134480909-becario-de-gestion-comercial-y-crm) |
+| Posted | 2026-09-18 |
+| Apply | [View on company site](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000150371391-becario-de-gestion-comercial-y-crm) |
 
 ## About This Role
 
-This business analyst position at Veolia was posted on 2026-06-26.
+This business analyst position at Veolia was posted on 2026-09-18.
 
 ## Get Real-Time Alerts
 

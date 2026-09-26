@@ -3,14 +3,14 @@
 | Field | Details |
 |-------|---------|
 | Company | [Ameriprise Financial](https://scoutify.ai/companies/ameriprise-financial?utm_source=github&utm_medium=repo&utm_campaign=business-analyst-jobs) |
-| Location | Noida, Uttar Pradesh, India |
+| Location | Boston, Massachusetts, United States |
 | Category | Business Analyst |
-| Posted | 2026-07-20 |
-| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Noida-Uttar-Pradesh-India/Business-Analyst_R26_2803) |
+| Posted | 2026-09-19 |
+| Apply | [View on company site](https://ameriprise.wd5.myworkdayjobs.com/Ameriprise/job/Boston-Massachusetts/Business-Analyst_R26_3646-1) |
 
 ## About This Role
 
-This business analyst position at Ameriprise Financial was posted on 2026-07-20.
+This business analyst position at Ameriprise Financial was posted on 2026-09-19.
 
 ## Get Real-Time Alerts
 
